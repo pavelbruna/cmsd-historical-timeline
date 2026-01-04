@@ -14,7 +14,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).parent.parent
 DB_PATH = PROJECT_ROOT / "data" / "database" / "cmsd.db"
 SCHEMA_PATH = PROJECT_ROOT / "data" / "database" / "schema.sql"
-EVENTS_JSON = PROJECT_ROOT / "data" / "processed" / "all_events.json"
+EVENTS_JSON = PROJECT_ROOT / "data" / "processed" / "final_merged_events.json"
 CSV_OUTPUT = PROJECT_ROOT / "data" / "processed"
 
 
@@ -37,7 +37,7 @@ def create_database():
     cursor.executescript(schema_sql)
     conn.commit()
 
-    print(f"✓ Database created: {DB_PATH}")
+    print(f"[OK] Database created: {DB_PATH}")
     return conn
 
 
@@ -142,7 +142,7 @@ def populate_database(events: List[Dict[str, Any]]):
                 conn.commit()
 
         except Exception as e:
-            print(f"  ✗ Error inserting event '{event.get('title', 'unknown')}': {e}")
+            print(f"  [ERROR] Inserting event '{event.get('title', 'unknown')}': {e}")
 
     # Final commit
     conn.commit()
@@ -177,30 +177,30 @@ def export_to_csv():
     events_df = pd.read_sql_query("SELECT * FROM events ORDER BY year", conn)
     events_csv = CSV_OUTPUT / "events.csv"
     events_df.to_csv(events_csv, index=False, encoding='utf-8')
-    print(f"✓ Exported {len(events_df)} events to {events_csv.name}")
+    print(f"[OK] Exported {len(events_df)} events to {events_csv.name}")
 
     # Export people
     people_df = pd.read_sql_query("SELECT * FROM people ORDER BY name", conn)
     people_csv = CSV_OUTPUT / "people.csv"
     people_df.to_csv(people_csv, index=False, encoding='utf-8')
-    print(f"✓ Exported {len(people_df)} people to {people_csv.name}")
+    print(f"[OK] Exported {len(people_df)} people to {people_csv.name}")
 
     # Export places
     places_df = pd.read_sql_query("SELECT * FROM places ORDER BY name", conn)
     places_csv = CSV_OUTPUT / "places.csv"
     places_df.to_csv(places_csv, index=False, encoding='utf-8')
-    print(f"✓ Exported {len(places_df)} places to {places_csv.name}")
+    print(f"[OK] Exported {len(places_df)} places to {places_csv.name}")
 
     # Export timeline view
     timeline_df = pd.read_sql_query("SELECT * FROM timeline", conn)
     timeline_csv = CSV_OUTPUT / "timeline.csv"
     timeline_df.to_csv(timeline_csv, index=False, encoding='utf-8')
-    print(f"✓ Exported {len(timeline_df)} timeline entries to {timeline_csv.name}")
+    print(f"[OK] Exported {len(timeline_df)} timeline entries to {timeline_csv.name}")
 
     # Export full JSON
     timeline_json = CSV_OUTPUT / "timeline.json"
     timeline_df.to_json(timeline_json, orient='records', force_ascii=False, indent=2)
-    print(f"✓ Exported timeline to {timeline_json.name}")
+    print(f"[OK] Exported timeline to {timeline_json.name}")
 
     conn.close()
 
@@ -220,4 +220,4 @@ if __name__ == "__main__":
     # Export to CSV
     export_to_csv()
 
-    print("\n✓ Done!")
+    print("\n[OK] Done!")

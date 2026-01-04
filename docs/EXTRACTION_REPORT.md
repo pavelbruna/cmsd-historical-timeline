@@ -1,26 +1,26 @@
 # Extraction Report - CMSD Historical Timeline
 
 **Date:** January 4, 2026
-**Final Extraction Method:** Claude Sonnet 4.5 Vision API
+**Final Extraction Method:** Claude Sonnet 4.5 Vision API + Ultra Aggressive Multi-Pass
 **Total PDFs:** 19
-**Final Event Count:** 359 unique events
+**Final Event Count:** 370 unique events
 
 ---
 
 ## Executive Summary
 
-✅ Successfully extracted **359 unique historical events** from **9 PDF pages** using Claude Vision API.
+✅ Successfully extracted **370 unique historical events** from **9 PDF pages** using Claude Vision API + Ultra Aggressive Multi-Pass.
 
-**Improvement:** **5× increase** from initial extraction (70 → 359 events)
+**Improvement:** **5.3× increase** from initial extraction (70 → 370 events)
 
 ### Overall Statistics
 
 - **Total PDFs Processed:** 19/19
 - **PDFs with Extracted Data:** 9 (47%)
 - **Empty PDFs:** 10 (53%)
-- **Total Events:** 359 (after deduplication)
+- **Total Events:** 370 (after deduplication)
 - **Errors:** 0 critical errors
-- **Extraction Method:** Claude Sonnet 4.5 Vision (final)
+- **Extraction Method:** Claude Sonnet 4.5 Vision + Ultra Aggressive Multi-Pass (final)
 
 ---
 
@@ -35,7 +35,13 @@
 - **Result:** 362 events from 8 PDFs
 - **Success:** 40-60 events per PDF (as expected!)
 - **Quality:** Excellent Czech OCR and structured extraction
-- **Merged Total:** 359 unique events (after deduplication)
+- **Intermediate Total:** 359 unique events (after deduplication)
+
+### Round 3: Ultra Aggressive Multi-Pass ⚡
+- **Strategy:** Two-pass extraction (Pass 1: main events, Pass 2: micro details)
+- **Result:** 12 additional unique events from 1 PDF (zadniPredsRub.pdf)
+- **Challenge:** Hit Claude API rate limits (30,000 tokens/minute)
+- **Final Total:** 370 unique events (359 + 12 - 1 duplicate)
 
 ---
 
@@ -60,15 +66,15 @@
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| Politics | 268 | 75% |
-| War | 84 | 23% |
-| Religion | 43 | 12% |
-| Culture | 18 | 5% |
-| Economics | 6 | 2% |
-| Science | 6 | 2% |
-| Discovery | 4 | 1% |
+| Politics | 246 | 66% |
+| War | 60 | 16% |
+| Religion | 42 | 11% |
+| Culture | 12 | 3% |
+| Economics | 5 | 1% |
+| Science | 3 | 1% |
+| Discovery | 2 | 1% |
 
-**Total:** 359 events
+**Total:** 370 events
 
 ---
 
@@ -149,13 +155,13 @@
 
 ### Tables Created
 
-- **events:** 359 records
-- **people:** 0 records (can be extracted in future pass)
-- **places:** 0 records (can be extracted in future pass)
+- **events:** 370 records
+- **people:** 269 records
+- **places:** 136 records
 
 ### Exports Generated
 
-- ✅ `cmsd.db` - SQLite database with full-text search (359 events)
+- ✅ `cmsd.db` - SQLite database with full-text search (370 events)
 - ✅ `events.csv` - All events in CSV format
 - ✅ `timeline.csv` - Chronological timeline view
 - ✅ `timeline.json` - JSON export for mobile app
@@ -166,7 +172,7 @@
 
 | Metric | GPT-4o | Claude Vision | Winner |
 |--------|--------|---------------|--------|
-| Events extracted | 70 | 362 | 🏆 Claude |
+| Events extracted | 70 | 370 (final) | 🏆 Claude |
 | Avg per PDF | 6.4 | 45.2 | 🏆 Claude |
 | Czech OCR quality | Fair | Excellent | 🏆 Claude |
 | Empty results | 8 PDFs | 1 PDF | 🏆 Claude |
@@ -180,10 +186,10 @@
 
 ## Known Limitations
 
-### 1. Event Count Below Target
+### 1. Event Count Below Initial Target
 
 **Target:** 500-1000 events
-**Actual:** 359 events (36-72% of target)
+**Actual:** 370 events (37-74% of target)
 
 **Reasons:**
 - 10 PDFs still returning empty (left pages + special pages)
@@ -241,11 +247,12 @@
 
 ### For Mobile App ✅
 
-Current dataset (359 events) is:
+Current dataset (370 events) is:
 - ✅ **Sufficient for MVP/Beta**
 - ✅ Covers major historical periods
 - ✅ Database structure ready
 - ✅ Quality data with Czech encoding
+- ✅ People (269) and Places (136) extracted
 - ⚠️ For production: recommend 500+ events
 
 ### For Data Expansion
@@ -259,15 +266,16 @@ Current dataset (359 events) is:
 
 ## Conclusion
 
-Extraction pipeline successfully processed all 19 PDFs with **5× improvement** over initial results. Final dataset of **359 high-quality events** provides a solid foundation for the CMSD mobile app.
+Extraction pipeline successfully processed all 19 PDFs with **5.3× improvement** over initial results. Final dataset of **370 high-quality events** provides a solid foundation for the CMSD mobile app.
 
 ### Key Achievements
 
 ✅ **Claude Vision proved superior** to GPT-4o for Czech OCR
-✅ **359 unique events** with perfect Czech encoding
-✅ **Zero errors** in final extraction
+✅ **370 unique events** with perfect Czech encoding
+✅ **269 people** and **136 places** extracted with relations
+✅ **Zero critical errors** in final extraction
 ✅ **Well-structured data** ready for mobile app
-✅ **Expandable pipeline** can reach 500+ with optimizations
+✅ **Ultra aggressive multi-pass** strategy tested (rate limit challenge)
 
 ### Status
 
@@ -299,7 +307,9 @@ Extraction pipeline successfully processed all 19 PDFs with **5× improvement** 
 
 ```
 data/processed/
-├── merged_events.json            # 359 combined & deduplicated events
+├── final_merged_events.json      # 370 combined & deduplicated events (FINAL)
+├── merged_events.json            # 359 from Claude single-pass (archive)
+├── ultra_extraction_final.json   # 12 from ultra aggressive pass
 ├── claude_deep_extraction.json   # 362 Claude events (raw)
 ├── all_events.json               # 70 GPT-4o events (archive)
 ├── events.csv                    # CSV export
@@ -307,12 +317,12 @@ data/processed/
 └── timeline.json                 # JSON export
 
 data/database/
-└── cmsd.db                        # SQLite database (359 events)
+└── cmsd.db                        # SQLite database (370 events)
 ```
 
 ---
 
 **Report Generated:** January 4, 2026
-**Pipeline Version:** 2.0 (Claude Vision)
-**Extraction Method:** Claude Sonnet 4.5 Vision API
-**Result:** 359 events (5× improvement) ✅
+**Pipeline Version:** 3.0 (Claude Vision + Ultra Aggressive Multi-Pass)
+**Extraction Method:** Claude Sonnet 4.5 Vision API + Multi-Pass
+**Result:** 370 events (5.3× improvement) ✅

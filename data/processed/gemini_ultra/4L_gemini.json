@@ -1,0 +1,2781 @@
+[
+  {
+    "year": -1280,
+    "year_end": -1240,
+    "title": "Soudce Otniel",
+    "description": "Soudce Izraele po dobu 40 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "soudce",
+      "vedení"
+    ],
+    "people": [
+      "Otniel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 3,9-11"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1240,
+    "year_end": -1222,
+    "title": "Soudce Ehud",
+    "description": "Soudce Izraele po dobu 18 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "soudce",
+      "vedení"
+    ],
+    "people": [
+      "Ehud"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 3,15-30"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1222,
+    "year_end": -1212,
+    "title": "Soudce Šamgar",
+    "description": "Soudce Izraele po dobu 10 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "soudce",
+      "vedení"
+    ],
+    "people": [
+      "Šamgar"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 3,31"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1185,
+    "year_end": -1138,
+    "title": "Soudkyně Debora a Barak",
+    "description": "Soudcové Izraele po dobu 47 let. Debora byla prorokyně, která vedla Izraelce k vítězství nad Kananejci.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "soudce",
+      "vedení",
+      "válka",
+      "prorokyně"
+    ],
+    "people": [
+      "Debora",
+      "Barak"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 4",
+      "Sd 5"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1185,
+    "year_end": null,
+    "title": "Jael zabíjí Síseru",
+    "description": "Jael, žena Hebera Kenejce, zabíjí kanaánského vojevůdce Síseru, čímž pomůže Izraelitům.",
+    "category": "war",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "bitva",
+      "vítězství"
+    ],
+    "people": [
+      "Jael",
+      "Sísera"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 4,17-22"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1255,
+    "year_end": -1215,
+    "title": "Soudce Gedeon",
+    "description": "Soudce Izraele po dobu 40 let. Poráží Midiánce v Dzábkanech.",
+    "category": "war",
+    "region": "Izrael",
+    "importance": 4,
+    "tags": [
+      "soudce",
+      "válka",
+      "vítězství"
+    ],
+    "people": [
+      "Gedeon"
+    ],
+    "places": [
+      "Dzábkany"
+    ],
+    "bible_refs": [
+      "Sd 6-8"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1168,
+    "year_end": -1145,
+    "title": "Soudce Tola",
+    "description": "Soudce Izraele po dobu 23 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "soudce",
+      "vedení"
+    ],
+    "people": [
+      "Tola"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 10,1-2"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1145,
+    "year_end": -1123,
+    "title": "Soudce Jair",
+    "description": "Soudce Izraele po dobu 22 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "soudce",
+      "vedení"
+    ],
+    "people": [
+      "Jair"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 10,3-5"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1123,
+    "year_end": -1117,
+    "title": "Soudce Jiftach",
+    "description": "Soudce Izraele po dobu 6 let. Učinil ukvapený slib a obětoval svou dceru.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "soudce",
+      "oběť"
+    ],
+    "people": [
+      "Jiftach"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 11,1-40",
+      "Sd 12,1-7"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1155,
+    "year_end": null,
+    "title": "Pinhas, velekněz",
+    "description": "Velekněz Izraele po dobu 3 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "velekněz"
+    ],
+    "people": [
+      "Pinhas"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1185,
+    "year_end": -1165,
+    "title": "Soudce Samson",
+    "description": "Soudce Izraele po dobu 20 let. Známý svou silou a bojem proti Filištínům. Cynicky soudil Izrael.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "soudce",
+      "síla",
+      "filištíni"
+    ],
+    "people": [
+      "Samson"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Sd 13-16"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1115,
+    "year_end": -1075,
+    "title": "Velekněz Eli",
+    "description": "Soudil zemi izraelskou po dobu 40 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "velekněz",
+      "soudce"
+    ],
+    "people": [
+      "Eli"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1S 4"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1075,
+    "year_end": -1017,
+    "title": "Prorok Samuel",
+    "description": "Poslední soudce Izraele a první prorok, který pomazal krále Saula a Davida. Aktivní 20 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 4,
+    "tags": [
+      "prorok",
+      "soudce",
+      "pomazání"
+    ],
+    "people": [
+      "Samuel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1S 1-12"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1055,
+    "year_end": null,
+    "title": "Bitva u Eben-Ezeru",
+    "description": "Místo, kde Izraelci utrpěli porážku od Filištínů a ztratili Archu smlouvy.",
+    "category": "war",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "bitva",
+      "filištíni",
+      "archa smlouvy"
+    ],
+    "people": [],
+    "places": [
+      "Eben-Ezer"
+    ],
+    "bible_refs": [
+      "1S 4,1-11",
+      "1S 7,12"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1047,
+    "year_end": -1007,
+    "title": "Král Saul",
+    "description": "První král Izraele, vládl 40 let. Pomazán Samuelem. Saulovo hlavní město bylo v Gibeji.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 4,
+    "tags": [
+      "království",
+      "monarchie"
+    ],
+    "people": [
+      "Saul",
+      "Samuel"
+    ],
+    "places": [
+      "Gibej"
+    ],
+    "bible_refs": [
+      "1S 9-31"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1017,
+    "year_end": null,
+    "title": "David a Goliáš",
+    "description": "Mladý David poráží filištínského obra Goliáše, klíčová událost pro jeho budoucí roli krále.",
+    "category": "war",
+    "region": "Izrael",
+    "importance": 4,
+    "tags": [
+      "souboj",
+      "hrdinství",
+      "filištíni"
+    ],
+    "people": [
+      "David",
+      "Goliáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1S 17"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1007,
+    "year_end": -967,
+    "title": "Král David",
+    "description": "Druhy král Izraele, vládl 40 let (7,5 roku v Hebronu, 32,5 roku v Jeruzalémě). Dobyl Jeruzalém od Jebusejců.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 5,
+    "tags": [
+      "království",
+      "monarchie",
+      "dobyvatelství"
+    ],
+    "people": [
+      "David"
+    ],
+    "places": [
+      "Hebron",
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "2S 2,4",
+      "2S 5,6-10"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -970,
+    "year_end": null,
+    "title": "Davidovy žalmy",
+    "description": "Několik Davidových žalmů vyjadřuje lásku a věrnost k 'Vládci Izraele'.",
+    "category": "culture",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "literatura",
+      "náboženství",
+      "poezie"
+    ],
+    "people": [
+      "David"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Žalmy"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -967,
+    "year_end": -927,
+    "title": "Král Šalamoun",
+    "description": "Syn Davida, král Izraele po dobu 40 let. Slavné panování. Známý moudrostí a stavbou Chrámu.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 5,
+    "tags": [
+      "království",
+      "moudrost",
+      "stavitelství"
+    ],
+    "people": [
+      "Šalamoun",
+      "David"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "1Kr 1-11"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -1017,
+    "year_end": null,
+    "title": "Založení Šalamounova chrámu",
+    "description": "Šalamoun zakládá chrám, který je zasvěcen v roce 1004 př.n.l. Stavební práce trvaly 7,5 roku.",
+    "category": "religion",
+    "region": "Jeruzalém",
+    "importance": 5,
+    "tags": [
+      "chrám",
+      "stavba",
+      "náboženství"
+    ],
+    "people": [
+      "Šalamoun"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "1Kr 6,1"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -927,
+    "year_end": null,
+    "title": "Rozdělení království Izraele",
+    "description": "Po smrti Šalamouna se království rozdělilo na Severní Izrael (Jeroboám I.) a Jižní Judsko (Rechabeám).",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 5,
+    "tags": [
+      "rozdělení",
+      "království"
+    ],
+    "people": [
+      "Rechabeám",
+      "Jeroboám I."
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 12"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -938,
+    "year_end": -917,
+    "title": "Rechabeám, král Judska",
+    "description": "První král Judska po rozdělení, vládl 17 let.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Rechabeám"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 12,1-24"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -938,
+    "year_end": -917,
+    "title": "Jeroboám I., král Izraele",
+    "description": "První král severního Izraelského království, vládl 22 let.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Jeroboám I."
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 11,26-40"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -917,
+    "year_end": -914,
+    "title": "Nadab, král Izraele",
+    "description": "Král Izraele, vládl 2 roky.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Nadab"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 15,25-31"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -918,
+    "year_end": -915,
+    "title": "Abijam, král Judska",
+    "description": "Král Judska, vládl 3 roky.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Abijam"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 15,1-8"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -914,
+    "year_end": -873,
+    "title": "Asa, král Judska",
+    "description": "Král Judska, vládl 41 let. Provedl náboženské reformy.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "reforma"
+    ],
+    "people": [
+      "Asa"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 15,9-24"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -914,
+    "year_end": -891,
+    "title": "Baasa, král Izraele",
+    "description": "Král Izraele, vládl 24 let.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Baasa"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 15,16-22"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -891,
+    "year_end": -889,
+    "title": "Elah, král Izraele",
+    "description": "Král Izraele, vládl 2 roky.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Elah"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 16,8-10"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -889,
+    "year_end": null,
+    "title": "Zimri, král Izraele",
+    "description": "Král Izraele, vládl 7 dní.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 1,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Zimri"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 16,15-20"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -884,
+    "year_end": -873,
+    "title": "Omri, král Izraele",
+    "description": "Král Izraele, vládl 12 let. Zakladatel dynastie Omriovců.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "dynastie"
+    ],
+    "people": [
+      "Omri"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 16,23-28"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -873,
+    "year_end": -852,
+    "title": "Ahab, král Izraele",
+    "description": "Král Izraele, vládl 22 let. Známý svým kultem Baala a střetem s prorokem Eliášem.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "Baal",
+      "prorok"
+    ],
+    "people": [
+      "Ahab",
+      "Eliáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 16,29-33"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -873,
+    "year_end": -849,
+    "title": "Josafat, král Judska",
+    "description": "Král Judska, vládl 25 let.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Josafat"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 22,41-50"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -852,
+    "year_end": -850,
+    "title": "Ahazias, král Izraele",
+    "description": "Král Izraele, vládl 2 roky.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Ahazias"
+    ],
+    "places": [],
+    "bible_refs": [
+      "1Kr 22,51-53"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -849,
+    "year_end": -842,
+    "title": "Joram, král Judska",
+    "description": "Král Judska, vládl 8 let. Dcera Achaba a Jezabel, žena Jorama.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Joram"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 8,16-24"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -850,
+    "year_end": -839,
+    "title": "Joram, král Izraele",
+    "description": "Král Izraele, vládl 12 let.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Joram"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 3,1-3"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -842,
+    "year_end": -842,
+    "title": "Ahazias, král Judska",
+    "description": "Král Judska, vládl 1 rok.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Ahazias"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 8,25-29"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -842,
+    "year_end": -815,
+    "title": "Jehu, král Izraele",
+    "description": "Král Izraele, vládl 27 let. Založil novou dynastii, známou pro likvidaci Baalova kultu.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "reforma"
+    ],
+    "people": [
+      "Jehu"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 9-10"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -842,
+    "year_end": -836,
+    "title": "Atalia, královna Judska",
+    "description": "Královna Judska, vládl 6 let.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "královna",
+      "monarchie"
+    ],
+    "people": [
+      "Atalia"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 11,1-20"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -839,
+    "year_end": -799,
+    "title": "Joas, král Judska",
+    "description": "Král Judska, vládl 40 let. Chrám opraven Jóášem (856).",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "chrám"
+    ],
+    "people": [
+      "Joas"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 12"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -815,
+    "year_end": -799,
+    "title": "Joachaz, král Izraele",
+    "description": "Král Izraele, vládl 17 let.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Joachaz"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 13,1-9"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -825,
+    "year_end": -810,
+    "title": "Joas, král Izraele",
+    "description": "Král Izraele, vládl 16 let.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Joas"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 13,10-25"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -810,
+    "year_end": -781,
+    "title": "Amasjas, král Judska",
+    "description": "Král Judska, vládl 29 let.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Amasjas"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 14,1-22"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -804,
+    "year_end": -763,
+    "title": "Jeroboám II., král Izraele",
+    "description": "Král Izraele, vládl 41 let. Doba prosperity, ale i sociálních nespravedlností.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "prosperita"
+    ],
+    "people": [
+      "Jeroboám II."
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 14,23-29"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -773,
+    "year_end": -773,
+    "title": "Zacharias, král Izraele",
+    "description": "Král Izraele, vládl 6 měsíců.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 1,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Zacharias"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 15,8-12"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -758,
+    "year_end": -706,
+    "title": "Azarjas (Uzzias), král Judska",
+    "description": "Král Judska, vládl 52 let. Doba prosperity a vojenského úspěchu.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Azarjas",
+      "Uzzias"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 15,1-7"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -773,
+    "year_end": -773,
+    "title": "Šallúm, král Izraele",
+    "description": "Král Izraele, vládl 1 měsíc.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 1,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Šallúm"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 15,13-15"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -759,
+    "year_end": -749,
+    "title": "Menachem, král Izraele",
+    "description": "Král Izraele, vládl 10 let.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Menachem"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 15,17-22"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -749,
+    "year_end": -747,
+    "title": "Pekahias, král Izraele",
+    "description": "Král Izraele, vládl 2 roky.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Pekahias"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 15,23-25"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -742,
+    "year_end": -726,
+    "title": "Jotam, král Judska",
+    "description": "Král Judska, vládl 16 let.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Jotam"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 15,32-38"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -739,
+    "year_end": -719,
+    "title": "Pekah, král Izraele",
+    "description": "Král Izraele, vládl 20 let.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Pekah"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 15,27-31"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -726,
+    "year_end": -710,
+    "title": "Achaz, král Judska",
+    "description": "Král Judska, vládl 16 let. Obětoval své děti Baalovi, zničil chrám.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "Baal"
+    ],
+    "people": [
+      "Achaz"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 16"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -730,
+    "year_end": -722,
+    "title": "Hošea, král Izraele",
+    "description": "Poslední král severního Izraelského království, vládl 9 let. V jeho době padla Samárie.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "pád království"
+    ],
+    "people": [
+      "Hošea"
+    ],
+    "places": [
+      "Samárie"
+    ],
+    "bible_refs": [
+      "2Kr 17"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -726,
+    "year_end": -698,
+    "title": "Chiskja (Ezechiáš), král Judska",
+    "description": "Král Judska, vládl 29 let. Provedl náboženské reformy.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "reforma"
+    ],
+    "people": [
+      "Chiskja",
+      "Ezechiáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 18-20"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -698,
+    "year_end": -643,
+    "title": "Manases, král Judska",
+    "description": "Král Judska, vládl 55 let. Nejdelší panování, známé pro modlářství.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "modlářství"
+    ],
+    "people": [
+      "Manases"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 21,1-18"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -643,
+    "year_end": -641,
+    "title": "Amon, král Judska",
+    "description": "Král Judska, vládl 2 roky.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Amon"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 21,19-26"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -641,
+    "year_end": -610,
+    "title": "Josias, král Judska",
+    "description": "Král Judska, vládl 31 let. Známý náboženskou reformou a nalezením knihy Zákona.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "reforma"
+    ],
+    "people": [
+      "Josias"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 22-23"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -610,
+    "year_end": -610,
+    "title": "Joachaz, král Judska",
+    "description": "Král Judska, vládl 3 měsíce.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Joachaz"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 23,31-35"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -609,
+    "year_end": -598,
+    "title": "Jojakim, král Judska",
+    "description": "Král Judska, vládl 11 let.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Jojakim"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 23,36-37"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -598,
+    "year_end": -598,
+    "title": "Jojachin, král Judska",
+    "description": "Král Judska, vládl 3 měsíce.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Jojachin"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 24,8-9"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -598,
+    "year_end": -587,
+    "title": "Zedekjas, král Judska",
+    "description": "Poslední král Judska, vládl 11 let. V jeho době padl Jeruzalém a začalo babylonské zajetí.",
+    "category": "politics",
+    "region": "Judsko",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "pád království",
+      "babylonské zajetí"
+    ],
+    "people": [
+      "Zedekjas"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "2Kr 24,18-25,7"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -713,
+    "year_end": null,
+    "title": "Slunce na stupních Achaze",
+    "description": "Záznam související s Achazovým slunečním ciferníkem.",
+    "category": "science",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "astronomie",
+      "technologie"
+    ],
+    "people": [
+      "Achaz"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2Kr 20,11",
+      "Iz 38,8"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -725,
+    "year_end": -663,
+    "title": "Prorok Ozeáš",
+    "description": "Prorok Izraele, aktivní 65 let.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "prorok",
+      "biblická postava"
+    ],
+    "people": [
+      "Ozeáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Ozeáš"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -760,
+    "year_end": -698,
+    "title": "Prorok Izajáš",
+    "description": "Prorok Judska, aktivní asi 62 let. Autor knihy Izajáš (66 kapitol).",
+    "category": "religion",
+    "region": "Judsko",
+    "importance": 4,
+    "tags": [
+      "prorok",
+      "biblická postava",
+      "literatura"
+    ],
+    "people": [
+      "Izajáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Izajáš"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -758,
+    "year_end": null,
+    "title": "Prorok Jóel",
+    "description": "Prorok, jehož kniha má 4 kapitoly.",
+    "category": "religion",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "prorok",
+      "biblická postava"
+    ],
+    "people": [
+      "Jóel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Jóel"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -708,
+    "year_end": null,
+    "title": "Prorok Micheáš",
+    "description": "Prorok, jehož kniha má 4 kapitoly.",
+    "category": "religion",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "prorok",
+      "biblická postava"
+    ],
+    "people": [
+      "Micheáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Micheáš"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -785,
+    "year_end": null,
+    "title": "Prorok Amos",
+    "description": "Prorok, jehož kniha má 9 kapitol.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "prorok",
+      "biblická postava"
+    ],
+    "people": [
+      "Amos"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Amos"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -785,
+    "year_end": null,
+    "title": "Prorok Jonáš",
+    "description": "Prorok, jehož kniha má 4 kapitoly.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 3,
+    "tags": [
+      "prorok",
+      "biblická postava"
+    ],
+    "people": [
+      "Jonáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Jonáš"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -603,
+    "year_end": null,
+    "title": "Nabukadnesarův sen",
+    "description": "Vize, kterou vykládal Daniel, o budoucích světových říších.",
+    "category": "religion",
+    "region": "Babylonie",
+    "importance": 4,
+    "tags": [
+      "proroctví",
+      "vize"
+    ],
+    "people": [
+      "Nabukadnesar",
+      "Daniel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Da 2,31"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -606,
+    "year_end": null,
+    "title": "Napsána v Babylonu (Kniha Daniel)",
+    "description": "Daniel dokázal přečíst nápis na stěně, protože byl naplněn moudrostí, kterou 'moudří Chaldejci' nerozuměli.",
+    "category": "culture",
+    "region": "Babylonie",
+    "importance": 3,
+    "tags": [
+      "literatura",
+      "proroctví"
+    ],
+    "people": [
+      "Daniel"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Da 5,1-31"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -597,
+    "year_end": null,
+    "title": "Danielovo první vidění",
+    "description": "Vize lva s orlími křídly, symbolizující Babylon, který rychle a tvrdě dobyl Sýrii, Foiníkii, Judsko a Egypt.",
+    "category": "religion",
+    "region": "Babylonie",
+    "importance": 3,
+    "tags": [
+      "proroctví",
+      "vize"
+    ],
+    "people": [
+      "Daniel"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Da 7,4"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -536,
+    "year_end": null,
+    "title": "Kniha Ezdráš",
+    "description": "Historická kniha popisující návrat Židů z babylonského zajetí a obnovu chrámu.",
+    "category": "religion",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "literatura",
+      "obnova"
+    ],
+    "people": [
+      "Ezdráš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Ezdráš"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -587,
+    "year_end": null,
+    "title": "Kniha Abdiáš",
+    "description": "Nejkratší kniha Starého zákona, popisující soud nad Edómem.",
+    "category": "religion",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "literatura",
+      "proroctví"
+    ],
+    "people": [
+      "Abdiáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Abdiáš"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -536,
+    "year_end": null,
+    "title": "Kniha Aggeus",
+    "description": "Prorocká kniha nabádající k dostavbě Chrámu.",
+    "category": "religion",
+    "region": "Judsko",
+    "importance": 2,
+    "tags": [
+      "literatura",
+      "proroctví"
+    ],
+    "people": [
+      "Aggeus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Aggeus"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -606,
+    "year_end": null,
+    "title": "Pláči Jeremjáš",
+    "description": "Kniha pláčů proroka Jeremjáše, syna Chazeního.",
+    "category": "religion",
+    "region": "Judsko",
+    "importance": 3,
+    "tags": [
+      "literatura",
+      "prorok"
+    ],
+    "people": [
+      "Jeremjáš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Pláč Jeremjáše"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -595,
+    "year_end": null,
+    "title": "Prorok Ezechiel",
+    "description": "Prorok babylonského zajetí, jeho kniha má 48 kapitol.",
+    "category": "religion",
+    "region": "Babylonie",
+    "importance": 3,
+    "tags": [
+      "prorok",
+      "biblická postava",
+      "literatura"
+    ],
+    "people": [
+      "Ezechiel"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Ezechiel"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -588,
+    "year_end": null,
+    "title": "Zničení Chrámu Nabukadnesarem",
+    "description": "Chrám byl zcela zničen a obyvatelé Jeruzaléma byli odvlečeni do babylonského zajetí.",
+    "category": "war",
+    "region": "Jeruzalém",
+    "importance": 5,
+    "tags": [
+      "zničení",
+      "chrám",
+      "babylonské zajetí"
+    ],
+    "people": [
+      "Nabukadnesar"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "2Kr 25,8-17"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -356,
+    "year_end": null,
+    "title": "Vyplenění Artemidina chrámu v Efesu",
+    "description": "Chrám v Efesu byl vypleněn v noci, kdy se narodil Alexandr Veliký.",
+    "category": "culture",
+    "region": "Malá Asie",
+    "importance": 3,
+    "tags": [
+      "chrám",
+      "historie",
+      "Alexandr Veliký"
+    ],
+    "people": [
+      "Alexandr Veliký"
+    ],
+    "places": [
+      "Efes"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1491,
+    "year_end": null,
+    "title": "Vyjití Izraele z Egypta (Exodus)",
+    "description": "Podle 1 Král 6,1 bylo zbudování chrámu ve 480. roce po vyjití Izraele z Egypta.",
+    "category": "religion",
+    "region": "Egypt",
+    "importance": 5,
+    "tags": [
+      "exodus",
+      "migrace",
+      "biblická událost"
+    ],
+    "people": [],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [
+      "1Kr 6,1"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -2000,
+    "year_end": -1900,
+    "title": "První zmínka o Chetitech",
+    "description": "O Chetitech jako národu je první zmínka v době Abraháma.",
+    "category": "history",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "Chetité",
+      "Abraham",
+      "dávná historie"
+    ],
+    "people": [
+      "Abrahám"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1301,
+    "year_end": null,
+    "title": "Seti I., egyptský faraon",
+    "description": "Faraon XIX. dynastie v Thébách, vládl asi 50 let.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "faraon",
+      "dynastie"
+    ],
+    "people": [
+      "Seti I."
+    ],
+    "places": [
+      "Théby"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1290,
+    "year_end": null,
+    "title": "Ramesse II., egyptský faraon",
+    "description": "Faraon XIX. dynastie, vládl asi 67 let. Jeden z nejmocnějších faraonů Egypta.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 4,
+    "tags": [
+      "faraon",
+      "dynastie",
+      "moc"
+    ],
+    "people": [
+      "Ramesse II."
+    ],
+    "places": [
+      "Théby"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1224,
+    "year_end": null,
+    "title": "Merneptah, egyptský faraon",
+    "description": "Faraon XIX. dynastie, vládl 10 let. Provedl válečná tažení proti mořským národům.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "faraon",
+      "dynastie",
+      "válka"
+    ],
+    "people": [
+      "Merneptah"
+    ],
+    "places": [
+      "Théby"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1198,
+    "year_end": null,
+    "title": "Ramesse III., egyptský faraon",
+    "description": "Faraon XX. dynastie, vládl 31 let. Známý bojem proti mořským národům.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "faraon",
+      "dynastie",
+      "válka"
+    ],
+    "people": [
+      "Ramesse III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1100,
+    "year_end": null,
+    "title": "Počátek úpadku Egypta",
+    "description": "Období úpadku egyptské moci a stability.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "úpadok",
+      "dynastie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1270,
+    "year_end": null,
+    "title": "Asyrská nadvláda",
+    "description": "Asyrská dominance v oblasti.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 2,
+    "tags": [
+      "říše",
+      "dobyvatelství"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1240,
+    "year_end": null,
+    "title": "Tukulti-Adar, král Asýrie",
+    "description": "Král Asýrie.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Tukulti-Adar"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1120,
+    "year_end": null,
+    "title": "Nabukadnesar I., král Babylonie",
+    "description": "Král Babylonské říše.",
+    "category": "politics",
+    "region": "Babylonie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Nabukadnesar I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1070,
+    "year_end": null,
+    "title": "Asur-Bel-Kala, král Asýrie",
+    "description": "Král Asýrie.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Asur-Bel-Kala"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -911,
+    "year_end": null,
+    "title": "Adad-Nírari II., král Asýrie",
+    "description": "Král Asýrie, zahájil období asyrské expanze.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "expanze"
+    ],
+    "people": [
+      "Adad-Nírari II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -883,
+    "year_end": null,
+    "title": "Aššurnasirpal II., král Asýrie",
+    "description": "Král Asýrie, známý svými brutálními taženími a stavebními projekty.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "válka"
+    ],
+    "people": [
+      "Aššurnasirpal II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -859,
+    "year_end": null,
+    "title": "Šalmanesar III., král Asýrie",
+    "description": "Král Asýrie, vedl mnoho tažení proti západním státům, včetně Izraele.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "válka"
+    ],
+    "people": [
+      "Šalmanesar III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -854,
+    "year_end": null,
+    "title": "Marduk-Zakir-Šumi, král Babylonie",
+    "description": "Král Babylonské říše.",
+    "category": "politics",
+    "region": "Babylonie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Marduk-Zakir-Šumi"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -811,
+    "year_end": null,
+    "title": "Adad-Nírari III., král Asýrie",
+    "description": "Král Asýrie.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "monarchie"
+    ],
+    "people": [
+      "Adad-Nírari III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -745,
+    "year_end": null,
+    "title": "Tiglat-Pilesar III., král Asýrie",
+    "description": "Král Asýrie, provedl rozsáhlé reformy a zahájil novou etapu asyrské dominance.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "reforma",
+      "expanze"
+    ],
+    "people": [
+      "Tiglat-Pilesar III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -727,
+    "year_end": null,
+    "title": "Šalmanesar V., král Asýrie",
+    "description": "Král Asýrie, dobyl Samárii a ukončil severní Izraelské království.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "dobytí"
+    ],
+    "people": [
+      "Šalmanesar V."
+    ],
+    "places": [
+      "Samárie"
+    ],
+    "bible_refs": [
+      "2Kr 17"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -722,
+    "year_end": null,
+    "title": "Sargon II., král Asýrie",
+    "description": "Král Asýrie, pokračoval v dobyvačných válkách.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "válka"
+    ],
+    "people": [
+      "Sargon II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -705,
+    "year_end": null,
+    "title": "Sancherib, král Asýrie",
+    "description": "Král Asýrie, obléhal Jeruzalém za Ezechiáše.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "válka"
+    ],
+    "people": [
+      "Sancherib"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "2Kr 18-19"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -681,
+    "year_end": null,
+    "title": "Asarhaddon, král Asýrie",
+    "description": "Král Asýrie, přestavěl Babylon.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "stavitelství"
+    ],
+    "people": [
+      "Asarhaddon"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -669,
+    "year_end": null,
+    "title": "Aššurbanipal, král Asýrie",
+    "description": "Poslední velký král Asýrie, známý svou knihovnou.",
+    "category": "politics",
+    "region": "Asýrie",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "kultura"
+    ],
+    "people": [
+      "Aššurbanipal"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -647,
+    "year_end": null,
+    "title": "Belšazar, babylonský regent",
+    "description": "Regent Babylonské říše, jehož hodování a pád Babylonu jsou popsány v knize Daniel.",
+    "category": "politics",
+    "region": "Babylonie",
+    "importance": 3,
+    "tags": [
+      "regent",
+      "babylonské zajetí"
+    ],
+    "people": [
+      "Belšazar"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Da 5"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -556,
+    "year_end": null,
+    "title": "Nabonid, král Babylonie",
+    "description": "Poslední král Babylonské říše. Jeho syn byl Belšazar.",
+    "category": "politics",
+    "region": "Babylonie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "pád říše"
+    ],
+    "people": [
+      "Nabonid"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -539,
+    "year_end": null,
+    "title": "Kyros Veliký dobývá Babylon",
+    "description": "Perský král Kyros dobývá Babylon a ukončuje babylonské zajetí Židů.",
+    "category": "war",
+    "region": "Babylonie",
+    "importance": 5,
+    "tags": [
+      "dobytí",
+      "perská říše",
+      "babylonské zajetí"
+    ],
+    "people": [
+      "Kyros Veliký"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Ezdráš 1"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -530,
+    "year_end": null,
+    "title": "Kambyses II., perský král",
+    "description": "Perský král, syn Kyra Velikého.",
+    "category": "politics",
+    "region": "Persie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "perská říše"
+    ],
+    "people": [
+      "Kambyses II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -521,
+    "year_end": null,
+    "title": "Dareios I. Veliký, perský král",
+    "description": "Perský král, významný pro reorganizaci říše a války s Řeckem.",
+    "category": "politics",
+    "region": "Persie",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "perská říše"
+    ],
+    "people": [
+      "Dareios I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -486,
+    "year_end": null,
+    "title": "Xerxes I., perský král",
+    "description": "Perský král, známý svou invazí do Řecka.",
+    "category": "politics",
+    "region": "Persie",
+    "importance": 4,
+    "tags": [
+      "král",
+      "monarchie",
+      "perská říše",
+      "řecko-perské války"
+    ],
+    "people": [
+      "Xerxes I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -465,
+    "year_end": null,
+    "title": "Artaxerxes I., perský král",
+    "description": "Perský král, vládce v době Nehemjáše a Ezdráše.",
+    "category": "politics",
+    "region": "Persie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "perská říše"
+    ],
+    "people": [
+      "Artaxerxes I."
+    ],
+    "places": [],
+    "bible_refs": [
+      "Ezdráš",
+      "Nehemjáš"
+    ],
+    "source_page": "4L"
+  },
+  {
+    "year": -336,
+    "year_end": null,
+    "title": "Alexandr Veliký, král Makedonie",
+    "description": "Král Makedonie, zahájil tažení, které vedlo ke vzniku helénistické říše.",
+    "category": "politics",
+    "region": "Makedonie",
+    "importance": 5,
+    "tags": [
+      "král",
+      "dobyvatel",
+      "helénismus"
+    ],
+    "people": [
+      "Alexandr Veliký"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1200,
+    "year_end": null,
+    "title": "Trójská válka",
+    "description": "Legendární válka mezi Achaiky a městem Trója, popsaná v Homerově Illiadě.",
+    "category": "war",
+    "region": "Malá Asie",
+    "importance": 4,
+    "tags": [
+      "legenda",
+      "válka",
+      "starověké Řecko"
+    ],
+    "people": [],
+    "places": [
+      "Trója"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1100,
+    "year_end": null,
+    "title": "Dórská invaze",
+    "description": "Migrace Dórů do Řecka, která vedla k rozpadu mykénské civilizace.",
+    "category": "history",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "migrace",
+      "civilizace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -776,
+    "year_end": null,
+    "title": "První olympijské hry",
+    "description": "Založení a konání prvních olympijských her v Olympii.",
+    "category": "culture",
+    "region": "Řecko",
+    "importance": 4,
+    "tags": [
+      "sport",
+      "kultura"
+    ],
+    "people": [],
+    "places": [
+      "Olympie"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -753,
+    "year_end": null,
+    "title": "Založení Říma",
+    "description": "Tradiční datum založení města Říma bratry Romulem a Remem.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 5,
+    "tags": [
+      "založení",
+      "město",
+      "starověký Řím"
+    ],
+    "people": [
+      "Romulus",
+      "Remus"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -814,
+    "year_end": null,
+    "title": "Založení Kartága",
+    "description": "Město založené fénickými osadníky z Týru, tradičně Dido.",
+    "category": "politics",
+    "region": "Severní Afrika",
+    "importance": 4,
+    "tags": [
+      "založení",
+      "město",
+      "Féničané"
+    ],
+    "people": [
+      "Dido"
+    ],
+    "places": [
+      "Kartágo"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1200,
+    "year_end": null,
+    "title": "Král Mídas I.",
+    "description": "Legendární král Frýgie.",
+    "category": "politics",
+    "region": "Frýgie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "legenda"
+    ],
+    "people": [
+      "Mídas I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1200,
+    "year_end": null,
+    "title": "Král Gordios I.",
+    "description": "Legendární král Frýgie.",
+    "category": "politics",
+    "region": "Frýgie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "legenda"
+    ],
+    "people": [
+      "Gordios I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1200,
+    "year_end": null,
+    "title": "Král Argon I.",
+    "description": "Legendární král Frýgie.",
+    "category": "politics",
+    "region": "Frýgie",
+    "importance": 2,
+    "tags": [
+      "král",
+      "legenda"
+    ],
+    "people": [
+      "Argon I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1100,
+    "year_end": null,
+    "title": "Král Wen-wang",
+    "description": "Vládce čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Wen-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1122,
+    "year_end": null,
+    "title": "Král Wu-wang",
+    "description": "První král čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Wu-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1115,
+    "year_end": null,
+    "title": "Král Čcheng-wang",
+    "description": "Druhý král čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Čcheng-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1079,
+    "year_end": null,
+    "title": "Král Kchang-wang",
+    "description": "Král čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Kchang-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1063,
+    "year_end": null,
+    "title": "Král Čou-wang",
+    "description": "Král čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Čou-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -976,
+    "year_end": null,
+    "title": "Král Mu-wang",
+    "description": "Král čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Mu-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -770,
+    "year_end": null,
+    "title": "Král Pching-wang",
+    "description": "Král čínské dynastie Čou, přesunul hlavní město, zahájil období Východní Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Pching-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -719,
+    "year_end": null,
+    "title": "Král Chuan-wang",
+    "description": "Král čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Chuan-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -680,
+    "year_end": null,
+    "title": "Král Čuan-wang",
+    "description": "Král čínské dynastie Čou.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "král",
+      "dynastie",
+      "Čou"
+    ],
+    "people": [
+      "Čuan-wang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -1150,
+    "year_end": null,
+    "title": "Homer, řecký básník",
+    "description": "Slepý starý bard ze skalnatého ostrova Chios. Ze Smyrny v Malé Asii.",
+    "category": "culture",
+    "region": "Malá Asie",
+    "importance": 5,
+    "tags": [
+      "literatura",
+      "poezie",
+      "epos"
+    ],
+    "people": [
+      "Homer"
+    ],
+    "places": [
+      "Smyrna",
+      "Chios"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -800,
+    "year_end": null,
+    "title": "Hésiodos, řecký básník",
+    "description": "Starověký řecký básník, jeho veledílem jsou 'Práce a dni' a 'Theogonie'.",
+    "category": "culture",
+    "region": "Řecko",
+    "importance": 4,
+    "tags": [
+      "literatura",
+      "poezie",
+      "filozofie"
+    ],
+    "people": [
+      "Hésiodos"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -610,
+    "year_end": null,
+    "title": "Sapfó, řecká básnířka",
+    "description": "Lyrická básnířka ze starověkého Řecka.",
+    "category": "culture",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "literatura",
+      "poezie"
+    ],
+    "people": [
+      "Sapfó"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -594,
+    "year_end": null,
+    "title": "Solón, athénský zákonodárce",
+    "description": "Athénský státník, zákonodárce a lyrický básník, provedl reformy v Athénách.",
+    "category": "politics",
+    "region": "Athény",
+    "importance": 4,
+    "tags": [
+      "zákonodárství",
+      "reforma",
+      "politika"
+    ],
+    "people": [
+      "Solón"
+    ],
+    "places": [
+      "Athény"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -570,
+    "year_end": null,
+    "title": "Pýthagorás, řecký filozof",
+    "description": "Řecký matematik a filozof, návštívil Egypt.",
+    "category": "science",
+    "region": "Řecko",
+    "importance": 4,
+    "tags": [
+      "matematika",
+      "filozofie",
+      "Egypt"
+    ],
+    "people": [
+      "Pýthagorás"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -600,
+    "year_end": null,
+    "title": "Sardis, město Lýdie",
+    "description": "Hlavní město Lýdie, bohaté obchodní centrum.",
+    "category": "geography",
+    "region": "Lýdie",
+    "importance": 2,
+    "tags": [
+      "město",
+      "obchod"
+    ],
+    "people": [],
+    "places": [
+      "Sardis"
+    ],
+    "bible_refs": [],
+    "source_page": "4L"
+  },
+  {
+    "year": -560,
+    "year_end": null,
+    "title": "Král Kroisos (Kroesus), Lýdie",
+    "description": "Poslední král Lýdie, známý svým bohatstvím.",
+    "category": "politics",
+    "region": "Lýdie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "bohatství"
+    ],
+    "people": [
+      "Kroisos"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "4L"
+  }
+]

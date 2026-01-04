@@ -1,0 +1,1456 @@
+[
+  {
+    "year": -4004,
+    "year_end": -2348,
+    "title": "NA POČÁTKU...",
+    "description": "Období od Stvoření po Potopu. Chronologický diagram, který pokrývá biblické události od roku 4004 př.n.l. do 2348 př.n.l. dle Ussherovy chronologie.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 5,
+    "tags": [
+      "biblická historie",
+      "stvoření",
+      "potopa"
+    ],
+    "people": [
+      "Adam",
+      "Eva",
+      "Noé"
+    ],
+    "places": [
+      "Zahrada Eden"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 2022,
+    "year_end": null,
+    "title": "Chronologická mapa Světových Dějin",
+    "description": "České vydání 2022, revidované, aktualizované a rozšířené vydání ve spolupráci s Third Millennium Press Limited. První České vydání 1998 Fortuna Print.",
+    "category": "culture",
+    "region": "Česko",
+    "importance": 1,
+    "tags": [
+      "publikace",
+      "chronologie",
+      "mapa"
+    ],
+    "people": [
+      "David Gibbons",
+      "Profesor Edward Hull"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Stvoření světa podle arcibiskupa Jamese Usshera",
+    "description": "Arcibiskup James Ussher (1581–1656), hlava anglikánské církve v Irsku, stanovil 23. října 4004 př.n.l. jako datum Stvoření na základě studia starozákonních textů a kalendářů. Jeho výsledky byly publikovány v roce 1650 jako 'Kroniky Starého zákona'.",
+    "category": "religion",
+    "region": "Irsko",
+    "importance": 3,
+    "tags": [
+      "chronologie",
+      "Bible",
+      "církevní dějiny"
+    ],
+    "people": [
+      "James Ussher"
+    ],
+    "places": [],
+    "bible_refs": [
+      "2. Petr 3:8"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Stvoření nebe a země",
+    "description": "Podle Starého zákona Bůh stvořil nebe a zemi a oddělil noc od dne. První událost 'Budíž světlo'.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 5,
+    "tags": [
+      "stvoření",
+      "počátek světa"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 1,1"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Pojmenování zvířat Adamem",
+    "description": "Bůh dal Adamovi za úkol pojmenovat zvířata.",
+    "category": "religion",
+    "region": "Zahrada Eden",
+    "importance": 3,
+    "tags": [
+      "stvoření",
+      "Adam",
+      "zvířata"
+    ],
+    "people": [
+      "Adam"
+    ],
+    "places": [
+      "Zahrada Eden"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Adam a Eva v zahradě Eden",
+    "description": "Adam a Eva nevinně přebývají v zahradě Eden, jak Bůh zamýšlel.",
+    "category": "religion",
+    "region": "Zahrada Eden",
+    "importance": 4,
+    "tags": [
+      "stvoření",
+      "Adam",
+      "Eva"
+    ],
+    "people": [
+      "Adam",
+      "Eva"
+    ],
+    "places": [
+      "Zahrada Eden"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Pád člověka a vyhnání z ráje",
+    "description": "Adam a Eva snědli ovoce ze stromu poznání dobrého a zlého a byli vyhnáni z ráje.",
+    "category": "religion",
+    "region": "Zahrada Eden",
+    "importance": 5,
+    "tags": [
+      "pád",
+      "hřích",
+      "vyhnání"
+    ],
+    "people": [
+      "Adam",
+      "Eva"
+    ],
+    "places": [
+      "Zahrada Eden"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": -1491,
+    "title": "PATRIARCHÁLNÍ DOBA",
+    "description": "Období patriarchů, od stvoření světa do exodu z Egypta, trvající od 4004 př.n.l. do 1491 př.n.l.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "patriarchové",
+      "biblická historie",
+      "starověk"
+    ],
+    "people": [
+      "Adam",
+      "Noé",
+      "Abraham"
+    ],
+    "places": [
+      "Mezopotámie",
+      "Kanaán"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": -3074,
+    "title": "Život Adama",
+    "description": "Adam žil 930 let.",
+    "category": "religion",
+    "region": "Zahrada Eden",
+    "importance": 4,
+    "tags": [
+      "patriarchové",
+      "životopis"
+    ],
+    "people": [
+      "Adam"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,5"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3874,
+    "year_end": -2962,
+    "title": "Život Šéta",
+    "description": "Šét žil 912 let. Narodil se, když Adamovi bylo 130 let (3874 př.n.l., 130 let od stvoření světa).",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "patriarchové",
+      "životopis"
+    ],
+    "people": [
+      "Šét"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,8"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3769,
+    "year_end": -2864,
+    "title": "Život Enóše",
+    "description": "Enóš žil 905 let. Narodil se, když Šétovi bylo 105 let (3769 př.n.l., 235 let od stvoření světa).",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "patriarchové",
+      "životopis"
+    ],
+    "people": [
+      "Enóš"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,11"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3679,
+    "year_end": -2769,
+    "title": "Život Kénana",
+    "description": "Kénan žil 910 let. Narodil se, když Enóšovi bylo 90 let (3679 př.n.l., 325 let od stvoření světa).",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "patriarchové",
+      "životopis"
+    ],
+    "people": [
+      "Kénan"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,14"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3609,
+    "year_end": -2714,
+    "title": "Život Mahalalela",
+    "description": "Mahalalel žil 895 let. Narodil se, když Kénanovi bylo 70 let (3609 př.n.l., 395 let od stvoření světa).",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "patriarchové",
+      "životopis"
+    ],
+    "people": [
+      "Mahalalel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,17"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3544,
+    "year_end": -2582,
+    "title": "Život Jareda",
+    "description": "Jared žil 962 let. Narodil se, když Mahalalelovi bylo 65 let (3544 př.n.l., 460 let od stvoření světa). Podle staré arabské legendy byl Jared první ze šétových větví, které vládl vesmírné říši a byl oslavován pro svou moudrost a schopnost konat zázraky.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "patriarchové",
+      "životopis",
+      "arabská legenda"
+    ],
+    "people": [
+      "Jared"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,20"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3382,
+    "year_end": -3017,
+    "title": "Život Enocha",
+    "description": "Enoch žil 365 let. Narodil se, když Jaredovi bylo 162 let (3382 př.n.l., 622 let od stvoření světa). Chodil s Bohem a nebyl již, protože ho Bůh vzal k sobě. Existuje kniha nazvaná 'Henochova kniha'.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "patriarchové",
+      "životopis",
+      "Henochova kniha"
+    ],
+    "people": [
+      "Enoch"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,24"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3317,
+    "year_end": -2348,
+    "title": "Život Metúšelacha",
+    "description": "Metúšelach žil 969 let. Narodil se, když Enochovi bylo 65 let (3317 př.n.l., 687 let od stvoření světa).",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "patriarchové",
+      "životopis"
+    ],
+    "people": [
+      "Metúšelach"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,27"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3130,
+    "year_end": -2353,
+    "title": "Život Lámecha",
+    "description": "Lámech žil 777 let. Narodil se, když Metúšelachovi bylo 187 let (3130 př.n.l., 874 let od stvoření světa). Měl dvě ženy, Adah a Zillah (první polygamista v historii).",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "patriarchové",
+      "životopis",
+      "polygamie"
+    ],
+    "people": [
+      "Lámech",
+      "Adah",
+      "Zillah"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,31",
+      "Gn 4,19"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -2948,
+    "year_end": -2348,
+    "title": "Život Noého",
+    "description": "Noé žil 950 let. Narodil se, když Lámechovi bylo 182 let (2948 př.n.l., 1056 let od stvoření světa). Měl syny Sema, Chama a Jafeta.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 5,
+    "tags": [
+      "patriarchové",
+      "potopa",
+      "Noémova archa"
+    ],
+    "people": [
+      "Noé",
+      "Sem",
+      "Cham",
+      "Jafet"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 9,29"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Stvoření ženy a rodokmen",
+    "description": "Bůh stvořil ženu a ustanovil rodokmen. Třetí událost.",
+    "category": "religion",
+    "region": "Zahrada Eden",
+    "importance": 3,
+    "tags": [
+      "stvoření",
+      "žena",
+      "rodokmen"
+    ],
+    "people": [
+      "Eva"
+    ],
+    "places": [
+      "Zahrada Eden"
+    ],
+    "bible_refs": [
+      "Gn 1,27"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Kain zabíjí Ábela",
+    "description": "Šestá událost 'Kain zabíjí Ábela'.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "vražda",
+      "biblická historie"
+    ],
+    "people": [
+      "Kain",
+      "Ábel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 4,8"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3130,
+    "year_end": null,
+    "title": "Potomstvo Adama",
+    "description": "Pátá událost 'Potomstvo', vztahující se k Lámechovi a jeho potomkům.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 2,
+    "tags": [
+      "potomstvo",
+      "rodokmen"
+    ],
+    "people": [
+      "Lámech"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 5,13"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Zákazy v Edenu",
+    "description": "Druhá událost 'Zákazy', týkající se zákazu jíst ze stromu poznání. 'Druhý den je u Pána jako tisíc let a tisíc let jako jeden den'.",
+    "category": "religion",
+    "region": "Zahrada Eden",
+    "importance": 4,
+    "tags": [
+      "stvoření",
+      "zákaz"
+    ],
+    "people": [
+      "Adam",
+      "Eva"
+    ],
+    "places": [
+      "Zahrada Eden"
+    ],
+    "bible_refs": [
+      "Gn 2,17"
+    ],
+    "source_page": "1L"
+  },
+  {
+    "year": -3769,
+    "year_end": null,
+    "title": "Enóš zakázal manželské styky s Kainity",
+    "description": "Enóš zakázal manželské styky s Kainity, kteří měli sklony porušovat všechna morální a náboženská pravidla.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 2,
+    "tags": [
+      "manželství",
+      "morálka",
+      "Kainité"
+    ],
+    "people": [
+      "Enóš"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Hebrejský Pentateuch o stvoření",
+    "description": "Hebrejský Pentateuch datuje 'stvoření' čili dobu Anno Mundi do roku 4004 př.n.l.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "chronologie",
+      "Bible",
+      "Pentateuch"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4700,
+    "year_end": null,
+    "title": "Samaritánský Pentateuch o stvoření",
+    "description": "Samaritánský Pentateuch datuje 'stvoření' do roku 4700 př.n.l.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 2,
+    "tags": [
+      "chronologie",
+      "Bible",
+      "Pentateuch"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -5872,
+    "year_end": null,
+    "title": "Septuaginta o stvoření",
+    "description": "Septuaginta datuje 'stvoření' do roku 5872 př.n.l.",
+    "category": "religion",
+    "region": "Egypt",
+    "importance": 2,
+    "tags": [
+      "chronologie",
+      "Bible",
+      "Septuaginta"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Josephus Flavius o stvoření",
+    "description": "Josephus Flavius datuje 'stvoření' do roku 4004 př.n.l.",
+    "category": "religion",
+    "region": "Řím",
+    "importance": 2,
+    "tags": [
+      "chronologie",
+      "historie",
+      "židovská historie"
+    ],
+    "people": [
+      "Josephus Flavius"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 500,
+    "year_end": 1500,
+    "title": "Středověký svět",
+    "description": "Přehled klíčových událostí, říší, objevů a civilizací v Eurasii, Africe a Americe během středověku.",
+    "category": "politics",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "středověk",
+      "mapa",
+      "světové dějiny"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 500,
+    "year_end": 1500,
+    "title": "Středověká Amerika",
+    "description": "Historie civilizací Mayů, Toltéků, Aztéků a Inků, včetně invazí ze severu, rozvoje zemědělství a zakládání měst.",
+    "category": "culture",
+    "region": "Amerika",
+    "importance": 4,
+    "tags": [
+      "civilizace",
+      "Amerika",
+      "středověk"
+    ],
+    "people": [],
+    "places": [
+      "Chichén Itzá",
+      "Cuzco"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 900,
+    "year_end": null,
+    "title": "Zhroucení Mayské civilizace",
+    "description": "Mayská civilizace se zhroutila v 9. století.",
+    "category": "culture",
+    "region": "Mezoamerika",
+    "importance": 3,
+    "tags": [
+      "civilizace",
+      "kolaps",
+      "Mayská civilizace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 700,
+    "year_end": 900,
+    "title": "Invaze do Střední Ameriky ze severu",
+    "description": "V 7.–9. století proběhly invaze do Střední Ameriky ze severu.",
+    "category": "war",
+    "region": "Mezoamerika",
+    "importance": 2,
+    "tags": [
+      "invaze",
+      "migrace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Toltecká říše",
+    "description": "Toltecká říše existovala v 10. století.",
+    "category": "politics",
+    "region": "Mezoamerika",
+    "importance": 2,
+    "tags": [
+      "říše",
+      "Toltekové"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1400,
+    "year_end": null,
+    "title": "Aztécká říše",
+    "description": "Aztécká říše existovala ve 14. století.",
+    "category": "politics",
+    "region": "Mezoamerika",
+    "importance": 3,
+    "tags": [
+      "říše",
+      "Aztékové"
+    ],
+    "people": [],
+    "places": [
+      "Tenochtitlan"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Německá Říše založená Ottou I.",
+    "description": "Romulova říše (Svatá říše římská) byla založena Ottou I. roku 962 n.l. Její území bylo rozděleno na feudální vévodství.",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "říše",
+      "středověk",
+      "Svatá říše římská"
+    ],
+    "people": [
+      "Otta I."
+    ],
+    "places": [
+      "Paříž"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1066,
+    "year_end": null,
+    "title": "Normanské dobytí Anglie",
+    "description": "Normandské království přibírá Anglii po bitvě u Hastingsu roku 1066. To vede k ustanovení nové královské dynastie a rozsáhlým změnám v anglické společnosti a kultuře.",
+    "category": "war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "dobytí",
+      "Normané",
+      "Anglie"
+    ],
+    "people": [
+      "Vilém Dobyvatel"
+    ],
+    "places": [
+      "Hastings"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1040,
+    "year_end": null,
+    "title": "Dobyvačné nájezdy Tureckých kmenů",
+    "description": "Dobyvačné nájezdy Tureckých kmenů (Seldžuků) do Persie a východní Evropy. Roku 1040 dobyli Seldžukové Mezopotámii a pokračovali v expanzi.",
+    "category": "war",
+    "region": "Blízký východ",
+    "importance": 3,
+    "tags": [
+      "invaze",
+      "Seldžukové",
+      "turecké kmeny"
+    ],
+    "people": [],
+    "places": [
+      "Mezopotámie"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1206,
+    "year_end": null,
+    "title": "Vzestup Mongolské říše za Čingischána",
+    "description": "Ve 13. století ovládli tuto oblast Mongolové pod vedením Čingischána. Rozsáhlá říše se rozprostírala od Číny po východní Evropu.",
+    "category": "politics",
+    "region": "Asie",
+    "importance": 5,
+    "tags": [
+      "říše",
+      "Mongolové",
+      "dobytí"
+    ],
+    "people": [
+      "Čingischán"
+    ],
+    "places": [
+      "Karakorum"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1274,
+    "year_end": 1281,
+    "title": "Mongolské invaze do Japonska",
+    "description": "Kublajchán podnikl dvě neúspěšné invaze do Japonska, které byly zmařeny bouřemi, známými jako 'Kamikaze' ('Božský vítr').",
+    "category": "war",
+    "region": "Japonsko",
+    "importance": 4,
+    "tags": [
+      "invaze",
+      "Mongolové",
+      "Japonsko"
+    ],
+    "people": [
+      "Kublajchán"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1453,
+    "year_end": null,
+    "title": "Dobytí Konstantinopole Osmany",
+    "description": "Osmanská říše dobyla Konstantinopol, čímž ukončila existenci Byzantské říše a ovládla Balkán a velkou část Blízkého východu.",
+    "category": "war",
+    "region": "Byzantská říše",
+    "importance": 5,
+    "tags": [
+      "dobytí",
+      "Osmanská říše",
+      "Konstantinopol"
+    ],
+    "people": [
+      "Mehmed II."
+    ],
+    "places": [
+      "Konstantinopol"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1347,
+    "year_end": 1351,
+    "title": "Černá smrt v Evropě",
+    "description": "Morová epidemie 'Černá smrt' v letech 1347-1351 způsobila úbytek třetiny až poloviny obyvatel Evropy, což mělo dalekosáhlé ekonomické a sociální důsledky.",
+    "category": "science",
+    "region": "Evropa",
+    "importance": 5,
+    "tags": [
+      "epidemic",
+      "středověk",
+      "demografie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Znovudobytí Granady a konec Reconquisty",
+    "description": "Španělsko dobylo Granadu od Arabů roku 1492, čímž skončila Reconquista na Pyrenejském poloostrově.",
+    "category": "war",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "dobytí",
+      "Španělsko"
+    ],
+    "people": [],
+    "places": [
+      "Granada"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Kryštof Kolumbus doplouvá do Ameriky",
+    "description": "Kryštof Kolumbus doplul do Ameriky v roce 1492, čímž zahájil éru evropských zámořských objevů.",
+    "category": "discovery",
+    "region": "Karibik",
+    "importance": 5,
+    "tags": [
+      "objevy",
+      "Amerika",
+      "Kolumbus"
+    ],
+    "people": [
+      "Kryštof Kolumbus"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1497,
+    "year_end": null,
+    "title": "Cesta Johna Cabota",
+    "description": "John Cabot dosáhl Severní Ameriky v roce 1497.",
+    "category": "discovery",
+    "region": "Severní Amerika",
+    "importance": 3,
+    "tags": [
+      "objevy",
+      "Cabot"
+    ],
+    "people": [
+      "John Cabot"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1498,
+    "year_end": null,
+    "title": "Vasco de Gama obeplouvá Afriku",
+    "description": "Vasco de Gama obeplul Afriku a dorazil do Indie v roce 1498, čímž otevřel novou námořní cestu do Asie.",
+    "category": "discovery",
+    "region": "Indický oceán",
+    "importance": 4,
+    "tags": [
+      "objevy",
+      "Vasco de Gama",
+      "Indie"
+    ],
+    "people": [
+      "Vasco de Gama"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1500,
+    "year_end": null,
+    "title": "Vasco de Gama v Africe (1500)",
+    "description": "Druhá cesta Vasca de Gama, která zahrnovala přistání v Africe v roce 1500.",
+    "category": "discovery",
+    "region": "Afrika",
+    "importance": 2,
+    "tags": [
+      "objevy",
+      "Vasco de Gama"
+    ],
+    "people": [
+      "Vasco de Gama"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Rozšiřování islámských chalifátů",
+    "description": "Islámské chalifáty se rozšířily po severní Africe, Blízkém východě a do části Evropy.",
+    "category": "religion",
+    "region": "Severní Afrika",
+    "importance": 4,
+    "tags": [
+      "islám",
+      "chalifáty",
+      "expanze"
+    ],
+    "people": [],
+    "places": [
+      "Káhira",
+      "Mekka",
+      "Medina"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 600,
+    "year_end": 840,
+    "title": "Sjednocené království Tibetu",
+    "description": "Sjednocená království Tibetu existovala přibližně v letech 600-840.",
+    "category": "politics",
+    "region": "Tibet",
+    "importance": 3,
+    "tags": [
+      "království",
+      "Tibet"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 581,
+    "year_end": 618,
+    "title": "Dynastie Suej v Číně",
+    "description": "V 6. století se v Číně objevila dynastie Suej (581-618 n.l.).",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "dynastie",
+      "Čína"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 618,
+    "year_end": 907,
+    "title": "Dynastie Tchang v Číně",
+    "description": "V 7. století se v Číně objevila dynastie Tchang (618-907 n.l.). V tomto období dosáhla Čína nebývalého hospodářského a kulturního rozkvětu a proslavila se svými dynastickými uměleckými díly.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "dynastie",
+      "Čína",
+      "kultura",
+      "ekonomika"
+    ],
+    "people": [],
+    "places": [
+      "Čchang-an"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 960,
+    "year_end": 1279,
+    "title": "Dynastie Sung v Číně",
+    "description": "V 10. století se v Číně objevila dynastie Sung (960-1279 n.l.).",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "dynastie",
+      "Čína"
+    ],
+    "people": [],
+    "places": [
+      "Peking"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1211,
+    "year_end": 1215,
+    "title": "Mongolské dobytí Číny",
+    "description": "Mongolové, vedeni Čingischánem, vtrhli do Číny, dobyli Peking a zničili tehdejší dynastii Jin, následně ovládli celou zemi.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "invaze",
+      "Mongolové",
+      "Čína"
+    ],
+    "people": [
+      "Čingischán"
+    ],
+    "places": [
+      "Peking"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1300,
+    "year_end": 1500,
+    "title": "Chmerské království upadá",
+    "description": "Chmerské království v jihovýchodní Asii upadalo ve 14. století a zaniklo v 15. století, kdy Angkor ztratil svůj význam.",
+    "category": "politics",
+    "region": "Jihovýchodní Asie",
+    "importance": 3,
+    "tags": [
+      "království",
+      "kolaps"
+    ],
+    "people": [],
+    "places": [
+      "Angkor"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1100,
+    "year_end": 1500,
+    "title": "Království Dai Viet",
+    "description": "Království Dai Viet (Vietnam) posílilo svou kontrolu nad jižními oblastmi v 11.–15. století.",
+    "category": "politics",
+    "region": "Vietnam",
+    "importance": 2,
+    "tags": [
+      "království",
+      "expanze"
+    ],
+    "people": [],
+    "places": [
+      "Thajci"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1237,
+    "year_end": 1241,
+    "title": "Zlatá Horda útočí na Evropu",
+    "description": "Zlatá Horda, západní část Mongolské říše, v letech 1237-1241 dobyla Kyjev a další části východní Evropy.",
+    "category": "war",
+    "region": "Východní Evropa",
+    "importance": 4,
+    "tags": [
+      "Mongolové",
+      "invaze",
+      "Zlatá Horda"
+    ],
+    "people": [],
+    "places": [
+      "Kyjev",
+      "Saraj"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1218,
+    "year_end": 1220,
+    "title": "Invaze Mongolů do střední Asie",
+    "description": "Mongolové v letech 1218-1220 dobyli Samarkand, Bucharu a další města ve střední Asii.",
+    "category": "war",
+    "region": "Střední Asie",
+    "importance": 4,
+    "tags": [
+      "Mongolové",
+      "invaze"
+    ],
+    "people": [],
+    "places": [
+      "Samarkand",
+      "Buchara"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1325,
+    "year_end": 1351,
+    "title": "Dillí sultanát, dynastie Tuglaků",
+    "description": "V Dillí sultanátu vládla dynastie Tuglaků v letech 1325-1351. Sultanát se stal největší indickou říší.",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 3,
+    "tags": [
+      "sultanát",
+      "dynastie",
+      "Indie"
+    ],
+    "people": [],
+    "places": [
+      "Dillí"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1347,
+    "year_end": null,
+    "title": "Bahmanský sultanát v Indii",
+    "description": "Vznik Bahmanského sultanátu v roce 1347, který se odtrhl od Dillí sultanátu.",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 2,
+    "tags": [
+      "sultanát",
+      "Indie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1340,
+    "year_end": null,
+    "title": "Vidžajanágarská dynastie v Indii",
+    "description": "Vznik Vidžajanágarské dynastie v roce 1340, významné hinduistické říše na jihu Indie.",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 2,
+    "tags": [
+      "dynastie",
+      "hinduismus",
+      "Indie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 600,
+    "year_end": null,
+    "title": "Tarmanská pánev ovládnuta Číňany",
+    "description": "V 7. století byla Tarmanská pánev ovládnuta Číňany.",
+    "category": "politics",
+    "region": "Střední Asie",
+    "importance": 2,
+    "tags": [
+      "dobytí",
+      "Čína"
+    ],
+    "people": [],
+    "places": [
+      "Tarmanská pánev"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 700,
+    "year_end": null,
+    "title": "Expanze muslimských Arabů do Afriky",
+    "description": "Od 7. století začala expanze muslimských Arabů do severní Afriky, což vedlo k arabizaci a islamizaci regionu.",
+    "category": "religion",
+    "region": "Severní Afrika",
+    "importance": 3,
+    "tags": [
+      "expanze",
+      "islám",
+      "Arabové"
+    ],
+    "people": [],
+    "places": [
+      "Aksum"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1250,
+    "year_end": 1517,
+    "title": "Mamlúcký sultanát v Egyptě",
+    "description": "Mamlúcký sultanát vládl Egyptu a Levantě v letech 1250-1517. Jednalo se o silnou vojenskou říši.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "sultanát",
+      "Egypt",
+      "Mamlúci"
+    ],
+    "people": [],
+    "places": [
+      "Káhira"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1250,
+    "year_end": null,
+    "title": "Křižácké státy (Jeruzalém)",
+    "description": "Křižácké státy v Levantu, založené během křížových výprav, existovaly v 11.-13. století, Jeruzalém byl dobyt v roce 1250.",
+    "category": "war",
+    "region": "Levanta",
+    "importance": 4,
+    "tags": [
+      "křížové výpravy",
+      "křižácké státy",
+      "Jeruzalém"
+    ],
+    "people": [],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Vznik Ruských knížectví",
+    "description": "V 11. století se objevila ruská knížectví jako Kyjevská Rus, která se později rozpadla na menší státy jako Novgorod a Moskva.",
+    "category": "politics",
+    "region": "Východní Evropa",
+    "importance": 3,
+    "tags": [
+      "království",
+      "Rusko"
+    ],
+    "people": [],
+    "places": [
+      "Kyjev",
+      "Novgorod",
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Založení afrických království na obchodu",
+    "description": "Africká království jako Mali, Songhaj, Kanem-Bornu a Wadaj, založená zvláště na obchodu s otroky a zlatem v transsaharských cestách.",
+    "category": "economics",
+    "region": "Západní Afrika",
+    "importance": 3,
+    "tags": [
+      "obchod",
+      "království",
+      "otroctví",
+      "zlato"
+    ],
+    "people": [],
+    "places": [
+      "Timbutku",
+      "Jenne",
+      "Kanem-Bornu",
+      "Darfur",
+      "Wadaj"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1200,
+    "year_end": 1225,
+    "title": "Timurova říše a Ilchanát",
+    "description": "Po rozpadu Mongolské říše vznikly menší chanáty, jako Ilchanát a později Timurova říše (1200-1225), která ovládala Persii a Mezopotámii.",
+    "category": "politics",
+    "region": "Střední Asie",
+    "importance": 3,
+    "tags": [
+      "říše",
+      "Timur",
+      "Mongolové"
+    ],
+    "people": [
+      "Timur"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Západní Evropa a vzestup měst",
+    "description": "Ve středověku zažila západní Evropa vzestup měst a obchodu, který vedl k postupnému oživení ekonomiky po pádu Říma.",
+    "category": "economics",
+    "region": "Západní Evropa",
+    "importance": 3,
+    "tags": [
+      "města",
+      "obchod",
+      "středověk"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1100,
+    "year_end": null,
+    "title": "Rozvoj zemědělství a zakládání osad v Americe",
+    "description": "Rozvoj zemědělství umožnil zakládání stálých osad, jako jsou pueblanské komunity, které se objevily kolem roku 1100 v Severní Americe.",
+    "category": "culture",
+    "region": "Severní Amerika",
+    "importance": 2,
+    "tags": [
+      "zemědělství",
+      "osady"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1200,
+    "year_end": null,
+    "title": "Vikingové a Norové v severní Evropě",
+    "description": "Vikingové a Norové pokračovali v expanzi a osidlování v severní Evropě a na Islandu až do 13. století.",
+    "category": "politics",
+    "region": "Severní Evropa",
+    "importance": 2,
+    "tags": [
+      "Vikingové",
+      "expanze",
+      "osídlení"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Dynastie Tuglaků v Dillí sultanátu",
+    "description": "V Dillí sultanátu vládla dynastie Tuglaků (1325-1351), která se v Indii stala největší říší.",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 3,
+    "tags": [
+      "dynastie",
+      "sultanát",
+      "Indie"
+    ],
+    "people": [],
+    "places": [
+      "Dillí"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 500,
+    "year_end": 1000,
+    "title": "Frankové a vznik Svaté říše římské",
+    "description": "Po konci západní římské říše založili Frankové velký a mocný stát (500 n.l.). V roce 800 n.l. Karel Veliký začal budovat novou Svatou říši římskou.",
+    "category": "politics",
+    "region": "Západní Evropa",
+    "importance": 4,
+    "tags": [
+      "Frankové",
+      "Karel Veliký",
+      "Svatá říše římská",
+      "středověk"
+    ],
+    "people": [
+      "Karel Veliký"
+    ],
+    "places": [
+      "Paříž",
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1040,
+    "year_end": null,
+    "title": "Seldžukové dobývají Mezopotámii",
+    "description": "V 11. století se turecké kmeny Seldžuků začaly rozšiřovat z Tarmanské pánve a roku 1040 dobyli Mezopotámii.",
+    "category": "war",
+    "region": "Mezopotámie",
+    "importance": 3,
+    "tags": [
+      "turecké kmeny",
+      "Seldžukové",
+      "dobytí"
+    ],
+    "people": [],
+    "places": [
+      "Mezopotámie"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  }
+]

@@ -1,0 +1,1394 @@
+[
+  {
+    "year": -2247,
+    "year_end": null,
+    "title": "Zmatení jazyků a rozptýlení lidstva",
+    "description": "Hlavní událost, rozptýlení lidstva a zmatení jazyků. Nazýváno '101 Let do ZMATENÍ JAZYKŮ a ROZPTÝLENÍ'.",
+    "category": "religion/culture",
+    "region": "Mezopotámie",
+    "importance": 5,
+    "tags": [
+      "Potopa",
+      "Jazyky",
+      "Babylon",
+      "Rozptýlení lidstva"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -1913,
+    "year_end": null,
+    "title": "Sem (Maličkáček) jako praotec knězů",
+    "description": "Sem byl praotcem knězů, jehož rodokmen se řídil levitským zákonem. Noe zemřel v 1913 př. n. l. ve věku 85/67 let.",
+    "category": "religion/people",
+    "region": "Mezopotámie",
+    "importance": 3,
+    "tags": [
+      "Rodokmen",
+      "Knězství"
+    ],
+    "people": [
+      "Sem",
+      "Noe",
+      "Pavel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 10, 15",
+      "Gn 10, 24",
+      "Židům 7, 10"
+    ],
+    "source_page": "VI"
+  },
+  {
+    "year": -1996,
+    "year_end": null,
+    "title": "Smrt Teracha, otce Abraháma",
+    "description": "Terach (život 130 let) umřel v Charánu, když bylo Abrahámovi 75 let.",
+    "category": "religion/people",
+    "region": "Charán",
+    "importance": 2,
+    "tags": [
+      "Úmrtí"
+    ],
+    "people": [
+      "Terach",
+      "Abraham"
+    ],
+    "places": [
+      "Charán"
+    ],
+    "bible_refs": [
+      "Gn 11, 32",
+      "Gn 12, 4"
+    ],
+    "source_page": "VI"
+  },
+  {
+    "year": -2281,
+    "year_end": null,
+    "title": "Život Hebera, potomka Sema",
+    "description": "Heber (život 464 let, narozen 2281 př. n. l.) přežil Abraháma o 4 roky, žil s Izákem 79 let a s Jákobem 20 let. Měl dva syny, Peleg a Joktan.",
+    "category": "religion/people",
+    "region": "Mezopotámie",
+    "importance": 2,
+    "tags": [
+      "Genealogie"
+    ],
+    "people": [
+      "Heber",
+      "Peleg",
+      "Joktan",
+      "Abraham",
+      "Izák",
+      "Jákob"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -2247,
+    "year_end": null,
+    "title": "Peleg a rozdělení země",
+    "description": "Peleg (život 239 let, narozen 2247 př. n. l.), syn Hebera. Za jeho dnů byla země rozdělena.",
+    "category": "religion/people",
+    "region": "Mezopotámie",
+    "importance": 3,
+    "tags": [
+      "Genealogie",
+      "Rozdělení země"
+    ],
+    "people": [
+      "Peleg",
+      "Heber"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 10, 25"
+    ],
+    "source_page": "VI"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Joktan a jeho synové",
+    "description": "Joktan, bratr Pelegův, měl 13 synů.",
+    "category": "religion/people",
+    "region": "Mezopotámie",
+    "importance": 1,
+    "tags": [
+      "Genealogie"
+    ],
+    "people": [
+      "Joktan"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 10, 26-30"
+    ],
+    "source_page": "VI"
+  },
+  {
+    "year": -2217,
+    "year_end": null,
+    "title": "Selách promlouvá s Abrahamem",
+    "description": "Selách (narozen 2217 př. n. l.) mluvil s Abrahamem 118 let a přežil zkázu Sodomy o 19 let.",
+    "category": "religion/people",
+    "region": "Mezopotámie",
+    "importance": 2,
+    "tags": [],
+    "people": [
+      "Selách",
+      "Abraham"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -2185,
+    "year_end": null,
+    "title": "Arpákšad promlouvá s Abrahamem",
+    "description": "Arpákšad (narozen 2185 př. n. l.) mluvil s Abrahamem 88 let.",
+    "category": "religion/people",
+    "region": "Mezopotámie",
+    "importance": 1,
+    "tags": [],
+    "people": [
+      "Arpákšad",
+      "Abraham"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Alluwi, současník patriarchů",
+    "description": "Alluwi mluvil s Abrahámem 150 let a s Izákem 50 let. Přežil Lotovu ženu o 52 roky.",
+    "category": "religion/people",
+    "region": "Mezopotámie",
+    "importance": 1,
+    "tags": [],
+    "people": [
+      "Alluwi",
+      "Abraham",
+      "Izák",
+      "Lot"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Vystavění Ninive Ludem a Arámem",
+    "description": "Lud, 5. Arám vystavěl Ninive.",
+    "category": "culture/politics",
+    "region": "Mezopotámie",
+    "importance": 3,
+    "tags": [
+      "Města",
+      "Stavby"
+    ],
+    "people": [
+      "Lud",
+      "Arám"
+    ],
+    "places": [
+      "Ninive"
+    ],
+    "bible_refs": [
+      "Gn 10, 11"
+    ],
+    "source_page": "VI"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Život Sidona, Kanaanského syna",
+    "description": "Sidon žil po potopě 350 let, zemřel dva roky před Abrahámovým narozením.",
+    "category": "people",
+    "region": "Kanaán",
+    "importance": 1,
+    "tags": [],
+    "people": [
+      "Sidon"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Nimrod zakládá Babylon",
+    "description": "Nimrod založil Babylon. Počátkem jeho království byly Babylon, Erek, Akkad a Kalné v zemi Šineáru.",
+    "category": "politics/culture",
+    "region": "Mezopotámie",
+    "importance": 4,
+    "tags": [
+      "Založení státu",
+      "Města"
+    ],
+    "people": [
+      "Nimrod"
+    ],
+    "places": [
+      "Babylon",
+      "Erek",
+      "Akkad",
+      "Kalné",
+      "Šineár"
+    ],
+    "bible_refs": [
+      "Gn 10, 10"
+    ],
+    "source_page": "VI"
+  },
+  {
+    "year": -1700,
+    "year_end": null,
+    "title": "Popis Babylonské věže a města Babylon",
+    "description": "Babylonská věž (Chrám Dia Béla): 198 m vysoká, 8 pater, čtverec o straně 400 metrů. 'Veliký Babylon' byl po 1700 let královským městem světa. Zdi, vysoké 50 metrů a široké 25 metrů, obklopovaly plochu 590 kilometrů čtverečních. Byly z cihel. Nyní jsou jen trosky. (Blair)",
+    "category": "culture/architecture",
+    "region": "Mezopotámie",
+    "importance": 3,
+    "tags": [
+      "Památka",
+      "Stavby",
+      "Babylon"
+    ],
+    "people": [],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Chaldejsko a sumerské chrámy",
+    "description": "Hlavní město Úr. Zmínka o Gilgameši (Nimrod). Urnammu (Úruk) – největší stavitěl po Nabukadnesarovi, stavěl chrámy bohu Sínu, Ištar. Šulgi (syn Urnammua) – jeho pečeť v britském muzeu.",
+    "category": "politics/culture/religion",
+    "region": "Mezopotámie",
+    "importance": 3,
+    "tags": [
+      "Města",
+      "Chrámy",
+      "Náboženství"
+    ],
+    "people": [
+      "Gilgameš",
+      "Nimrod",
+      "Urnammu",
+      "Šulgi"
+    ],
+    "places": [
+      "Úr",
+      "Úruk",
+      "Larsa",
+      "Babylon",
+      "Erek",
+      "Ninive"
+    ],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -2200,
+    "year_end": null,
+    "title": "Foiníkie – raná historie a obchod",
+    "description": "Foiníkie neboli neznámá. Sidon byl založen Sidonem, Kanaanským synem, ve velmi dávných a neznámých dobách (Jozue 19, 28). Dříve slavný textilními výrobky a obchodem s purpurem. Foiníčané byli nejlepšími mořeplavci.",
+    "category": "politics/culture/economics",
+    "region": "Foiníkie",
+    "importance": 3,
+    "tags": [
+      "Námořní obchod",
+      "Textil",
+      "Mořeplavba"
+    ],
+    "people": [
+      "Sidon"
+    ],
+    "places": [
+      "Sidon",
+      "Kanaán"
+    ],
+    "bible_refs": [
+      "Jozue 19, 28"
+    ],
+    "source_page": "VI"
+  },
+  {
+    "year": -3300,
+    "year_end": null,
+    "title": "Rané egyptské dynastie I.-X.",
+    "description": "Od I. dynastie (Meni, 3300 př. n. l.) do VI. dynastie (20. století př. n. l.) je známo jen málo. O dynastických VII.-X. je známo jen málo. 'První egyptské neměli žádnou éru...'. Dr. BIRCH popisuje obyvatelstvo: Hamité (Černoši), Semité, Indové.",
+    "category": "politics/history",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "Dynastie",
+      "Chronologie",
+      "Starověké říše"
+    ],
+    "people": [
+      "Meni"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Morálka a společenský život ve starověkém Egyptě",
+    "description": "Egyptský morální zákon byl podobný desateru. Důraz na mravnost, spravedlnost. Zbožní králové vzácní. Ženy ceněné, manželství v mládí. Rodiny velké, spořivé. Domy z cihel. Jídlo jednoduché, mléko a voda. Měli domácí mazlíčky.",
+    "category": "society/culture",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "Morálka",
+      "Společnost",
+      "Rodina",
+      "Zvyky"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -2240,
+    "year_end": null,
+    "title": "Založení čínské civilizace Fu-SIm Či Jaoem",
+    "description": "Čínu založil v roce 2240 př. n. l. Fu-Si Či Jao (snad biblický Noe). Vymyslel rovněž hudbu a krejčovství a zvyk obětování.",
+    "category": "politics/culture",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "Založení státu",
+      "Vynálezy"
+    ],
+    "people": [
+      "Fu-Si Či Jao"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -2155,
+    "year_end": null,
+    "title": "Raná čínská astronomie a náboženství",
+    "description": "Čínští astronomové pozorovali zatmění slunce (2155 př. n. l.). Podle legendy prý byl Fu-Si božský král, který se stal vládcem po roce 2240 př. n. l. Používán sanskrt Cillí svatých textů a vykazují značný praktický vliv na hinduistickou spiritualitu.",
+    "category": "science/culture/religion",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "Astronomie",
+      "Hinduismus",
+      "Spiritualita"
+    ],
+    "people": [
+      "Fu-Si"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -1996,
+    "year_end": -1792,
+    "title": "Egyptská XII. dynastie (Střední říše)",
+    "description": "Amenemhet I. začal vládnout v roce 1996 př. n. l. Další panovníci: Senwosret I. (-1971), Amenemhet II. (-1937), Senwosret II. (-1903), Senwosret III. (-1887), Amenemhet III. (-1849), Amenemhet IV. (-1801), Sebekneferu (královna, -1792).",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "Dynastie",
+      "Střední říše",
+      "Faraoni"
+    ],
+    "people": [
+      "Amenemhet I",
+      "Senwosret I",
+      "Amenemhet II",
+      "Senwosret II",
+      "Senwosret III",
+      "Amenemhet III",
+      "Amenemhet IV",
+      "Sebekneferu"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -1788,
+    "year_end": null,
+    "title": "Nástup Hyksósů (XV. dynastie)",
+    "description": "Hyksósové (cizinci) vládli jako XV. dynastie v Egyptě.",
+    "category": "politics/war",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "Invaze",
+      "Dynastie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VI"
+  },
+  {
+    "year": -1921,
+    "year_end": null,
+    "title": "Povolání Abraháma",
+    "description": "Povolání Abraháma v roce 1921 př. n. l. Opustil s Lotem Úr a usadil se v Šekemu. Nazýván „Praotcem věřících” a „Přítelem Božím.”.",
+    "category": "religion/people",
+    "region": "Mezopotámie/Kanaán",
+    "importance": 5,
+    "tags": [
+      "Praotec",
+      "Migrace",
+      "Boží povolání"
+    ],
+    "people": [
+      "Abrahám",
+      "Lot"
+    ],
+    "places": [
+      "Úr",
+      "Šekem"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1918,
+    "year_end": null,
+    "title": "Hladomor vyhání Abraháma do Egypta",
+    "description": "Hladomor vyhnal Abraháma do Egypta v roce 1918 př. n. l.",
+    "category": "economics/religion",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "Hladomor",
+      "Migrace"
+    ],
+    "people": [
+      "Abrahám"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1917,
+    "year_end": null,
+    "title": "Abrahámův návrat z Egypta a rozchod s Lotem",
+    "description": "Abrahám se vrátil z Egypta v roce 1917 př. n. l. V roce 1916 př. n. l. se rozešel s Lotem kvůli uzavření smlouvy.",
+    "category": "religion/politics",
+    "region": "Kanaán",
+    "importance": 3,
+    "tags": [
+      "Migrace",
+      "Smlouva"
+    ],
+    "people": [
+      "Abrahám",
+      "Lot"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1916,
+    "year_end": null,
+    "title": "Znamení smlouvy (změna jmen)",
+    "description": "Změna jména Abram na Abrahám a Sarai na Sára jako znamení smlouvy v roce 1916 př. n. l.",
+    "category": "religion",
+    "region": "Kanaán",
+    "importance": 4,
+    "tags": [
+      "Smlouva",
+      "Změna jména"
+    ],
+    "people": [
+      "Abrahám",
+      "Sára"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1910,
+    "year_end": null,
+    "title": "Narození Izmaela Hagarou",
+    "description": "Hagar, Abrahámova otrokyně, stala se jeho ženou a porodila Izmaela. Abrahámovi bylo 99 let. Izmael se stal praotcem arabských kmenů.",
+    "category": "religion/people",
+    "region": "Kanaán",
+    "importance": 3,
+    "tags": [
+      "Genealogie",
+      "Arabské kmeny"
+    ],
+    "people": [
+      "Hagar",
+      "Abrahám",
+      "Izmael"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 16, 1-16"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1898,
+    "year_end": null,
+    "title": "Zkáza Sodomy a Gomory",
+    "description": "Zničení měst Sodomy a Gomory v roce 1898 př. n. l. Lot a jeho 2 dcery unikli.",
+    "category": "religion/war",
+    "region": "Kanaán",
+    "importance": 5,
+    "tags": [
+      "Zkáza",
+      "Boží soud"
+    ],
+    "people": [
+      "Lot"
+    ],
+    "places": [
+      "Sodoma",
+      "Gomora"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1896,
+    "year_end": null,
+    "title": "Narození Izáka Sárou",
+    "description": "Narození Izáka v roce 1896 př. n. l. Abrahámovi bylo 100 let. Sára umírá, když bylo Abrahámovi 137 let. Izák žil 180 let, ve 40 si vzal ženu. Izák žil ve věku 180.",
+    "category": "religion/people",
+    "region": "Kanaán",
+    "importance": 4,
+    "tags": [
+      "Genealogie",
+      "Patriarchové"
+    ],
+    "people": [
+      "Abrahám",
+      "Sára",
+      "Izák"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 21, 5",
+      "Gn 23, 1-20"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1871,
+    "year_end": null,
+    "title": "Abrahámova zkouška s Izákem",
+    "description": "Izák nabídnut jako oběť v roce 1871 př. n. l.",
+    "category": "religion",
+    "region": "Kanaán",
+    "importance": 4,
+    "tags": [
+      "Oběť",
+      "Víra"
+    ],
+    "people": [
+      "Izák",
+      "Abrahám"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1853,
+    "year_end": null,
+    "title": "Abrahám a Kettura",
+    "description": "Abrahám vzal Ketturu jako 2. ženu v roce 1853 př. n. l. a měl s ní 6 dětí.",
+    "category": "religion/people",
+    "region": "Kanaán",
+    "importance": 2,
+    "tags": [
+      "Genealogie"
+    ],
+    "people": [
+      "Abrahám",
+      "Kettura"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1706,
+    "year_end": null,
+    "title": "Jákobova migrace do Egypta",
+    "description": "Jákob a jeho rodina jdou do Egypta v roce 1706 př. n. l. Klíčová migrace izraelského lidu do Egypta. Zmínky o Jákobově žebříku a Josefově snu.",
+    "category": "religion/politics",
+    "region": "Egypt",
+    "importance": 5,
+    "tags": [
+      "Migrace",
+      "Patriarchové",
+      "Josefův sen"
+    ],
+    "people": [
+      "Jákob",
+      "Josef"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1705,
+    "year_end": null,
+    "title": "Jákob se stává Izraelem",
+    "description": "Jákobovo jméno změněno na Izrael v roce 1705 př. n. l.",
+    "category": "religion/people",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "Změna jména",
+      "Patriarchové"
+    ],
+    "people": [
+      "Jákob",
+      "Izrael"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1706,
+    "year_end": null,
+    "title": "Jákobovi synové (12 kmenů Izraele)",
+    "description": "Ruben (4 syny), Simeon (6 synů), Levi (3 syny), Juda (5 synů), Dan (1 syn), Naftali (4 syny), Gád (7 synů), Ašer (4 syny a 1 dcera), Isachar (4 syny), Zabulun (3 syny), Josef (2 syny), Benjamín (10 synů).",
+    "category": "religion/people",
+    "region": "Egypt",
+    "importance": 4,
+    "tags": [
+      "Kmeny Izraele",
+      "Genealogie"
+    ],
+    "people": [
+      "Ruben",
+      "Simeon",
+      "Levi",
+      "Juda",
+      "Dan",
+      "Naftali",
+      "Gád",
+      "Ašer",
+      "Isachar",
+      "Zabulun",
+      "Josef",
+      "Benjamín"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Gn 46, 12",
+      "Gn 46, 21"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Egyptské monumenty v Gíze",
+    "description": "Velká Sfinga (17m hlava, 57m délka, 8.5m průměr, 59m dlouhá). Velká Pyramida poblíž Gízy (140m vysoká, 227m do čtverce, 48 500m2 plocha).",
+    "category": "culture/architecture",
+    "region": "Egypt",
+    "importance": 4,
+    "tags": [
+      "Památka",
+      "Starověké divy"
+    ],
+    "people": [],
+    "places": [
+      "Gíza"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1800,
+    "year_end": null,
+    "title": "Sargon z Akkadu a Akkádská říše",
+    "description": "Sargon z Akkadu vládl 45 let. Jeho říše sahala od Perského zálivu ke Středozemnímu moři. Založeno v roce 1800 př. n. l.",
+    "category": "politics/war",
+    "region": "Mezopotámie",
+    "importance": 4,
+    "tags": [
+      "Říše",
+      "Založení státu"
+    ],
+    "people": [
+      "Sargon z Akkadu"
+    ],
+    "places": [
+      "Akkad"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1750,
+    "year_end": null,
+    "title": "Chammurabi, král Babylonie",
+    "description": "Chammurabi sjednotil Babylonii v roce 1750 př. n. l. Slavný babylonský král a zákonodárce.",
+    "category": "politics/law",
+    "region": "Mezopotámie",
+    "importance": 5,
+    "tags": [
+      "Zákonodárce",
+      "Babylonská říše"
+    ],
+    "people": [
+      "Chammurabi"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1764,
+    "year_end": null,
+    "title": "Potopa v Attice",
+    "description": "Za vlády Egypťana, kolem r. 1764 př. n. l., potopa (záplava) Attiky, že zůstala pustá téměř 200 let. (Blair)",
+    "category": "natural_disaster",
+    "region": "Attika, Řecko",
+    "importance": 3,
+    "tags": [
+      "Záplavy"
+    ],
+    "people": [],
+    "places": [
+      "Attika"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1591,
+    "year_end": -1491,
+    "title": "Exodus Izraele z Egypta a zákon na Sínaji",
+    "description": "Exodus (odchod) tzn. od Josefova úmrtí (1635 př. n. l.) do postavení schrány smlouvy (1491 př. n. l.). Zákon vyhlášen na Sínaji v roce 1591 př. n. l. Zahrnuje 10 Morových ran a 3 velké události: Překročení Rudého moře, Vyhlášení zákona, Stavba schrány smlouvy.",
+    "category": "religion/politics",
+    "region": "Egypt, Sinaj",
+    "importance": 5,
+    "tags": [
+      "Mojžíšův zákon",
+      "Desatero",
+      "Morové rány",
+      "Rudé moře"
+    ],
+    "people": [
+      "Mojžíš"
+    ],
+    "places": [
+      "Sinaj",
+      "Rudé moře"
+    ],
+    "bible_refs": [
+      "Exodus"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1451,
+    "year_end": null,
+    "title": "Izraelité vstupují do Kanaánské země",
+    "description": "Po 40 letech putování vstoupili Izraelité do Kanaánské země v roce 1451 př. n. l. pod vedením Jozue. Jozue předal půdu každé rodině.",
+    "category": "religion/politics/war",
+    "region": "Kanaán",
+    "importance": 5,
+    "tags": [
+      "Dobytí",
+      "Dělení země",
+      "Putování"
+    ],
+    "people": [
+      "Jozue"
+    ],
+    "places": [
+      "Kanaán"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1491,
+    "year_end": -1051,
+    "title": "Vyhlášení teokracie na Sínaji",
+    "description": "Slavnostní vyhlášení Sínaje jako krále, kterým byl Ježíš. Vláda teokracie trvala od 1491 do 1051 př. n. l.",
+    "category": "religion/politics",
+    "region": "Sinaj",
+    "importance": 4,
+    "tags": [
+      "Vláda",
+      "Boží království"
+    ],
+    "people": [],
+    "places": [
+      "Sinaj"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1504,
+    "year_end": null,
+    "title": "Egypt na vrcholu slávy za Thutmose III.",
+    "description": "Thutmose III. (začátek vlády 1504 př. n. l.) nazýván „Egyptským Alexandrem”. Zmíněni faraoni XVIII.-XX. dynastie: Ahmose I., Amenhotep I., Thutmose I., Thutmose II., Hatšepsut, Amenhotep II., Thutmose IV., Amenhotep III., Achnaton, Tutanchamon, Rameses I. - XI.",
+    "category": "politics/war",
+    "region": "Egypt",
+    "importance": 4,
+    "tags": [
+      "Nová říše",
+      "Faraoni",
+      "Říše"
+    ],
+    "people": [
+      "Thutmose III",
+      "Ahmose I",
+      "Amenhotep I",
+      "Thutmose I",
+      "Thutmose II",
+      "Hatšepsut",
+      "Amenhotep II",
+      "Thutmose IV",
+      "Amenhotep III",
+      "Achnaton",
+      "Tutanchamon",
+      "Rameses II",
+      "Rameses III"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1556,
+    "year_end": null,
+    "title": "Založení Athén Kekropsem z Egypta",
+    "description": "Kekrops z Egypta zakládá Athény v roce 1556 př. n. l.",
+    "category": "politics/culture",
+    "region": "Řecko",
+    "importance": 4,
+    "tags": [
+      "Založení města"
+    ],
+    "people": [
+      "Kekrops I"
+    ],
+    "places": [
+      "Athény"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1556,
+    "year_end": null,
+    "title": "Zavedení élyšonských mystérií",
+    "description": "Zavedení náboženských mystérií v Řecku v roce 1556 př. n. l.",
+    "category": "religion/culture",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "Mystéria",
+      "Náboženství"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Založení Tróje, Athén a Théb",
+    "description": "Tato významná města byla založena za Mojžíšových dnů.",
+    "category": "politics/culture",
+    "region": "Řecko/Malá Asie",
+    "importance": 3,
+    "tags": [
+      "Založení města"
+    ],
+    "people": [],
+    "places": [
+      "Trója",
+      "Athény",
+      "Théby"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1700,
+    "year_end": -1184,
+    "title": "Řecká 'mytická' a 'hrdinská' doba",
+    "description": "Období od nejstarších zpráv o Řecku až k trojské válce (1184 př. n. l.) nazývané „mytickou neboli hrdinskou dobou”.",
+    "category": "history/culture",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "Mytologie",
+      "Raná historie",
+      "Trojská válka"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Původ Řeků z Jávana",
+    "description": "Rekové prý byli potomky Jávana, čtvrtého Jafetova syna.",
+    "category": "religion/culture",
+    "region": "Řecko",
+    "importance": 2,
+    "tags": [
+      "Genealogie"
+    ],
+    "people": [
+      "Jávan",
+      "Jafet"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Pelasgové, osadníci Řecka a Itálie",
+    "description": "Pelasgové z Thesálie se usazují v Itálii. Byli dávnými obyvateli Řecka a Itálie a předchůdci Římanů a Latinců. Námořní obchodníci, zemědělci, pastevci.",
+    "category": "politics/culture/economics",
+    "region": "Itálie, Řecko",
+    "importance": 3,
+    "tags": [
+      "Migrace",
+      "Raná civilizace",
+      "Obchod"
+    ],
+    "people": [
+      "Pelasgové"
+    ],
+    "places": [
+      "Thesálie",
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1503,
+    "year_end": null,
+    "title": "Deukalióvova potopa v Thesálí",
+    "description": "Datováno Eusebiem do roku 1503 př. n. l. Někteří ji považují za obdobu Noemovy potopy, jiní tvrdí, že byla pouze místní. Deukalióv a Pyrrha se zachránili na hoře Parnasós.",
+    "category": "religion/natural_disaster",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "Mytologie",
+      "Záplavy"
+    ],
+    "people": [
+      "Deukalióv",
+      "Pyrrha"
+    ],
+    "places": [
+      "Thesálie",
+      "Parnasós"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1493,
+    "year_end": null,
+    "title": "Vynález písma Kadmem v Řecku",
+    "description": "Kadmos zavedl v Řecku patnáct foliových písmen v roce 1493 př. n. l., která se stala základem latinky.",
+    "category": "culture/science",
+    "region": "Řecko",
+    "importance": 4,
+    "tags": [
+      "Písmo",
+      "Vynález"
+    ],
+    "people": [
+      "Kadmos"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1498,
+    "year_end": null,
+    "title": "Založení Amfiktyonického koncilu v Thébách",
+    "description": "Zaveden Amfiktyonem v roce 1498 př. n. l.",
+    "category": "politics/religion",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "Koncil",
+      "Politika"
+    ],
+    "people": [
+      "Amfiktyon"
+    ],
+    "places": [
+      "Théby"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1490,
+    "year_end": null,
+    "title": "Založení města Sparty Lakedaimonem",
+    "description": "Lakedaimon se žení Spartu, což vedlo k založení města Sparty v roce 1490 př. n. l.",
+    "category": "politics/culture",
+    "region": "Řecko",
+    "importance": 4,
+    "tags": [
+      "Založení města"
+    ],
+    "people": [
+      "Lakedaimon"
+    ],
+    "places": [
+      "Sparta"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1550,
+    "year_end": null,
+    "title": "Město Trója čili Ilium",
+    "description": "Důležité město v rané historii (1550 př. n. l.).",
+    "category": "politics/culture",
+    "region": "Malá Asie",
+    "importance": 3,
+    "tags": [
+      "Města",
+      "Raná historie"
+    ],
+    "people": [],
+    "places": [
+      "Troja",
+      "Ilium"
+    ],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -5004,
+    "year_end": -2691,
+    "title": "Různé odhady počátku egyptské chronologie",
+    "description": "Různé chronologie prvních egyptských králů (Menes, Chefren, Bootes, Lelaps, Rameses, Mariette, Lenormant) s daty od 2691 př. n. l. do 5004 př. n. l. Egyptologové se neshodují, starší je kratší, mladší delší. (G. Wilkinson, Bootes, Mariette, Lenormant).",
+    "category": "history/politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "Chronologie",
+      "Historiografie",
+      "Rané říše"
+    ],
+    "people": [
+      "Menes",
+      "Chefren",
+      "Bootes",
+      "Lelaps",
+      "Rameses",
+      "Mariette",
+      "Lenormant"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Sen Nung, vynálezce zemědělství v Číně",
+    "description": "Sen Nung vynalezl rýži a výrobu cihel. Věk 146 let. Znali výrobu cihel z písku.",
+    "category": "culture/science",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "Vynález",
+      "Zemědělství",
+      "Technologie"
+    ],
+    "people": [
+      "Sen Nung"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -129,
+    "year_end": null,
+    "title": "První historický kontakt Číny s Parthy a Skyty",
+    "description": "V bitvě mezi parthským Fraátem a Skyty v roce 129 př. n. l. se Číňané postavili na stranu Skythů, což je jejich první objevení se v dějinách. (Pozn.: Tato událost je výrazně pozdější než okolní události na časové ose).",
+    "category": "war/politics",
+    "region": "Parthie, Skythie, Čína",
+    "importance": 4,
+    "tags": [
+      "Válka",
+      "Rané kontakty"
+    ],
+    "people": [
+      "Fraátes"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -146,
+    "year_end": 1825,
+    "title": "Klíčové události z historie Korintu",
+    "description": "Císař Jaosai Kární vládl do 593 př. n. l. Zmiňuje Lucius Mummius (146 př. n. l.), Caesar (46 př. n. l.), zničení Pavlem (54 n. l., Sk 18). Obnoven Alarchem (396 n. l.), Normany (1146 n. l.), dobyta Turky (1446 n. l.), Berchtoldianá (1887), znovu Turci (1714), Řekové (1825).",
+    "category": "politics/war/culture",
+    "region": "Korint",
+    "importance": 4,
+    "tags": [
+      "Město",
+      "Dějiny",
+      "Dobytí"
+    ],
+    "people": [
+      "Jaosai Kární",
+      "Lucius Mummius",
+      "Caesar",
+      "Pavel",
+      "Alarich"
+    ],
+    "places": [
+      "Korint"
+    ],
+    "bible_refs": [
+      "Sk 18"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -2247,
+    "year_end": -900,
+    "title": "Přehled chronologie raných civilizací",
+    "description": "Chronologická tabulka s událostmi: Potopa (2247 př. n. l.), Babylonská monarchie (2230 př. n. l.), Egyptská monarchie (2200 př. n. l.), Vzestup Foiníkie (2200 př. n. l.), Vzestup Indie (2200 př. n. l.), Nejstarší čínská civilizace (2150 př. n. l.), Nejstarší indická civilizace (1900 př. n. l.), Nejstarší řecká civilizace (1700 př. n. l.), Počátek civilizace Frýgie a Lýdie (1550 př. n. l.), Počátek civilizace Itálie (1200 př. n. l.), Počátek civilizace v Lýdii (900 př. n. l.).",
+    "category": "history",
+    "region": "Blízký východ, Asie, Evropa",
+    "importance": 5,
+    "tags": [
+      "Chronologie",
+      "Civilizace",
+      "Rané říše"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -2369,
+    "year_end": null,
+    "title": "Kniha Genesis",
+    "description": "První kniha Pentateuchu, zahrnuje 2369 let dějin (od stvoření světa).",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "Bible",
+      "Starý zákon"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Genesis"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1635,
+    "year_end": -1491,
+    "title": "Kniha Exodus",
+    "description": "Druhá kniha Pentateuchu, zahrnuje 145 let dějin (od Josefova úmrtí do postavení schrány smlouvy).",
+    "category": "religion",
+    "region": "Egypt, Sinaj",
+    "importance": 4,
+    "tags": [
+      "Bible",
+      "Starý zákon"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Exodus"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1491,
+    "year_end": null,
+    "title": "Kniha Leviticus",
+    "description": "Třetí kniha Pentateuchu, zahrnuje 1 měsíc dějin.",
+    "category": "religion",
+    "region": "Sinaj",
+    "importance": 3,
+    "tags": [
+      "Bible",
+      "Starý zákon"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Leviticus"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1491,
+    "year_end": null,
+    "title": "Kniha Numeri",
+    "description": "Čtvrtá kniha Pentateuchu, zahrnuje 39 let dějin (provedeno sčítání lidu).",
+    "category": "religion",
+    "region": "Poušť",
+    "importance": 3,
+    "tags": [
+      "Bible",
+      "Starý zákon"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Numeri"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1451,
+    "year_end": null,
+    "title": "Kniha Deuteronomium",
+    "description": "Pátá kniha Pentateuchu, zahrnuje 5 týdnů dějin. Opakování zákona, Mojžíš umírá na Hoře Nebo.",
+    "category": "religion",
+    "region": "Moáb",
+    "importance": 3,
+    "tags": [
+      "Bible",
+      "Starý zákon"
+    ],
+    "people": [
+      "Mojžíš"
+    ],
+    "places": [
+      "Hora Nebo"
+    ],
+    "bible_refs": [
+      "Deuteronomium"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1451,
+    "year_end": null,
+    "title": "Kniha Jozue",
+    "description": "Šestá kniha, zahrnuje 25 let dějin (překročení Jordánu, dobytí a dědictví země).",
+    "category": "religion/war",
+    "region": "Kanaán",
+    "importance": 4,
+    "tags": [
+      "Bible",
+      "Starý zákon",
+      "Dobytí"
+    ],
+    "people": [
+      "Jozue"
+    ],
+    "places": [
+      "Jordán",
+      "Kanaán"
+    ],
+    "bible_refs": [
+      "Jozue"
+    ],
+    "source_page": "VII"
+  },
+  {
+    "year": -1482,
+    "year_end": null,
+    "title": "Různé odhady data Exodu",
+    "description": "Různé odhady pro datum Exodu: Poble 1482 př. n. l., Hales 1988 př. n. l., Umar 1988 př. n. l., Usher 1491 př. n. l.",
+    "category": "history/religion",
+    "region": "Egypt",
+    "importance": 2,
+    "tags": [
+      "Chronologie",
+      "Historiografie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "VII"
+  },
+  {
+    "year": -1451,
+    "year_end": null,
+    "title": "Smrt Mojžíše na Hoře Nebo",
+    "description": "Mojžíš umírá na Hoře Nebo v roce 1451 př. n. l. po 40 letech putování pouští.",
+    "category": "religion/people",
+    "region": "Moáb",
+    "importance": 4,
+    "tags": [
+      "Smrt",
+      "Putování"
+    ],
+    "people": [
+      "Mojžíš"
+    ],
+    "places": [
+      "Hora Nebo"
+    ],
+    "bible_refs": [
+      "Deuteronomium"
+    ],
+    "source_page": "VII"
+  }
+]

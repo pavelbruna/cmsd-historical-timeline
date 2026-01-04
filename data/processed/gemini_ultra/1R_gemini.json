@@ -1,0 +1,1439 @@
+[
+  {
+    "year": -350000,
+    "year_end": null,
+    "title": "Osídlení lidmi v Číně",
+    "description": "Lidské osídlení v Číně lze datovat asi před 350 000 lety.",
+    "category": "culture",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "osídlení",
+      "prehistorie"
+    ],
+    "people": [],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -3000,
+    "year_end": null,
+    "title": "Vznik civilizace v údolí Žluté řeky",
+    "description": "Civilizace se objevila v údolí řeky Chuang-che (Žluté řeky) kolem roku 3000 př. n. l.",
+    "category": "culture",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "civilizace",
+      "Žlutá řeka",
+      "počátky státnosti"
+    ],
+    "people": [],
+    "places": [
+      "Žlutá řeka"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -2500,
+    "year_end": null,
+    "title": "Stavba hrazených sídel",
+    "description": "Hrazená sídla se začala stavět po roce 2500 př. n. l.",
+    "category": "culture",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "architektura",
+      "osídlení"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -2200,
+    "year_end": -1760,
+    "title": "Vláda dynastie Sia",
+    "description": "Dynastie Sia ovládala část pánve Žluté řeky asi v letech 2200–1760 př. n. l.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "dynastie",
+      "raná dynastie"
+    ],
+    "people": [],
+    "places": [
+      "Žlutá řeka"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -1800,
+    "year_end": -1200,
+    "title": "Vláda dynastie Šang-Jin",
+    "description": "Dynastie Šang-Jin (asi 18.–12. století př. n. l.) byla společností bronzové doby se znalostí písma, která si podrobila území mezi Žlutou řekou a řekou Jang-c'-tiang.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "dynastie",
+      "bronzová doba",
+      "písmo",
+      "expanze"
+    ],
+    "people": [],
+    "places": [
+      "Žlutá řeka",
+      "Jang-c'-tiang"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -1111,
+    "year_end": -221,
+    "title": "Založení dynastie Čou",
+    "description": "Roku 1111 př. n. l. dynastie Čou porazila dynastii Šang a založila říši, která trvala až do 221 př. n. l. (ovšem jen nominálně).",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "dynastie",
+      "válka",
+      "založení říše"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -771,
+    "year_end": -221,
+    "title": "Ztráta kontroly dynastií Čou a Období válčících států",
+    "description": "Roku 771 př. n. l. dynastie Čou ztratila celkovou vládu a následovalo století válek mezi soupeřícími státy (Období Jara a podzim, Období válčících států).",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "dynastie",
+      "úpadok",
+      "válka",
+      "fragmentace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -650,
+    "year_end": null,
+    "title": "Zpracování železa v Číně",
+    "description": "Kolem 650 př. n. l. se v Číně začalo zpracovávat železo.",
+    "category": "science",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "technologie",
+      "metalurgie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -551,
+    "year_end": -479,
+    "title": "Život Konfucia",
+    "description": "Filozof Konfucius, jehož učení hluboce ovlivnilo čínskou kulturu a státní správu.",
+    "category": "religion",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "filozofie",
+      "konfucianismus",
+      "osobnost"
+    ],
+    "people": [
+      "Konfucius"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -400,
+    "year_end": null,
+    "title": "Počátky opevňovacích prací (Velká čínská zeď)",
+    "description": "Ve 4. století př. n. l. započaly opevňovací práce proti hrozbě cizí invaze ze severu. První císař spojil tato různá opevnění, aby zadržel Huny. Ta se stala základem Velké čínské zdi.",
+    "category": "politics",
+    "region": "Severní Čína",
+    "importance": 4,
+    "tags": [
+      "Velká čínská zeď",
+      "obrana",
+      "infrastruktura"
+    ],
+    "people": [
+      "Š´-chuang-ti"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -221,
+    "year_end": null,
+    "title": "Sjednocení Číny a založení dynastie Čchin",
+    "description": "Čína byla sjednocena prvním císařem Š´-chuang-tim, který založil svou dynastii. Odstranil feudalismus, vládl diktátorsky, vytvořil systém ústřední a provinční vlády a začal stavět Velkou čínskou zeď. Jeho jméno dalo Číně název.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "sjednocení",
+      "dynastie",
+      "císařství",
+      "reforma",
+      "Velká čínská zeď"
+    ],
+    "people": [
+      "Š´-chuang-ti"
+    ],
+    "places": [
+      "Sien-jang"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -221,
+    "year_end": -206,
+    "title": "Terakotová armáda",
+    "description": "Ohromný náhrobek prvního císaře (Š´-chuang-tiho) poblíž Sien-jangu, střežený armádou terakotových válečníků, která je dnes hlavní turistickou atrakcí.",
+    "category": "culture",
+    "region": "Sien-jang",
+    "importance": 4,
+    "tags": [
+      "archeologie",
+      "pohřební památka",
+      "umění",
+      "turismus"
+    ],
+    "people": [
+      "Š´-chuang-ti"
+    ],
+    "places": [
+      "Sien-jang"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Velká čínská zeď (popis)",
+    "description": "Jedna z největších staveb lidské historie, dlouhá více než 5000 km. Původně byla z hlíny a dřeva, později z kamene, částečně z hlíny s cihlovou výplní, ale byla značně přestavěna v 15. a 16. století.",
+    "category": "culture",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "architektura",
+      "infrastruktura",
+      "Velká čínská zeď"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -206,
+    "year_end": 220,
+    "title": "Založení dynastie Chan",
+    "description": "Dynastie Chan byla založena Liou Pangem a byla první dynastií, která vládla celé Číně. Rozšířila svou vládu daleko na jih, dobyla Koreu a Vietnam. Hlavními městy byly Čchjang-an a Luo-jang. V tomto období byl v Číně vynalezen papír.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "dynastie",
+      "expanze",
+      "založení říše",
+      "papír",
+      "technologie"
+    ],
+    "people": [
+      "Liou Pang"
+    ],
+    "places": [
+      "Čchjang-an",
+      "Luo-jang",
+      "Korea",
+      "Vietnam"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 9,
+    "year_end": 23,
+    "title": "Reformy uzurpátora Wang Manga",
+    "description": "V letech 9-23 provedl uzurpátor Wang Mang základní reformy vlády, ale ty přispěly k jeho nepopularitě a vedly k jeho zavraždění.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "reforma",
+      "uzurpátor",
+      "politické nepokoje"
+    ],
+    "people": [
+      "Wang Mang"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 105,
+    "year_end": 220,
+    "title": "Anarchie a občanská válka (pozdní Chan)",
+    "description": "Anarchie a občanská válka: Čína rozdrobená mezi místní vládce, kteří spolu vzájemně bojovali.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "anarchie",
+      "občanská válka",
+      "fragmentace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 220,
+    "year_end": 581,
+    "title": "Pád dynastie Chan a 'Období zmatků'",
+    "description": "Pád dynastie Chan vedl k „období zmatků“ – roztříštěnosti a konfliktu, které trvalo tři staletí. Žádná dynastie nezískala vládu nad celou Čínou. Celkem se vystřídalo 29 dynastií s hlavními městy ponejvice v Nankingu, Čcheng-tu a v Luo-jangu.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "úpadok",
+      "fragmentace",
+      "dynastie",
+      "občanská válka"
+    ],
+    "people": [],
+    "places": [
+      "Nanking",
+      "Čcheng-tu",
+      "Luo-jang"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 221,
+    "year_end": 265,
+    "title": "Dynastie Wei a Šu",
+    "description": "Dynastie Wei a Šu vládly části Číny v období fragmentace po Chan.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "dynastie",
+      "fragmentace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 265,
+    "year_end": 420,
+    "title": "Dynastie Wu",
+    "description": "Dynastie Wu vládla části Číny v období fragmentace.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "dynastie",
+      "fragmentace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 200,
+    "year_end": null,
+    "title": "Vzrůst nájezdů kočovných Hunů",
+    "description": "Od druhého století našeho letopočtu vzrostly nájezdy kočovných Hunů ze severu. Roku 304 prolomili Velkou zeď a vydrancovali Luo-jang a Čchjang-an. Následovaly další vpády.",
+    "category": "war",
+    "region": "Severní Čína",
+    "importance": 4,
+    "tags": [
+      "invaze",
+      "Hunové",
+      "Velká čínská zeď",
+      "destrukce"
+    ],
+    "people": [],
+    "places": [
+      "Luo-jang",
+      "Čchjang-an"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 581,
+    "year_end": null,
+    "title": "Sjednocení Číny dynastií Suej",
+    "description": "Dynastie Suej opět sjednotila Čínu a dobyla jih. Rokem 589 začalo druhé velké období císařské Číny.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "sjednocení",
+      "dynastie",
+      "expanze"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 609,
+    "year_end": null,
+    "title": "Dokončení Velkého kanálu (Suej)",
+    "description": "Roku 609 byla dokončena rozsáhlá síť kanálů (Velký kanál).",
+    "category": "economics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "infrastruktura",
+      "doprava",
+      "obchod"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 618,
+    "year_end": null,
+    "title": "Zavraždení císaře Jang-tiho a nahrazení dynastie Suej",
+    "description": "Zavraždení císaře Jang-tiho vedlo k sérii válek a nahrazení dynastie Suej dynastií Tchang.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "císař",
+      "vražda",
+      "pád dynastie",
+      "válka"
+    ],
+    "people": [
+      "Jang-ti"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 618,
+    "year_end": 907,
+    "title": "Dynastie Tchang",
+    "description": "První dynastie, která vládla celé Číně, s hlavním městem Čchjang-an. Rozšířila svou vládu daleko na jih, dobyla Koreu a Vietnam. Období vlády císaře Tchaj-cunga (626-649) a císařky Wu (manipulace dvorem 690-705).",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "dynastie",
+      "expanze",
+      "zlatý věk",
+      "císař",
+      "císařovna"
+    ],
+    "people": [
+      "Tchaj-cung",
+      "Císařka Wu"
+    ],
+    "places": [
+      "Čchjang-an",
+      "Korea",
+      "Vietnam",
+      "Persie",
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 907,
+    "year_end": 960,
+    "title": "Období Pěti dynastií a Deseti států",
+    "description": "Po pádu dynastie Tchang následovala nejednota, dokud na sklonku 10. století dynastie Sung ze severu nezjednotila většinu říše.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "fragmentace",
+      "dynastie",
+      "občanská válka"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 960,
+    "year_end": 1279,
+    "title": "Dynastie Sung a její zlatý věk",
+    "description": "Sungovská Čína byla v 11. a 12. století nejbohatším, nejlépe řízeným a kulturně nejrozvinutějším státem světa. Kolem r. 1200 byla v defenzivě, když ji severní nájezdníci přinutili přesunout hlavní město na jih. Mandžuští Číňané po spojenectví se Sungy proti Liao začali rozšiřovat svou vládu na celou severní Čínu.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "dynastie",
+      "zlatý věk",
+      "kultura",
+      "ekonomika",
+      "správa",
+      "invaze",
+      "hlavní město"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1211,
+    "year_end": null,
+    "title": "Čingischánův útok na Čínu",
+    "description": "Čingischán (1206-27) vyslal Mongoly do útoků proti Číně.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "invaze",
+      "Mongolové",
+      "Čingischán"
+    ],
+    "people": [
+      "Čingischán"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1215,
+    "year_end": null,
+    "title": "Dobytí Pekingu Mongoly",
+    "description": "Mongolové dobyli Peking.",
+    "category": "war",
+    "region": "Peking",
+    "importance": 3,
+    "tags": [
+      "dobytí",
+      "Mongolové"
+    ],
+    "people": [],
+    "places": [
+      "Peking"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1234,
+    "year_end": null,
+    "title": "Chán Ogedej přemohl Čchiny",
+    "description": "Chán Ogedej (1229-41) přemohl Čchiny (část Číny).",
+    "category": "war",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "dobytí",
+      "Mongolové"
+    ],
+    "people": [
+      "Ogedej"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1251,
+    "year_end": 1259,
+    "title": "Mongolská kontrola nad severní Čínou (Möngke-chán)",
+    "description": "Za vlády Möngke-chána (1251-9) ustavil kontrolu Mongolů (Jüan) nad většinou severní Číny.",
+    "category": "politics",
+    "region": "Severní Čína",
+    "importance": 3,
+    "tags": [
+      "Mongolové",
+      "nadvláda"
+    ],
+    "people": [
+      "Möngke-chán"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1254,
+    "year_end": 1294,
+    "title": "Kublajchán dokončuje dobývání Sungů",
+    "description": "Roku 1254 a Kublajchán (Chubilaj, 1260-94) dokončil dobývání ovládnutím oblasti Sungů jižně od Jang-c'-tiang. Čína byla součástí říše Velkého chána.",
+    "category": "war",
+    "region": "Jižní Čína",
+    "importance": 4,
+    "tags": [
+      "dobytí",
+      "Mongolové",
+      "Sung",
+      "Kublajchán"
+    ],
+    "people": [
+      "Kublajchán"
+    ],
+    "places": [
+      "Jang-c'-tiang"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1294,
+    "year_end": null,
+    "title": "Roztříštění Mongolské říše",
+    "description": "Po Kublajchánově smrti se jeho velká říše roztříštila.",
+    "category": "politics",
+    "region": "Mongolská říše",
+    "importance": 3,
+    "tags": [
+      "rozpad říše",
+      "Mongolové"
+    ],
+    "people": [
+      "Kublajchán"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1206,
+    "year_end": 1368,
+    "title": "Oživení Hedvábné cesty za Mongolů",
+    "description": "Za vlády Mongolů byla oživena Hedvábná cesta.",
+    "category": "economics",
+    "region": "Eurasie",
+    "importance": 4,
+    "tags": [
+      "obchod",
+      "Hedvábná cesta",
+      "Mongolové"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1340,
+    "year_end": 1359,
+    "title": "Nepokoje v Mongolské Číně",
+    "description": "40. a 50. léta (14. století): Záplavy, epidemie a suchá vedly k nepokojům, které přispěly k pádu Mongolské nadvlády.",
+    "category": "economics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "přírodní katastrofy",
+      "epidemic",
+      "nepokoje",
+      "Mongolové"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1368,
+    "year_end": 1644,
+    "title": "Vyhnání Mongolů a založení dynastie Ming",
+    "description": "Roku 1368 byli Mongolové nakonec z Číny vyhnáni a byla založena dynastie Ming. Hlavním městem byl Nanking (do 1421), poté Peking. Byl dokončen 1794 km dlouhý Velký kanál. Za admirála Čeng He se Čína vydala na námořní plavby do Arábie a Afriky, později se však izolovala.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "osvobození",
+      "dynastie",
+      "Mongolové",
+      "infrastruktura",
+      "objevy",
+      "izolace"
+    ],
+    "people": [
+      "Čeng He"
+    ],
+    "places": [
+      "Nanking",
+      "Peking",
+      "Arábie",
+      "Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1618,
+    "year_end": null,
+    "title": "Začátek mandžuských útoků na Čínu",
+    "description": "Roku 1618 začali Mandžuové napadat Čínu.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "invaze",
+      "Mandžuové"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1644,
+    "year_end": 1911,
+    "title": "Založení a vláda mandžuské dynastie Čching",
+    "description": "Roku 1644 založili Mandžuové novou dynastii Čching. Císař Kchang-si (1662-1722) a Jüna-čen (1722-1735) zahájili válečná tažení, dobyli Tibet a Mongolsko. Císař Čchien-lung (1735-96) vládl velké říši, zahrnující většinu Indočíny a Nepálu. Slabá vláda v 19. století ponechala Čínu otevřenou vykořisťování cizinci.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "dynastie",
+      "založení říše",
+      "Mandžuové",
+      "expanze",
+      "imperialismus",
+      "úpadok"
+    ],
+    "people": [
+      "Kchang-si",
+      "Jüna-čen",
+      "Čchien-lung"
+    ],
+    "places": [
+      "Tibet",
+      "Mongolsko",
+      "Indočína",
+      "Nepál"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1696,
+    "year_end": null,
+    "title": "Připojení Mongolska k Číně",
+    "description": "Roku 1696 bylo Mongolsko připojeno k říši Čching.",
+    "category": "politics",
+    "region": "Mongolsko",
+    "importance": 3,
+    "tags": [
+      "anexe",
+      "Mongolsko",
+      "dynastie Čching"
+    ],
+    "people": [],
+    "places": [
+      "Mongolsko"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1720,
+    "year_end": null,
+    "title": "Připojení Tibetu k Číně",
+    "description": "Tibet byl připojen k říši Čching v roce 1720.",
+    "category": "politics",
+    "region": "Tibet",
+    "importance": 3,
+    "tags": [
+      "anexe",
+      "Tibet",
+      "dynastie Čching"
+    ],
+    "people": [],
+    "places": [
+      "Tibet"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1839,
+    "year_end": 1842,
+    "title": "První opiová válka",
+    "description": "Válka mezi Čínou a Británií kvůli obchodu s opiem, která ukázala slabost Číny.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "kolonialismus",
+      "válka",
+      "Británie",
+      "opium"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1842,
+    "year_end": null,
+    "title": "Hongkong přenechán Británii",
+    "description": "Hongkong byl přenechán Británii smlouvou z Nankingu.",
+    "category": "politics",
+    "region": "Hongkong",
+    "importance": 3,
+    "tags": [
+      "kolonialismus",
+      "smlouva",
+      "Británie"
+    ],
+    "people": [],
+    "places": [
+      "Hongkong",
+      "Nanking"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1851,
+    "year_end": 1864,
+    "title": "Povstání Tchaj-pchingů",
+    "description": "Rozsáhlé občanské povstání proti dynastii Čching.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "povstání",
+      "občanská válka",
+      "náboženství"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1894,
+    "year_end": 1895,
+    "title": "Čínsko-japonská válka",
+    "description": "Válka mezi Čínou a Japonskem o vliv v Koreji.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "imperialismus",
+      "Japonsko"
+    ],
+    "people": [],
+    "places": [
+      "Korea"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1900,
+    "year_end": null,
+    "title": "Boxerské povstání",
+    "description": "Proticizinecké a protikřesťanské povstání v Číně.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "povstání",
+      "xenofobie",
+      "imperialismus"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1911,
+    "year_end": 1912,
+    "title": "Pád mandžuské dynastie a vznik republiky",
+    "description": "Po pádu mandžuské dynastie zápasila Sunjatsenová republikánská vláda o sjednocení Číny.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "republika",
+      "pád dynastie"
+    ],
+    "people": [
+      "Sunjatsen"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1920,
+    "year_end": 1945,
+    "title": "Občanská válka a japonská invaze v Číně",
+    "description": "Republikánská vláda se snažila sjednotit Čínu, ale občanská válka a invaze Japonců (1932-1945) tomu bránily.",
+    "category": "war",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "občanská válka",
+      "invaze",
+      "Japonsko"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1949,
+    "year_end": null,
+    "title": "Triumf komunistů v Číně",
+    "description": "Roku 1949 přišel triumf komunistů, kteří převzali moc v Číně.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "komunismus",
+      "revoluce",
+      "převzetí moci"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1949,
+    "year_end": 1976,
+    "title": "Vláda Mao Ce-tunga",
+    "description": "V letech 1949-76 používal Mao Ce-tung extrémní nástroje při pokusu o modernizaci země.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "komunismus",
+      "modernizace",
+      "diktatura"
+    ],
+    "people": [
+      "Mao Ce-tung"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1978,
+    "year_end": 1996,
+    "title": "Reformy Teng Siao-pchinga",
+    "description": "V letech 1978-96 zvolil Teng Siao-pching obezřetnější cestu k otevření Číny světovému obchodu a vlivu.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "reforma",
+      "ekonomika",
+      "otevření světu"
+    ],
+    "people": [
+      "Teng Siao-pching"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1997,
+    "year_end": null,
+    "title": "Vrácení Hongkongu Číně",
+    "description": "Hongkong, přenechaný Británii smlouvou z Nankingu v roce 1842, byl vrácen Číně v roce 1997.",
+    "category": "politics",
+    "region": "Hongkong",
+    "importance": 3,
+    "tags": [
+      "dekolonizace",
+      "Hongkong",
+      "Británie"
+    ],
+    "people": [],
+    "places": [
+      "Hongkong"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": -660,
+    "year_end": null,
+    "title": "Tradiční založení japonské říše",
+    "description": "Tradičně uváděné datum založení japonské říše 660 př. n. l. bylo nyní zpochybněno a mnozí z prvních císařů jsou legendární.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 2,
+    "tags": [
+      "legendy",
+      "založení státu"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 400,
+    "year_end": 600,
+    "title": "Vzestup státu Jamato (období Asuka)",
+    "description": "Na počátku pátého století našeho letopočtu první jednotný japonský stát Jamato zesílil a expandoval. To bylo období Asuka.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 3,
+    "tags": [
+      "raný stát",
+      "Jamato",
+      "Asuka"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 550,
+    "year_end": null,
+    "title": "Silný čínský vliv v Japonsku",
+    "description": "Uprostřed šestého století silný čínský vliv zapůsobil na Japonsko.",
+    "category": "culture",
+    "region": "Japonsko",
+    "importance": 3,
+    "tags": [
+      "kulturní vliv",
+      "Čína"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 600,
+    "year_end": 700,
+    "title": "Japonsko poraženo v Koreji",
+    "description": "Japonsko bylo poraženo v Koreji a upadalo.",
+    "category": "war",
+    "region": "Korea",
+    "importance": 2,
+    "tags": [
+      "válka",
+      "Korea",
+      "úpadok"
+    ],
+    "people": [],
+    "places": [
+      "Korea"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 710,
+    "year_end": 784,
+    "title": "Období Nara",
+    "description": "Roku 710 se hlavním městem stala Nara (Heijō). V letech 710–759 převládal na dvoře vliv rodu Fudžiwara. Roku 784 se hlavní město přesunulo do Heianu (Kjóta).",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 3,
+    "tags": [
+      "hlavní město",
+      "Nara",
+      "Fudžiwara"
+    ],
+    "people": [
+      "Fudžiwara (rod)"
+    ],
+    "places": [
+      "Nara",
+      "Heian",
+      "Kjóto"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 784,
+    "year_end": 1185,
+    "title": "Období Heian (Kjóto)",
+    "description": "Hlavní město dočasně přesunuto do Nagaoky, než se o deset let později navrátilo do Heianu (Kjóta). Po celé období Heianu byla nepřerušená linie regentů z rodu Fudžiwara, ale císaři Gosanjó postupně získávali moc. Bylo to období mírových roků, vliv říše se rozšířil na sever Honšú a do jižního výběžku Hokkaidó.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 4,
+    "tags": [
+      "hlavní město",
+      "Heian",
+      "Kjóto",
+      "Fudžiwara",
+      "mír",
+      "expanze"
+    ],
+    "people": [
+      "Fudžiwara (rod)",
+      "Gosanjó"
+    ],
+    "places": [
+      "Nagaoka",
+      "Heian",
+      "Kjóto",
+      "Honšú",
+      "Hokkaidó"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 935,
+    "year_end": 940,
+    "title": "Povstání Masakado a Sumitomo",
+    "description": "Vzbouřenci Taira Masakado a Fujiwara Sumitomo zahájili povstání proti centrální vládě.",
+    "category": "war",
+    "region": "Japonsko",
+    "importance": 2,
+    "tags": [
+      "povstání",
+      "válečníci"
+    ],
+    "people": [
+      "Taira Masakado",
+      "Fujiwara Sumitomo"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1050,
+    "year_end": null,
+    "title": "Růst vlivu bojovnických klanů (samurajů)",
+    "description": "Vliv bojovnických klanů (samurajů) rostl, ti moc manipulovali dvorem, ale ne vždy se shodli s císařskou silou.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 3,
+    "tags": [
+      "samurajové",
+      "dvorní intriky",
+      "vojenská moc"
+    ],
+    "people": [
+      "samurajové"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1086,
+    "year_end": null,
+    "title": "Vláda 'klášterních císařů'",
+    "description": "Roku 1086 začala vláda 'klášterních císařů', kteří vládli jako mniši.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 2,
+    "tags": [
+      "císař",
+      "buddhismus",
+      "politika"
+    ],
+    "people": [
+      "klášterní císaři"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1156,
+    "year_end": 1185,
+    "title": "Vzestup Tairy a porážka Minamoto",
+    "description": "Roku 1156 začal rod Taira vyhánět soupeře ze dvora a dospěl k převaze, dokud nebyl zničen rivaly z rodu Minamoto v roce 1185.",
+    "category": "war",
+    "region": "Japonsko",
+    "importance": 3,
+    "tags": [
+      "občanská válka",
+      "klany",
+      "Taira",
+      "Minamoto"
+    ],
+    "people": [
+      "rod Taira",
+      "rod Minamoto"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1185,
+    "year_end": 1333,
+    "title": "Období Kamakura",
+    "description": "Jorimoto zvítězil v námořní bitvě u Dan-no-ury a zmocnil se titulu šóguna (vojenského guvernéra). Jorimoto Bafuku přesídlil do Kamakury. V tomto období byly pokusy Mongolů o invazi r. 1274 a 1281 překáženy 'Božským větrem' čili 'kamikadze'.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 5,
+    "tags": [
+      "šógunát",
+      "válka",
+      "bitva",
+      "Minamoto Jorimoto",
+      "invaze",
+      "Mongolové",
+      "kamikadze"
+    ],
+    "people": [
+      "Minamoto Jorimoto"
+    ],
+    "places": [
+      "Dan-no-ura",
+      "Kamakura"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1333,
+    "year_end": 1573,
+    "title": "Období Muromači",
+    "description": "Císař Godaigo svrhl s pomocí klanu Ašikaga Jorimota Bafuku. R. 1336 se stal šógunem Ašikaga Takudži a zorganizoval nový režim, Muromači Bafuku. Válka Onin (1467-77) mezi rody Hosokawa a Jamana zahájila století sporadických válek. Oda Nobunaga sesadil posledního šóguna rodu Ašikaga r. 1573, ale r. 1582 byl zavražděn.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 4,
+    "tags": [
+      "šógunát",
+      "císař",
+      "Ašikaga",
+      "občanská válka",
+      "anarchie"
+    ],
+    "people": [
+      "Godaigo",
+      "Ašikaga (klan)",
+      "Ašikaga Takudži",
+      "Hosokawa (rod)",
+      "Jamana (rod)",
+      "Oda Nobunaga"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1500,
+    "year_end": 1600,
+    "title": "Anarchie místních domén (16. stol.)",
+    "description": "Na počátku šestnáctého století přineslo asi 250 místních domén anarchii.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 2,
+    "tags": [
+      "anarchie",
+      "fragmentace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1573,
+    "year_end": 1603,
+    "title": "Období Momojama",
+    "description": "R. 1573 Oda Nobunaga sesadil posledního šóguna rodu Ašikaga. R. 1582 byl zavražděn a následován Toyotomi Hidejošim, který v r. 1590 sjednotil Japonsko a v r. 1592 zahájil invazi do Koreje. Po smrti Hidejošiho se r. 1598 stal Tokugava Iejasu šógunem, který v r. 1600 zvítězil v bitvě u Sekigahary.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 4,
+    "tags": [
+      "sjednocení",
+      "válka",
+      "šógun",
+      "invaze"
+    ],
+    "people": [
+      "Oda Nobunaga",
+      "Toyotomi Hidejoši",
+      "Tokugava Iejasu"
+    ],
+    "places": [
+      "Korea",
+      "Sekigahara"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1603,
+    "year_end": 1868,
+    "title": "Období Tokugawa (Edo)",
+    "description": "Tokugava Iejasu založil šógunát, který přetrval do 19. století. Centralizoval vládu a přinutil daimjó (vojenskou šlechtu) poddat se, což vedlo k míru v Japonsku. Japonsko se v tomto období izolovalo od světa kvůli strachu ze západní vojenské intervence.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 5,
+    "tags": [
+      "šógunát",
+      "Tokugava",
+      "centralizace",
+      "mír",
+      "izolace"
+    ],
+    "people": [
+      "Tokugava Iejasu"
+    ],
+    "places": [
+      "Edo"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1853,
+    "year_end": null,
+    "title": "Komodor Matthew Perry otevírá Japonsko",
+    "description": "Roku 1853 komodor Matthew Perry přinutil Japonce přijmout obchodní a diplomatické styky se západním světem.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 5,
+    "tags": [
+      "diplomacie",
+      "obchod",
+      "USA",
+      "otevření země"
+    ],
+    "people": [
+      "Matthew Perry"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1868,
+    "year_end": 1912,
+    "title": "Období Meidži",
+    "description": "Obava ze západu se po revoluci Meidži promítla do víry v potřebu „fukoku-kjohei“ („bohatá země, silná armáda“), což vedlo k rychlé modernizaci a militarizaci. Zahrnuje Čínsko-japonskou válku (1894-95) a Rusko-japonskou válku (1904-05).",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "modernizace",
+      "imperialismus",
+      "Meidži",
+      "válka"
+    ],
+    "people": [],
+    "places": [
+      "Mandžusko",
+      "Korea"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1912,
+    "year_end": 1926,
+    "title": "Období Taisó",
+    "description": "Období vlády císaře Taisó, často vnímáno jako období liberálních tendencí a hospodářského růstu, ale také rostoucího nacionalismu.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 3,
+    "tags": [
+      "císař",
+      "liberalismus",
+      "nacionalismus"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1926,
+    "year_end": 1989,
+    "title": "Období Šówa",
+    "description": "Japonsko za 2. světové války (1941-45), která skončila po svržení atomových bomb USA. Poválečné Japonsko (okupováno USA do r. 1952) se stalo parlamentní demokracií s konstitučním monarchou. Jeho vojenská říše zmizela, ale neuvěřitelně rychle se proměnilo ve světovou hospodářskou supervelmoc.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 5,
+    "tags": [
+      "světová válka",
+      "atomová bomba",
+      "okupace",
+      "demokracie",
+      "ekonomický růst"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1989,
+    "year_end": null,
+    "title": "Období Heisei",
+    "description": "Současné období japonských dějin, navazující na hospodářský růst a čelící novým výzvám.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 2,
+    "tags": [
+      "moderní dějiny",
+      "ekonomika"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  }
+]

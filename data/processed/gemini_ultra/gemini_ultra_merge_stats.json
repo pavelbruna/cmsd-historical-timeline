@@ -1,0 +1,18 @@
+{
+  "total_events": 1083,
+  "by_file": {
+    "1L_gemini.json": 71,
+    "1R_gemini.json": 70,
+    "2L_gemini.json": 64,
+    "2R_gemini.json": 97,
+    "3L_gemini.json": 65,
+    "3R_gemini.json": 168,
+    "4L_gemini.json": 131,
+    "4R_gemini.json": 86,
+    "5L_gemini.json": 98,
+    "5R_gemini.json": 92,
+    "6L_gemini.json": 0,
+    "6R_gemini.json": 141
+  },
+  "errors": []
+}

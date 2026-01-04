@@ -1,0 +1,2009 @@
+[
+  {
+    "year": 864,
+    "year_end": null,
+    "title": "Založení Kyjevského knížectví",
+    "description": "Varjažský Rurik založil Kyjevské knížectví.",
+    "category": "politics",
+    "region": "Kyjevská Rus",
+    "importance": 4,
+    "tags": [
+      "založení státu",
+      "Rurik",
+      "raná historie"
+    ],
+    "people": [
+      "Rurik"
+    ],
+    "places": [
+      "Kyjev"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 800,
+    "year_end": 900,
+    "title": "Růst civilizace Ruska podél Volhy",
+    "description": "Civilizace Ruska rostla v 8. a 9. století podél horního toku řeky Volhy.",
+    "category": "culture",
+    "region": "Rusko (řeka Volha)",
+    "importance": 2,
+    "tags": [
+      "civilizace",
+      "geografie",
+      "vývoj"
+    ],
+    "people": [],
+    "places": [
+      "řeka Volha"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 900,
+    "year_end": 999,
+    "title": "Svjatoslav sjednocuje ruská území",
+    "description": "V 10. století se stal kyjevským velkoknížetem Svjatoslav a začal sjednocovat ruská území.",
+    "category": "politics",
+    "region": "Kyjevská Rus",
+    "importance": 4,
+    "tags": [
+      "sjednocení",
+      "velkokníže",
+      "Rurikovec"
+    ],
+    "people": [
+      "Svjatoslav"
+    ],
+    "places": [
+      "Kyjev"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 900,
+    "year_end": 999,
+    "title": "Přinesení křesťanství z Byzance",
+    "description": "Za vlády Svjatoslava bylo z Byzance na sever přineseno křesťanství.",
+    "category": "religion",
+    "region": "Kyjevská Rus",
+    "importance": 4,
+    "tags": [
+      "křesťanství",
+      "Byzanc",
+      "misie"
+    ],
+    "people": [
+      "Svjatoslav"
+    ],
+    "places": [
+      "Kyjev",
+      "Byzanc"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1200,
+    "year_end": 1300,
+    "title": "Mongolské vpády",
+    "description": "Dějiny Ruska jsou přerušovány vpády, z nichž nejstrašnější byl mongolský.",
+    "category": "war",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "invaze",
+      "Mongolové"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1223,
+    "year_end": null,
+    "title": "Bitva na řece Kalce",
+    "description": "Mongolové zvítězili na řece Kalce.",
+    "category": "war",
+    "region": "řeka Kalka",
+    "importance": 4,
+    "tags": [
+      "bitva",
+      "Mongolové",
+      "porážka"
+    ],
+    "people": [],
+    "places": [
+      "řeka Kalka"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1238,
+    "year_end": null,
+    "title": "Mongolské vpády na řekách Oce a Siti",
+    "description": "Mongolské vpády na řekách Oce a Siti.",
+    "category": "war",
+    "region": "Rusko (řeky Oka a Sit)",
+    "importance": 3,
+    "tags": [
+      "invaze",
+      "Mongolové",
+      "tažení"
+    ],
+    "people": [],
+    "places": [
+      "řeka Oka",
+      "řeka Sit"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1242,
+    "year_end": null,
+    "title": "Vznik Zlaté hordy",
+    "description": "Kolem r. 1242 vznikla Zlatá horda a celá oblast (Rusko) byla poddána loupeživým dobyvatelům.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "okupace",
+      "Mongolové",
+      "impérium"
+    ],
+    "people": [],
+    "places": [
+      "Zlatá horda"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1242,
+    "year_end": 1300,
+    "title": "Prosperita knížectví pod nadvládou Zlaté hordy",
+    "description": "Prosperita poddaných knížectví jako Novgorod, Moskva a Tver však pokračovala, i pod nadvládou Zlaté hordy.",
+    "category": "economics",
+    "region": "Rusko (Novgorod, Moskva, Tver)",
+    "importance": 2,
+    "tags": [
+      "ekonomika",
+      "města",
+      "odolnost"
+    ],
+    "people": [],
+    "places": [
+      "Novgorod",
+      "Moskva",
+      "Tver"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1200,
+    "year_end": 1300,
+    "title": "Obrana proti západním útokům Alexandrem Něvským",
+    "description": "Velcí panovníci jako Alexandr Něvský byli úspěšní v odrážení útoků ze západu (nejvýznačnější byli Teutonští rytíři).",
+    "category": "war",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "obrana",
+      "Teutonští rytíři",
+      "invaze"
+    ],
+    "people": [
+      "Alexandr Něvský"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1300,
+    "year_end": 1400,
+    "title": "Slábnutí Zlaté hordy",
+    "description": "Síla Zlaté hordy začala ve 14. století slábnout.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "úpad",
+      "Mongolové",
+      "moc"
+    ],
+    "people": [],
+    "places": [
+      "Zlatá horda"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1380,
+    "year_end": null,
+    "title": "Bitva na Kulikově poli",
+    "description": "V rozhodující bitvě na Kulikově poli rozdrtil kníže Dimitrij chánovu armádu.",
+    "category": "war",
+    "region": "Kulikovo pole",
+    "importance": 5,
+    "tags": [
+      "bitva",
+      "vítězství",
+      "Mongolové",
+      "osvobození"
+    ],
+    "people": [
+      "Dimitrij Donský"
+    ],
+    "places": [
+      "Kulikovo pole"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1380,
+    "year_end": 1499,
+    "title": "Rozšíření autority Moskvy",
+    "description": "Dimitrij Donský a jeho nástupci se pak zabývali rozšířením authority Moskvy.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "centralizace",
+      "Moskva",
+      "moc"
+    ],
+    "people": [
+      "Dimitrij Donský"
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1400,
+    "year_end": 1499,
+    "title": "Svržení mongolsko-tatarského jha",
+    "description": "V patnáctém století byl Ivan Veliký schopen svrhnout mongolsko-tatarské jho a prohlásit se CAREM VEŠKERÉ RUSI.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "osvobození",
+      "car",
+      "impérium",
+      "nezávislost"
+    ],
+    "people": [
+      "Ivan III. Veliký"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1L"
+  },
+  {
+    "year": 1019,
+    "year_end": 1054,
+    "title": "Vláda Jaroslava I. Moudrého",
+    "description": "Vláda velkoknížete Kyjevské Rusi Jaroslava I. Moudrého.",
+    "category": "politics",
+    "region": "Kyjevská Rus",
+    "importance": 3,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Jaroslav I. Moudrý"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1113,
+    "year_end": 1125,
+    "title": "Vláda Vladimíra II. Monomacha",
+    "description": "Vláda velkoknížete Kyjevské Rusi Vladimíra II. Monomacha.",
+    "category": "politics",
+    "region": "Kyjevská Rus",
+    "importance": 3,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Vladimír II. Monomach"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1155,
+    "year_end": 1157,
+    "title": "Vláda Jurije Dlouhorukého",
+    "description": "Vláda Jurije Dlouhorukého.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "kníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Jurij Dlouhoruký"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1157,
+    "year_end": 1174,
+    "title": "Vláda Andreje I. Bogoljubského",
+    "description": "Vláda Andreje I. Bogoljubského.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "kníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Andrej I. Bogoljubskij"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1176,
+    "year_end": 1212,
+    "title": "Vláda Vsevoloda III. Velkého Hnízda",
+    "description": "Vláda Vsevoloda III. Velkého Hnízda.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Vsevolod III. Velké Hnízdo"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1252,
+    "year_end": 1263,
+    "title": "Vláda Alexandra I. Něvského",
+    "description": "Vláda Alexandra I. Něvského jako knížete.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "kníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Alexandr Něvský"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1276,
+    "year_end": 1294,
+    "title": "Vláda Dimitrije I.",
+    "description": "Vláda Dimitrije I.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "kníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Dimitrij I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1328,
+    "year_end": 1341,
+    "title": "Vláda Ivana I. Kality",
+    "description": "Vláda Ivana I. Kality, knížete moskevského.",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 3,
+    "tags": [
+      "kníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Ivan I."
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1319,
+    "year_end": 1324,
+    "title": "Vláda Jurije Daniloviče",
+    "description": "Vláda Jurije Daniloviče, knížete moskevského.",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 2,
+    "tags": [
+      "kníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Jurij Danilovič"
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1353,
+    "year_end": 1359,
+    "title": "Vláda Ivana II. Krasného",
+    "description": "Vláda Ivana II. Krasného, velkoknížete moskevského.",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 2,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Ivan II."
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1359,
+    "year_end": 1389,
+    "title": "Vláda Dimitrije Donského",
+    "description": "Vláda Dimitrije Donského, velkoknížete moskevského, vítěze bitvy na Kulikově poli.",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 4,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "bitva",
+      "vládce"
+    ],
+    "people": [
+      "Dimitrij Donský"
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1389,
+    "year_end": 1425,
+    "title": "Vláda Vasilije I.",
+    "description": "Vláda Vasilije I., velkoknížete moskevského.",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 3,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Vasilij I."
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1425,
+    "year_end": 1434,
+    "title": "Vláda Vasilije II. Temného (první období)",
+    "description": "První období vlády Vasilije II. Temného, velkoknížete moskevského.",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 3,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Vasilij II. Temný"
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1434,
+    "year_end": 1446,
+    "title": "Vláda Vasilije II. Temného (druhé období)",
+    "description": "Druhé období vlády Vasilije II. Temného, velkoknížete moskevského.",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 3,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Vasilij II. Temný"
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1447,
+    "year_end": 1462,
+    "title": "Vláda Vasilije II. Temného (třetí období, uzurpátor)",
+    "description": "Třetí období vlády Vasilije II. Temného, velkoknížete moskevského (jako uzurpátor).",
+    "category": "politics",
+    "region": "Moskevské knížectví",
+    "importance": 3,
+    "tags": [
+      "velkokníže",
+      "Rurikovec",
+      "uzurpátor",
+      "vládce"
+    ],
+    "people": [
+      "Vasilij II. Temný"
+    ],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1462,
+    "year_end": 1505,
+    "title": "Vláda Ivana III. Velikého",
+    "description": "Vláda Ivana III. Velikého, který svrhnul mongolsko-tatarské jho a prohlásil se carem veškeré Rusi.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "car",
+      "Rurikovec",
+      "sjednocení",
+      "vládce"
+    ],
+    "people": [
+      "Ivan III. Veliký"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1533,
+    "year_end": 1584,
+    "title": "Vláda Ivana IV. Hrozného",
+    "description": "Vláda prvního korunovaného cara Rusi Ivana IV. Hrozného.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "car",
+      "Rurikovec",
+      "vládce"
+    ],
+    "people": [
+      "Ivan IV. Hrozný"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1547,
+    "year_end": null,
+    "title": "Korunovace Ivana IV. Hrozného na cara",
+    "description": "Ivan IV. Hrozný byl korunován carem.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "korunovace",
+      "car",
+      "rituál"
+    ],
+    "people": [
+      "Ivan IV. Hrozný"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1584,
+    "year_end": 1598,
+    "title": "Vláda Fjodora I.",
+    "description": "Vláda Fjodora I., posledního cara z dynastie Rurikovců.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "car",
+      "Rurikovec",
+      "vládce",
+      "konec dynastie"
+    ],
+    "people": [
+      "Fjodor I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1598,
+    "year_end": 1605,
+    "title": "Vláda Borise Godunova",
+    "description": "Vláda cara Borise Godunova.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "car",
+      "éra zmatků",
+      "vládce"
+    ],
+    "people": [
+      "Boris Godunov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1605,
+    "year_end": 1605,
+    "title": "Vláda Fjodora II.",
+    "description": "Krátká vláda Fjodora II. Godunova.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "car",
+      "éra zmatků",
+      "vládce"
+    ],
+    "people": [
+      "Fjodor II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1605,
+    "year_end": 1606,
+    "title": "Vláda Lžidimitrije I.",
+    "description": "Vláda Lžidimitrije I. během éry zmatků.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "car",
+      "éra zmatků",
+      "uzurpátor",
+      "vládce"
+    ],
+    "people": [
+      "Lžidimitrij"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1606,
+    "year_end": 1610,
+    "title": "Vláda Vasilije IV. Šujského",
+    "description": "Vláda cara Vasilije IV. Šujského.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "car",
+      "éra zmatků",
+      "vládce"
+    ],
+    "people": [
+      "Vasilij IV. Šujskij"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1610,
+    "year_end": 1612,
+    "title": "Mezičasí (Smuta)",
+    "description": "Období bez stabilní vlády v Rusku, známé jako Mezičasí nebo Smuta.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "éra zmatků",
+      "politická krize",
+      "interregnum"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1613,
+    "year_end": 1645,
+    "title": "Vláda Michaila III. Romanova",
+    "description": "Vláda Michaila I. Fjodoroviče, prvního cara z dynastie Romanovců.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "car",
+      "Romanovci",
+      "vládce",
+      "začátek dynastie"
+    ],
+    "people": [
+      "Michail III. Romanov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1645,
+    "year_end": 1676,
+    "title": "Vláda Alexeje I.",
+    "description": "Vláda cara Alexeje I. Michajloviče Romanova.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "car",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Alexej"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1676,
+    "year_end": 1682,
+    "title": "Vláda Fjodora III.",
+    "description": "Vláda Fjodora III. Alexejeviče Romanova.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "car",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Fjodor III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1682,
+    "year_end": 1725,
+    "title": "Vláda Petra I. Velikého",
+    "description": "Vláda cara a prvního ruského císaře Petra I. Velikého, spoluvládce s Ivanem V. do roku 1696. Velký modernizátor Ruska v prvních letech 18. století.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "car",
+      "císař",
+      "modernizace",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Petr I. Veliký",
+      "Ivan V."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1725,
+    "year_end": 1727,
+    "title": "Vláda Kateřiny I.",
+    "description": "Vláda císařovny Kateřiny I. Alexejevny.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "císařovna",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Kateřina I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1727,
+    "year_end": 1730,
+    "title": "Vláda Petra II.",
+    "description": "Vláda císaře Petra II. Alexejeviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Petr II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1730,
+    "year_end": 1740,
+    "title": "Vláda Anny Ivanovny",
+    "description": "Vláda císařovny Anny Ivanovny.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "císařovna",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Anna"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1740,
+    "year_end": 1741,
+    "title": "Vláda Ivana VI.",
+    "description": "Vláda císaře Ivana VI. Antonoviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 1,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Ivan VI."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1741,
+    "year_end": 1762,
+    "title": "Vláda Jelizavety Petrovny",
+    "description": "Vláda císařovny Jelizavety Petrovny.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "císařovna",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Jelizaveta"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1762,
+    "year_end": 1762,
+    "title": "Vláda Petra III.",
+    "description": "Krátká vláda císaře Petra III. Fjodoroviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 1,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Petr III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1762,
+    "year_end": 1796,
+    "title": "Vláda Kateřiny II. Veliké",
+    "description": "Vláda císařovny Kateřiny II. Veliké, za jejíž vlády se Rusko rozšířilo k Černému moři.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "císařovna",
+      "Romanovci",
+      "expanze",
+      "vládce"
+    ],
+    "people": [
+      "Kateřina II. Veliká"
+    ],
+    "places": [
+      "Černé moře"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1796,
+    "year_end": 1801,
+    "title": "Vláda Pavla I.",
+    "description": "Vláda císaře Pavla I. Petroviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Pavel I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1801,
+    "year_end": 1825,
+    "title": "Vláda Alexandra I.",
+    "description": "Vláda císaře Alexandra I. Pavloviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Alexandr I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1825,
+    "year_end": 1855,
+    "title": "Vláda Mikuláše I.",
+    "description": "Vláda císaře Mikuláše I. Pavloviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Mikuláš I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1855,
+    "year_end": 1881,
+    "title": "Vláda Alexandra II.",
+    "description": "Vláda císaře Alexandra II. Nikolajeviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Alexandr II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1881,
+    "year_end": 1894,
+    "title": "Vláda Alexandra III.",
+    "description": "Vláda císaře Alexandra III. Alexandroviče.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "vládce"
+    ],
+    "people": [
+      "Alexandr III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1894,
+    "year_end": 1917,
+    "title": "Vláda Mikuláše II.",
+    "description": "Vláda císaře Mikuláše II. Alexandroviče, posledního ruského cara. Byl i se svou rodinou zavražděn po revoluci. Jejich pozůstatky byly nedávno objeveny a identifikovány.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "císař",
+      "Romanovci",
+      "poslední car",
+      "revoluce",
+      "vládce"
+    ],
+    "people": [
+      "Mikuláš II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1803,
+    "year_end": 1815,
+    "title": "Napoleonské války (ruská účast)",
+    "description": "Období Napoleonských válek, do kterých se Rusko aktivně zapojilo.",
+    "category": "war",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "Napoleon",
+      "konflikt"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1914,
+    "year_end": 1918,
+    "title": "První světová válka",
+    "description": "Rusko se účastní První světové války.",
+    "category": "war",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "světová válka",
+      "konflikt"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1917,
+    "year_end": null,
+    "title": "Říjnová revoluce",
+    "description": "Bolševici vedení Leninem svrhli carský režim. Prozatímní vládu A. F. Kerenského svrhli po několika týdnech fungování komunisté. Carská rodina byla uvězněna a brzy nato povražděna v Jekatěrinburku.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "bolševici",
+      "Lenin",
+      "carský režim",
+      "převrat"
+    ],
+    "people": [
+      "Lenin",
+      "A. F. Kerenský"
+    ],
+    "places": [
+      "Jekatěrinburg"
+    ],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1917,
+    "year_end": 1922,
+    "title": "Ruská občanská válka a zahraniční intervence",
+    "description": "Po Říjnové revoluci následovala krvavá občanská válka, během níž se některé západní mocnosti pokoušely o intervenci, dokud se komunistům nepovedlo zmocnit se vlády nad celou říší.",
+    "category": "war",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "občanská válka",
+      "komunismus",
+      "intervence",
+      "konflikt"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1905,
+    "year_end": 1916,
+    "title": "Rasputinův vliv na carevnu",
+    "description": "Tajemný mnich Rasputin měl nezdravý vliv na pověrčivou carevnu.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "dvořan",
+      "vliv",
+      "dvůr"
+    ],
+    "people": [
+      "Rasputin"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "1R"
+  },
+  {
+    "year": 1917,
+    "year_end": null,
+    "title": "Založení prvního komunistického státu",
+    "description": "Vladimír Iljič Uljanov (Lenin) založil první komunistický stát na světě.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "komunismus",
+      "Lenin",
+      "stát",
+      "revoluce"
+    ],
+    "people": [
+      "Vladimír Iljič Uljanov (Lenin)"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1917,
+    "year_end": 1924,
+    "title": "Vláda Vladimíra Iljiče Uljanova (Lenina)",
+    "description": "Vladimír Iljič Uljanov, vůdce ruské bolševické strany a bezohledný revolucionář, který založil první komunistický stát na světě.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "vůdce",
+      "bolševik",
+      "komunismus",
+      "založení státu",
+      "revolucionář"
+    ],
+    "people": [
+      "Vladimír Iljič Uljanov (Lenin)"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1922,
+    "year_end": null,
+    "title": "Vznik Svazu sovětských socialistických republik a nastolení míru",
+    "description": "V době Leninovy smrti (formálně 1922) se Rusko stalo Svazem sovětských socialistických republik a navrátil se mír.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "vznik státu",
+      "SSSR",
+      "mír",
+      "komunismus"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1928,
+    "year_end": 1932,
+    "title": "Stalinova první pětiletka",
+    "description": "Josif Vissarionovič Džugašvili (Stalin) nasměroval SSSR k první pětiletce, která vytýčila plány pro hospodářství a společnost.",
+    "category": "economics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "ekonomický plán",
+      "industrializace",
+      "Stalin",
+      "rozvoj"
+    ],
+    "people": [
+      "Josif Vissarionovič Džugašvili (Stalin)"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1928,
+    "year_end": 1932,
+    "title": "Růst průmyslové produkce v SSSR",
+    "description": "Během první pětiletky průmyslová produkce vylétla vzhůru.",
+    "category": "economics",
+    "region": "SSSR",
+    "importance": 3,
+    "tags": [
+      "industrializace",
+      "ekonomika",
+      "růst"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1928,
+    "year_end": 1953,
+    "title": "Režimní perzekuce a pracovní tábory na Sibiři",
+    "description": "Nový režim (Stalinův) perzekuoval své oponenty a posílal je do pracovních táborů na Sibiři.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "represe",
+      "gulag",
+      "politická perzekuce",
+      "totalitarismus"
+    ],
+    "people": [
+      "Josif Vissarionovič Džugašvili (Stalin)"
+    ],
+    "places": [
+      "Sibiř"
+    ],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1924,
+    "year_end": 1953,
+    "title": "Vláda Josifa Vissarionoviče Džugašviliho (Stalina)",
+    "description": "Gruzínský revolucionář, který v novém Rusku zavedl tyranii. Úskočný a paranoický. Za jeho vlády ztratil SSSR světovou válkou více než 20 milionů životů. Svou vlády zodpovědně používal jako největší z masových vrahů 20. století.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "diktátor",
+      "tyranie",
+      "komunismus",
+      "druhá světová válka",
+      "vůdce"
+    ],
+    "people": [
+      "Josif Vissarionovič Džugašvili (Stalin)"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1935,
+    "year_end": 1939,
+    "title": "Stalinovy stranické čistky",
+    "description": "Aby uchopil a udržel moc, prováděl Stalin v r. 1935 ve své straně čistky. Za více než čtyři následující roky bylo uvězněno a zemřelo na 50 milionů Rusů.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "čistky",
+      "represe",
+      "teror",
+      "Stalin",
+      "masakr"
+    ],
+    "people": [
+      "Josif Vissarionovič Džugašvili (Stalin)"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1917,
+    "year_end": 1991,
+    "title": "Role tajné policie v SSSR (KGB, NKVD, OGPU)",
+    "description": "Tajná policie (KGB) nechvalně proslula jako nástroj komunistů k udržování jejich diktatury.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 3,
+    "tags": [
+      "tajná policie",
+      "represe",
+      "KGB",
+      "NKVD",
+      "totalitarismus"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1941,
+    "year_end": 1945,
+    "title": "Druhá světová válka (Velká vlastenecká válka)",
+    "description": "SSSR strašlivě trpěl na nacistického vpádu v 2. světové válce, ztratil až 27 milionů lidí.",
+    "category": "war",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "světová válka",
+      "nacismus",
+      "oběti",
+      "konflikt"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1945,
+    "year_end": 1991,
+    "title": "SSSR jako pán východní Evropy a začátek Studené války",
+    "description": "Po 2. světové válce se SSSR stal politickým a vojenským pánem východní Evropy. Pak započal destruktivní konfrontaci s demokratickým Západem – studenou válku.",
+    "category": "politics",
+    "region": "Východní Evropa",
+    "importance": 5,
+    "tags": [
+      "studená válka",
+      "východní blok",
+      "geopolitika",
+      "poválka"
+    ],
+    "people": [],
+    "places": [
+      "Východní Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1947,
+    "year_end": 1991,
+    "title": "Studená válka",
+    "description": "Období ideologického a geopolitického konfliktu mezi Východem a Západem.",
+    "category": "politics",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "studená válka",
+      "geopolitika",
+      "konflikt",
+      "bipolární svět"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1957,
+    "year_end": null,
+    "title": "Vypuštění družice Sputnik",
+    "description": "Rusové vypustili do vesmíru první družici Země Sputnik.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "kosmonautika",
+      "vesmír",
+      "technologie",
+      "milník"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1961,
+    "year_end": null,
+    "title": "Jurij Gagarin – první člověk ve vesmíru",
+    "description": "O čtyři roky po Sputniku byl prvním člověkem ve vesmíru Rus Jurij Gagarin.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "kosmonautika",
+      "vesmír",
+      "lidstvo",
+      "milník"
+    ],
+    "people": [
+      "Jurij Gagarin"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2L"
+  },
+  {
+    "year": 1953,
+    "year_end": 1955,
+    "title": "Vláda Georgije Maximilianoviče Malenkova",
+    "description": "Georgij Maximilianovič Malenkov, zastíněn a vytlačen Chruščovem.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 2,
+    "tags": [
+      "vůdce",
+      "komunismus",
+      "předseda rady ministrů"
+    ],
+    "people": [
+      "Georgij Maximilianovič Malenkov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1955,
+    "year_end": 1964,
+    "title": "Vláda Nikity Sergejeviče Chruščova",
+    "description": "Po Stalinově smrti, ale přesto za kubánské raketové krize. Třebaže se jevil jako geniální, zvýšil napětí mezi Východem a Západem na novou úroveň.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "vůdce",
+      "komunismus",
+      "studená válka",
+      "první tajemník"
+    ],
+    "people": [
+      "Nikita Sergejevič Chruščov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1961,
+    "year_end": null,
+    "title": "Kubánská raketová krize",
+    "description": "Krizová událost během Studené války za vlády Chruščova. (Poznámka: Rok je v infografice uveden jako 1961, historicky je 1962).",
+    "category": "politics",
+    "region": "Kuba",
+    "importance": 5,
+    "tags": [
+      "studená válka",
+      "jaderná krize",
+      "konflikt"
+    ],
+    "people": [
+      "Nikita Sergejevič Chruščov"
+    ],
+    "places": [
+      "Kuba"
+    ],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1964,
+    "year_end": 1982,
+    "title": "Vláda Leonida Iljiče Brežněva",
+    "description": "Během jeho éry ztratila země ve studené válce. Za jeho vlády ztratila důvěru Západu i osud. Rusko se dostalo do stagnace.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "vůdce",
+      "komunismus",
+      "stagnace",
+      "generální tajemník"
+    ],
+    "people": [
+      "Leonid Iljič Brežněv"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1964,
+    "year_end": 1982,
+    "title": "Éra stagnace v SSSR",
+    "description": "Za Brežněvovy vlády se Rusko dostalo do stagnace. Stárnoucí vedení nemělo šanci na novou éru.",
+    "category": "economics",
+    "region": "SSSR",
+    "importance": 3,
+    "tags": [
+      "stagnace",
+      "ekonomika",
+      "politika"
+    ],
+    "people": [
+      "Leonid Iljič Brežněv"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1979,
+    "year_end": null,
+    "title": "Invaze SSSR do Afghánistánu",
+    "description": "Roku 1979 Rusko (SSSR) vpadlo do Afghánistánu, kde čelilo odboji.",
+    "category": "war",
+    "region": "Afghánistán",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "invaze",
+      "Afghánistán",
+      "studená válka"
+    ],
+    "people": [],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "title": "Bojkot olympijských her v Moskvě",
+    "description": "Západní mocnosti bojkotovaly olympijské hry v Moskvě, aby vyjádřily svůj nesouhlas s invazí do Afghánistánu.",
+    "category": "politics",
+    "region": "Moskva",
+    "importance": 3,
+    "tags": [
+      "boycott",
+      "olympijské hry",
+      "studená válka",
+      "diplomacie"
+    ],
+    "people": [],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1970,
+    "year_end": 1980,
+    "title": "Závod o Měsíc a zaostávání SSSR",
+    "description": "Na konci 80. let SSSR představil USA kosmu, ale prohrál závod o Měsíc. Postupné sovětský režim zaostával a zpomaloval.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "kosmonautika",
+      "vesmírný závod",
+      "studená válka",
+      "technologie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1982,
+    "year_end": 1985,
+    "title": "Krize sovětského totalitarismu",
+    "description": "Po smrti 76letého Brežněva nastoupili starší zastánci tvrdé linie a problémy s udržováním sovětského totalitarismu, s jeho neefektivitou a bezprávím byly stále složitější.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 3,
+    "tags": [
+      "politická krize",
+      "totalitarismus",
+      "Brežněvova éra"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1982,
+    "year_end": 1984,
+    "title": "Vláda Jurije Vladimíroviče Andropova",
+    "description": "Bývalý šéf KGB. Jeho chatrné zdraví způsobilo, že zmizel z veřejného života za 9 měsíců poté, co se chopil moci.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 2,
+    "tags": [
+      "vůdce",
+      "komunismus",
+      "KGB",
+      "generální tajemník"
+    ],
+    "people": [
+      "Jurij Vladimírovič Andropov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1984,
+    "year_end": 1985,
+    "title": "Vláda Konstantina Ustinoviče Černěnka",
+    "description": "Funkci získal v 72 letech svého věku a není považován za nic jiného než prozatímního vůdce.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 1,
+    "tags": [
+      "vůdce",
+      "komunismus",
+      "generální tajemník"
+    ],
+    "people": [
+      "Konstantin Ustinovič Černěnko"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1979,
+    "year_end": 1989,
+    "title": "Válka v Afghánistánu (časová osa)",
+    "description": "Válka v Afghánistánu, která dále oslabovala autoritu SSSR.",
+    "category": "war",
+    "region": "Afghánistán",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "Afghánistán",
+      "studená válka",
+      "okupace"
+    ],
+    "people": [],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1985,
+    "year_end": 1991,
+    "title": "Vláda Michaila Sergejeviče Gorbačova",
+    "description": "Politik, který nakonec prohlédl a začal s politikou glasnosti (otevřenosti) a perestrojky (přestavby), jenž nakonec vedl ke konci komunistického SSSR. Demontoval komunistickou totalitní říši a otevřel Rusko demokracii.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "vůdce",
+      "komunismus",
+      "reformy",
+      "glasnost",
+      "perestrojka",
+      "rozpad SSSR",
+      "generální tajemník"
+    ],
+    "people": [
+      "Michail Sergejevič Gorbačov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1989,
+    "year_end": null,
+    "title": "Ukončení války v Afghánistánu",
+    "description": "Michail Gorbačov ukončil afghánské dobrodružství.",
+    "category": "war",
+    "region": "Afghánistán",
+    "importance": 3,
+    "tags": [
+      "stažení vojsk",
+      "konec války",
+      "Afghánistán"
+    ],
+    "people": [
+      "Michail Sergejevič Gorbačov"
+    ],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1990,
+    "year_end": null,
+    "title": "Zavedení nové ústavy a demokracie v SSSR",
+    "description": "Michail Gorbačov zavedl novou ústavu, vedoucí k demokracii.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "demokracie",
+      "ústavní reforma",
+      "liberalizace",
+      "Gorbačov"
+    ],
+    "people": [
+      "Michail Sergejevič Gorbačov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1990,
+    "year_end": null,
+    "title": "Michail Gorbačov získává Nobelovu cenu míru",
+    "description": "Roku 1990 získal Michail Gorbačov Nobelovu cenu míru za své reformy a úsilí o mezinárodní mír.",
+    "category": "politics",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "Nobelova cena",
+      "mír",
+      "diplomacie",
+      "ocenění"
+    ],
+    "people": [
+      "Michail Sergejevič Gorbačov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1985,
+    "year_end": 1991,
+    "title": "Hospodářské zhroucení a ztráta autority v SSSR",
+    "description": "Reformy zavedené Gorbačovem byly doprovázeny hospodářským zhroucením a ztrátou ústřední autority.",
+    "category": "economics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "ekonomická krize",
+      "politická nestabilita",
+      "reformy"
+    ],
+    "people": [
+      "Michail Sergejevič Gorbačov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1991,
+    "year_end": null,
+    "title": "Srpnový puč v Moskvě",
+    "description": "Pokus o převrat v srpnu 1991 byl zmařen, ale Gorbačov již ztratil veškerou autoritu.",
+    "category": "politics",
+    "region": "Moskva",
+    "importance": 5,
+    "tags": [
+      "puč",
+      "převrat",
+      "politická krize",
+      "Gorbačov"
+    ],
+    "people": [],
+    "places": [
+      "Moskva"
+    ],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1991,
+    "year_end": null,
+    "title": "Rozpad SSSR a rezignace Gorbačova",
+    "description": "V prosinci 1991 rezignoval Gorbačov a SSSR přestal existovat.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "rozpad státu",
+      "konec komunismu",
+      "Gorbačov",
+      "politická změna"
+    ],
+    "people": [
+      "Michail Sergejevič Gorbačov"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1991,
+    "year_end": 1997,
+    "title": "Vláda Borise Jelcina",
+    "description": "Dostal se do popředí, když r. 1991 odvolal státnímu převratu. Jeho moc byla oslabována zdravotními problémy, vrcholícími srdeční operací r. 1996. Opozice vůči jeho reformistické vládě zůstala rozdělena, ale jeho pozice oslabovaly jeho popularitu v Rusku narůstaly.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "demokracie",
+      "politická krize",
+      "Jelcin",
+      "post-sovětské období"
+    ],
+    "people": [
+      "Boris Jelcin"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1991,
+    "year_end": null,
+    "title": "Boris Jelcin odvrací puč",
+    "description": "Prezident Ruska Boris Jelcin zatlačil puč a získal si tak popularitu v zemi i za jejími hranicemi.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "odvrácení převratu",
+      "politický vzestup",
+      "Jelcin",
+      "Moskva"
+    ],
+    "people": [
+      "Boris Jelcin"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1993,
+    "year_end": null,
+    "title": "Vznik Společenství nezávislých států (SNS)",
+    "description": "Boris Jelcin přetvořil r. 1993 zbytek SSSR na Společenství nezávislých států.",
+    "category": "politics",
+    "region": "bývalý SSSR",
+    "importance": 4,
+    "tags": [
+      "post-sovětský prostor",
+      "transformace státu",
+      "Jelcin",
+      "SNS"
+    ],
+    "people": [
+      "Boris Jelcin"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  },
+  {
+    "year": 1996,
+    "year_end": null,
+    "title": "Jelcinovy zdravotní problémy",
+    "description": "Moc Borise Jelcina byla oslabována zdravotními problémy, vrcholícími srdeční operací r. 1996.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 2,
+    "tags": [
+      "zdraví",
+      "prezident",
+      "politická nestabilita"
+    ],
+    "people": [
+      "Boris Jelcin"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "2R"
+  }
+]

@@ -1,0 +1,3586 @@
+[
+  {
+    "year": -1000,
+    "year_end": null,
+    "title": "Keltové vstupují do Španělska",
+    "description": "Keltové vstoupili do Španělska a po smíšení s místním obyvatelstvem byli známi jako Keltiberové.",
+    "category": "culture",
+    "region": "Iberský poloostrov",
+    "importance": 3,
+    "tags": [
+      "Keltové",
+      "Keltiberové",
+      "etnogeneze"
+    ],
+    "people": [],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -600,
+    "year_end": null,
+    "title": "Založení řeckých kolonií a kartaginská kolonizace",
+    "description": "Řekové zakládali pobřežní kolonie a následně začali Kartaginci kolonizovat poloostrov.",
+    "category": "politics",
+    "region": "Iberský poloostrov",
+    "importance": 3,
+    "tags": [
+      "Řekové",
+      "Kartaginci",
+      "kolonizace"
+    ],
+    "people": [],
+    "places": [
+      "Iberský poloostrov"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -264,
+    "year_end": -2,
+    "title": "Římská nadvláda po punských válkách",
+    "description": "Po prvních dvou punských válkách (264–41, 218–2 př. n. l.) rozšířil Řím svou vládu na celou Ibérii.",
+    "category": "war",
+    "region": "Iberský poloostrov",
+    "importance": 4,
+    "tags": [
+      "Řím",
+      "Punské války",
+      "expanze"
+    ],
+    "people": [],
+    "places": [
+      "Ibérie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -133,
+    "year_end": null,
+    "title": "Dobytí Numantie Scipionem Aemilinem",
+    "description": "Scipio Aemilinus dobyl Numantii.",
+    "category": "war",
+    "region": "Iberský poloostrov",
+    "importance": 3,
+    "tags": [
+      "Řím",
+      "dobytí"
+    ],
+    "people": [
+      "Scipio Aemilinus"
+    ],
+    "places": [
+      "Numantie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -25,
+    "year_end": null,
+    "title": "Pacifikace severozápadní Ibérie za Augusta",
+    "description": "Vzdálené severozápadní území Ibérie bylo pacifikováno za císaře Augusta.",
+    "category": "politics",
+    "region": "Iberský poloostrov",
+    "importance": 3,
+    "tags": [
+      "Řím",
+      "Augustus",
+      "pacifikace"
+    ],
+    "people": [
+      "Augustus"
+    ],
+    "places": [
+      "Ibérie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1,
+    "year_end": null,
+    "title": "Španělsko proměněno na římské provincie",
+    "description": "Španělsko bylo proměněno na tři římské provincie: Lusitanii, Tarraconensii a Baetiku. Na poloostrově nastal mír.",
+    "category": "politics",
+    "region": "Iberský poloostrov",
+    "importance": 4,
+    "tags": [
+      "Řím",
+      "provincie",
+      "mír"
+    ],
+    "people": [],
+    "places": [
+      "Lusitania",
+      "Tarraconensis",
+      "Baetica"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 301,
+    "year_end": 400,
+    "title": "Rozpad římské říše a barbarské vpády",
+    "description": "Ve 4. století n. l. římská říše se rozpadala a vtrhly sem barbarské kmeny.",
+    "category": "politics",
+    "region": "Iberský poloostrov",
+    "importance": 4,
+    "tags": [
+      "Římská říše",
+      "barbaři",
+      "migrace"
+    ],
+    "people": [],
+    "places": [
+      "Ibérie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 451,
+    "year_end": 711,
+    "title": "Vizigótské království v Hispánii",
+    "description": "Ve třetí čtvrtině 5. století Vizigótové ovládli celé Španělsko a založili své království, které vydrželo až do arabského vpádu r. 711.",
+    "category": "politics",
+    "region": "Iberský poloostrov",
+    "importance": 4,
+    "tags": [
+      "Vizigóti",
+      "království"
+    ],
+    "people": [],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 711,
+    "year_end": null,
+    "title": "Islámský zábor většiny Ibérie",
+    "description": "Maurové dobyli většinu Ibérie. Islámské územní zisky zahrnovaly většinu Pyrenejského poloostrova, jen na severozápadě přečkávala malá křesťanská enkláva.",
+    "category": "war",
+    "region": "Iberský poloostrov",
+    "importance": 5,
+    "tags": [
+      "Islám",
+      "Maurové",
+      "dobytí",
+      "reconquista počátek"
+    ],
+    "people": [],
+    "places": [
+      "Ibérie",
+      "Pyrenejský poloostrov"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 712,
+    "year_end": null,
+    "title": "Kantabrie okupována Maury",
+    "description": "Kantabrie okupována Maury.",
+    "category": "war",
+    "region": "Kantabrie",
+    "importance": 2,
+    "tags": [
+      "Maurové",
+      "okupace"
+    ],
+    "people": [],
+    "places": [
+      "Kantabrie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 788,
+    "year_end": null,
+    "title": "Dobyta Karlem Velikým jako nárazníkový stát",
+    "description": "Území dobyta Karlem Velikým jako nárazníkový stát (pravděpodobně Marca Hispanica).",
+    "category": "politics",
+    "region": "Pyrenejský poloostrov",
+    "importance": 3,
+    "tags": [
+      "Karel Veliký",
+      "Franská říše",
+      "nárazníkový stát"
+    ],
+    "people": [
+      "Karel Veliký"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 756,
+    "year_end": 1031,
+    "title": "Založení Córdobského emirátu/chalífátu",
+    "description": "Založen r. 756, stal se córdobský emirát chalífátem r. 929. Vrchol za Abd ar-Rahmána III. 912–61. Pozdější občanská válka (1031) omezila islámskou Ibérii na mnoho malých tzv. taifských království.",
+    "category": "politics",
+    "region": "Al-Andalus",
+    "importance": 5,
+    "tags": [
+      "chalífát",
+      "emirát",
+      "islám",
+      "taifas"
+    ],
+    "people": [
+      "Abd ar-Rahmán III."
+    ],
+    "places": [
+      "Córdoba",
+      "Ibérie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 718,
+    "year_end": 910,
+    "title": "Vznik Království Asturie",
+    "description": "Asturii vytvořila vizigótská šlechta vyhnaná muslimy. R. 910 se jejich hlavním městem stal León a králové Asturie a Leónu se později jednoduše nazývali jako králové Leónu.",
+    "category": "politics",
+    "region": "Asturie",
+    "importance": 4,
+    "tags": [
+      "vizigóti",
+      "království",
+      "reconquista"
+    ],
+    "people": [],
+    "places": [
+      "Asturie",
+      "León"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 962,
+    "year_end": null,
+    "title": "Sancho I. z Leónu zahajuje křesťanský protiútok",
+    "description": "Sancho I. z Leónu zahájil křesťanský protiútok na Maury – reconquista.",
+    "category": "war",
+    "region": "León",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "křesťanství",
+      "Maurové"
+    ],
+    "people": [
+      "Sancho I."
+    ],
+    "places": [
+      "León"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 961,
+    "year_end": 1035,
+    "title": "Sjednocení Kastilie a vznik Aragonského království",
+    "description": "Kastilie byla sjednocena r. 961. Sancho III. Veliký zajistil její nezávislost a jeho synové se r. 1035 stali prvním králem Aragonie.",
+    "category": "politics",
+    "region": "Kastilie",
+    "importance": 4,
+    "tags": [
+      "sjednocení",
+      "království"
+    ],
+    "people": [
+      "Sancho III. Veliký"
+    ],
+    "places": [
+      "Kastilie",
+      "Aragonie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 905,
+    "year_end": 1500,
+    "title": "Království Pamplona (Navarra)",
+    "description": "Království Pamplona (zal. 905) bylo ovládnutu v letech 1076–1134 Aragonem a stalo se nezávislým královstvím Navarra. Francouzská dynastie ho převzala r. 1285 a království bylo pak rozděleno mezi Francii a Španělsko až do 16. století.",
+    "category": "politics",
+    "region": "Navarra",
+    "importance": 3,
+    "tags": [
+      "království",
+      "francouzská dynastie",
+      "dělení"
+    ],
+    "people": [],
+    "places": [
+      "Pamplona",
+      "Navarra"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1072,
+    "year_end": 1157,
+    "title": "Spojení Kastilie s Leónem",
+    "description": "Spojení Kastilie s Leónem.",
+    "category": "politics",
+    "region": "Kastilie a León",
+    "importance": 3,
+    "tags": [
+      "sjednocení",
+      "království"
+    ],
+    "people": [
+      "Alfons VI."
+    ],
+    "places": [
+      "Kastilie",
+      "León"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1085,
+    "year_end": null,
+    "title": "Alfons VI. Kastilský dobyl Toledo",
+    "description": "Alfons VI. Kastilský dobyl Toledo na Maurech.",
+    "category": "war",
+    "region": "Kastilie",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "dobytí"
+    ],
+    "people": [
+      "Alfons VI."
+    ],
+    "places": [
+      "Toledo"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1085,
+    "year_end": null,
+    "title": "Almorávidé vtrhají do Ibérie",
+    "description": "Konfederace berberských kmenů, Almorávidé, vtrhla do Ibérie r. 1085, zastavila postup křesťanů na jih.",
+    "category": "war",
+    "region": "Ibérie",
+    "importance": 4,
+    "tags": [
+      "Almorávidé",
+      "berbeři",
+      "invaze",
+      "reconquista"
+    ],
+    "people": [],
+    "places": [
+      "Ibérie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1092,
+    "year_end": null,
+    "title": "Cid dobývá Valencii",
+    "description": "Cid (Rodrigo Diaz de Vivar, asi 1035–99), legendární postava křesťanů v boji s Maury, dobyl Valencii.",
+    "category": "war",
+    "region": "Valencie",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "legendární postava",
+      "dobytí"
+    ],
+    "people": [
+      "Cid",
+      "Rodrigo Diaz de Vivar"
+    ],
+    "places": [
+      "Valencie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1118,
+    "year_end": null,
+    "title": "Křesťané dobývají Zaragozu",
+    "description": "Křesťané dobyli Zaragozu.",
+    "category": "war",
+    "region": "Aragonie",
+    "importance": 3,
+    "tags": [
+      "reconquista",
+      "dobytí"
+    ],
+    "people": [],
+    "places": [
+      "Zaragoza"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1137,
+    "year_end": null,
+    "title": "Sjednocení Katalánie s Aragonií",
+    "description": "Katalánie sjednocena s Aragonií.",
+    "category": "politics",
+    "region": "Katalánie",
+    "importance": 3,
+    "tags": [
+      "sjednocení",
+      "království"
+    ],
+    "people": [],
+    "places": [
+      "Katalánie",
+      "Aragonie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1212,
+    "year_end": null,
+    "title": "Bitva u Navas de Tolosa",
+    "description": "Velké vítězství křesťanů u Navas de Tolosa.",
+    "category": "war",
+    "region": "Andalusie",
+    "importance": 5,
+    "tags": [
+      "reconquista",
+      "bitva"
+    ],
+    "people": [],
+    "places": [
+      "Navas de Tolosa"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1236,
+    "year_end": null,
+    "title": "Dobytí Córdoby",
+    "description": "Křesťané dobyli Córdobu.",
+    "category": "war",
+    "region": "Andalusie",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "dobytí"
+    ],
+    "people": [],
+    "places": [
+      "Córdoba"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1228,
+    "year_end": 1229,
+    "title": "Dobytí Sevilly a dalších území",
+    "description": "Křesťané dobyli Sevillu, Baleáry, Valencii, Mallorcu, Murcii a většinu Andalusie.",
+    "category": "war",
+    "region": "Andalusie",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "dobytí"
+    ],
+    "people": [],
+    "places": [
+      "Sevilla",
+      "Baleáry",
+      "Valencie",
+      "Mallorca",
+      "Murcie",
+      "Andalusie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1228,
+    "year_end": 1492,
+    "title": "Království Granada",
+    "description": "Zbytky almohadského Španělska, Granadu, se stala královstvím. Křesťané je dobyli r. 1492.",
+    "category": "politics",
+    "region": "Andalusie",
+    "importance": 4,
+    "tags": [
+      "muslimské království",
+      "reconquista"
+    ],
+    "people": [],
+    "places": [
+      "Granada"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1309,
+    "year_end": null,
+    "title": "Valencie sjednocena s Aragonií",
+    "description": "Valencie sjednocena s Aragonií.",
+    "category": "politics",
+    "region": "Valencie",
+    "importance": 2,
+    "tags": [
+      "sjednocení",
+      "království"
+    ],
+    "people": [],
+    "places": [
+      "Valencie",
+      "Aragonie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1366,
+    "year_end": 1367,
+    "title": "Uzurpace trůnu Jindřichem II.",
+    "description": "Trůn Petra I. Krutého uzurpoval Jindřich II., hrabě Trastamarský.",
+    "category": "politics",
+    "region": "Kastilie",
+    "importance": 3,
+    "tags": [
+      "vládnoucí dynastie",
+      "uzurpace"
+    ],
+    "people": [
+      "Petr I. Krutý",
+      "Jindřich II. Trastamarský"
+    ],
+    "places": [
+      "Kastilie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1474,
+    "year_end": 1504,
+    "title": "Vláda Isabely I. Kastilské",
+    "description": "Isabela I., královna Kastilie, manželka Ferdinanda II. Aragonského. Spoluvládkyně, která sjednotila Španělsko.",
+    "category": "politics",
+    "region": "Kastilie",
+    "importance": 4,
+    "tags": [
+      "panovník",
+      "katolická královna"
+    ],
+    "people": [
+      "Isabela I."
+    ],
+    "places": [
+      "Kastilie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1479,
+    "year_end": 1516,
+    "title": "Vláda Ferdinanda II. Aragonského",
+    "description": "Ferdinand II., král Aragonie. Svatba s Isabelou I. sjednotila Kastilii a Aragonii, čímž vzniklo Španělské království.",
+    "category": "politics",
+    "region": "Aragonie",
+    "importance": 5,
+    "tags": [
+      "panovník",
+      "katolický král",
+      "sjednocení Španělska"
+    ],
+    "people": [
+      "Ferdinand II."
+    ],
+    "places": [
+      "Aragonie",
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1483,
+    "year_end": null,
+    "title": "Zřízení španělské inkvizice",
+    "description": "Zřízení španělské inkvizice.",
+    "category": "religion",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "inkvizice",
+      "katolická církev",
+      "pronásledování"
+    ],
+    "people": [],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Kryštof Kolumbus doplul do Nového světa",
+    "description": "Kolumbus doplul do Nového světa.",
+    "category": "discovery",
+    "region": "Atlantský oceán",
+    "importance": 5,
+    "tags": [
+      "objevení Ameriky",
+      "mořeplavba",
+      "Kolumbus"
+    ],
+    "people": [
+      "Kryštof Kolumbus"
+    ],
+    "places": [
+      "Nový svět"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1516,
+    "year_end": 1556,
+    "title": "Vláda Karla I. (Španělského) / Karla V. (Svaté říše římské)",
+    "description": "Byl císařem Svaté říše římské jako Karel V. od r. 1519. Nejmocnější panovník své doby. Získal říši, která zahrnovala Španělsko, Nizozemí, Rakousko, Neapolsko a Sicílii a Svatou říši římskou – plus rozsáhlá území, která dobýval v Novém světě španělští dobyvatelé. Většinu času strávil válkami s Francií a protiútoky na protestanty. Abdikoval r. 1555.",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 5,
+    "tags": [
+      "císař",
+      "panovník",
+      "Habsburkové",
+      "koloniální říše",
+      "reformace"
+    ],
+    "people": [
+      "Karel I.",
+      "Karel V."
+    ],
+    "places": [
+      "Španělsko",
+      "Nizozemí",
+      "Rakousko",
+      "Neapolsko",
+      "Sicílie",
+      "Svatá říše římská",
+      "Nový svět"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1519,
+    "year_end": 1533,
+    "title": "Dobytí Aztécké a Incké říše",
+    "description": "Cortés a Pizarro dobyli říše Aztéků a Inků, což přispělo k vytvoření rozsáhlé americké říše Španělska a přineslo ohromné bohatství z Peru.",
+    "category": "war",
+    "region": "Mesoamerika",
+    "importance": 5,
+    "tags": [
+      "konkvista",
+      "Aztékové",
+      "Inkové",
+      "kolonizace",
+      "zlato"
+    ],
+    "people": [
+      "Hernán Cortés",
+      "Francisco Pizarro"
+    ],
+    "places": [
+      "Mexiko",
+      "Peru"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1556,
+    "year_end": 1598,
+    "title": "Vláda Filipa II. Španělského",
+    "description": "Byl považován za ochránce katolické církve, vedl války s Anglií a proti povstalému Holandsku. Tím zbankrotoval jeho stát, který trpěl nadvládou a stíráním z Nového světa.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 5,
+    "tags": [
+      "panovník",
+      "katolická církev",
+      "války",
+      "bankrot"
+    ],
+    "people": [
+      "Filip II."
+    ],
+    "places": [
+      "Španělsko",
+      "Anglie",
+      "Holandsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1580,
+    "year_end": null,
+    "title": "Anexe Portugalska Španělskem",
+    "description": "Španělsko anektovalo Portugalsko.",
+    "category": "politics",
+    "region": "Iberský poloostrov",
+    "importance": 3,
+    "tags": [
+      "anexe",
+      "Portugalsko",
+      "španělské impérium"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1640,
+    "year_end": null,
+    "title": "Nezávislost Portugalska",
+    "description": "Portugalsko získalo nezávislost na Španělsku.",
+    "category": "politics",
+    "region": "Iberský poloostrov",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "Portugalsko"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1701,
+    "year_end": 1714,
+    "title": "Válka o dědictví španělské",
+    "description": "Válka o dědictví španělské.",
+    "category": "war",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "dědictví",
+      "Bourboni"
+    ],
+    "people": [],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1704,
+    "year_end": null,
+    "title": "Britové dobyli Gibraltar",
+    "description": "Britové dobyli Gibraltar.",
+    "category": "war",
+    "region": "Gibraltar",
+    "importance": 3,
+    "tags": [
+      "dobytí",
+      "Británie",
+      "strategické místo"
+    ],
+    "people": [],
+    "places": [
+      "Gibraltar"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1808,
+    "year_end": 1814,
+    "title": "Polooostrovní válka",
+    "description": "Napoleon vpadl do Španělska a instaloval svého bratra Josefa na trůn. Francouzi byli vytlačeni Wellingtonem.",
+    "category": "war",
+    "region": "Iberský poloostrov",
+    "importance": 4,
+    "tags": [
+      "napoleonské války",
+      "francouzská invaze"
+    ],
+    "people": [
+      "Napoleon Bonaparte",
+      "Josef Bonaparte",
+      "Wellington"
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1811,
+    "year_end": 1836,
+    "title": "Nezávislost španělských kolonií v Novém světě",
+    "description": "Španělské kolonie v Novém světě povstaly a získaly nezávislost.",
+    "category": "politics",
+    "region": "Latinská Amerika",
+    "importance": 5,
+    "tags": [
+      "dekolonizace",
+      "nezávislost",
+      "kolonie"
+    ],
+    "people": [],
+    "places": [
+      "Nový svět"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1873,
+    "year_end": null,
+    "title": "První španělská republika",
+    "description": "Vznik první republiky v Španělsku.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "republika"
+    ],
+    "people": [],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1898,
+    "year_end": null,
+    "title": "Španělsko-americká válka",
+    "description": "Španělsko ztratilo Kubu a Filipíny.",
+    "category": "war",
+    "region": "Karibik",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "koloniální úpadek"
+    ],
+    "people": [],
+    "places": [
+      "Kuba",
+      "Filipíny"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1923,
+    "year_end": 1930,
+    "title": "Diktatura Prima de Rivery",
+    "description": "Diktatura Prima de Rivery, která vedla 1931 ke zřízení Republiky.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "diktatura",
+      "politické změny"
+    ],
+    "people": [
+      "Primo de Rivera"
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1931,
+    "year_end": null,
+    "title": "Zřízení Druhé španělské republiky",
+    "description": "Zřízení Druhé španělské republiky.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "republika",
+      "politické změny"
+    ],
+    "people": [],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1936,
+    "year_end": 1939,
+    "title": "Španělská občanská válka",
+    "description": "V níž zvítězili fašisté nacionalisté neboli Franco. Franco se stal diktátorem.",
+    "category": "war",
+    "region": "Španělsko",
+    "importance": 5,
+    "tags": [
+      "občanská válka",
+      "fašismus",
+      "diktatura"
+    ],
+    "people": [
+      "Francisco Franco"
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1975,
+    "year_end": null,
+    "title": "Smrt Franca a obnova konstituční monarchie",
+    "description": "Po Frankově smrti se Španělsko stalo konstituční monarchií.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "demokracie",
+      "monarchie",
+      "post-francismus"
+    ],
+    "people": [
+      "Francisco Franco"
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1977,
+    "year_end": null,
+    "title": "První svobodné volby ve Španělsku",
+    "description": "V roce 1977 se konaly volby.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "demokracie",
+      "volby"
+    ],
+    "people": [],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1598,
+    "year_end": 1621,
+    "title": "Vláda Filipa III. (Španělsko)",
+    "description": "Španělský panovník z Habsburské dynastie.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Habsburkové"
+    ],
+    "people": [
+      "Filip III."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1621,
+    "year_end": 1665,
+    "title": "Vláda Filipa IV. (Španělsko)",
+    "description": "Španělský panovník z Habsburské dynastie.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Habsburkové"
+    ],
+    "people": [
+      "Filip IV."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1665,
+    "year_end": 1700,
+    "title": "Vláda Karla II. (Španělsko)",
+    "description": "Španělský panovník z Habsburské dynastie, poslední španělský Habsburk.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Habsburkové"
+    ],
+    "people": [
+      "Karel II."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1700,
+    "year_end": 1746,
+    "title": "Vláda Filipa V. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Bourboni"
+    ],
+    "people": [
+      "Filip V."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1746,
+    "year_end": 1759,
+    "title": "Vláda Ferdinanda VI. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Bourboni"
+    ],
+    "people": [
+      "Ferdinand VI."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1759,
+    "year_end": 1788,
+    "title": "Vláda Karla III. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie, známý svými reformami.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Bourboni",
+      "osvícenství"
+    ],
+    "people": [
+      "Karel III."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1788,
+    "year_end": 1808,
+    "title": "Vláda Karla IV. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie, vládl během napoleonských válek.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Bourboni",
+      "napoleonské války"
+    ],
+    "people": [
+      "Karel IV."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1813,
+    "year_end": 1833,
+    "title": "Vláda Ferdinanda VII. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie, jehož vláda byla poznamenána restaurací absolutismu a bojem s liberály.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Bourboni",
+      "absolutismus"
+    ],
+    "people": [
+      "Ferdinand VII."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1833,
+    "year_end": 1868,
+    "title": "Vláda Isabely II. (Španělsko)",
+    "description": "Španělská královna z Bourbonské dynastie, její vláda vedla k častým politickým otřesům.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Bourboni"
+    ],
+    "people": [
+      "Isabela II."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1870,
+    "year_end": 1873,
+    "title": "Amadeo Savojský",
+    "description": "Amadeo Savojský byl zvolen králem Španělska během mezivládí.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 2,
+    "tags": [
+      "král",
+      "mezivládí"
+    ],
+    "people": [
+      "Amadeo Savojský"
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1874,
+    "year_end": 1885,
+    "title": "Vláda Alfonsa XII. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie, vládl po První republice.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Bourboni"
+    ],
+    "people": [
+      "Alfons XII."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1886,
+    "year_end": 1931,
+    "title": "Vláda Alfonsa XIII. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie, jehož vláda skončila zřízením druhé republiky.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Bourboni"
+    ],
+    "people": [
+      "Alfons XIII."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1975,
+    "year_end": 1997,
+    "title": "Vláda Juana Carlose I. (Španělsko)",
+    "description": "Španělský panovník z Bourbonské dynastie, klíčová postava v demokratické transformaci po Francově smrti.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "panovník",
+      "Bourboni",
+      "demokratizace"
+    ],
+    "people": [
+      "Juan Carlos I."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -1000,
+    "year_end": null,
+    "title": "Keltové v Portugalsku",
+    "description": "Území, na němž se dnes nachází Portugalsko, bylo ve starověku domovem Keltů, kteří se dostali na poloostrov přes tisíciletí př. n. l.",
+    "category": "culture",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "Keltové",
+      "starověk",
+      "Portugalci"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -154,
+    "year_end": -137,
+    "title": "Řím bojuje s kmenovým svazem Viriatha",
+    "description": "Po druhé punské válce rozšířil Řím svou vládu na celý poloostrov, ale musel zde v letech 154–137 př. n. l. bojovat s kmenovému svazu vedenému Viriathem.",
+    "category": "war",
+    "region": "Iberský poloostrov",
+    "importance": 3,
+    "tags": [
+      "Řím",
+      "Viriathus",
+      "kmenové války"
+    ],
+    "people": [
+      "Viriathus"
+    ],
+    "places": [
+      "Iberský poloostrov"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -80,
+    "year_end": null,
+    "title": "Vznik římské provincie Lusitánie",
+    "description": "Po vzpouře r. 99 př. n. l. a Sertoriově válce kolem roku 80 př. n. l., kdy se území stalo římskou provincií Lusitánií, následovala více než čtyři století míru.",
+    "category": "politics",
+    "region": "Lusitania",
+    "importance": 4,
+    "tags": [
+      "Řím",
+      "provincie",
+      "Sertoriova válka"
+    ],
+    "people": [],
+    "places": [
+      "Lusitania"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 409,
+    "year_end": null,
+    "title": "Vpád barbarských kmenů do Portugalska",
+    "description": "R. 409 n. l. vpadly „barbarské“ kmeny (Vandalové, Alané a Svébové).",
+    "category": "war",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "barbaři",
+      "Vandalové",
+      "Alané",
+      "Svébové",
+      "migrace"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 416,
+    "year_end": 419,
+    "title": "Vizigótská nadvláda a odlišování Portugalska",
+    "description": "V letech 416–19 ovládli poprvé území Vizigóti a území Portugalska se začalo odlišovat od Španělska. Christianizace oblasti proběhla kolem roku 550.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "Vizigóti",
+      "království",
+      "formování národa",
+      "christianizace"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko",
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1035,
+    "year_end": null,
+    "title": "Formování portugalského hrabství a postup Reconquisty",
+    "description": "Křesťané portugalské hrabství severně od řeky Douro postupně posunovalo své hranice na jih.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "hrabství",
+      "hranice"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko",
+      "řeka Douro"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1139,
+    "year_end": null,
+    "title": "Portugalsko se stává královstvím",
+    "description": "Alfons I. Dobyvatel se r. 1139 stalo královstvím.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 5,
+    "tags": [
+      "království",
+      "nezávislost"
+    ],
+    "people": [
+      "Alfons I. Dobyvatel"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1147,
+    "year_end": null,
+    "title": "Dobytí Lisabonu Alfonsem Henriquesem",
+    "description": "Alfons Henriques dobyl Lisabon.",
+    "category": "war",
+    "region": "Lisabon",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "dobytí"
+    ],
+    "people": [
+      "Alfons Henriques"
+    ],
+    "places": [
+      "Lisabon"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1270,
+    "year_end": null,
+    "title": "Dokončení Reconquisty v Portugalsku",
+    "description": "Okolo r. 1270 dokončení reconquisty.",
+    "category": "war",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "reconquista",
+      "konec"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1500,
+    "year_end": 1600,
+    "title": "Rozvoj portugalské obchodní sítě a kolonizace Brazílie",
+    "description": "V 16. století založili portugalští mořeplavci celosvětovou obchodní síť – kolem roku 1600 existovalo více než 50 obchodních stanic a pevností – byly zaměřeny na obchod s kořením na Dálném východě. Od 30. let 16. století kolonizovali také Brazílii a přiváželi africké otroky na práci na trtinových plantážích.",
+    "category": "economics",
+    "region": "Celosvětově",
+    "importance": 5,
+    "tags": [
+      "kolonizace",
+      "obchod",
+      "koření",
+      "otrokářství",
+      "Brazílie"
+    ],
+    "people": [],
+    "places": [
+      "Dálný východ",
+      "Brazílie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1640,
+    "year_end": null,
+    "title": "Revoluce a nástup dynastie Braganza v Portugalsku",
+    "description": "Revoluce vynesla na trůn dynastii Braganca.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "revoluce",
+      "dynastie",
+      "nezávislost"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1807,
+    "year_end": 1821,
+    "title": "Napoleonův vpád a exil královské rodiny do Brazílie",
+    "description": "Napoleonův vpád na poloostrov, královská rodina uprchla do Brazílie, vrátila se r. 1821.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "napoleonské války",
+      "exil",
+      "královská rodina"
+    ],
+    "people": [
+      "Napoleon Bonaparte"
+    ],
+    "places": [
+      "Brazílie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1910,
+    "year_end": null,
+    "title": "Revoluce a zřízení republiky v Portugalsku",
+    "description": "Nestabilita v Portugalsku dosáhla krizového bodu r. 1910, kdy revoluce nastolila republiku.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "revoluce",
+      "republika"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1926,
+    "year_end": 1968,
+    "title": "Nástup Salazara k moci a jeho diktatura",
+    "description": "Puč r. 1926 přivedl k moci Antónia de Oliveiru Salazara. Ten byl diktátorem v letech 1932–1968 a vládl železnou rukou.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "diktatura",
+      "autoritářství",
+      "Estado Novo"
+    ],
+    "people": [
+      "António de Oliveira Salazar"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1968,
+    "year_end": 1974,
+    "title": "Tlak na režim kvůli nezávislosti kolonií",
+    "description": "Váhání s poskytnutím nezávislosti koloniím obrátilo silný tlak armády proti režimu.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "dekolonizace",
+      "armáda",
+      "politický tlak"
+    ],
+    "people": [],
+    "places": [
+      "Portugalské kolonie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1974,
+    "year_end": null,
+    "title": "Převrat v Portugalsku (Revoluce karafiátů)",
+    "description": "Roku 1974 se odehrál jiný puč, který vedl k demokratizaci.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "puč",
+      "revoluce",
+      "demokratizace"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1982,
+    "year_end": null,
+    "title": "Nová ústava a civilní demokracie v Portugalsku",
+    "description": "R. 1982 přinesla nová ústava civilní demokracii.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "ústava",
+      "demokracie"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1095,
+    "year_end": 1112,
+    "title": "Jindřich Burgundský, hrabě portugalský",
+    "description": "Jindřich Burgundský, zakladatel portugalské burgundské dynastie, vládl jako hrabě.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Burgundská dynastie"
+    ],
+    "people": [
+      "Jindřich Burgundský"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1112,
+    "year_end": 1185,
+    "title": "Vláda Alfonsa I. (Portugalsko)",
+    "description": "Alfons I. (Dobyvatel) byl prvním portugalským králem.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "panovník",
+      "Burgundská dynastie",
+      "král"
+    ],
+    "people": [
+      "Alfons I."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1185,
+    "year_end": 1211,
+    "title": "Vláda Sancha I. (Portugalsko)",
+    "description": "Sancho I., portugalský král, pokračoval v konsolidaci království.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Burgundská dynastie"
+    ],
+    "people": [
+      "Sancho I."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1211,
+    "year_end": 1223,
+    "title": "Vláda Alfonsa II. (Portugalsko)",
+    "description": "Alfons II., portugalský král.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Burgundská dynastie"
+    ],
+    "people": [
+      "Alfons II."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1223,
+    "year_end": 1246,
+    "title": "Vláda Sancha II. (Portugalsko)",
+    "description": "Sancho II., portugalský král.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Burgundská dynastie"
+    ],
+    "people": [
+      "Sancho II."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1246,
+    "year_end": 1279,
+    "title": "Vláda Alfonsa III. (Portugalsko)",
+    "description": "Alfons III., portugalský král.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Burgundská dynastie"
+    ],
+    "people": [
+      "Alfons III."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1279,
+    "year_end": 1325,
+    "title": "Vláda Dinise (Portugalsko)",
+    "description": "Dinis, portugalský král, známý pro podporu zemědělství a zakládání univerzit.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Burgundská dynastie"
+    ],
+    "people": [
+      "Dinis"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1325,
+    "year_end": 1357,
+    "title": "Vláda Alfonsa IV. (Portugalsko)",
+    "description": "Alfons IV., portugalský král.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Avizská dynastie"
+    ],
+    "people": [
+      "Alfons IV."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1357,
+    "year_end": 1367,
+    "title": "Vláda Petra I. (Portugalsko)",
+    "description": "Petr I., portugalský král, známý pro svou spravedlnost.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Avizská dynastie"
+    ],
+    "people": [
+      "Petr I."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1367,
+    "year_end": 1383,
+    "title": "Vláda Ferdinanda I. (Portugalsko)",
+    "description": "Ferdinand I., portugalský král, poslední z burgundské dynastie v přímé linii.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Avizská dynastie"
+    ],
+    "people": [
+      "Ferdinand I."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1383,
+    "year_end": 1385,
+    "title": "Regentství Leonor Teles (Portugalsko)",
+    "description": "Leonor Teles jako regentka v Portugalsku.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "regentka",
+      "Avizská dynastie"
+    ],
+    "people": [
+      "Leonor Teles"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1385,
+    "year_end": 1433,
+    "title": "Vláda Jana I. (Portugalsko)",
+    "description": "Jan I. založil Avizskou dynastii a upevnil nezávislost Portugalska.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "panovník",
+      "Avizská dynastie",
+      "nezávislost"
+    ],
+    "people": [
+      "Jan I."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1433,
+    "year_end": 1438,
+    "title": "Vláda Eduarda (Portugalsko)",
+    "description": "Eduard, portugalský král.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Avizská dynastie"
+    ],
+    "people": [
+      "Eduard"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1438,
+    "year_end": 1481,
+    "title": "Vláda Alfonsa V. (Portugalsko)",
+    "description": "Alfons V., portugalský král, známý pro své vojenské kampaně v severní Africe.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Avizská dynastie"
+    ],
+    "people": [
+      "Alfons V."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1481,
+    "year_end": 1495,
+    "title": "Vláda Jana II. (Portugalsko)",
+    "description": "Jan II., portugalský král, konsolidoval královskou moc a podporoval zámořské objevy.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Avizská dynastie",
+      "objevy"
+    ],
+    "people": [
+      "Jan II."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1495,
+    "year_end": 1521,
+    "title": "Vláda Manuela I. (Portugalsko)",
+    "description": "Manuel I., portugalský král, za jehož vlády dosáhlo Portugalsko vrcholu své koloniální moci.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "panovník",
+      "Avizská dynastie",
+      "koloniální říše"
+    ],
+    "people": [
+      "Manuel I."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1521,
+    "year_end": 1557,
+    "title": "Vláda Jana III. (Portugalsko)",
+    "description": "Jan III., portugalský král, pokračoval v rozvoji koloniální říše a podporoval jezuity.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Avizská dynastie",
+      "kolonialismus"
+    ],
+    "people": [
+      "Jan III."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1557,
+    "year_end": 1578,
+    "title": "Vláda Sebastiána (Portugalsko)",
+    "description": "Sebastián, portugalský král, zemřel bez dědice v bitvě u Alcácer Quibir, což vedlo k personální unii se Španělskem.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 4,
+    "tags": [
+      "panovník",
+      "Avizská dynastie",
+      "krize nástupnictví"
+    ],
+    "people": [
+      "Sebastián"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1580,
+    "year_end": 1598,
+    "title": "Vláda Filipa I. (Portugalsko)",
+    "description": "Filip I. (Filip II. Španělský) vládl Portugalsku v personální unii se Španělskem.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Habsburkové",
+      "personální unie"
+    ],
+    "people": [
+      "Filip I.",
+      "Filip II. Španělský"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1598,
+    "year_end": 1621,
+    "title": "Vláda Filipa II. (Portugalsko)",
+    "description": "Filip II. (Filip III. Španělský) vládl Portugalsku v personální unii.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Habsburkové",
+      "personální unie"
+    ],
+    "people": [
+      "Filip II.",
+      "Filip III. Španělský"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1621,
+    "year_end": 1640,
+    "title": "Vláda Filipa III. (Portugalsko)",
+    "description": "Filip III. (Filip IV. Španělský) vládl Portugalsku v personální unii.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Habsburkové",
+      "personální unie"
+    ],
+    "people": [
+      "Filip III.",
+      "Filip IV. Španělský"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1640,
+    "year_end": 1656,
+    "title": "Vláda Alfonsa VI. (Portugalsko)",
+    "description": "Alfons VI., portugalský král, za jehož vlády Portugalsko získalo nezávislost na Španělsku.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança"
+    ],
+    "people": [
+      "Alfons VI."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1656,
+    "year_end": 1705,
+    "title": "Vláda Petra II. (Portugalsko)",
+    "description": "Petr II. byl regentem (1656-67) a králem (1667-1705) Portugalska.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança",
+      "regent"
+    ],
+    "people": [
+      "Petr II."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1705,
+    "year_end": 1750,
+    "title": "Vláda Jana V. (Portugalsko)",
+    "description": "Jan V., portugalský král, za jehož vlády zažilo Portugalsko rozkvět díky bohatství z Brazílie.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança",
+      "koloniální bohatství"
+    ],
+    "people": [
+      "Jan V."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1750,
+    "year_end": 1777,
+    "title": "Vláda Josefa I. (Portugalsko)",
+    "description": "Josef I., portugalský král, jehož vláda je spojena s markýzem de Pombal a rekonstrukcí Lisabonu po zemětřesení.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança",
+      "osvícenský absolutismus"
+    ],
+    "people": [
+      "Josef I."
+    ],
+    "places": [
+      "Portugalsko",
+      "Lisabon"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1777,
+    "year_end": 1816,
+    "title": "Vláda Marie I. a Petra III. (Portugalsko)",
+    "description": "Marie I. a Petr III. (spoluvládce) vládli Portugalsku. Marie I. byla první královnou Portugalska.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança"
+    ],
+    "people": [
+      "Marie I.",
+      "Petr III."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1816,
+    "year_end": 1826,
+    "title": "Vláda Jana VI. (Portugalsko)",
+    "description": "Jan VI., portugalský král, strávil část své vlády v Brazílii kvůli napoleonským invazím.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança"
+    ],
+    "people": [
+      "Jan VI."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1826,
+    "year_end": null,
+    "title": "Vláda Petra IV. (Portugalsko)",
+    "description": "Petr IV. (císař Pedro I. Brazilský) se krátce stal králem Portugalska, ale vzdal se trůnu ve prospěch své dcery Marie.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança"
+    ],
+    "people": [
+      "Petr IV."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1828,
+    "year_end": 1853,
+    "title": "Vláda Marie II. (Portugalsko)",
+    "description": "Marie II., portugalská královna, její vláda byla poznamenána bojem s jejím strýcem Miguelem o trůn.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança"
+    ],
+    "people": [
+      "Marie II."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1828,
+    "year_end": 1834,
+    "title": "Vláda Miguela (Portugalsko)",
+    "description": "Miguel, portugalský král, vládl jako uzurpátor v občanské válce proti Marii II.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança"
+    ],
+    "people": [
+      "Miguel"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1837,
+    "year_end": 1853,
+    "title": "Vláda Ferdinanda II. (Portugalsko)",
+    "description": "Ferdinand II., král choť Portugalska a spoluvládce Marie II. Zakladatel dynastie Bragança-Coburg.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança-Coburg"
+    ],
+    "people": [
+      "Ferdinand II."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1861,
+    "year_end": 1889,
+    "title": "Vláda Ludvíka I. (Portugalsko)",
+    "description": "Ludvík I., portugalský král.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança-Coburg"
+    ],
+    "people": [
+      "Ludvík I."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1889,
+    "year_end": 1909,
+    "title": "Vláda Karla (Portugalsko)",
+    "description": "Karel, portugalský král, zavražděn v Lisabonu.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 2,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança-Coburg",
+      "atentát"
+    ],
+    "people": [
+      "Karel"
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1909,
+    "year_end": 1910,
+    "title": "Vláda Manuela II. (Portugalsko)",
+    "description": "Manuel II., poslední portugalský král, svržen revolucí v roce 1910.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Dynastie Bragança-Coburg",
+      "revoluce"
+    ],
+    "people": [
+      "Manuel II."
+    ],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -60,
+    "year_end": null,
+    "title": "První triumvirát",
+    "description": "První triumvirát: Crassus, Pompeius a Caesar.",
+    "category": "politics",
+    "region": "Řím",
+    "importance": 4,
+    "tags": [
+      "římská republika",
+      "triumvirát"
+    ],
+    "people": [
+      "Crassus",
+      "Pompeius",
+      "Caesar"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -69,
+    "year_end": null,
+    "title": "Druhý triumvirát",
+    "description": "Druhý triumvirát: Antonius, Octavian, Lepidus.",
+    "category": "politics",
+    "region": "Řím",
+    "importance": 4,
+    "tags": [
+      "římská republika",
+      "triumvirát"
+    ],
+    "people": [
+      "Antonius",
+      "Octavian",
+      "Lepidus"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 69,
+    "year_end": null,
+    "title": "Rok čtyř císařů",
+    "description": "Rok čtyř císařů.",
+    "category": "politics",
+    "region": "Řím",
+    "importance": 3,
+    "tags": [
+      "římské císařství",
+      "politická nestabilita"
+    ],
+    "people": [],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 101,
+    "year_end": 117,
+    "title": "Trajánovo rozšíření Říše",
+    "description": "Traján rozšířil říši do jejího největšího rozsahu zabráním Mezopotámie a přidáním provincie Dácie.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "římské císařství",
+      "expanze"
+    ],
+    "people": [
+      "Traján"
+    ],
+    "places": [
+      "Mezopotámie",
+      "Dácie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 401,
+    "year_end": 500,
+    "title": "Hrozba vpádu barbarů ve 4. století",
+    "description": "V 4. století si hrozba vpádu barbarů vyžadovala pozornost císařů, což skoro vedlo k převratu.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 3,
+    "tags": [
+      "římské císařství",
+      "barbaři",
+      "politická nestabilita"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -250,
+    "year_end": null,
+    "title": "Dominance Římské republiky ve střední Itálii",
+    "description": "V polovině 3. století př. n. l. dominovala římská republika ve střední Itálii a odrazila vpád Pyrrha z Epiru.",
+    "category": "politics",
+    "region": "Střední Itálie",
+    "importance": 3,
+    "tags": [
+      "římská republika",
+      "expanze"
+    ],
+    "people": [
+      "Pyrrhus"
+    ],
+    "places": [
+      "Itálie",
+      "Epirus"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -264,
+    "year_end": -202,
+    "title": "Punské války a římská nadvláda Středomoří",
+    "description": "V letech 264–241 a 218–202 bylo poraženo Kartágo a Řím ovládl západní Středomoří. Dobytí Řecka a Malé Asie následovalo kolem roku 130.",
+    "category": "war",
+    "region": "Středomoří",
+    "importance": 5,
+    "tags": [
+      "římská republika",
+      "Punské války",
+      "Kartágo",
+      "Řecko",
+      "Malá Asie"
+    ],
+    "people": [],
+    "places": [
+      "Středomoří",
+      "Kartágo",
+      "Řecko",
+      "Malá Asie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -100,
+    "year_end": null,
+    "title": "Ambice mocných válečníků ničí Římskou republiku",
+    "description": "Ambice mocných válečníků – Marius, Sulla, Pompeius, Crassus a Caesar – nakonec v 1. století př. n. l. republiku zničily.",
+    "category": "politics",
+    "region": "Řím",
+    "importance": 4,
+    "tags": [
+      "římská republika",
+      "občanská válka",
+      "politická krize"
+    ],
+    "people": [
+      "Marius",
+      "Sulla",
+      "Pompeius",
+      "Crassus",
+      "Caesar"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": -27,
+    "year_end": 14,
+    "title": "Vláda císaře Augusta (Octaviana)",
+    "description": "Caesar, Augustus (Octavian) vytvořil císařství, stal se prvním císařem (od r. 27 př. n. l.).",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 5,
+    "tags": [
+      "římské císařství",
+      "císař",
+      "principát"
+    ],
+    "people": [
+      "Caesar",
+      "Augustus",
+      "Octavian"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 14,
+    "year_end": 37,
+    "title": "Vláda Tiberia",
+    "description": "Tiberius, římský císař. Za Augustových nástupců se začala zvyšovat nestabilita.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 3,
+    "tags": [
+      "římské císařství",
+      "Juliovsko-klaudijská dynastie"
+    ],
+    "people": [
+      "Tiberius"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 37,
+    "year_end": 41,
+    "title": "Vláda Caliguly",
+    "description": "Caligula, římský císař.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 2,
+    "tags": [
+      "římské císařství",
+      "Juliovsko-klaudijská dynastie"
+    ],
+    "people": [
+      "Caligula"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 41,
+    "year_end": 54,
+    "title": "Vláda Claudia",
+    "description": "Claudius, římský císař.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 2,
+    "tags": [
+      "římské císařství",
+      "Juliovsko-klaudijská dynastie"
+    ],
+    "people": [
+      "Claudius"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 54,
+    "year_end": 68,
+    "title": "Vláda Nera",
+    "description": "Nero, římský císař. Za Augustových nástupců se začala zvyšovat nestabilita.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 2,
+    "tags": [
+      "římské císařství",
+      "Juliovsko-klaudijská dynastie"
+    ],
+    "people": [
+      "Nero"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 69,
+    "year_end": 79,
+    "title": "Vláda Vespasiána",
+    "description": "Vespasián, římský císař, zakladatel Flaviovské dynastie.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 3,
+    "tags": [
+      "římské císařství",
+      "Flaviovská dynastie"
+    ],
+    "people": [
+      "Vespasián"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 79,
+    "year_end": 81,
+    "title": "Vláda Tita",
+    "description": "Titus, římský císař.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 2,
+    "tags": [
+      "římské císařství",
+      "Flaviovská dynastie"
+    ],
+    "people": [
+      "Titus"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 81,
+    "year_end": 96,
+    "title": "Vláda Domiciána",
+    "description": "Domicián, římský císař.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 2,
+    "tags": [
+      "římské císařství",
+      "Flaviovská dynastie"
+    ],
+    "people": [
+      "Domicián"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 98,
+    "year_end": 117,
+    "title": "Vláda Trajána",
+    "description": "Traján, římský císař, za jehož vlády dosáhla říše svého největšího rozsahu. Za vlády Antonínovců panoval v říši mír a Řím byl na vrcholu moci.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "římské císařství",
+      "Antonínovci",
+      "Pax Romana"
+    ],
+    "people": [
+      "Traján"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 117,
+    "year_end": 138,
+    "title": "Vláda Hadriána",
+    "description": "Hadrián, římský císař. Za vlády Antonínovců panoval v říši mír a Řím byl na vrcholu moci.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 3,
+    "tags": [
+      "římské císařství",
+      "Antonínovci",
+      "Pax Romana"
+    ],
+    "people": [
+      "Hadrián"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 138,
+    "year_end": 161,
+    "title": "Vláda Antonina Pia",
+    "description": "Antoninus Pius, římský císař. Za vlády Antonínovců panoval v říši mír a Řím byl na vrcholu moci.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 3,
+    "tags": [
+      "římské císařství",
+      "Antonínovci",
+      "Pax Romana"
+    ],
+    "people": [
+      "Antoninus Pius"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 161,
+    "year_end": 180,
+    "title": "Vláda Marca Aurelia",
+    "description": "Marcus Aurelius, římský císař a filozof. Za vlády Antonínovců panoval v říši mír a Řím byl na vrcholu moci.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "římské císařství",
+      "Antonínovci",
+      "Pax Romana"
+    ],
+    "people": [
+      "Marcus Aurelius"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 193,
+    "year_end": 284,
+    "title": "Období anarchie v Římské říši (Septimius Severus)",
+    "description": "Po Antonínovcích soupeřili o trůn generálové a ohnisko moci se z hlavního města přestěhovalo.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "římské císařství",
+      "vojenská anarchie",
+      "krize"
+    ],
+    "people": [
+      "Septimius Severus"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 284,
+    "year_end": 305,
+    "title": "Vláda Diokleciána a rozdělení říše",
+    "description": "Aby se vypořádal s tím, Dioklecián odpovědně stěhoval hlavní město z Říma. R. 395 byla říše rozdělena na Východ a Západ.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "římské císařství",
+      "Dioklecián",
+      "tetrarchie",
+      "rozdělení říše"
+    ],
+    "people": [
+      "Dioklecián"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 312,
+    "year_end": 337,
+    "title": "Vláda Konstantina I.",
+    "description": "Konstantin I., římský císař, první křesťanský císař, zakladatel Konstantinopole.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 5,
+    "tags": [
+      "římské císařství",
+      "Konstantin",
+      "křesťanství",
+      "Konstantinopol"
+    ],
+    "people": [
+      "Konstantin I."
+    ],
+    "places": [
+      "Konstantinopol"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 379,
+    "year_end": 395,
+    "title": "Vláda Theodosia",
+    "description": "Theodosius, římský císař. Křesťanství se šířilo, císaři bojovali proti pohanům.",
+    "category": "politics",
+    "region": "Římská říše",
+    "importance": 3,
+    "tags": [
+      "římské císařství",
+      "Theodosius",
+      "křesťanství"
+    ],
+    "people": [
+      "Theodosius"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 410,
+    "year_end": null,
+    "title": "Řím dobyt barbary",
+    "description": "Řím dobyt barbary (Vizigóty pod Alarichem).",
+    "category": "war",
+    "region": "Řím",
+    "importance": 4,
+    "tags": [
+      "Řím",
+      "barbaři",
+      "dobytí",
+      "Vizigóti"
+    ],
+    "people": [],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 476,
+    "year_end": null,
+    "title": "Sesazení Romula Augustula a pád Západořímské říše",
+    "description": "Poslední císař Romulus Augustulus byl sesazen, což znamenalo pád Západořímské říše.",
+    "category": "politics",
+    "region": "Západořímská říše",
+    "importance": 5,
+    "tags": [
+      "pád říše",
+      "barbaři",
+      "Romulus Augustulus"
+    ],
+    "people": [
+      "Romulus Augustulus",
+      "Odoacer"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 493,
+    "year_end": null,
+    "title": "Ostrogótské království v Itálii",
+    "description": "Ostrogótský král Theodorich vpadl do Itálie a založil království, které bylo poraženo při byzantském „znovudobytí“ 553–68.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 4,
+    "tags": [
+      "Ostrogóti",
+      "Theodorich",
+      "království",
+      "Byzanc"
+    ],
+    "people": [
+      "Theodorich"
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 568,
+    "year_end": 720,
+    "title": "Langobardi dobývají severní Itálii",
+    "description": "Langobardi dobyli severní Itálii, založili množství vévodství, ale byzantská a papežská území na nich zůstala nezávislá. Langobardská vévodství Spoleto a Benevento se ze sebe postupně podřízenost langobardskému králi.",
+    "category": "politics",
+    "region": "Severní Itálie",
+    "importance": 4,
+    "tags": [
+      "Langobardi",
+      "invaze",
+      "království"
+    ],
+    "people": [
+      "Alboin"
+    ],
+    "places": [
+      "Severní Itálie",
+      "Spoleto",
+      "Benevento"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 749,
+    "year_end": 757,
+    "title": "Aistulf a expanze Langobardů",
+    "description": "Aistulf rozšířil langobardskou vládu, to ale přivedlo papeže ke spojenectví s Franky.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 3,
+    "tags": [
+      "Langobardi",
+      "Franská říše",
+      "papežství"
+    ],
+    "people": [
+      "Aistulf"
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 774,
+    "year_end": null,
+    "title": "Karel Veliký dobývá Lombardii a korunovace císařem",
+    "description": "Karel Veliký dobyl Lombardii a ta se stala součástí jeho říše. R. 800 byl v Římě korunován za císaře.",
+    "category": "politics",
+    "region": "Lombardie",
+    "importance": 5,
+    "tags": [
+      "Karel Veliký",
+      "Franská říše",
+      "korunovace",
+      "císař"
+    ],
+    "people": [
+      "Karel Veliký"
+    ],
+    "places": [
+      "Lombardie",
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 843,
+    "year_end": null,
+    "title": "Rozdělení Karolínské říše a nezávislost Itálie",
+    "description": "Karolínská říše se rozdělila do různých království a Itálie se stala nezávislá.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 4,
+    "tags": [
+      "Karolínská říše",
+      "rozdělení",
+      "nezávislost"
+    ],
+    "people": [],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 827,
+    "year_end": null,
+    "title": "Arabové dobývají Sicílii",
+    "description": "V 9. a 10. století byla Itálie fragmentována, Byzanc si držela její jih a Arabové r. 827 dobyli Sicílii.",
+    "category": "war",
+    "region": "Sicílie",
+    "importance": 3,
+    "tags": [
+      "Arabové",
+      "dobytí",
+      "Sicílie",
+      "fragmentace"
+    ],
+    "people": [],
+    "places": [
+      "Sicílie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 951,
+    "year_end": null,
+    "title": "Ota I. Německý dobývá severní Itálii a korunovace císařem",
+    "description": "Ota I. Německý dobyl severní Itálii a r. 962 byl korunován na císaře Svaté říše římské.",
+    "category": "politics",
+    "region": "Severní Itálie",
+    "importance": 5,
+    "tags": [
+      "Ota I.",
+      "Svatá říše římská",
+      "korunovace",
+      "císař"
+    ],
+    "people": [
+      "Ota I."
+    ],
+    "places": [
+      "Severní Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1000,
+    "year_end": null,
+    "title": "Benátky, Pisa a Janov se staly námořními mocnostmi",
+    "description": "Benátky, Pisa a Janov se staly vůdčími námořními mocnostmi Středomoří. Janov vládl na Korsice a Sardinii.",
+    "category": "economics",
+    "region": "Středomoří",
+    "importance": 4,
+    "tags": [
+      "námořní mocnost",
+      "obchod",
+      "městské státy"
+    ],
+    "people": [],
+    "places": [
+      "Benátky",
+      "Pisa",
+      "Janov",
+      "Korsika",
+      "Sardinie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1071,
+    "year_end": 1130,
+    "title": "Normané v jižní Itálii a Sicílii",
+    "description": "Na počátku 11. století přišli do jižní Itálie Normané, založili r. 1071 vévodství Apulie a r. 1091 dobyli Sicílii. Jižní polovina Itálie a Sicílie se stala královstvím r. 1130. Na konci století to byl nejbohatší a nejrozvinutější stát Evropy.",
+    "category": "politics",
+    "region": "Jižní Itálie",
+    "importance": 5,
+    "tags": [
+      "Normané",
+      "dobytí",
+      "království",
+      "Sicilské království"
+    ],
+    "people": [
+      "Robert Guiscardovci",
+      "Roger II."
+    ],
+    "places": [
+      "Apulie",
+      "Sicílie",
+      "Jižní Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1395,
+    "year_end": null,
+    "title": "Milánská republika se stala královstvím",
+    "description": "Milánská republika se stala královstvím.",
+    "category": "politics",
+    "region": "Milán",
+    "importance": 2,
+    "tags": [
+      "městský stát",
+      "království"
+    ],
+    "people": [],
+    "places": [
+      "Milán"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1347,
+    "year_end": null,
+    "title": "Černá smrt se rozšířila do Evropy",
+    "description": "Přes Benátky se do Evropy rozšířila černá smrt.",
+    "category": "economics",
+    "region": "Evropa",
+    "importance": 5,
+    "tags": [
+      "pandemie",
+      "černá smrt",
+      "nemoc"
+    ],
+    "people": [],
+    "places": [
+      "Benátky",
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1452,
+    "year_end": null,
+    "title": "Republika Modena se stala vévodstvím",
+    "description": "Republika Modena se stala vévodstvím.",
+    "category": "politics",
+    "region": "Modena",
+    "importance": 2,
+    "tags": [
+      "městský stát",
+      "vévodství"
+    ],
+    "people": [],
+    "places": [
+      "Modena"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1400,
+    "year_end": 1500,
+    "title": "Quattrocento – vrchol renesance v Severní Itálii",
+    "description": "Quatrocento (15. století) bylo vrcholem renesance v Severní Itálii s velkolepým rozkvětem umělecké a kulturní tvořivosti.",
+    "category": "culture",
+    "region": "Severní Itálie",
+    "importance": 5,
+    "tags": [
+      "renesance",
+      "umění",
+      "kultura",
+      "rozvoj"
+    ],
+    "people": [],
+    "places": [
+      "Severní Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1569,
+    "year_end": null,
+    "title": "Florentská republika se stala velkovévodstvím toskánským",
+    "description": "Florentská republika se stala velkovévodstvím toskánským.",
+    "category": "politics",
+    "region": "Toskánsko",
+    "importance": 2,
+    "tags": [
+      "městský stát",
+      "velkovévodství"
+    ],
+    "people": [],
+    "places": [
+      "Florencie",
+      "Toskánsko"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1494,
+    "year_end": 1600,
+    "title": "Itálie jako bitevní pole Francie a Španělska",
+    "description": "V 16. století byla Itálie bitevním polem Francie a Španělska. Francouzi sem vpadli r. 1494, ale na konci 16. století byli vypuzeni a Španělští vládci Itálii dominovali.",
+    "category": "war",
+    "region": "Itálie",
+    "importance": 4,
+    "tags": [
+      "války",
+      "Francie",
+      "Španělsko",
+      "dominance"
+    ],
+    "people": [],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1700,
+    "year_end": 1707,
+    "title": "Bourboni (Španělští) vládnou Neapoli",
+    "description": "Španělští Bourboni vládnou Neapoli.",
+    "category": "politics",
+    "region": "Neapolsko",
+    "importance": 2,
+    "tags": [
+      "Bourboni",
+      "španělská nadvláda"
+    ],
+    "people": [],
+    "places": [
+      "Neapol"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1713,
+    "year_end": 1718,
+    "title": "Savojská dynastie v Sardinii",
+    "description": "Savojská dynastie vládne Sardinii.",
+    "category": "politics",
+    "region": "Sardinie",
+    "importance": 2,
+    "tags": [
+      "Savojská dynastie"
+    ],
+    "people": [],
+    "places": [
+      "Sardinie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1718,
+    "year_end": 1755,
+    "title": "Habsburkové (Rakouští) v Itálii",
+    "description": "Rakouští Habsburkové vládnou částem Itálie.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 2,
+    "tags": [
+      "Habsburkové",
+      "rakouská nadvláda"
+    ],
+    "people": [],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1735,
+    "year_end": 1816,
+    "title": "Bourboni (Španělští) vládnou Sicílii",
+    "description": "Španělští Bourboni vládnou Sicílii.",
+    "category": "politics",
+    "region": "Sicílie",
+    "importance": 2,
+    "tags": [
+      "Bourboni",
+      "španělská nadvláda"
+    ],
+    "people": [],
+    "places": [
+      "Sicílie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1797,
+    "year_end": null,
+    "title": "Napoleon dobývá severní Itálii",
+    "description": "Napoleon dobyl severní Itálii, zničil městské státy a vytvořil loutkové království závislé na napoleonské říši.",
+    "category": "war",
+    "region": "Severní Itálie",
+    "importance": 5,
+    "tags": [
+      "napoleonské války",
+      "francouzská okupace",
+      "loutkové státy"
+    ],
+    "people": [
+      "Napoleon Bonaparte"
+    ],
+    "places": [
+      "Severní Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1815,
+    "year_end": null,
+    "title": "Severní Itálie pod rakouskou hegemonií",
+    "description": "R. 1815 byla severní Itálie opět pod rakouskou hegemonií.",
+    "category": "politics",
+    "region": "Severní Itálie",
+    "importance": 3,
+    "tags": [
+      "rakouská nadvláda",
+      "hegemonie"
+    ],
+    "people": [],
+    "places": [
+      "Severní Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1806,
+    "year_end": 1814,
+    "title": "Bonapartovci/Murat v Neapoli",
+    "description": "Bonapartovci a Joachim Murat vládnou Neapoli.",
+    "category": "politics",
+    "region": "Neapolsko",
+    "importance": 2,
+    "tags": [
+      "napoleonské státy",
+      "Murat"
+    ],
+    "people": [
+      "Joachim Murat"
+    ],
+    "places": [
+      "Neapol"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1816,
+    "year_end": 1860,
+    "title": "Království obojí Sicílie pod Bourbony",
+    "description": "Království obojí Sicílie pod vládou španělských Bourbonů.",
+    "category": "politics",
+    "region": "Jižní Itálie",
+    "importance": 3,
+    "tags": [
+      "Bourboni",
+      "Království obojí Sicílie"
+    ],
+    "people": [],
+    "places": [
+      "Sicílie",
+      "Neapol"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1800,
+    "year_end": 1900,
+    "title": "Risorgimento – úsilí o národní sjednocení Itálie",
+    "description": "V 19. století došlo k Risorgimentu – úsilí o národní sjednocení, vedené Piemontem, kde byl Camillo Cavour a Garibaldi.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 5,
+    "tags": [
+      "Risorgimento",
+      "sjednocení Itálie",
+      "nacionalismus"
+    ],
+    "people": [
+      "Camillo Cavour",
+      "Giuseppe Garibaldi"
+    ],
+    "places": [
+      "Piemont",
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1861,
+    "year_end": 1878,
+    "title": "Vláda Viktora Emanuela II. (Itálie)",
+    "description": "Viktor Emanuel II., král Sardinie a první král sjednocené Itálie.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 4,
+    "tags": [
+      "panovník",
+      "Savojská dynastie",
+      "sjednocení Itálie"
+    ],
+    "people": [
+      "Viktor Emanuel II."
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1878,
+    "year_end": 1900,
+    "title": "Vláda Umberta I. (Itálie)",
+    "description": "Umberto I., král Itálie, zavražděn.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Savojská dynastie",
+      "atentát"
+    ],
+    "people": [
+      "Umberto I."
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1900,
+    "year_end": 1946,
+    "title": "Vláda Viktora Emanuela III. (Itálie)",
+    "description": "Viktor Emanuel III., král Itálie, abdikoval po druhé světové válce.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 3,
+    "tags": [
+      "panovník",
+      "Savojská dynastie",
+      "abdikace"
+    ],
+    "people": [
+      "Viktor Emanuel III."
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1922,
+    "year_end": 1943,
+    "title": "Fašistický režim Benita Mussoliniho",
+    "description": "Fašistický režim Benita Mussoliniho se spojil s nacistickým Německem a ve druhé světové válce zanikl.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 5,
+    "tags": [
+      "fašismus",
+      "diktatura",
+      "druhá světová válka"
+    ],
+    "people": [
+      "Benito Mussolini"
+    ],
+    "places": [
+      "Itálie",
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1939,
+    "year_end": 1945,
+    "title": "Druhá světová válka",
+    "description": "Probíhá druhá světová válka.",
+    "category": "war",
+    "region": "Celosvětově",
+    "importance": 5,
+    "tags": [
+      "světová válka",
+      "konflikt"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "3R"
+  },
+  {
+    "year": 1946,
+    "year_end": null,
+    "title": "Vznik Italské republiky",
+    "description": "Nyní prosperující moderní demokracie, je však sužována volebním systémem, který plodí mnoho krátkodechých koaličních vlád.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 4,
+    "tags": [
+      "republika",
+      "demokracie",
+      "politická nestabilita"
+    ],
+    "people": [],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "3R"
+  }
+]

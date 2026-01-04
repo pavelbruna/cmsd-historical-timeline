@@ -1,0 +1,1860 @@
+[
+  {
+    "year": 1787,
+    "year_end": null,
+    "title": "Ústava Spojených států amerických",
+    "description": "Dokument podepsaný ve Filadelfii, usilující o vytyčení základních práv občanů USA a sladění federální vlády a vlád jednotlivých států s individuálními právy. Tato nejstarší psaná národní ústava je dodnes funkční a je milníkem západního světa. Zahrnuje principy jako zákonodárná moc Kongresu (Článek I), výkonná moc prezidenta (Článek II), soudcovská moc Nejvyššího soudu (Článek III), vztahy mezi státy (Článek IV), dodatky (Článek V), veřejné závazky (Článek VI) a ratifikační podmínky (Článek VII).",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "ústava",
+      "právo",
+      "vláda",
+      "demokracie",
+      "zakladatelské dokumenty"
+    ],
+    "people": [],
+    "places": [
+      "Filadelfie"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "Bill of Rights (Prvních deset dodatků)",
+    "description": "Nejvýznamnější z dodatků Ústavy, jež vešly v platnost. Zahrnují klíčové občanské svobody a práva.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "občanská práva",
+      "svobody",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "1. dodatek k Ústavě",
+    "description": "Garantuje svobodu náboženství, slova a tisku.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "svoboda projevu",
+      "svoboda tisku",
+      "svoboda náboženství"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "2. dodatek k Ústavě",
+    "description": "Zajišťuje právo lidu držet a nosit zbraně, protože 'dobře organizovaná domobrana je nezbytná v zájmu bezpečnosti svobodného státu'.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "právo nosit zbraně",
+      "domobrana"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "3. dodatek k Ústavě",
+    "description": "Stanovuje zásady pro ubytování vojska v době míru v soukromých domech.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "právo",
+      "armáda",
+      "ubytování"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "4. dodatek k Ústavě",
+    "description": "Chrání právo národa na ochranu svobody osobní a domovní, písemností a majetku před neoprávněnými prohlídkami a konfiskacemi.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "soukromí",
+      "prohlídky",
+      "majetecká práva"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "5. dodatek k Ústavě",
+    "description": "Ustanovuje, že občan nemůže být nucen svědčit sám proti sobě a nesmí být dvakrát trestán za týž poklesek.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "soudnictví",
+      "právo",
+      "sebeobvinění",
+      "double jeopardy"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "6. dodatek k Ústavě",
+    "description": "Zaručuje právo na řádný, veřejný soud se svědky a obhajobou.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "soudnictví",
+      "právo",
+      "spravedlnost"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1791,
+    "year_end": null,
+    "title": "8. dodatek k Ústavě",
+    "description": "Zakazuje nadměrné kauce, ukládání nadměrných pokut nebo krutých a mimořádných trestů.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "soudnictví",
+      "právo",
+      "tresty"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1789,
+    "year_end": 1797,
+    "title": "Prezident George Washington",
+    "description": "„Otec vlasti“ a vojevůdce, který vyhrál válku o nezávislost.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "prezident",
+      "zakladatel",
+      "americká revoluce"
+    ],
+    "people": [
+      "George Washington"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1797,
+    "year_end": 1801,
+    "title": "Prezident John Adams",
+    "description": "Jeden z „Otců zakladatelů“ ústavy USA.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "zakladatel",
+      "ústava"
+    ],
+    "people": [
+      "John Adams"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1801,
+    "year_end": 1809,
+    "title": "Prezident Thomas Jefferson",
+    "description": "Vynikající v diplomacii i ve vědě a jeden z autorů Prohlášení nezávislosti.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "diplomacie",
+      "věda",
+      "Prohlášení nezávislosti"
+    ],
+    "people": [
+      "Thomas Jefferson"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1803,
+    "year_end": null,
+    "title": "Koupě Louisiany",
+    "description": "USA zakoupily území Louisiany od Francie, což výrazně rozšířilo území státu.",
+    "category": "politics",
+    "region": "Louisiana",
+    "importance": 4,
+    "tags": [
+      "územní expanze",
+      "nákup",
+      "diplomacie"
+    ],
+    "people": [],
+    "places": [
+      "Louisiana"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1809,
+    "year_end": 1817,
+    "title": "Prezident James Madison",
+    "description": "Hlavní autor federální ústavy.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "ústava",
+      "zakladatel"
+    ],
+    "people": [
+      "James Madison"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1812,
+    "year_end": 1814,
+    "title": "Válka s Velkou Británií",
+    "description": "Boje se odehrály převážně v Kanadě. Britové dobyli Washington a zapálili Bílý dům. Mírová smlouva byla podepsána v Ghentu.",
+    "category": "war",
+    "region": "USA, Kanada",
+    "importance": 3,
+    "tags": [
+      "válka",
+      "Británie",
+      "Kanada"
+    ],
+    "people": [],
+    "places": [
+      "Washington",
+      "Ghent"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1814,
+    "year_end": null,
+    "title": "Bitva o New Orleans",
+    "description": "Významné vítězství Američanů pod vedením Andrewa Jacksona proti Britům v roce 1814.",
+    "category": "war",
+    "region": "New Orleans",
+    "importance": 3,
+    "tags": [
+      "válka",
+      "bitva",
+      "vítězství"
+    ],
+    "people": [
+      "Andrew Jackson"
+    ],
+    "places": [
+      "New Orleans"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1817,
+    "year_end": 1825,
+    "title": "Prezident James Monroe",
+    "description": "Jeho „Monroeova doktrína“ si vyhradila, aby se Evropané nevměšovali do záležitostí Nového světa.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "Monroeova doktrína",
+      "zahraniční politika"
+    ],
+    "people": [
+      "James Monroe"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1823,
+    "year_end": null,
+    "title": "Monroeova doktrína",
+    "description": "Politika, která prohlásila, že Evropské mocnosti by se neměly vměšovat do záležitostí nezávislých států na západní polokouli.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "zahraniční politika",
+      "doktrína",
+      "Latinská Amerika",
+      "Evropa"
+    ],
+    "people": [
+      "James Monroe"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1825,
+    "year_end": 1829,
+    "title": "Prezident John Quincy Adams",
+    "description": "Podnítil rozvoj Středozápadu.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "rozvoj",
+      "středozápad"
+    ],
+    "people": [
+      "John Quincy Adams"
+    ],
+    "places": [
+      "Středozápad"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1829,
+    "year_end": 1837,
+    "title": "Prezident Andrew Jackson",
+    "description": "Vítěz v bitvě o New Orleans (1814).",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "generál",
+      "válka"
+    ],
+    "people": [
+      "Andrew Jackson"
+    ],
+    "places": [
+      "New Orleans"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1837,
+    "year_end": 1841,
+    "title": "Prezident Martin Van Buren",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "Martin Van Buren"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1841,
+    "year_end": 1841,
+    "title": "Prezident William Henry Harrison",
+    "description": "Dostal pneumonii a do měsíce zemřel ve funkci.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "úmrtí ve funkci"
+    ],
+    "people": [
+      "William Henry Harrison"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1841,
+    "year_end": 1845,
+    "title": "Prezident John Tyler",
+    "description": "Jako viceprezident nastoupil po Harrisonovi.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "viceprezident",
+      "sukcese"
+    ],
+    "people": [
+      "John Tyler"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1845,
+    "year_end": null,
+    "title": "Připojení Texasu",
+    "description": "Texas byl anektován a stal se součástí Spojených států.",
+    "category": "politics",
+    "region": "Texas, USA",
+    "importance": 3,
+    "tags": [
+      "anexe",
+      "území",
+      "stát"
+    ],
+    "people": [],
+    "places": [
+      "Texas"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1845,
+    "year_end": 1849,
+    "title": "Prezident James Knox Polk",
+    "description": "Velký prezident, který zvětšil USA na účet Mexika.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "územní expanze",
+      "Mexiko"
+    ],
+    "people": [
+      "James Knox Polk"
+    ],
+    "places": [
+      "Mexiko"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1846,
+    "year_end": 1848,
+    "title": "Válka s Mexikem",
+    "description": "USA porazily Mexiko a získaly Nové Mexiko, Texas, Kalifornii, Utah, Nevadu, Arizonu a oblasti Colorada a Wyomingu.",
+    "category": "war",
+    "region": "USA, Mexiko",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "územní zisky",
+      "Mexiko",
+      "hranice"
+    ],
+    "people": [],
+    "places": [
+      "Mexiko",
+      "Nové Mexiko",
+      "Texas",
+      "Kalifornie",
+      "Utah",
+      "Nevada",
+      "Arizona",
+      "Colorado",
+      "Wyoming"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1848,
+    "year_end": null,
+    "title": "Kalifornská zlatá horečka",
+    "description": "Masivní příliv lidí do Kalifornie za účelem hledání zlata, což vedlo k rychlému růstu populace a rozvoji regionu.",
+    "category": "economics",
+    "region": "Kalifornie",
+    "importance": 3,
+    "tags": [
+      "zlatá horečka",
+      "migrace",
+      "ekonomika",
+      "rozvoj západu"
+    ],
+    "people": [],
+    "places": [
+      "Kalifornie"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1849,
+    "year_end": 1850,
+    "title": "Prezident Zachary Taylor",
+    "description": "Vítěz bitvy u Buena Vista proti Mexičanům; zemřel po roce ve funkci.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "generál",
+      "úmrtí ve funkci"
+    ],
+    "people": [
+      "Zachary Taylor"
+    ],
+    "places": [
+      "Buena Vista"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1850,
+    "year_end": 1853,
+    "title": "Prezident Millard Fillmore",
+    "description": "Viceprezident, který nastoupil po Taylorově smrti.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "viceprezident",
+      "sukcese"
+    ],
+    "people": [
+      "Millard Fillmore"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1853,
+    "year_end": 1857,
+    "title": "Prezident Franklin Pierce",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "Franklin Pierce"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1857,
+    "year_end": 1861,
+    "title": "Prezident James Buchanan",
+    "description": "Nerozhodný, váhal nad směřováním k občanské válce.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "občanská válka"
+    ],
+    "people": [
+      "James Buchanan"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1861,
+    "year_end": 1865,
+    "title": "Prezident Abraham Lincoln",
+    "description": "Ochránce Unie, osvoboditel otroků. Byl zavražděn těsně po vítězství Severu.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "prezident",
+      "občanská válka",
+      "abolicionismus",
+      "atentát"
+    ],
+    "people": [
+      "Abraham Lincoln"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1861,
+    "year_end": 1865,
+    "title": "Americká občanská válka",
+    "description": "Jižní státy se odtrhly od Unie kvůli primárnímu sporu o otroctví. Následovala nejkrvavější válka v amerických dějinách a Unie zůstala nedotčena díky velké odvaze a schopnostem prezidenta Lincolna.",
+    "category": "war",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "občanská válka",
+      "otroctví",
+      "Unie",
+      "Konfederace"
+    ],
+    "people": [
+      "Abraham Lincoln",
+      "Jefferson Davis"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1861,
+    "year_end": 1865,
+    "title": "Jefferson Davis, prezident odtržené Konfederace",
+    "description": "Prezident Konfederovaných států amerických během americké občanské války.",
+    "category": "politics",
+    "region": "Konfederace",
+    "importance": 3,
+    "tags": [
+      "konfederace",
+      "občanská válka"
+    ],
+    "people": [
+      "Jefferson Davis"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1865,
+    "year_end": null,
+    "title": "13. dodatek k Ústavě",
+    "description": "Zrušení otroctví v celých Spojených státech.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "otroctví",
+      "abolicionismus",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1865,
+    "year_end": 1869,
+    "title": "Prezident Andrew Johnson",
+    "description": "Nepopulární a (neúspěšně) obviněný v napjaté poválečné atmosféře.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "obvinění",
+      "rekonstrukce"
+    ],
+    "people": [
+      "Andrew Johnson"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1868,
+    "year_end": null,
+    "title": "14. dodatek k Ústavě",
+    "description": "Každý stát se musí přizpůsobit právům USA a poskytovat občanům ochranu jejich práv.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "občanská práva",
+      "rovnost",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1869,
+    "year_end": 1877,
+    "title": "Prezident Ulysses Simpson Grant",
+    "description": "Velký generál Severu, ale korupční politik.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "generál",
+      "korupce",
+      "občanská válka"
+    ],
+    "people": [
+      "Ulysses Simpson Grant"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1870,
+    "year_end": null,
+    "title": "15. dodatek k Ústavě",
+    "description": "Garance volebních práv bez ohledu na barvu pleti nebo rasu.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "volební právo",
+      "rasová rovnost",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1876,
+    "year_end": null,
+    "title": "Indiánské války: Bitva u Little Big Hornu",
+    "description": "Vítězství domorodých Američanů nad americkou armádou pod generálem Custerem.",
+    "category": "war",
+    "region": "Montana",
+    "importance": 3,
+    "tags": [
+      "indiánské války",
+      "bitva",
+      "domorodé národy",
+      "armáda"
+    ],
+    "people": [
+      "George Armstrong Custer"
+    ],
+    "places": [
+      "Little Big Horn"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1877,
+    "year_end": 1881,
+    "title": "Prezident Rutherford Birchard Hayes",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "Rutherford Birchard Hayes"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1881,
+    "year_end": 1881,
+    "title": "Prezident James Abram Garfield",
+    "description": "Zavražděný na washingtonském nádraží.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "atentát"
+    ],
+    "people": [
+      "James Abram Garfield"
+    ],
+    "places": [
+      "Washington"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1881,
+    "year_end": 1885,
+    "title": "Prezident Chester Alan Arthur",
+    "description": "Viceprezident, který nastoupil po Garfieldově zavraždění.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "viceprezident",
+      "sukcese"
+    ],
+    "people": [
+      "Chester Alan Arthur"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1885,
+    "year_end": 1889,
+    "title": "Prezident Stephen Grover Cleveland",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "Stephen Grover Cleveland"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1889,
+    "year_end": 1893,
+    "title": "Prezident Benjamin Harrison",
+    "description": "Vnuk prezidenta z roku 1841 (William Henry Harrison).",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "Benjamin Harrison",
+      "William Henry Harrison"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1893,
+    "year_end": 1897,
+    "title": "Prezident Stephen Grover Cleveland (druhé období)",
+    "description": "Jediný, kdo byl ve funkci dvě po nesouvisející období.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "druhé období"
+    ],
+    "people": [
+      "Stephen Grover Cleveland"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1897,
+    "year_end": 1901,
+    "title": "Prezident William McKinley",
+    "description": "Zavražděný anarchisty.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "atentát"
+    ],
+    "people": [
+      "William McKinley"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1898,
+    "year_end": null,
+    "title": "Válka se Španělskem",
+    "description": "Konflikt kvůli Kubě vedl k zisku Kuby, Portorika a Filipín.",
+    "category": "war",
+    "region": "Karibik, Tichomoří",
+    "importance": 3,
+    "tags": [
+      "válka",
+      "Španělsko",
+      "kolonie",
+      "územní zisky"
+    ],
+    "people": [],
+    "places": [
+      "Kuba",
+      "Portoriko",
+      "Filipíny"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1901,
+    "year_end": 1909,
+    "title": "Prezident Theodore „Teddy“ Roosevelt",
+    "description": "Bývalý voják, upevnil prezidentskou moc.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "vojenství",
+      "progresivismus"
+    ],
+    "people": [
+      "Theodore Roosevelt"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1909,
+    "year_end": 1913,
+    "title": "Prezident William Howard Taft",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "William Howard Taft"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1912,
+    "year_end": null,
+    "title": "16. dodatek k Ústavě",
+    "description": "Zavádí federální daň z příjmu.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "daň",
+      "ekonomika",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1913,
+    "year_end": 1921,
+    "title": "Prezident Woodrow Wilson",
+    "description": "Přivedl zemi do 1. světové války, ale odmítl připojit USA ke Společnosti národů.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "první světová válka",
+      "Společnost národů"
+    ],
+    "people": [
+      "Woodrow Wilson"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1917,
+    "year_end": 1918,
+    "title": "1. světová válka (USA zapojení)",
+    "description": "Prezident Wilson se pokusil o zprostředkování v konfliktu mezi evropskými mocnostmi ve „Čtrnácti bodech“, ale USA byly namísto toho utaženy do jatek na západní frontě.",
+    "category": "war",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "světová válka",
+      "západní fronta",
+      "Čtrnáct bodů"
+    ],
+    "people": [
+      "Woodrow Wilson"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1919,
+    "year_end": null,
+    "title": "18. dodatek k Ústavě",
+    "description": "Zavádí prohibici „omamných nápojů“.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prohibice",
+      "alkohol",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1920,
+    "year_end": null,
+    "title": "19. dodatek k Ústavě",
+    "description": "Garance volebních práv bez ohledu na pohlaví (ženské volební právo).",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "volební právo",
+      "ženská práva",
+      "rovnost",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1921,
+    "year_end": 1923,
+    "title": "Prezident Warren Gamaliel Harding",
+    "description": "Zemřel ve funkci.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident",
+      "úmrtí ve funkci"
+    ],
+    "people": [
+      "Warren Gamaliel Harding"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1923,
+    "year_end": 1929,
+    "title": "Prezident John Calvin Coolidge",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "John Calvin Coolidge"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1929,
+    "year_end": null,
+    "title": "Velký krach na burze",
+    "description": "Začíná velká krize, vedoucí k ekonomickému propadu.",
+    "category": "economics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "ekonomická krize",
+      "burza",
+      "Velká hospodářská krize"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1929,
+    "year_end": 1933,
+    "title": "Prezident Herbert Clark Hoover",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "Herbert Clark Hoover"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1933,
+    "year_end": null,
+    "title": "21. dodatek k Ústavě",
+    "description": "Zrušení prohibice, 18. dodatek je takto zrušen.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prohibice",
+      "alkohol",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1933,
+    "year_end": 1945,
+    "title": "Prezident Franklin Delano Roosevelt",
+    "description": "Jeden z největších prezidentů USA.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "prezident",
+      "velká krize",
+      "druhá světová válka"
+    ],
+    "people": [
+      "Franklin Delano Roosevelt"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1941,
+    "year_end": 1945,
+    "title": "2. světová válka (USA zapojení)",
+    "description": "Proradný útok Japonců na Pearl Harbor – popsaný prezidentem Rooseveltem jako „den, který navždy zůstane dnem hanby“ – přivedl USA do globálního konfliktu. Amerika se z něj roku 1945 vynořila jako jedna ze dvou světových „supervelmocí“.",
+    "category": "war",
+    "region": "Globální",
+    "importance": 5,
+    "tags": [
+      "světová válka",
+      "Pearl Harbor",
+      "Japonsko",
+      "supervelmoc"
+    ],
+    "people": [
+      "Franklin Delano Roosevelt"
+    ],
+    "places": [
+      "Pearl Harbor"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1945,
+    "year_end": null,
+    "title": "Manhattanský projekt a vynalezení atomové energie",
+    "description": "Vynalezení atomové energie, což vedlo k vývoji atomové bomby.",
+    "category": "science",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "atomová energie",
+      "jaderná zbraň",
+      "věda",
+      "Manhattanský projekt"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1945,
+    "year_end": null,
+    "title": "Svržení atomových bomb na Hirošimu a Nagasaki",
+    "description": "Událost, která pomohla ukončit druhou světovou válku a vynesla USA mezi soutěži mocností daleko před ostatní země světa.",
+    "category": "war",
+    "region": "Japonsko",
+    "importance": 5,
+    "tags": [
+      "atomová bomba",
+      "Hirošima",
+      "Nagasaki",
+      "druhá světová válka"
+    ],
+    "people": [],
+    "places": [
+      "Hirošima",
+      "Nagasaki"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1945,
+    "year_end": null,
+    "title": "USA jako jaderná supervelmoc",
+    "description": "V roce 1945 vyneslo USA díky vývoji atomové zbraně mezi soutěži mocností daleko před ostatní země světa.",
+    "category": "politics",
+    "region": "Globální",
+    "importance": 5,
+    "tags": [
+      "supervelmoc",
+      "jaderná síla",
+      "studená válka"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1945,
+    "year_end": 1953,
+    "title": "Prezident Harry S. Truman",
+    "description": "Čelil komunistické hrozbě Stalinova SSSR a Maovy Číny.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "studená válka",
+      "komunismus",
+      "SSSR",
+      "Čína"
+    ],
+    "people": [
+      "Harry S. Truman",
+      "Josef Stalin",
+      "Mao Ce-tung"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1950,
+    "year_end": 1953,
+    "title": "Korejská válka",
+    "description": "Spojené státy vedly koalici spojenců v zájmu OSN na obranu Jižní Koreje, která byla napadena komunistickými silami.",
+    "category": "war",
+    "region": "Korea",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "studená válka",
+      "Korea",
+      "OSN",
+      "komunismus"
+    ],
+    "people": [],
+    "places": [
+      "Jižní Korea",
+      "Severní Korea"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1950,
+    "year_end": 1954,
+    "title": "Éra McCarthyho",
+    "description": "Období intenzivního honu na čarodějnice komunismu v USA, vedeného senátorem Josephem McCarthym.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "komunismus",
+      "studená válka",
+      "McCarthyismus",
+      "politická represe"
+    ],
+    "people": [
+      "Joseph McCarthy"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1951,
+    "year_end": null,
+    "title": "22. dodatek k Ústavě",
+    "description": "Omezení prezidentského mandátu na dvě volební období.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezidentství",
+      "volební období",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1953,
+    "year_end": 1961,
+    "title": "Prezident Dwight David Eisenhower",
+    "description": "Vojevůdce 2. světové války, posílil spojenectví Západu proti komunismu.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "generál",
+      "studená válka",
+      "NATO"
+    ],
+    "people": [
+      "Dwight D. Eisenhower"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1953,
+    "year_end": null,
+    "title": "Jmenování Earla Warrena předsedou Nejvyššího soudu",
+    "description": "Prezident Eisenhower jmenoval Earla Warrena předsedou Nejvyššího soudu, jehož éra byla významná pro občanská práva.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "Nejvyšší soud",
+      "soudnictví",
+      "občanská práva"
+    ],
+    "people": [
+      "Dwight D. Eisenhower",
+      "Earl Warren"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1954,
+    "year_end": null,
+    "title": "24. dodatek k Ústavě",
+    "description": "Garance volebních práv bez ohledu na neplacení daní (zrušení volebních daní).",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "volební právo",
+      "občanská práva",
+      "dodatky k ústavě",
+      "rovnost"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1961,
+    "year_end": 1963,
+    "title": "Prezident John Fitzgerald Kennedy",
+    "description": "Romantická postava, zavražděná v texaském Dallasu.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "prezident",
+      "atentát",
+      "studená válka"
+    ],
+    "people": [
+      "John Fitzgerald Kennedy"
+    ],
+    "places": [
+      "Dallas"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1961,
+    "year_end": null,
+    "title": "Kubánská raketová krize",
+    "description": "Prezident Kennedy neztratil odvahu, když se svět po instalaci sovětských strategických raket na Kubě potácel na pokraji nukleární války.",
+    "category": "politics",
+    "region": "Kuba, USA, SSSR",
+    "importance": 5,
+    "tags": [
+      "studená válka",
+      "raketová krize",
+      "jaderné zbraně",
+      "konflikt"
+    ],
+    "people": [
+      "John Fitzgerald Kennedy"
+    ],
+    "places": [
+      "Kuba"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1961,
+    "year_end": 1970,
+    "title": "Vesmírné závody (Kennedyho direktiva NASA)",
+    "description": "Vesmírné závody, odstartované soupeřením mezi SSSR a USA, byly poháněny direktivou prezidenta Kennedyho národní vesmírné agentuře NASA, aby před rokem 1970 vysadila člověka na Měsíc.",
+    "category": "science",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "vesmír",
+      "závody",
+      "NASA",
+      "Měsíc",
+      "studená válka"
+    ],
+    "people": [
+      "John Fitzgerald Kennedy"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1963,
+    "year_end": null,
+    "title": "Zavraždění prezidenta Kennedyho",
+    "description": "John Fitzgerald Kennedy byl zavražděn v texaském Dallasu.",
+    "category": "politics",
+    "region": "Texas",
+    "importance": 5,
+    "tags": [
+      "atentát",
+      "prezident",
+      "Dallas"
+    ],
+    "people": [
+      "John Fitzgerald Kennedy"
+    ],
+    "places": [
+      "Dallas"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1963,
+    "year_end": 1969,
+    "title": "Prezident Lyndon Baines Johnson",
+    "description": "Velký domácí reformátor; jeho funkční období bylo zkaženo vzrůstajícím odporem k vietnamské válce.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "občanská práva",
+      "vietnamská válka",
+      "reformy"
+    ],
+    "people": [
+      "Lyndon Baines Johnson"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1964,
+    "year_end": null,
+    "title": "Zákon o občanských právech (Civil Rights Act)",
+    "description": "Tento akt zakazoval rasovou diskriminaci ve veřejných prostorách a zaměstnání.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "občanská práva",
+      "rasová diskriminace",
+      "zákon",
+      "rovnost"
+    ],
+    "people": [
+      "Lyndon Baines Johnson"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1965,
+    "year_end": 1975,
+    "title": "Vietnamská válka",
+    "description": "Zapojení USA do obrany Jižního Vietnamu, které vedlo k velkým ztrátám na životech a hlubokému rozpolcení americké společnosti, bylo největším traumatem moderní Ameriky.",
+    "category": "war",
+    "region": "Vietnam",
+    "importance": 5,
+    "tags": [
+      "válka",
+      "studená válka",
+      "Vietnam",
+      "společenský konflikt"
+    ],
+    "people": [
+      "Lyndon Baines Johnson",
+      "Richard Mulhous Nixon"
+    ],
+    "places": [
+      "Vietnam"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1967,
+    "year_end": null,
+    "title": "25. dodatek k Ústavě",
+    "description": "Stanovuje pravidla pro prezidentskou sukcesi v případě úmrtí, rezignace nebo odvolání prezidenta a jmenování viceprezidenta.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezidentská sukcese",
+      "dodatky k ústavě",
+      "vláda"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1968,
+    "year_end": null,
+    "title": "Zavraždění Martina Luthera Kinga a Roberta Kennedyho",
+    "description": "Atentáty na klíčové postavy hnutí za občanská práva a prezidentské kampaně.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "atentát",
+      "občanská práva",
+      "volby"
+    ],
+    "people": [
+      "Martin Luther King",
+      "Robert Kennedy"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1969,
+    "year_end": null,
+    "title": "Neil Armstrong jako první člověk na Měsíci",
+    "description": "21. července 1969 sestoupil Neil Armstrong z amerického měsíčního modulu jako první člověk na Měsíc.",
+    "category": "discovery",
+    "region": "Měsíc",
+    "importance": 5,
+    "tags": [
+      "vesmír",
+      "Měsíc",
+      "první člověk",
+      "NASA"
+    ],
+    "people": [
+      "Neil Armstrong"
+    ],
+    "places": [
+      "Měsíc"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1969,
+    "year_end": 1974,
+    "title": "Prezident Richard Mulhous Nixon",
+    "description": "Rezignoval, když byl vyšetřován za aféru Watergate.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "rezignace",
+      "Watergate"
+    ],
+    "people": [
+      "Richard Mulhous Nixon"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1971,
+    "year_end": null,
+    "title": "26. dodatek k Ústavě",
+    "description": "Volební právo je sníženo na 18 let.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "volební právo",
+      "mladí voliči",
+      "dodatky k ústavě"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1974,
+    "year_end": null,
+    "title": "Aféra Watergate a rezignace Nixona",
+    "description": "Skandál, který vedl k vyšetřování prezidenta Nixona a jeho následné rezignaci.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "skandál",
+      "korupce",
+      "prezident",
+      "rezignace"
+    ],
+    "people": [
+      "Richard Mulhous Nixon"
+    ],
+    "places": [
+      "Watergate"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1974,
+    "year_end": 1977,
+    "title": "Prezident Gerald Rudolph Ford",
+    "description": "Nastoupil do úřadu po rezignaci Richarda Nixona. Byl jediným prezidentem v tomto století, kdo byl v prezidentské funkci bez řádných voleb.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "sukcese",
+      "Watergate"
+    ],
+    "people": [
+      "Gerald Rudolph Ford"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1977,
+    "year_end": 1981,
+    "title": "Prezident James Earl Carter",
+    "description": "Jeho prezidentský úřad přivodily vztahy s Íránem (narážka na Íránskou rukojmí krizi).",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "Írán",
+      "zahraniční politika",
+      "rukojmí krize"
+    ],
+    "people": [
+      "James Earl Carter"
+    ],
+    "places": [
+      "Írán"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1981,
+    "year_end": 1989,
+    "title": "Prezident Ronald Reagan",
+    "description": "Bývalý filmový herec; za jeho úřadu byla „vyhraná“ studená válka.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "studená válka",
+      "ekonomika"
+    ],
+    "people": [
+      "Ronald Reagan"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1980,
+    "year_end": 1991,
+    "title": "Konec Studené války",
+    "description": "Za úřadu Ronalda Reagana byla 'vyhraná' studená válka, což vedlo k rozpadu Sovětského svazu.",
+    "category": "politics",
+    "region": "Globální",
+    "importance": 5,
+    "tags": [
+      "studená válka",
+      "SSSR",
+      "rozpad Sovětského svazu",
+      "politika"
+    ],
+    "people": [
+      "Ronald Reagan"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1989,
+    "year_end": 1993,
+    "title": "Prezident George Bush",
+    "description": "Vítěz v Perském zálivu.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "Perský záliv",
+      "válka"
+    ],
+    "people": [
+      "George Bush"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1991,
+    "year_end": null,
+    "title": "Válka v Perském zálivu",
+    "description": "Vojenský konflikt vedený koalicí pod vedením USA proti Iráku po invazi do Kuvajtu.",
+    "category": "war",
+    "region": "Perský záliv",
+    "importance": 3,
+    "tags": [
+      "válka",
+      "Irák",
+      "Kuvajt",
+      "Perský záliv"
+    ],
+    "people": [
+      "George Bush"
+    ],
+    "places": [
+      "Kuvajt",
+      "Irák"
+    ],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  },
+  {
+    "year": 1993,
+    "year_end": 2001,
+    "title": "Prezident Bill Clinton",
+    "description": null,
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident"
+    ],
+    "people": [
+      "Bill Clinton"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XXVI-XXVII"
+  }
+]

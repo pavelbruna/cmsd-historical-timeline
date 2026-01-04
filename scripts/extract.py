@@ -10,7 +10,7 @@ import base64
 from pathlib import Path
 from typing import List, Dict, Any
 from openai import OpenAI
-from pdf2image import convert_from_path
+import fitz  # PyMuPDF
 from PIL import Image
 import io
 
@@ -27,18 +27,24 @@ TEMP_DIR.mkdir(parents=True, exist_ok=True)
 
 def pdf_to_base64_image(pdf_path: Path, dpi: int = 150) -> str:
     """
-    Convert PDF to base64-encoded image for Vision API
+    Convert PDF to base64-encoded image for Vision API using PyMuPDF
     """
     print(f"Converting {pdf_path.name} to image...")
 
-    # Convert PDF to images (typically just 1 page per PDF)
-    images = convert_from_path(str(pdf_path), dpi=dpi, first_page=1, last_page=1)
-
-    if not images:
-        raise ValueError(f"Could not convert {pdf_path.name} to image")
+    # Open PDF
+    doc = fitz.open(str(pdf_path))
 
     # Get first page
-    img = images[0]
+    page = doc[0]
+
+    # Render page to pixmap (image)
+    zoom = dpi / 72  # 72 DPI is default
+    mat = fitz.Matrix(zoom, zoom)
+    pix = page.get_pixmap(matrix=mat)
+
+    # Convert to PIL Image
+    img_data = pix.tobytes("png")
+    img = Image.open(io.BytesIO(img_data))
 
     # Resize if too large (max 20MB for OpenAI API)
     max_size = (2000, 2000)
@@ -49,6 +55,8 @@ def pdf_to_base64_image(pdf_path: Path, dpi: int = 150) -> str:
     img.save(buffer, format='PNG', optimize=True)
     img_bytes = buffer.getvalue()
     img_base64 = base64.b64encode(img_bytes).decode('utf-8')
+
+    doc.close()
 
     print(f"  Image size: {len(img_bytes) / 1024 / 1024:.2f} MB")
 
@@ -61,96 +69,100 @@ def extract_events_from_image(client: OpenAI, image_base64: str, pdf_name: str) 
     """
     print(f"Extracting events from {pdf_name}...")
 
-    prompt = f"""Analyzuj tento český historický dokument/infografiku a extrahuj VŠECHNY historické události.
+    prompt = f"""Analyzuj tento cesky historicky dokument/infografiku a extrahuj VSECHNY historicke udalosti.
 
-Pro KAŽDOU událost, kterou vidíš v dokumentu, vytvoř záznam s těmito údaji:
-- year: rok (záporné číslo pro př.n.l./BC, např. -608, kladné pro n.l./AD, např. 1492)
-- year_end: konec období (pokud je to období, jinak null)
-- title: krátký název události (max 100 znaků)
-- description: detailní popis (2-3 věty)
+Pro KAZDOU udalost, kterou vidis v dokumentu, vytvor zaznam s temito udaji:
+- year: rok (zaporne cislo pro pr.n.l./BC, napr. -608, kladne pro n.l./AD, napr. 1492)
+- year_end: konec obdobi (pokud je to obdobi, jinak null)
+- title: kratky nazev udalosti (max 100 znaku)
+- description: detailni popis (2-3 vety)
 - category: kategorie (religion/war/politics/discovery/culture/science)
-- region: geografická oblast (např. "Blízký východ", "Evropa", "Asie")
-- importance: důležitost 1-5 (5 = nejvyšší)
-- tags: klíčová slova (seznam)
-- people: zmíněné osoby (seznam jmen)
-- places: zmíněná místa (seznam názvů)
-- bible_refs: biblické odkazy pokud jsou (seznam, např. ["Daniel 7:4"])
+- region: geograficka oblast (napr. "Blizky vychod", "Evropa", "Asie")
+- importance: dulezitost 1-5 (5 = nejvyssi)
+- tags: klicova slova (seznam)
+- people: zminene osoby (seznam jmen)
+- places: zminena mista (seznam nazvu)
+- bible_refs: biblicke odkazy pokud jsou (seznam, napr. ["Daniel 7:4"])
 - source_page: "{pdf_name}"
 
-DŮLEŽITÉ:
-- Zachovej VŠECHNY české znaky (č, š, ž, ř, ů, ě, ý, á, í)
-- Roky př.n.l. = záporné číslo (např. 608 př.n.l. = -608)
-- Roky n.l. = kladné číslo (např. 1492 n.l. = 1492)
-- Extrahuj VŠECHNY události které vidíš, i menší zmínky
-- Pokud vidíš časové období, použij year + year_end
+DULEZITE:
+- Zachovej VSECHNY ceske znaky (c, s, z, r, u, e, y, a, i)
+- Roky pr.n.l. = zaporne cislo (napr. 608 pr.n.l. = -608)
+- Roky n.l. = kladne cislo (napr. 1492 n.l. = 1492)
+- Extrahuj VSECHNY udalosti ktere vidis, i mensi zmínky
+- Pokud vidis casove obdobi, pouzij year + year_end
 
-Vrať výsledek jako JSON array událostí:
+Vrat vysledek jako JSON array udalosti:
 ```json
 [
   {{
     "year": -608,
     "year_end": -538,
-    "title": "Babylónská říše",
+    "title": "Babylonska rise",
     "description": "...",
     "category": "politics",
-    "region": "Blízký východ",
+    "region": "Blizky vychod",
     "importance": 5,
-    "tags": ["babylon", "říše", "nabuchodonosor"],
+    "tags": ["babylon", "rise", "nabuchodonosor"],
     "people": ["Nabuchodonozor"],
-    "places": ["Babylón"],
+    "places": ["Babylon"],
     "bible_refs": ["Daniel 7:4"],
     "source_page": "{pdf_name}"
   }}
 ]
 ```
 
-Vrať POUZE čistý JSON array, žádný další text."""
+Vrat POUZE cisty JSON array, zadny dalsi text."""
 
-    response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": prompt
-                    },
-                    {
-                        "type": "image_url",
-                        "image_url": {
-                            "url": f"data:image/png;base64,{image_base64}",
-                            "detail": "high"
-                        }
-                    }
-                ],
-            }
-        ],
-        max_tokens=4096,
-        temperature=0.1
-    )
-
-    # Extract JSON from response
-    response_text = response.choices[0].message.content.strip()
-
-    # Remove markdown code blocks if present
-    if response_text.startswith("```json"):
-        response_text = response_text[7:]
-    if response_text.startswith("```"):
-        response_text = response_text[3:]
-    if response_text.endswith("```"):
-        response_text = response_text[:-3]
-
-    response_text = response_text.strip()
-
-    # Parse JSON
     try:
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": prompt
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/png;base64,{image_base64}",
+                                "detail": "high"
+                            }
+                        }
+                    ],
+                }
+            ],
+            max_tokens=4096,
+            temperature=0.1
+        )
+
+        # Extract JSON from response
+        response_text = response.choices[0].message.content.strip()
+
+        # Remove markdown code blocks if present
+        if response_text.startswith("```json"):
+            response_text = response_text[7:]
+        if response_text.startswith("```"):
+            response_text = response_text[3:]
+        if response_text.endswith("```"):
+            response_text = response_text[:-3]
+
+        response_text = response_text.strip()
+
+        # Parse JSON
         events = json.loads(response_text)
-        print(f"  ✓ Extracted {len(events)} events")
+        print(f"  [OK] Extracted {len(events)} events")
         return events
+
     except json.JSONDecodeError as e:
-        print(f"  ✗ JSON parsing error: {e}")
+        print(f"  [ERROR] JSON parsing error: {e}")
         print(f"  Response preview: {response_text[:500]}")
+        return []
+    except Exception as e:
+        print(f"  [ERROR] API error: {e}")
         return []
 
 
@@ -200,11 +212,11 @@ def process_all_pdfs():
             with open(output_file, "w", encoding="utf-8") as f:
                 json.dump(events, f, ensure_ascii=False, indent=2)
 
-            print(f"✓ Saved to {output_file.name}")
+            print(f"[OK] Saved to {output_file.name}")
 
         except Exception as e:
             error_msg = f"Error processing {pdf_path.name}: {str(e)}"
-            print(f"✗ {error_msg}")
+            print(f"[ERROR] {error_msg}")
             stats["errors"].append(error_msg)
 
     # Save combined results
@@ -235,4 +247,4 @@ if __name__ == "__main__":
 
     events, stats = process_all_pdfs()
 
-    print("\n✓ Done!")
+    print("\n[OK] Done!")

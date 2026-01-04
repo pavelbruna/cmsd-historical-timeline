@@ -1,7 +1,7 @@
 # CMSD Extraction Pipeline Dependencies
 
 # PDF Processing
-pdf2image>=1.16.3
+PyMuPDF>=1.23.0
 Pillow>=10.0.0
 
 # AI/LLM

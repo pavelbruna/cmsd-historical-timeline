@@ -1,0 +1,14 @@
+# CMSD Extraction Pipeline Dependencies
+
+# PDF Processing
+pdf2image>=1.16.3
+Pillow>=10.0.0
+
+# AI/LLM
+anthropic>=0.39.0
+
+# Database
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0

@@ -36,3 +36,9 @@ tmp/
 # Data (keep structure, ignore temp files)
 data/temp/
 *.tmp
+
+# Extraction outputs (too large for git)
+data/processed/*.json
+data/processed/*.csv
+data/database/*.db
+data/database/*.db-*

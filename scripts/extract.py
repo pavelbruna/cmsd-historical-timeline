@@ -9,7 +9,7 @@ import json
 import base64
 from pathlib import Path
 from typing import List, Dict, Any
-import anthropic
+from openai import OpenAI
 from pdf2image import convert_from_path
 from PIL import Image
 import io
@@ -40,7 +40,7 @@ def pdf_to_base64_image(pdf_path: Path, dpi: int = 150) -> str:
     # Get first page
     img = images[0]
 
-    # Resize if too large (max 5MB for API)
+    # Resize if too large (max 20MB for OpenAI API)
     max_size = (2000, 2000)
     img.thumbnail(max_size, Image.Resampling.LANCZOS)
 
@@ -55,9 +55,9 @@ def pdf_to_base64_image(pdf_path: Path, dpi: int = 150) -> str:
     return img_base64
 
 
-def extract_events_from_image(client: anthropic.Anthropic, image_base64: str, pdf_name: str) -> List[Dict[str, Any]]:
+def extract_events_from_image(client: OpenAI, image_base64: str, pdf_name: str) -> List[Dict[str, Any]]:
     """
-    Extract structured historical events from image using Claude Vision
+    Extract structured historical events from image using GPT-4o Vision
     """
     print(f"Extracting events from {pdf_name}...")
 
@@ -106,32 +106,32 @@ Vrať výsledek jako JSON array událostí:
 
 Vrať POUZE čistý JSON array, žádný další text."""
 
-    message = client.messages.create(
-        model="claude-sonnet-4-5-20250929",
-        max_tokens=4096,
+    response = client.chat.completions.create(
+        model="gpt-4o",
         messages=[
             {
                 "role": "user",
                 "content": [
                     {
-                        "type": "image",
-                        "source": {
-                            "type": "base64",
-                            "media_type": "image/png",
-                            "data": image_base64,
-                        },
-                    },
-                    {
                         "type": "text",
                         "text": prompt
+                    },
+                    {
+                        "type": "image_url",
+                        "image_url": {
+                            "url": f"data:image/png;base64,{image_base64}",
+                            "detail": "high"
+                        }
                     }
                 ],
             }
         ],
+        max_tokens=4096,
+        temperature=0.1
     )
 
     # Extract JSON from response
-    response_text = message.content[0].text.strip()
+    response_text = response.choices[0].message.content.strip()
 
     # Remove markdown code blocks if present
     if response_text.startswith("```json"):
@@ -159,11 +159,11 @@ def process_all_pdfs():
     Process all PDFs and extract events
     """
     # Get API key from environment
-    api_key = os.getenv("ANTHROPIC_API_KEY")
+    api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY environment variable not set")
+        raise ValueError("OPENAI_API_KEY environment variable not set")
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = OpenAI(api_key=api_key)
 
     # Get all PDFs sorted by name
     pdf_files = sorted(PDFS_DIR.glob("*.pdf"))

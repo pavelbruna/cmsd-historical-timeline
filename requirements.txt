@@ -5,6 +5,7 @@ PyMuPDF>=1.23.0
 Pillow>=10.0.0
 
 # AI/LLM
+anthropic>=0.39.0
 openai>=1.0.0
 
 # Database

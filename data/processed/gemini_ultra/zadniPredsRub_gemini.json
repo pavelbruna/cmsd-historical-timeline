@@ -1,1 +1,1019 @@
-[]
+[
+  {
+    "year": -2600,
+    "year_end": null,
+    "title": "Proroctví Daniela o budoucích říších",
+    "description": "Prorok Daniel předpověděl vznik a vývoj světových říší: Babylonu, Medo-Persie, Řecka a Říma, až po dnešní podobu Evropy, více než 2600 lety.",
+    "category": "religion",
+    "region": "Blízký východ, Evropa",
+    "importance": 5,
+    "tags": [
+      "proroctví",
+      "Daniel",
+      "Bible",
+      "světové říše",
+      "chronologie"
+    ],
+    "people": [
+      "Daniel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Dan 2",
+      "Dan 7",
+      "Zj 17"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Význam biblických knih pro pochopení dějin",
+    "description": "Knihy Daniel a Zjevení jasně předpovídají mnohé historické i dnešní události, pomáhající poznat Boží záměr v dějinách národů a smysl života.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "Bible",
+      "proroctví",
+      "smysl života",
+      "dějiny",
+      "Boží plán"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Daniel",
+      "Zjevení"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Vize sochy v Danielově snu",
+    "description": "Prorok Daniel viděl ve snu obraz sochy, jejíž části symbolizovaly přesné pořadí budoucích světových říší.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "proroctví",
+      "Daniel",
+      "sen",
+      "symbolika",
+      "říše"
+    ],
+    "people": [
+      "Daniel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Dan 2,32-33"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika zlaté hlavy sochy",
+    "description": "Hlava obrazu ze snu byla z ryzího zlata a symbolizovala Babylónskou říši.",
+    "category": "religion",
+    "region": "Babylon",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "Babylón",
+      "zlato",
+      "Danielovo proroctví"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Dan 2,32"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika stříbrných prsou a ramen sochy",
+    "description": "Prsa a ramena sochy byla ze stříbra a symbolizovala Medo-Perskou říši, která následovala po Babylonu.",
+    "category": "religion",
+    "region": "Persie",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "Medo-Persie",
+      "stříbro",
+      "Danielovo proroctví"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Dan 2,32"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika měděného břicha a beder sochy",
+    "description": "Břicho a bedra sochy byla z mědi a symbolizovala Řeckou říši.",
+    "category": "religion",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "Řecko",
+      "měď",
+      "Danielovo proroctví"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Dan 2,32"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika železných stehen a nohou sochy",
+    "description": "Stehna sochy byla ze železa a nohy z části ze železa a z části z hlíny, což symbolizovalo Římskou říši a její nástupnické rozdělení.",
+    "category": "religion",
+    "region": "Řím",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "Římská říše",
+      "železo",
+      "hlína",
+      "Danielovo proroctví"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Dan 2,33"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Vize čtyř velkých šelem v Danielově proroctví",
+    "description": "Proroku Danielovi byla ukázána také znamení jako dravé šelmy, symbolizující čtyři krále (říše) povstávající ze země.",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "proroctví",
+      "Daniel",
+      "šelmy",
+      "symbolika",
+      "království"
+    ],
+    "people": [
+      "Daniel"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Dan 7,17"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika nebeských větrů a moře",
+    "description": "Čtyři nebeské větry bojující na velikém moři symbolizují války a strašná dobývání, kterými království nabyla moci. Vody jsou interpretovány jako lidé, zástupy, národy a jazyky.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "válka",
+      "dobývání",
+      "národy",
+      "lidé"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Dan 7,2",
+      "Zj 17,15",
+      "Jer 4,11-16"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -608,
+    "year_end": -538,
+    "title": "Vláda Babylónské říše",
+    "description": "Babylónská říše vládla v letech 608-538 př.n.l. a byla symbolizována zlatou hlavou sochy a lvem s orlími křídly.",
+    "category": "politics",
+    "region": "Babylon",
+    "importance": 5,
+    "tags": [
+      "říše",
+      "Babylón",
+      "vláda",
+      "starověk",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Dan 2",
+      "Dan 7"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika lva s orlími křídly pro Babylon",
+    "description": "První šelma z Danielova proroctví byla jako lev a měla orlí křídla, což je oblíbený symbol Babylonu a představuje Babylónskou říši. Orlí křídla znamenají rychlé dobyvačné války za vlády Nabuchodonozorova.",
+    "category": "religion",
+    "region": "Babylon",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "lev",
+      "orlí křídla",
+      "Babylon",
+      "války",
+      "Nabuchodonozor"
+    ],
+    "people": [
+      "Nabuchodonozor"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Dan 7,4"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -538,
+    "year_end": null,
+    "title": "Vznik Medo-Perské říše",
+    "description": "V roce 538 př.n.l. byla vybudována dvojitá říše, Médská a Perská, která vystřídala Babylón.",
+    "category": "politics",
+    "region": "Persie",
+    "importance": 4,
+    "tags": [
+      "říše",
+      "Medo-Persie",
+      "vznik",
+      "starověk",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Persie",
+      "Média"
+    ],
+    "bible_refs": [
+      "Dan 2",
+      "Dan 7"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika medvěda s třemi žebry pro Medo-Persii",
+    "description": "Druhá šelma se podobala medvědu, který vyzdvihl jedno panství a měl v tlamě tři žebra. To představuje Medo-Perskou říši, přičemž tři žebra znamenají dobyté země: Lydii, Babylon a Egypt. Peršané byli mocnější než Médové a vládli také déle.",
+    "category": "religion",
+    "region": "Persie, Média",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "medvěd",
+      "Medo-Persie",
+      "dobývání",
+      "Lydie",
+      "Babylon",
+      "Egypt"
+    ],
+    "people": [],
+    "places": [
+      "Lydie",
+      "Babylon",
+      "Egypt"
+    ],
+    "bible_refs": [
+      "Dan 7,5"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -331,
+    "year_end": null,
+    "title": "Řecká nadvláda pod Alexandrem Velikým",
+    "description": "Nesmírně rychlé dobyvačné výpravy Alexandra Velikého přinesly Řecku světovou nadvládu v roce 331 př.n.l.",
+    "category": "politics",
+    "region": "Řecko",
+    "importance": 5,
+    "tags": [
+      "říše",
+      "Řecko",
+      "dobývání",
+      "Alexandr Veliký",
+      "starověk",
+      "proroctví"
+    ],
+    "people": [
+      "Alexandr Veliký"
+    ],
+    "places": [
+      "Řecko"
+    ],
+    "bible_refs": [
+      "Dan 2",
+      "Dan 7"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika parda se čtyřmi křídly a čtyřmi hlavami pro Řecko",
+    "description": "Třetí šelma byla podobna pardovi a měla čtyři ptačí křídla a čtyři hlavy. To symbolizuje Řeckou říši a rychlé dobyvačné výpravy. Po Alexandrově smrti byla říše rozdělena jeho čtyřmi generály na čtyři části: Thracii, Sýrii, Makedonii a Egypt.",
+    "category": "religion",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "pard",
+      "křídla",
+      "hlavy",
+      "Alexandr Veliký",
+      "rozdělení říše",
+      "Thracie",
+      "Sýrie",
+      "Makedonie",
+      "Egypt"
+    ],
+    "people": [
+      "Alexandr Veliký"
+    ],
+    "places": [
+      "Thracie",
+      "Sýrie",
+      "Makedonie",
+      "Egypt"
+    ],
+    "bible_refs": [
+      "Dan 7,6"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -168,
+    "year_end": null,
+    "title": "Založení čtvrté světové říše Římany",
+    "description": "V roce 168 př.n.l. založili římané čtvrtou světovou říši, známou jako „železný Řím“ kvůli své tvrdosti a nesnášenlivosti.",
+    "category": "politics",
+    "region": "Řím",
+    "importance": 5,
+    "tags": [
+      "říše",
+      "Římská říše",
+      "založení",
+      "starověk",
+      "proroctví",
+      "železný Řím"
+    ],
+    "people": [],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [
+      "Dan 2",
+      "Dan 7"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika strašné šelmy s železnými zuby a deseti rohy pro Řím",
+    "description": "Čtvrtá šelma byla strašná, hrozná a velmi silná. Měla velké železné zuby, žrala, drtila a zbytek pošlapávala. Měla deset rohů, což symbolizuje Římskou říši (železné nohy a zuby) a její budoucí rozdělení.",
+    "category": "religion",
+    "region": "Řím",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "šelma",
+      "železné zuby",
+      "deset rohů",
+      "Římská říše",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [
+      "Dan 7,7"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": 351,
+    "year_end": 476,
+    "title": "Rozpad Římské říše a vznik Evropských království",
+    "description": "Římská říše se díky stěhování národů (351-476 n.l.) rozpadla na deset evropských rozdělených říší, což je symbolizováno deseti rohy šelmy a deseti prsty sochy.",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 5,
+    "tags": [
+      "říše",
+      "Římská říše",
+      "rozpad",
+      "stěhování národů",
+      "Evropa",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [
+      "Dan 2",
+      "Dan 7"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Symbolika deseti rohů a deseti prstů pro Evropu",
+    "description": "Deset rohů znamená, že z království povstane deset králů (říší). Odděleně rostoucí rohy a nesoudržnost železa s hlínou deseti prstů představuje nemožnost trvalého sjednocení Evropy.",
+    "category": "religion",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "symbolika",
+      "deset rohů",
+      "deset prstů",
+      "Evropa",
+      "rozdělení",
+      "nesoudržnost",
+      "sjednocení"
+    ],
+    "people": [],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [
+      "Dan 7,24",
+      "Dan 2"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Všeobecná předpověď událostí",
+    "description": "V Bibli, konkrétně v knihách Daniel a Zjevení, jsou jasně předpovězeny mnohé historické, ale i dnešní události.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "proroctví",
+      "Bible",
+      "historie",
+      "budoucnost"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Daniel",
+      "Zjevení"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Boží záměr v dějinách národů",
+    "description": "Pečlivé studium knih Daniel a Zjevení nám dává poznat Boží záměr v dějinách národů.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 3,
+    "tags": [
+      "Boží záměr",
+      "dějiny",
+      "národy",
+      "Bible"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Daniel",
+      "Zjevení"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Pravý smysl života a plán spásy",
+    "description": "Studium biblických proroctví pomáhá porozumět pravému smyslu života a Božímu plánu spasení lidstva ve svém synu Ježíši Kristu.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "spasení",
+      "Ježíš Kristus",
+      "smysl života",
+      "Boží plán"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -608,
+    "year_end": -538,
+    "title": "Babylónská říše - zlatá hlava",
+    "description": "První říše v Danielově proroctví, symbolizovaná zlatou hlavou sochy a lvem s orlími křídly, představuje Babylónskou říši (608-538 př.n.l.).",
+    "category": "politics",
+    "region": "Babylon",
+    "importance": 4,
+    "tags": [
+      "Babylon",
+      "říše",
+      "zlatá hlava",
+      "lev",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Dan 2,32",
+      "Dan 7,4"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -538,
+    "year_end": -331,
+    "title": "Medo-Perská říše - stříbrná prsa",
+    "description": "Druhá říše v Danielově proroctví, symbolizovaná stříbrnými prsy a rameny sochy a medvědem se třemi žebry, představuje Medo-Perskou říši, která vznikla v roce 538 př.n.l.",
+    "category": "politics",
+    "region": "Persie, Média",
+    "importance": 4,
+    "tags": [
+      "Medo-Persie",
+      "říše",
+      "stříbro",
+      "medvěd",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Persie",
+      "Média"
+    ],
+    "bible_refs": [
+      "Dan 2,32",
+      "Dan 7,5"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -331,
+    "year_end": -168,
+    "title": "Řecká říše - měděné břicho",
+    "description": "Třetí říše v Danielově proroctví, symbolizovaná měděným břichem a bedry sochy a pardem se čtyřmi křídly a hlavami, představuje Řeckou říši, která získala nadvládu v roce 331 př.n.l. pod Alexandrem Velikým.",
+    "category": "politics",
+    "region": "Řecko",
+    "importance": 4,
+    "tags": [
+      "Řecko",
+      "říše",
+      "měď",
+      "pard",
+      "Alexandr Veliký",
+      "proroctví"
+    ],
+    "people": [
+      "Alexandr Veliký"
+    ],
+    "places": [
+      "Řecko"
+    ],
+    "bible_refs": [
+      "Dan 2,32",
+      "Dan 7,6"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -168,
+    "year_end": 476,
+    "title": "Římská říše - železná stehna a nohy",
+    "description": "Čtvrtá říše v Danielově proroctví, symbolizovaná železnými stehny a nohami sochy a strašlivou šelmou s železnými zuby a deseti rohy, představuje Římskou říši, založenou v roce 168 př.n.l.",
+    "category": "politics",
+    "region": "Řím",
+    "importance": 4,
+    "tags": [
+      "Římská říše",
+      "říše",
+      "železo",
+      "šelma",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [
+      "Dan 2,33",
+      "Dan 7,7"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Dobytí Lýdie Medo-Persií",
+    "description": "Lýdie byla jednou ze tří zemí, symbolizovaných třemi žebry medvěda, dobytých Medo-Perskou říší.",
+    "category": "war",
+    "region": "Anatolie",
+    "importance": 2,
+    "tags": [
+      "dobytí",
+      "Lýdie",
+      "Medo-Persie"
+    ],
+    "people": [],
+    "places": [
+      "Lýdie"
+    ],
+    "bible_refs": [
+      "Dan 7,5"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -539,
+    "year_end": null,
+    "title": "Dobytí Babylonu Medo-Persií",
+    "description": "Babylon byl jednou ze tří zemí, symbolizovaných třemi žebry medvěda, dobytých Medo-Perskou říší.",
+    "category": "war",
+    "region": "Mezopotámie",
+    "importance": 2,
+    "tags": [
+      "dobytí",
+      "Babylon",
+      "Medo-Persie"
+    ],
+    "people": [],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Dan 7,5"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Dobytí Egypta Medo-Persií",
+    "description": "Egypt byl jednou ze tří zemí, symbolizovaných třemi žebry medvěda, dobytých Medo-Perskou říší.",
+    "category": "war",
+    "region": "Egypt",
+    "importance": 2,
+    "tags": [
+      "dobytí",
+      "Egypt",
+      "Medo-Persie"
+    ],
+    "people": [],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [
+      "Dan 7,5"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Dlouhá a silnější vláda Peršanů",
+    "description": "Peršané byli mocnější než Médové a vládli také déle, což je znázorněno medvědem postaveným na jednu stranu.",
+    "category": "politics",
+    "region": "Persie, Média",
+    "importance": 2,
+    "tags": [
+      "Persie",
+      "Média",
+      "nadvláda"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Dan 7,5"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": -323,
+    "year_end": null,
+    "title": "Rozdělení Řecké říše po smrti Alexandra Velikého",
+    "description": "Po smrti Alexandra Velikého byla Řecká říše rozdělena mezi jeho čtyři generály na čtyři části: Thracie, Sýrie, Makedonie a Egypt, symbolizované čtyřmi hlavami parda.",
+    "category": "politics",
+    "region": "Východní Středomoří",
+    "importance": 4,
+    "tags": [
+      "rozdělení říše",
+      "Alexandr Veliký",
+      "generálové",
+      "Thracie",
+      "Sýrie",
+      "Makedonie",
+      "Egypt"
+    ],
+    "people": [
+      "Alexandr Veliký"
+    ],
+    "places": [
+      "Thracie",
+      "Sýrie",
+      "Makedonie",
+      "Egypt"
+    ],
+    "bible_refs": [
+      "Dan 7,6"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Charakteristika 'železného Říma'",
+    "description": "Římská říše vešla do dějin jako „železný Řím“ kvůli své tvrdosti a nesnášenlivosti, které se ostatní národy musely podřídit.",
+    "category": "politics",
+    "region": "Řím",
+    "importance": 3,
+    "tags": [
+      "Římská říše",
+      "železný Řím",
+      "tvrdost",
+      "nesnášenlivost"
+    ],
+    "people": [],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [
+      "Dan 2"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Vznik deseti králů (říší) z Římského království",
+    "description": "Deset rohů šelmy znamená, že z království Říma povstane deset králů, symbolizující rozdělené evropské říše po jeho pádu.",
+    "category": "religion",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "deset králů",
+      "rohy",
+      "Římská říše",
+      "Evropa",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [
+      "Dan 7,24"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Nemožnost trvalého sjednocení Evropy",
+    "description": "Odděleně rostoucí rohy a nesoudržnost železa s hlínou deseti prstů symbolizuje nemožnost trvalého sjednocení Evropy po rozpadu Římské říše.",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "sjednocení Evropy",
+      "železo a hlína",
+      "nesoudržnost",
+      "proroctví"
+    ],
+    "people": [],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [
+      "Dan 2"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Nabuchodonozorovy dobyvačné války",
+    "description": "Orlí křídla symbolizují rychlé dobyvačné války za vlády babylonského krále Nabuchodonozora.",
+    "category": "war",
+    "region": "Babylon",
+    "importance": 2,
+    "tags": [
+      "dobyvatelství",
+      "války",
+      "Nabuchodonozor",
+      "Babylon"
+    ],
+    "people": [
+      "Nabuchodonozor"
+    ],
+    "places": [
+      "Babylon"
+    ],
+    "bible_refs": [
+      "Dan 7,4"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Boží plán spásy v Ježíši Kristu",
+    "description": "Boží plán spásy lidstva je úzce spojen se synem Ježíšem Kristem, jak je naznačeno v kontextu biblických proroctví.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "Ježíš Kristus",
+      "spasení",
+      "Boží plán"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Interpretace 'vod' v Zjevení",
+    "description": "V Zjevení 17,15 je vysvětleno, že 'vody které jsi viděl jsou lidé, zástupy, národy a jazyky', což rozšiřuje symboliku proroctví.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 2,
+    "tags": [
+      "symbolika",
+      "vody",
+      "lidé",
+      "národy",
+      "Zjevení"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Zj 17,15"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Interpretace 'větrů' jako symbolu války",
+    "description": "'Větry' v biblických proroctvích jsou symbolem války, jak je naznačeno v Jeremjášovi 4,11-16.",
+    "category": "religion",
+    "region": "Globální",
+    "importance": 2,
+    "tags": [
+      "symbolika",
+      "větry",
+      "válka",
+      "Jeremjáš"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Jer 4,11-16"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Dobývání jako zdroj moci království",
+    "description": "Čtyři nebeské větry, které bojují na velkém moři, zobrazují strašná dobývání, kterými tato království nabyla moci.",
+    "category": "war",
+    "region": "Globální",
+    "importance": 3,
+    "tags": [
+      "dobývání",
+      "moc",
+      "válka",
+      "království"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [
+      "Dan 7,2"
+    ],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": 2019,
+    "year_end": null,
+    "title": "Copyright informace (Third Millennium Press Limited)",
+    "description": "Copyright patří společnosti Third Millennium Press Limited.",
+    "category": "culture",
+    "region": "Globální",
+    "importance": 1,
+    "tags": [
+      "copyright",
+      "vydavatelství"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": 2019,
+    "year_end": null,
+    "title": "Copyright informace (Nakladatelství Andělská Křídla)",
+    "description": "Copyright patří Nakladatelství Andělská Křídla.",
+    "category": "culture",
+    "region": "Česká republika",
+    "importance": 1,
+    "tags": [
+      "copyright",
+      "vydavatelství",
+      "české"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Zdroj grafických podkladů",
+    "description": "Grafické podklady pro vyobrazení byly použity s laskavým svolením MHA Německo.",
+    "category": "culture",
+    "region": "Německo",
+    "importance": 1,
+    "tags": [
+      "grafika",
+      "zdroj",
+      "MHA Německo"
+    ],
+    "people": [],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "zadniPredsRub"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Odkaz na stránku XXXVIII",
+    "description": "Číslo stránky v publikaci: XXXVIII.",
+    "category": "metadata",
+    "region": null,
+    "importance": 1,
+    "tags": [
+      "stránka",
+      "metadata"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "zadniPredsRub"
+  }
+]

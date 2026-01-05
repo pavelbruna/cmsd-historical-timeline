@@ -1,1 +1,2010 @@
-[]
+[
+  {
+    "year": -55,
+    "year_end": null,
+    "title": "Julius Caesar se vylodil v Británii",
+    "description": "Julius Caesar se vylodil v Británii, ale Británie nebyla dobyta Římem až do invaze Claudia.",
+    "category": "war",
+    "region": "Británie",
+    "importance": 3,
+    "tags": [
+      "římská invaze",
+      "Caesar"
+    ],
+    "people": [
+      "Julius Caesar"
+    ],
+    "places": [
+      "Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 43,
+    "year_end": null,
+    "title": "Claudiova invaze do Británie",
+    "description": "Invaze císaře Claudia do Británie, která se následně stala římskou provincií na zhruba čtyři staletí.",
+    "category": "war",
+    "region": "Británie",
+    "importance": 4,
+    "tags": [
+      "římská invaze",
+      "Claudius",
+      "římská provincie"
+    ],
+    "people": [
+      "Claudius"
+    ],
+    "places": [
+      "Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 43,
+    "year_end": 443,
+    "title": "Británie jako římská provincie",
+    "description": "Británie byla zhruba čtyři století římskou provincií, jejíž severní hranice byly stabilizovány Hadriánovým valem. Irsko nebylo součástí říše.",
+    "category": "politics",
+    "region": "Británie",
+    "importance": 4,
+    "tags": [
+      "římská říše",
+      "Hadriánův val",
+      "římská provincie"
+    ],
+    "people": [],
+    "places": [
+      "Británie",
+      "Hadriánův val",
+      "Irsko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 400,
+    "year_end": 500,
+    "title": "Zánik západořímské říše a vpády nájezdníků",
+    "description": "V 5. století se římská říše na západě rozpadala. Británie, nechráněná legiemi, se stala kořistí tlup nájezdníků ze Skandinávie: Jutů, Anglů a Sasů, kteří vytlačili většinu římské civilizace.",
+    "category": "war",
+    "region": "Británie",
+    "importance": 4,
+    "tags": [
+      "germánské kmeny",
+      "vpády",
+      "Anglové",
+      "Sasové",
+      "Jutové"
+    ],
+    "people": [
+      "Anglové",
+      "Sasové",
+      "Jutové"
+    ],
+    "places": [
+      "Británie",
+      "Skandinávie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 600,
+    "year_end": null,
+    "title": "Vznik heptarchie (sedmi království)",
+    "description": "V sedmém století vznikla heptarchie, sedm anglosaských království: Northumbrie, Wessex, Mercie, Východní Anglie, Kent, Sussex a Essex.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "anglosasové",
+      "království"
+    ],
+    "people": [],
+    "places": [
+      "Northumbrie",
+      "Wessex",
+      "Mercie",
+      "Východní Anglie",
+      "Kent",
+      "Sussex",
+      "Essex"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 825,
+    "year_end": null,
+    "title": "Wessex se stal hegemonem",
+    "description": "Na počátku 8. století se z rivalských anglosaských království stal v roce 825 hegemonem Wessex.",
+    "category": "politics",
+    "region": "Wessex",
+    "importance": 2,
+    "tags": [
+      "anglosasové",
+      "hegemonie"
+    ],
+    "people": [],
+    "places": [
+      "Wessex"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 871,
+    "year_end": 899,
+    "title": "Alfred Veliký zastavil dánský rozmach",
+    "description": "Král Alfred Veliký z Wessexu (871–899) zastavil rozmach dánského osídlení ve většině severní a východní Anglie.",
+    "category": "war",
+    "region": "Wessex",
+    "importance": 3,
+    "tags": [
+      "vikingové",
+      "dánové",
+      "anglosasové"
+    ],
+    "people": [
+      "Alfred Veliký"
+    ],
+    "places": [
+      "Wessex",
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 900,
+    "year_end": 925,
+    "title": "Edvard dobyl Danelaw",
+    "description": "Syn Alfreda Velikého, Edvard, znovu dobyl Danelaw (území okupované Dány).",
+    "category": "war",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "dánové",
+      "anglosasové"
+    ],
+    "people": [
+      "Edvard (Starší)"
+    ],
+    "places": [
+      "Danelaw",
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 925,
+    "year_end": 939,
+    "title": "Athelstan se zmocnil zbytku dánského království a vyhlásil suverenitu nad Anglií",
+    "description": "Athelstan, syn Edvarda, se zmocnil zbytku dánského království a mohl vyhlásit suverenitu nad celou Anglií až k Northumbrii.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "sjednocení Anglie",
+      "dánové",
+      "anglosasové"
+    ],
+    "people": [
+      "Athelstan"
+    ],
+    "places": [
+      "Anglie",
+      "Danelaw",
+      "Northumbrie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 927,
+    "year_end": 939,
+    "title": "ATHELSTAN",
+    "description": "Vláda anglosaského krále Athelstan. (Viz také sjednocení Anglie)",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "anglosasové",
+      "král"
+    ],
+    "people": [
+      "Athelstan"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 939,
+    "year_end": 946,
+    "title": "EDMUND I.",
+    "description": "Vláda anglosaského krále Edmunda I.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "anglosasové",
+      "král"
+    ],
+    "people": [
+      "Edmund I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 946,
+    "year_end": 955,
+    "title": "EDRED",
+    "description": "Vláda anglosaského krále Edreda.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "anglosasové",
+      "král"
+    ],
+    "people": [
+      "Edred"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 955,
+    "year_end": 959,
+    "title": "EWY",
+    "description": "Vláda anglosaského krále Eadwiga (Ewy).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "anglosasové",
+      "král"
+    ],
+    "people": [
+      "Eadwig"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 959,
+    "year_end": 975,
+    "title": "EDGAR",
+    "description": "Vláda anglosaského krále Edgara.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "anglosasové",
+      "král"
+    ],
+    "people": [
+      "Edgar"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 975,
+    "year_end": 978,
+    "title": "EDUARD II. MUČEDNÍK",
+    "description": "Vláda anglosaského krále Eduarda II. Mučedníka.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "anglosasové",
+      "král",
+      "mučedník"
+    ],
+    "people": [
+      "Eduard II. Mučedník"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 978,
+    "year_end": 1013,
+    "title": "ETHELRED",
+    "description": "Vláda anglosaského krále Ethelreda II. (Nerozhodného).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "anglosasové",
+      "král"
+    ],
+    "people": [
+      "Ethelred"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1013,
+    "year_end": 1014,
+    "title": "SVEN",
+    "description": "Vláda dánského krále Svena Vidlího vouse, který dobyl Anglii.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "dánové",
+      "král"
+    ],
+    "people": [
+      "Sven"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1016,
+    "year_end": 1035,
+    "title": "KNUT",
+    "description": "Vláda dánského krále Knuta Velikého, který vládl nad Anglií, Dánskem a Norskem.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "dánové",
+      "král",
+      "Severská říše"
+    ],
+    "people": [
+      "Knut"
+    ],
+    "places": [
+      "Anglie",
+      "Dánsko",
+      "Norsko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1035,
+    "year_end": 1040,
+    "title": "HAROLD I.",
+    "description": "Vláda saského krále Harolda I. (Zaječí nohy).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "sasové",
+      "král"
+    ],
+    "people": [
+      "Harold I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1040,
+    "year_end": 1042,
+    "title": "HARDIKNUT",
+    "description": "Vláda saského krále Hardiknuta.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "sasové",
+      "král"
+    ],
+    "people": [
+      "Hardiknut"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1042,
+    "year_end": 1066,
+    "title": "EDUARD III. VYZNAVAČ",
+    "description": "Vláda saského krále Eduarda III. Vyznavače, posledního anglosaského krále z dynastie Wessex.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "sasové",
+      "král",
+      "světec"
+    ],
+    "people": [
+      "Eduard III. Vyznavač"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1066,
+    "year_end": 1066,
+    "title": "HAROLD II.",
+    "description": "Vláda anglického krále Harolda II., který padl v bitvě u Hastingsu.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "anglosasové",
+      "král"
+    ],
+    "people": [
+      "Harold II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1066,
+    "year_end": 1087,
+    "title": "VILEM I.",
+    "description": "Vláda Viléma I. Dobyvatele, prvního normanského krále Anglie po dobytí Anglie Normany.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "normané",
+      "král",
+      "dobytí Anglie"
+    ],
+    "people": [
+      "Vilem I. Dobyvatel"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1087,
+    "year_end": 1100,
+    "title": "VILEM II. RUFUS",
+    "description": "Vláda normanského krále Viléma II. Rufuse.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "normané",
+      "král"
+    ],
+    "people": [
+      "Vilem II. Rufus"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1100,
+    "year_end": 1135,
+    "title": "JINDŘICH I.",
+    "description": "Vláda normanského krále Jindřicha I.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "normané",
+      "král"
+    ],
+    "people": [
+      "Jindřich I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1135,
+    "year_end": 1154,
+    "title": "ŠTĚPÁN",
+    "description": "Vláda krále Štěpána z Blois, období občanské války (anarchie) s císařovnou Matyldou.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Blois",
+      "král",
+      "anarchie"
+    ],
+    "people": [
+      "Štěpán"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1154,
+    "year_end": 1189,
+    "title": "JINDŘICH II.",
+    "description": "Vláda prvního krále dynastie Plantagenet, Jindřicha II.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Plantageneti",
+      "král"
+    ],
+    "people": [
+      "Jindřich II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1189,
+    "year_end": 1199,
+    "title": "RICHARD I.",
+    "description": "Vláda krále Richarda I. Lví srdce, známého pro svou účast na křížových výpravách.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "křížové výpravy"
+    ],
+    "people": [
+      "Richard I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1199,
+    "year_end": 1216,
+    "title": "JAN",
+    "description": "Vláda krále Jana Bezzemka. Jeho špatná vláda vyprovokovala šlechtu k tomu, aby ho přinutila k přijetí Magny Charty.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Anjevinci",
+      "král",
+      "Magna Charta"
+    ],
+    "people": [
+      "Jan"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1215,
+    "year_end": null,
+    "title": "Přijetí Magny Charty",
+    "description": "Šlechta donutila krále Jana k přijetí Magny Charty, dokumentu omezujícího královskou moc.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "práva",
+      "ústava"
+    ],
+    "people": [
+      "Jan"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1216,
+    "year_end": 1272,
+    "title": "JINDŘICH III.",
+    "description": "Vládě Jindřicha III. dominovalo povstání šlechty pod vedením Simona Montforta, které vyvrcholilo vydáním tzv. oxfordských provizí.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Anjevinci",
+      "král",
+      "Simon Montfort",
+      "oxfordské provize"
+    ],
+    "people": [
+      "Jindřich III.",
+      "Simon Montfort"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1258,
+    "year_end": null,
+    "title": "Vydání Oxfordských provizí",
+    "description": "Vydání tzv. oxfordských provizí, kterými šlechta omezila královskou moc Jindřicha III.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "ústava",
+      "parlament"
+    ],
+    "people": [
+      "Jindřich III.",
+      "Simon Montfort"
+    ],
+    "places": [
+      "Oxford"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1272,
+    "year_end": 1307,
+    "title": "EDUARD I.",
+    "description": "Eduard I. byl bojovný král, který dokončil dobytí Walesu a podrobil si Skotsko.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "dobytí",
+      "Wales",
+      "Skotsko"
+    ],
+    "people": [
+      "Eduard I."
+    ],
+    "places": [
+      "Wales",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1307,
+    "year_end": 1327,
+    "title": "EDUARD II.",
+    "description": "Eduard II. byl slabý a rozmařilý král ovládaný svými oblíbenci, který byl nakonec sesazen a zavražděn.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "sesazení"
+    ],
+    "people": [
+      "Eduard II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1327,
+    "year_end": 1377,
+    "title": "EDUARD III.",
+    "description": "Eduard III. zahájil Stoletou válku a dobyl velkou část Francie, aby získal francouzský trůn.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "Stoletá válka",
+      "Francie"
+    ],
+    "people": [
+      "Eduard III."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1337,
+    "year_end": 1453,
+    "title": "Zahájení Stoleté války",
+    "description": "Eduard III. zahájil dlouhotrvající konflikt s Francií s cílem získat francouzský trůn.",
+    "category": "war",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "Anglie",
+      "Francie",
+      "válka"
+    ],
+    "people": [
+      "Eduard III."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1377,
+    "year_end": 1399,
+    "title": "RICHARD II.",
+    "description": "Vláda krále Richarda II.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Plantageneti",
+      "král"
+    ],
+    "people": [
+      "Richard II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1399,
+    "year_end": 1413,
+    "title": "JINDŘICH IV.",
+    "description": "Vláda krále Jindřicha IV., zakladatele rodu Lancasterů.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "Lancaster"
+    ],
+    "people": [
+      "Jindřich IV."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1413,
+    "year_end": 1422,
+    "title": "JINDŘICH V.",
+    "description": "Vláda krále Jindřicha V., známého pro svá vojenská vítězství ve Francii během Stoleté války.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "Stoletá válka"
+    ],
+    "people": [
+      "Jindřich V."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1422,
+    "year_end": 1461,
+    "title": "JINDŘICH VI.",
+    "description": "Vláda krále Jindřicha VI., jehož slabá vláda vedla k Válkám růží.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "Válka růží"
+    ],
+    "people": [
+      "Jindřich VI."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1455,
+    "year_end": 1485,
+    "title": "Válka růží",
+    "description": "15. století dominovala válka růží, soupeření o trůn mezi rody Lancaster a York.",
+    "category": "war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "občanská válka",
+      "Plantageneti",
+      "Lancaster",
+      "York"
+    ],
+    "people": [
+      "Lancasteři",
+      "Yorkové"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1461,
+    "year_end": 1470,
+    "title": "EDUARD IV.",
+    "description": "První vláda krále Eduarda IV. z rodu Yorků.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "York",
+      "Válka růží"
+    ],
+    "people": [
+      "Eduard IV."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1470,
+    "year_end": 1471,
+    "title": "JINDŘICH VI. (druhé panování)",
+    "description": "Krátké druhé panování krále Jindřicha VI. během Války růží.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "Lancaster",
+      "Válka růží"
+    ],
+    "people": [
+      "Jindřich VI."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1471,
+    "year_end": 1483,
+    "title": "EDUARD IV. (druhé panování)",
+    "description": "Druhé panování krále Eduarda IV. po návratu na trůn.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "York",
+      "Válka růží"
+    ],
+    "people": [
+      "Eduard IV."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1483,
+    "year_end": 1483,
+    "title": "EDUARD V.",
+    "description": "Krátká vláda Eduarda V., jednoho z Princů z Toweru.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "York"
+    ],
+    "people": [
+      "Eduard V."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1483,
+    "year_end": 1485,
+    "title": "RICHARD III.",
+    "description": "Vláda krále Richarda III., posledního krále z rodu Plantagenetů, padlého v bitvě u Bosworthu.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Plantageneti",
+      "král",
+      "York",
+      "Válka růží"
+    ],
+    "people": [
+      "Richard III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1485,
+    "year_end": 1509,
+    "title": "JINDŘICH VII.",
+    "description": "Vítězství Jindřicha VII. v bitvě u Bosworthu bylo počátkem tudorovské éry domácího míru a prosperity v království.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Tudorovci",
+      "král",
+      "Válka růží",
+      "Bosworth"
+    ],
+    "people": [
+      "Jindřich VII."
+    ],
+    "places": [
+      "Bosworth"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1485,
+    "year_end": null,
+    "title": "Bitva u Bosworthu",
+    "description": "Bitva, ve které Jindřich VII. porazil Richarda III., čímž ukončil Válku růží a zahájil tudorovskou éru.",
+    "category": "war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Válka růží",
+      "Tudorovci",
+      "Richard III."
+    ],
+    "people": [
+      "Jindřich VII.",
+      "Richard III."
+    ],
+    "places": [
+      "Bosworth"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1509,
+    "year_end": 1547,
+    "title": "JINDŘICH VIII.",
+    "description": "Vláda krále Jindřicha VIII., známého pro své šest manželství a anglickou reformaci.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Tudorovci",
+      "král",
+      "reformace"
+    ],
+    "people": [
+      "Jindřich VIII."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1547,
+    "year_end": 1553,
+    "title": "EDUARD VI.",
+    "description": "Vláda protestantského krále Eduarda VI., syna Jindřicha VIII.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Tudorovci",
+      "král",
+      "protestantismus"
+    ],
+    "people": [
+      "Eduard VI."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1553,
+    "year_end": 1553,
+    "title": "JANA",
+    "description": "Krátká vláda Lady Jane Grey, která trvala pouze devět dní.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Tudorovci",
+      "královna"
+    ],
+    "people": [
+      "Jana"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1553,
+    "year_end": 1558,
+    "title": "MARIE I.",
+    "description": "Vláda královny Marie I. Tudorovny, známé pro pokus o rekatolizaci Anglie a pronásledování protestantů (Krvavá Marie).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Tudorovci",
+      "královna",
+      "rekatolizace",
+      "pronásledování"
+    ],
+    "people": [
+      "Marie I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1558,
+    "year_end": 1603,
+    "title": "ALŽBĚTA I.",
+    "description": "Vláda královny Alžběty I., období stability a rozkvětu Anglie (Alžbětinská éra).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "Tudorovci",
+      "královna",
+      "zlatá éra"
+    ],
+    "people": [
+      "Alžběta I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1603,
+    "year_end": 1625,
+    "title": "JAKUB I.",
+    "description": "Vláda krále Jakuba I. Stuarta, který sjednotil Anglii a Skotsko v jeden stát – Velkou Británii a zorganizoval úspěšnou anglickou kolonizaci Ameriky.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 4,
+    "tags": [
+      "Stuartovci",
+      "král",
+      "sjednocení",
+      "kolonizace Ameriky"
+    ],
+    "people": [
+      "Jakub I."
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko",
+      "Amerika"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1603,
+    "year_end": null,
+    "title": "Sjednocení Anglie a Skotska pod Jakubem I.",
+    "description": "Sjednotil Anglii a Skotsko v jeden stát – Velkou Británii, i když právně k plnému sjednocení došlo až v roce 1707.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 4,
+    "tags": [
+      "unie",
+      "království"
+    ],
+    "people": [
+      "Jakub I."
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1607,
+    "year_end": 1625,
+    "title": "Počátek anglické kolonizace Ameriky",
+    "description": "Jakub I. zorganizoval úspěšnou anglickou kolonizaci Ameriky, zakládání prvních stálých osad.",
+    "category": "discovery",
+    "region": "Severní Amerika",
+    "importance": 3,
+    "tags": [
+      "kolonie",
+      "impérium"
+    ],
+    "people": [
+      "Jakub I."
+    ],
+    "places": [
+      "Amerika"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1625,
+    "year_end": 1649,
+    "title": "KAREL I.",
+    "description": "Vláda krále Karla I., vedoucí k anglické občanské válce a jeho popravě.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Stuartovci",
+      "král",
+      "občanská válka"
+    ],
+    "people": [
+      "Karel I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1642,
+    "year_end": 1651,
+    "title": "Anglická občanská válka",
+    "description": "Občanská válka mezi parlamentaristy a roajalisty, která vedla k popravě Karla I. a nastolení republiky.",
+    "category": "war",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "parlament",
+      "roajalisté"
+    ],
+    "people": [
+      "Karel I.",
+      "Oliver Cromwell"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1649,
+    "year_end": null,
+    "title": "Poprava Karla I.",
+    "description": "Poprava krále Karla I. po porážce roajalistů v anglické občanské válce.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "monarchie"
+    ],
+    "people": [
+      "Karel I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1653,
+    "year_end": 1658,
+    "title": "OLIVER CROMWELL (Lord Protector)",
+    "description": "Po porážce roajalistů a popravě Karla I. se Oliver Cromwell stal lordem protektorem, nastolil vojenskou diktaturu s náboženskou tolerancí a posílením námořní moci.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "republika",
+      "diktatura",
+      "námořnictvo"
+    ],
+    "people": [
+      "Oliver Cromwell"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1658,
+    "year_end": 1659,
+    "title": "RICHARD CROMWELL",
+    "description": "Vláda Richarda Cromwella jako lorda protektora, nástupce svého otce Olivera.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 1,
+    "tags": [
+      "republika"
+    ],
+    "people": [
+      "Richard Cromwell"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1660,
+    "year_end": 1685,
+    "title": "KAREL II.",
+    "description": "Vláda krále Karla II. a obnova monarchie (Restaurace).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Stuartovci",
+      "král",
+      "restaurace monarchie"
+    ],
+    "people": [
+      "Karel II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1685,
+    "year_end": 1688,
+    "title": "JAKUB II.",
+    "description": "Vláda krále Jakuba II., jehož prokatolická politika vedla ke Slavné revoluci.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Stuartovci",
+      "král",
+      "Slavná revoluce"
+    ],
+    "people": [
+      "Jakub II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1689,
+    "year_end": 1694,
+    "title": "MARIE II. a VILEM II.",
+    "description": "Společná vláda královny Marie II. a Viléma Oranžského po Slavné revoluci. Marie II. zemřela v roce 1694.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Oranžští",
+      "Stuartovci",
+      "Slavná revoluce"
+    ],
+    "people": [
+      "Marie II.",
+      "Vilem II. (Oranžský)"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1694,
+    "year_end": 1702,
+    "title": "VILEM II.",
+    "description": "Samostatná vláda krále Viléma II. (III. Oranžského) po smrti Marie II.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "Oranžští",
+      "král"
+    ],
+    "people": [
+      "Vilem II. (Oranžský)"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1702,
+    "year_end": 1714,
+    "title": "ANNA",
+    "description": "Vláda královny Anny, poslední Stuartovny, za jejíhož panování došlo k plnému sjednocení Anglie a Skotska (1707).",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Stuartovci",
+      "královna",
+      "sjednocení Velké Británie"
+    ],
+    "people": [
+      "Anna"
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1707,
+    "year_end": null,
+    "title": "Akt o unii: Vznik Království Velké Británie",
+    "description": "Plné sjednocení království Anglie a Skotska, čímž vzniklo Království Velké Británie.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 5,
+    "tags": [
+      "unie",
+      "parlament"
+    ],
+    "people": [
+      "Anna"
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1714,
+    "year_end": 1727,
+    "title": "JIŘÍ I.",
+    "description": "Vláda krále Jiřího I., prvního panovníka z Hanoverské dynastie.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 2,
+    "tags": [
+      "Hanoverská dynastie",
+      "král"
+    ],
+    "people": [
+      "Jiří I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1727,
+    "year_end": 1760,
+    "title": "JIŘÍ II.",
+    "description": "Vláda krále Jiřího II. V 18. století začala průmyslová revoluce a byly položeny základy pro celosvětové impérium, zvláště v Severní Americe a Indii.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Hanoverská dynastie",
+      "král",
+      "průmyslová revoluce",
+      "impérium"
+    ],
+    "people": [
+      "Jiří II."
+    ],
+    "places": [
+      "Severní Amerika",
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1750,
+    "year_end": 1850,
+    "title": "Počátek průmyslové revoluce",
+    "description": "V 18. století začala průmyslová revoluce, která vynesla Británii daleko před její soupeře ve výrobě a průmyslu.",
+    "category": "economics",
+    "region": "Velká Británie",
+    "importance": 5,
+    "tags": [
+      "inovace",
+      "technologie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1750,
+    "year_end": 1800,
+    "title": "Položení základů britského celosvětového impéria",
+    "description": "Současně s průmyslovou revolucí byly položeny základy pro celosvětové impérium, zvláště v Severní Americe a v Indii.",
+    "category": "politics",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "kolonizace",
+      "impérium"
+    ],
+    "people": [],
+    "places": [
+      "Severní Amerika",
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1756,
+    "year_end": 1763,
+    "title": "Sedmiletá válka",
+    "description": "Globální konflikt mezi velmocemi, který měl významný dopad na koloniální državy, zejména v Severní Americe a Indii.",
+    "category": "war",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "koloniální válka",
+      "impérium",
+      "Francie",
+      "Británie"
+    ],
+    "people": [],
+    "places": [
+      "Severní Amerika",
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1760,
+    "year_end": 1820,
+    "title": "JIŘÍ III.",
+    "description": "Vláda krále Jiřího III. Ztratil americké kolonie, ale impérium rychle rostlo v Indii, byla připojena Austrálie a získána strategická ostrovní místa. Británie se stala nejbohatší zemí světa.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 4,
+    "tags": [
+      "Hanoverská dynastie",
+      "král",
+      "americká nezávislost",
+      "impérium"
+    ],
+    "people": [
+      "Jiří III."
+    ],
+    "places": [
+      "Amerika",
+      "Kanada",
+      "Indie",
+      "Austrálie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1775,
+    "year_end": 1783,
+    "title": "Válka o americkou nezávislost",
+    "description": "Povstání severoamerických kolonií, do níž se zapojily evropské mocnosti. Británie ztratila celou Ameriku kromě Kanady.",
+    "category": "war",
+    "region": "Severní Amerika",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "nezávislost",
+      "USA"
+    ],
+    "people": [
+      "Jiří III."
+    ],
+    "places": [
+      "Amerika",
+      "Kanada"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1789,
+    "year_end": 1815,
+    "title": "Francouzská revoluce a napoleonské války",
+    "description": "Velké politické a vojenské konflikty v Evropě, do nichž se Británie aktivně zapojila.",
+    "category": "war",
+    "region": "Evropa",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "Napoleon",
+      "válka"
+    ],
+    "people": [
+      "Napoleon Bonaparte"
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1760,
+    "year_end": 1820,
+    "title": "Růst britského impéria (Indie, Austrálie)",
+    "description": "Britské impérium rychle rostlo v Indii, byla připojena Austrálie a získána strategická ostrovní místa, což umožnilo růst celosvětového impéria založeného na námořní moci.",
+    "category": "politics",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "kolonizace",
+      "námořnictvo"
+    ],
+    "people": [],
+    "places": [
+      "Indie",
+      "Austrálie"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1820,
+    "year_end": 1830,
+    "title": "JIŘÍ IV.",
+    "description": "Vláda krále Jiřího IV. Před nástupem na trůn působil jako princ regent kvůli otcovu domnělému šílenství. Byl pohodlný, lehkovážný a rozmařilý.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 2,
+    "tags": [
+      "Hanoverská dynastie",
+      "král",
+      "princ regent"
+    ],
+    "people": [
+      "Jiří IV.",
+      "Jiří III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1811,
+    "year_end": 1820,
+    "title": "Jiří IV. jako princ regent",
+    "description": "V posledních letech panování svého otce Jiřího III. byl Jiří IV. jmenován princem regentem s ohledem na otcovo domnělé šílenství.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 2,
+    "tags": [
+      "regentství"
+    ],
+    "people": [
+      "Jiří IV.",
+      "Jiří III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1830,
+    "year_end": 1837,
+    "title": "VILÉM IV.",
+    "description": "Vláda krále Viléma IV., předchůdce královny Viktorie.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 2,
+    "tags": [
+      "Hanoverská dynastie",
+      "král"
+    ],
+    "people": [
+      "Vilém IV."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1837,
+    "year_end": 1901,
+    "title": "VIKTORIE",
+    "description": "Dlouhá vláda královny Viktorie, která dala jméno britskému impériu (Viktoriánská éra). Británie dominovala světu, absorbovala Egypt a Súdán, Jižní Afrika. Proběhla Velká výstava v roce 1851.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 5,
+    "tags": [
+      "Hanoverská dynastie",
+      "královna",
+      "impérium",
+      "Viktoriánská éra",
+      "Scramble for Africa"
+    ],
+    "people": [
+      "Viktorie"
+    ],
+    "places": [
+      "Indie",
+      "Afrika",
+      "Egypt",
+      "Súdán",
+      "Jižní Afrika",
+      "Londýn"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1870,
+    "year_end": 1900,
+    "title": "Rozmach britského impéria: 'Rvačka o Afriku'",
+    "description": "Ve druhé polovině vlády Viktorie se Británie aktivně zapojila do 'rvačky o Afriku', získala nové území a absorbovala Egypt a Súdán, Jižní Afrika.",
+    "category": "politics",
+    "region": "Afrika",
+    "importance": 4,
+    "tags": [
+      "kolonizace",
+      "impérium"
+    ],
+    "people": [],
+    "places": [
+      "Afrika",
+      "Egypt",
+      "Súdán",
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1880,
+    "year_end": 1902,
+    "title": "Konflikt s Búry (Búrské války)",
+    "description": "Británii přinesla nové konflikty s Búry v Jižní Africe.",
+    "category": "war",
+    "region": "Jižní Afrika",
+    "importance": 3,
+    "tags": [
+      "koloniální válka"
+    ],
+    "people": [],
+    "places": [
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1851,
+    "year_end": null,
+    "title": "Velká výstava v Londýně",
+    "description": "Demonstrace světové mocnosti Británie v obchodu a průmyslu na Velké výstavě v roce 1851.",
+    "category": "culture",
+    "region": "Londýn",
+    "importance": 3,
+    "tags": [
+      "průmysl",
+      "obchod",
+      "světová výstava"
+    ],
+    "people": [],
+    "places": [
+      "Londýn"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1901,
+    "year_end": 1910,
+    "title": "EDUARD VII.",
+    "description": "Vláda krále Eduarda VII. Doba je často nazývána posledním zlatým obdobím evropských monarchií. Británie navázala přátelské vztahy s Francií a Ruskem.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Sasko-Koburská dynastie",
+      "král",
+      "diplomacie"
+    ],
+    "people": [
+      "Eduard VII."
+    ],
+    "places": [
+      "Francie",
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1876,
+    "year_end": 1910,
+    "title": "Britské impérium na vrcholu moci",
+    "description": "Období, kdy Británie dosáhla vrcholu své moci, s novými územími a zdroji bohatství (uhlí, ropa).",
+    "category": "politics",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "impérium",
+      "kolonialismus"
+    ],
+    "people": [
+      "Viktorie",
+      "Eduard VII."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1904,
+    "year_end": 1907,
+    "title": "Navázání přátelských vztahů s Francií a Ruskem",
+    "description": "Británie navázala přátelské vztahy s Francií (Entente Cordiale 1904) a s Ruskem (Anglo-ruská dohoda 1907).",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "diplomacie",
+      "spojenectví"
+    ],
+    "people": [
+      "Eduard VII."
+    ],
+    "places": [
+      "Francie",
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1910,
+    "year_end": 1936,
+    "title": "JIŘÍ V.",
+    "description": "Vláda krále Jiřího V. zažila První světovou válku a významné společenské změny.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Windsor",
+      "král",
+      "První světová válka"
+    ],
+    "people": [
+      "Jiří V."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1914,
+    "year_end": 1918,
+    "title": "První světová válka",
+    "description": "Globální válečný konflikt, do kterého se Británie zapojila jako jedna z hlavních mocností.",
+    "category": "war",
+    "region": "Globální",
+    "importance": 5,
+    "tags": [
+      "válka",
+      "světový konflikt"
+    ],
+    "people": [],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1936,
+    "year_end": 1936,
+    "title": "EDUARD VIII.",
+    "description": "Krátká vláda Eduarda VIII., který abdikoval kvůli sňatku s rozvedenou Američankou Wallis Simpsonovou, což vyvolalo ústavní krizi.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Windsor",
+      "král",
+      "abdikace",
+      "ústava"
+    ],
+    "people": [
+      "Eduard VIII.",
+      "Wallis Simpsonová"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1936,
+    "year_end": null,
+    "title": "Ústavní krize a abdikace Eduarda VIII.",
+    "description": "Eduard VIII. volil mezi trůnem a svou láskou, rozvedenou Američankou, nakonec abdikoval a odešel do zahraničí.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "krize"
+    ],
+    "people": [
+      "Eduard VIII."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1936,
+    "year_end": 1952,
+    "title": "JIŘÍ VI.",
+    "description": "Vláda krále Jiřího VI., který odvážně plnil své povinnosti během traumatu Druhé světové války. Jeho předčasná smrt v roce 1952 vynesla na trůn Alžbětu II.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 4,
+    "tags": [
+      "Windsor",
+      "král",
+      "Druhá světová válka"
+    ],
+    "people": [
+      "Jiří VI."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1939,
+    "year_end": 1945,
+    "title": "Druhá světová válka",
+    "description": "Globální válečný konflikt, ve kterém Spojené království hrálo klíčovou roli. Král Jiří VI. plnil své povinnosti.",
+    "category": "war",
+    "region": "Globální",
+    "importance": 5,
+    "tags": [
+      "válka",
+      "světový konflikt",
+      "nacismus",
+      "fašismus"
+    ],
+    "people": [
+      "Jiří VI."
+    ],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1951,
+    "year_end": null,
+    "title": "Festival Británie",
+    "description": "Národní výstava, která oslavovala britský průmysl, umění a design po druhé světové válce.",
+    "category": "culture",
+    "region": "Velká Británie",
+    "importance": 2,
+    "tags": [
+      "výstava",
+      "obnova"
+    ],
+    "people": [],
+    "places": [
+      "Londýn"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1952,
+    "year_end": null,
+    "title": "ALŽBĚTA II.",
+    "description": "Vláda královny Alžběty II. je poznamenaná 'ústupem z impéria' a růstem spolupráce s partnerskými zeměmi v Evropě. V pozdějších letech její vlády svědkem rozvodů svých dětí. (Timeline končí rokem 1997, ale vládla do 2022).",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 5,
+    "tags": [
+      "Windsor",
+      "královna",
+      "Společenství národů",
+      "evropská integrace"
+    ],
+    "people": [
+      "Alžběta II.",
+      "Princ Charles",
+      "Královna matka"
+    ],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1952,
+    "year_end": 1997,
+    "title": "Ústup z impéria a růst evropské spolupráce",
+    "description": "Období ústupu z impéria a růstu spolupráce s partnerskými zeměmi v Evropě během vlády Alžběty II.",
+    "category": "politics",
+    "region": "Globální",
+    "importance": 4,
+    "tags": [
+      "dekolonizace",
+      "Evropská unie"
+    ],
+    "people": [
+      "Alžběta II."
+    ],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  },
+  {
+    "year": 1982,
+    "year_end": null,
+    "title": "Falklandská válka",
+    "description": "Válka mezi Spojeným královstvím a Argentinou o Falklandské ostrovy.",
+    "category": "war",
+    "region": "Falklandy",
+    "importance": 3,
+    "tags": [
+      "válka",
+      "Argentina"
+    ],
+    "people": [
+      "Margaret Thatcher"
+    ],
+    "places": [
+      "Falklandy"
+    ],
+    "bible_refs": [],
+    "source_page": "7R"
+  }
+]

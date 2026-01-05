@@ -1,1 +1,2821 @@
-[]
+[
+  {
+    "year": 1901,
+    "year_end": null,
+    "title": "Vznik Australského svazu",
+    "description": "Austrálie se stává federací šesti britských kolonií a dominiem britské koruny.",
+    "category": "politics",
+    "region": "Austrálie",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "federace",
+      "kolonialismus"
+    ],
+    "people": [],
+    "places": [
+      "Austrálie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1901,
+    "year_end": 1909,
+    "title": "Prezident Theodore Roosevelt (USA)",
+    "description": "26. prezident Spojených států amerických.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "prezident",
+      "politika"
+    ],
+    "people": [
+      "Theodore Roosevelt"
+    ],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1901,
+    "year_end": 1910,
+    "title": "Král Eduard VII. (Velká Británie)",
+    "description": "Král Spojeného království a císař Indie.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "král",
+      "monarchie",
+      "politika"
+    ],
+    "people": [
+      "Eduard VII."
+    ],
+    "places": [
+      "Velká Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1901,
+    "year_end": 1906,
+    "title": "Premiér Richard John Seddon (Nový Zéland)",
+    "description": "Premiér Nového Zélandu.",
+    "category": "politics",
+    "region": "Nový Zéland",
+    "importance": 2,
+    "tags": [
+      "premiér",
+      "politika"
+    ],
+    "people": [
+      "Richard John Seddon"
+    ],
+    "places": [
+      "Nový Zéland"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1905,
+    "year_end": null,
+    "title": "Nezávislost Norska",
+    "description": "Norsko získává nezávislost od Švédska.",
+    "category": "politics",
+    "region": "Norsko",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Norsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1908,
+    "year_end": null,
+    "title": "Nezávislost Bulharska",
+    "description": "Bulharsko vyhlašuje plnou nezávislost na Osmanské říši a stává se královstvím.",
+    "category": "politics",
+    "region": "Bulharsko",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Bulharsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1910,
+    "year_end": null,
+    "title": "Portugalsko se stává republikou",
+    "description": "Konec monarchie v Portugalsku a vyhlášení republiky.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "republika",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1910,
+    "year_end": null,
+    "title": "Jižní Afrika se stává britským dominiem",
+    "description": "Založení Jihoafrické unie jako dominia Britského impéria.",
+    "category": "politics",
+    "region": "Jižní Afrika",
+    "importance": 3,
+    "tags": [
+      "kolonialismus",
+      "dominium"
+    ],
+    "people": [],
+    "places": [
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1910,
+    "year_end": 1920,
+    "title": "Mexická revoluce",
+    "description": "Významný ozbrojený konflikt, který změnil mexickou společnost a politiku.",
+    "category": "war",
+    "region": "Mexiko",
+    "importance": 4,
+    "tags": [
+      "revoluce",
+      "válka",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Mexiko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1912,
+    "year_end": 1949,
+    "title": "Čínská republika",
+    "description": "Založení Čínské republiky po svržení dynastie Čching.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "republika",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1917,
+    "year_end": null,
+    "title": "Únorová revoluce v Rusku",
+    "description": "Svržení carské vlády v Rusku.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "revoluce",
+      "politika"
+    ],
+    "people": [
+      "Mikuláš II."
+    ],
+    "places": [
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1917,
+    "year_end": null,
+    "title": "Nezávislost Finska",
+    "description": "Finsko vyhlašuje nezávislost na Rusku.",
+    "category": "politics",
+    "region": "Finsko",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Finsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1917,
+    "year_end": 1924,
+    "title": "Vláda Vladimíra Iljiče Lenina (SSSR)",
+    "description": "Zakladatel a první vůdce Sovětského svazu.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "vládce",
+      "komunismus",
+      "revoluce"
+    ],
+    "people": [
+      "Vladimír Iljič Lenin"
+    ],
+    "places": [
+      "SSSR"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1918,
+    "year_end": null,
+    "title": "Vznik Československa",
+    "description": "Založení nezávislé Československé republiky.",
+    "category": "politics",
+    "region": "Československo",
+    "importance": 4,
+    "tags": [
+      "nezávislost",
+      "státní zřízení"
+    ],
+    "people": [
+      "T. G. Masaryk"
+    ],
+    "places": [
+      "Československo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1918,
+    "year_end": null,
+    "title": "Nezávislost Polska",
+    "description": "Polsko znovu získává nezávislost po 123 letech rozdělení.",
+    "category": "politics",
+    "region": "Polsko",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Polsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1918,
+    "year_end": 1933,
+    "title": "Výmarská republika",
+    "description": "Období německé historie mezi koncem první světové války a nástupem nacismu.",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 3,
+    "tags": [
+      "republika",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1921,
+    "year_end": null,
+    "title": "Nezávislost Irska",
+    "description": "Většina Irska získává nezávislost na Velké Británii.",
+    "category": "politics",
+    "region": "Irsko",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Irsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1922,
+    "year_end": null,
+    "title": "Vznik SSSR",
+    "description": "Založení Svazu sovětských socialistických republik.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 4,
+    "tags": [
+      "státní zřízení",
+      "komunismus"
+    ],
+    "people": [
+      "Lenin",
+      "Stalin"
+    ],
+    "places": [
+      "SSSR"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1922,
+    "year_end": 1943,
+    "title": "Vláda Benita Mussoliniho (Itálie)",
+    "description": "Fašistická diktatura v Itálii.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 4,
+    "tags": [
+      "diktátor",
+      "fašismus"
+    ],
+    "people": [
+      "Benito Mussolini"
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1922,
+    "year_end": 1953,
+    "title": "Vláda Josifa Vissarionoviče Stalina (SSSR)",
+    "description": "Generalissimus, diktátor Sovětského svazu.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "diktátor",
+      "komunismus",
+      "totalitarismus"
+    ],
+    "people": [
+      "Josif Vissarionovič Stalin"
+    ],
+    "places": [
+      "SSSR"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1923,
+    "year_end": null,
+    "title": "Vznik Turecké republiky",
+    "description": "Vyhlášení Turecké republiky, konec Osmanské říše.",
+    "category": "politics",
+    "region": "Turecko",
+    "importance": 3,
+    "tags": [
+      "republika",
+      "politika"
+    ],
+    "people": [
+      "Mustafa Kemal Atatürk"
+    ],
+    "places": [
+      "Turecko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1923,
+    "year_end": 1938,
+    "title": "Prezident Mustafa Kemal Atatürk (Turecko)",
+    "description": "Zakladatel a první prezident Turecké republiky.",
+    "category": "politics",
+    "region": "Turecko",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "zakladatel",
+      "reforma"
+    ],
+    "people": [
+      "Mustafa Kemal Atatürk"
+    ],
+    "places": [
+      "Turecko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1929,
+    "year_end": null,
+    "title": "Vznik Jugoslávie",
+    "description": "Království Srbů, Chorvatů a Slovinců se přejmenovává na Jugoslávii.",
+    "category": "politics",
+    "region": "Jugoslávie",
+    "importance": 2,
+    "tags": [
+      "státní zřízení",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Jugoslávie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1932,
+    "year_end": null,
+    "title": "Vznik Saúdského království",
+    "description": "Spojení dvou regionů Nejd a Hidžáz v Království Saúdské Arábie.",
+    "category": "politics",
+    "region": "Saúdská Arábie",
+    "importance": 2,
+    "tags": [
+      "státní zřízení",
+      "monarchie"
+    ],
+    "people": [],
+    "places": [
+      "Saúdská Arábie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1933,
+    "year_end": 1945,
+    "title": "Prezident Franklin D. Roosevelt (USA)",
+    "description": "32. prezident Spojených států amerických, umírá ve funkci během 2. sv. války.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "prezident",
+      "válka",
+      "politika"
+    ],
+    "people": [
+      "Franklin D. Roosevelt"
+    ],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1933,
+    "year_end": 1945,
+    "title": "Vláda Adolfa Hitlera (Německo)",
+    "description": "Vůdce a kancléř nacistického Německa, iniciátor druhé světové války a holokaustu.",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "diktátor",
+      "nacismus",
+      "válka"
+    ],
+    "people": [
+      "Adolf Hitler"
+    ],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1936,
+    "year_end": 1939,
+    "title": "Španělská občanská válka",
+    "description": "Válka mezi republikány a nacionalisty pod vedením generála Franca.",
+    "category": "war",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "občanská válka",
+      "politika"
+    ],
+    "people": [
+      "Francisco Franco"
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1938,
+    "year_end": null,
+    "title": "Mnichovská dohoda",
+    "description": "Dohoda o postoupení Sudet nacistickému Německu, podepsaná bez účasti Československa.",
+    "category": "politics",
+    "region": "Československo",
+    "importance": 5,
+    "tags": [
+      "politika",
+      "mezinárodní vztahy",
+      "ústupky"
+    ],
+    "people": [],
+    "places": [
+      "Mnichov",
+      "Československo",
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1939,
+    "year_end": 1945,
+    "title": "Druhá světová válka",
+    "description": "Globální válečný konflikt s největším počtem obětí v historii lidstva.",
+    "category": "war",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "válka",
+      "světová válka"
+    ],
+    "people": [
+      "Adolf Hitler"
+    ],
+    "places": [
+      "Evropa",
+      "Asie",
+      "Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1939,
+    "year_end": 1945,
+    "title": "Protektorát Čechy a Morava",
+    "description": "Území v Československu okupované nacistickým Německem.",
+    "category": "politics",
+    "region": "Československo",
+    "importance": 4,
+    "tags": [
+      "okupace",
+      "nacismus",
+      "válka"
+    ],
+    "people": [],
+    "places": [
+      "Čechy",
+      "Morava"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1940,
+    "year_end": 1945,
+    "title": "Premiér Winston Churchill (Velká Británie)",
+    "description": "Premiér Spojeného království během druhé světové války.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 5,
+    "tags": [
+      "premiér",
+      "válka",
+      "politika"
+    ],
+    "people": [
+      "Winston Churchill"
+    ],
+    "places": [
+      "Velká Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1943,
+    "year_end": null,
+    "title": "Nezávislost Libanonu",
+    "description": "Libanon získává nezávislost na Francii.",
+    "category": "politics",
+    "region": "Libanon",
+    "importance": 2,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Libanon"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1945,
+    "year_end": null,
+    "title": "Konec Druhé světové války",
+    "description": "Kapitulace Německa a Japonska, ukončení globálního konfliktu.",
+    "category": "war",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "válka",
+      "konec války"
+    ],
+    "people": [],
+    "places": [
+      "Evropa",
+      "Asie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1945,
+    "year_end": null,
+    "title": "Nezávislost Indonésie",
+    "description": "Indonésie prohlašuje nezávislost na Nizozemsku.",
+    "category": "politics",
+    "region": "Indonésie",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Indonésie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1945,
+    "year_end": 1954,
+    "title": "První válka v Indočíně",
+    "description": "Konflikt mezi Francií a Viet Minhem za nezávislost Vietnamu.",
+    "category": "war",
+    "region": "Vietnam",
+    "importance": 3,
+    "tags": [
+      "válka",
+      "kolonialismus",
+      "nezávislost"
+    ],
+    "people": [
+      "Ho Či Min"
+    ],
+    "places": [
+      "Vietnam",
+      "Indočína"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1945,
+    "year_end": 1980,
+    "title": "Prezident Josip Broz Tito (Jugoslávie)",
+    "description": "Dlouholetý vůdce Jugoslávie, zakladatel Hnutí nezúčastněných zemí.",
+    "category": "politics",
+    "region": "Jugoslávie",
+    "importance": 4,
+    "tags": [
+      "vládce",
+      "komunismus",
+      "studená válka"
+    ],
+    "people": [
+      "Josip Broz Tito"
+    ],
+    "places": [
+      "Jugoslávie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1946,
+    "year_end": null,
+    "title": "Nezávislost Jordánska",
+    "description": "Jordánsko získává plnou nezávislost na Británii.",
+    "category": "politics",
+    "region": "Jordánsko",
+    "importance": 2,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Jordánsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1946,
+    "year_end": null,
+    "title": "Nezávislost Sýrie",
+    "description": "Sýrie získává plnou nezávislost na Francii.",
+    "category": "politics",
+    "region": "Sýrie",
+    "importance": 2,
+    "tags": [
+      "nezávislost",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Sýrie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1947,
+    "year_end": null,
+    "title": "Nezávislost Indie",
+    "description": "Indie získává nezávislost na britské koloniální nadvládě.",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 4,
+    "tags": [
+      "nezávislost",
+      "dekolonizace"
+    ],
+    "people": [
+      "Mahátma Gándhí",
+      "Džaváharlál Néhrú"
+    ],
+    "places": [
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1947,
+    "year_end": null,
+    "title": "Nezávislost Pákistánu",
+    "description": "Vznik Pákistánu oddělením od Indie, rozdělení Indie.",
+    "category": "politics",
+    "region": "Pákistán",
+    "importance": 4,
+    "tags": [
+      "nezávislost",
+      "dekolonizace",
+      "rozdělení"
+    ],
+    "people": [],
+    "places": [
+      "Pákistán",
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1948,
+    "year_end": null,
+    "title": "Vznik Izraele",
+    "description": "Vyhlášení Státu Izrael.",
+    "category": "politics",
+    "region": "Izrael",
+    "importance": 4,
+    "tags": [
+      "státní zřízení",
+      "politika"
+    ],
+    "people": [
+      "David Ben Gurion"
+    ],
+    "places": [
+      "Izrael"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1948,
+    "year_end": null,
+    "title": "Nezávislost Srí Lanky",
+    "description": "Srí Lanka (Cejlon) získává nezávislost na Británii.",
+    "category": "politics",
+    "region": "Srí Lanka",
+    "importance": 2,
+    "tags": [
+      "nezávislost",
+      "dekolonizace"
+    ],
+    "people": [],
+    "places": [
+      "Srí Lanka"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1948,
+    "year_end": null,
+    "title": "Vznik KLDR (Severní Korea)",
+    "description": "Založení Korejské lidově demokratické republiky.",
+    "category": "politics",
+    "region": "Severní Korea",
+    "importance": 3,
+    "tags": [
+      "státní zřízení",
+      "komunismus"
+    ],
+    "people": [
+      "Kim Ir-sen"
+    ],
+    "places": [
+      "Severní Korea"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1948,
+    "year_end": null,
+    "title": "Vznik Korejské republiky (Jižní Korea)",
+    "description": "Založení Korejské republiky.",
+    "category": "politics",
+    "region": "Jižní Korea",
+    "importance": 3,
+    "tags": [
+      "státní zřízení",
+      "demokracie"
+    ],
+    "people": [
+      "I Syng-man"
+    ],
+    "places": [
+      "Jižní Korea"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1948,
+    "year_end": 1994,
+    "title": "Apartheid v Jihoafrické republice",
+    "description": "Systém rasové segregace a diskriminace.",
+    "category": "politics",
+    "region": "Jižní Afrika",
+    "importance": 5,
+    "tags": [
+      "apartheid",
+      "rasismus",
+      "politika"
+    ],
+    "people": [
+      "Nelson Mandela"
+    ],
+    "places": [
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1949,
+    "year_end": null,
+    "title": "Vznik Čínské lidové republiky",
+    "description": "Mao Ce-tung vyhlašuje založení ČLR.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "státní zřízení",
+      "komunismus",
+      "revoluce"
+    ],
+    "people": [
+      "Mao Ce-tung"
+    ],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1949,
+    "year_end": null,
+    "title": "Rozdělení Německa (SRN a NDR)",
+    "description": "Vznik Spolkové republiky Německa (západní) a Německé demokratické republiky (východní).",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 4,
+    "tags": [
+      "rozdělení",
+      "studená válka",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1949,
+    "year_end": 1976,
+    "title": "Předseda Mao Ce-tung (Čína)",
+    "description": "Zakladatel a první vůdce Čínské lidové republiky.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "vládce",
+      "komunismus",
+      "revoluce"
+    ],
+    "people": [
+      "Mao Ce-tung"
+    ],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1950,
+    "year_end": 1953,
+    "title": "Válka v Koreji",
+    "description": "Konflikt mezi Severní a Jižní Koreou, podporovaný supervelmocemi.",
+    "category": "war",
+    "region": "Korea",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "studená válka"
+    ],
+    "people": [],
+    "places": [
+      "Korea"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1951,
+    "year_end": null,
+    "title": "Nezávislost Libye",
+    "description": "Libye získává nezávislost na Itálii.",
+    "category": "politics",
+    "region": "Libye",
+    "importance": 2,
+    "tags": [
+      "nezávislost",
+      "dekolonizace"
+    ],
+    "people": [],
+    "places": [
+      "Libye"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1952,
+    "year_end": null,
+    "title": "Pád monarchie v Egyptě",
+    "description": "Vojenský převrat svrhl krále Farúka I.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 3,
+    "tags": [
+      "revoluce",
+      "monarchie"
+    ],
+    "people": [],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1953,
+    "year_end": null,
+    "title": "Vznik Egyptské republiky",
+    "description": "Egypt je vyhlášen republikou.",
+    "category": "politics",
+    "region": "Egypt",
+    "importance": 2,
+    "tags": [
+      "republika",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1954,
+    "year_end": null,
+    "title": "Bitva u Dien Bien Phu",
+    "description": "Rozhodující bitva první indočínské války, vedoucí k francouzské porážce.",
+    "category": "war",
+    "region": "Vietnam",
+    "importance": 3,
+    "tags": [
+      "bitva",
+      "válka"
+    ],
+    "people": [],
+    "places": [
+      "Dien Bien Phu"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1954,
+    "year_end": null,
+    "title": "Rozdělení Vietnamu",
+    "description": "Vietnam je Ženevskými dohodami rozdělen na severní a jižní část.",
+    "category": "politics",
+    "region": "Vietnam",
+    "importance": 3,
+    "tags": [
+      "rozdělení",
+      "studená válka"
+    ],
+    "people": [],
+    "places": [
+      "Vietnam"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1954,
+    "year_end": 1962,
+    "title": "Válka v Alžírsku",
+    "description": "Nezávislostní válka Alžírska proti Francii.",
+    "category": "war",
+    "region": "Alžírsko",
+    "importance": 3,
+    "tags": [
+      "válka",
+      "nezávislost",
+      "kolonialismus"
+    ],
+    "people": [],
+    "places": [
+      "Alžírsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1956,
+    "year_end": null,
+    "title": "Maďarské povstání",
+    "description": "Proti-sovětské a proti-komunistické povstání v Maďarsku potlačené sovětskou armádou.",
+    "category": "politics",
+    "region": "Maďarsko",
+    "importance": 4,
+    "tags": [
+      "povstání",
+      "studená válka",
+      "komunismus"
+    ],
+    "people": [
+      "Imre Nagy"
+    ],
+    "places": [
+      "Maďarsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1957,
+    "year_end": null,
+    "title": "Nezávislost Ghany",
+    "description": "Ghana se stává první africkou kolonií, která získala nezávislost.",
+    "category": "politics",
+    "region": "Ghana",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "dekolonizace",
+      "Afrika"
+    ],
+    "people": [
+      "Kwame Nkrumah"
+    ],
+    "places": [
+      "Ghana"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1959,
+    "year_end": 2008,
+    "title": "Vládce Fidel Castro (Kuba)",
+    "description": "Vůdce kubánské revoluce a dlouholetý premiér, později prezident Kuby.",
+    "category": "politics",
+    "region": "Kuba",
+    "importance": 4,
+    "tags": [
+      "revolucionář",
+      "komunismus",
+      "diktátor"
+    ],
+    "people": [
+      "Fidel Castro"
+    ],
+    "places": [
+      "Kuba"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1960,
+    "year_end": null,
+    "title": "Rok Afriky",
+    "description": "Sedmnáct afrických zemí získává v tomto roce nezávislost.",
+    "category": "politics",
+    "region": "Afrika",
+    "importance": 4,
+    "tags": [
+      "dekolonizace",
+      "nezávislost",
+      "Afrika"
+    ],
+    "people": [],
+    "places": [
+      "Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1961,
+    "year_end": null,
+    "title": "Vznik Jihoafrické republiky",
+    "description": "Jihoafrická unie se stává republikou a vystupuje ze Společenství národů.",
+    "category": "politics",
+    "region": "Jižní Afrika",
+    "importance": 2,
+    "tags": [
+      "republika",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1962,
+    "year_end": null,
+    "title": "Nezávislost Alžírska",
+    "description": "Alžírsko získává nezávislost na Francii po alžírské válce.",
+    "category": "politics",
+    "region": "Alžírsko",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "dekolonizace"
+    ],
+    "people": [],
+    "places": [
+      "Alžírsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1962,
+    "year_end": null,
+    "title": "Nezávislost Ugandy",
+    "description": "Uganda získává nezávislost na Spojeném království.",
+    "category": "politics",
+    "region": "Uganda",
+    "importance": 2,
+    "tags": [
+      "nezávislost",
+      "dekolonizace",
+      "Afrika"
+    ],
+    "people": [],
+    "places": [
+      "Uganda"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1964,
+    "year_end": 1975,
+    "title": "Válka ve Vietnamu",
+    "description": "Druhý konflikt mezi Severním a Jižním Vietnamem s účastí USA.",
+    "category": "war",
+    "region": "Vietnam",
+    "importance": 5,
+    "tags": [
+      "válka",
+      "studená válka"
+    ],
+    "people": [],
+    "places": [
+      "Vietnam"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1966,
+    "year_end": 1977,
+    "title": "Premiérka Indira Gándhíová (Indie)",
+    "description": "První a dosud jediná ženská premiérka Indie (první funkční období).",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 3,
+    "tags": [
+      "premiérka",
+      "politika",
+      "ženy v politice"
+    ],
+    "people": [
+      "Indira Gándhíová"
+    ],
+    "places": [
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1969,
+    "year_end": null,
+    "title": "Vojenský převrat v Libyi",
+    "description": "Muammar Kaddáfí svrhl monarchii a nastolil revoluční vládu.",
+    "category": "politics",
+    "region": "Libye",
+    "importance": 3,
+    "tags": [
+      "převrat",
+      "diktatura"
+    ],
+    "people": [
+      "Muammar Kaddáfí"
+    ],
+    "places": [
+      "Libye"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1971,
+    "year_end": null,
+    "title": "Nezávislost Bangladéše",
+    "description": "Bangladéš se odděluje od Pákistánu po válce za nezávislost.",
+    "category": "politics",
+    "region": "Bangladéš",
+    "importance": 3,
+    "tags": [
+      "nezávislost",
+      "válka"
+    ],
+    "people": [],
+    "places": [
+      "Bangladéš"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1973,
+    "year_end": null,
+    "title": "Svržení monarchie v Afghánistánu",
+    "description": "Král Záhir Šáh svržen vojenským převratem, země se stává republikou.",
+    "category": "politics",
+    "region": "Afghánistán",
+    "importance": 2,
+    "tags": [
+      "převrat",
+      "monarchie",
+      "republika"
+    ],
+    "people": [],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1974,
+    "year_end": null,
+    "title": "Karafiátová revoluce v Portugalsku",
+    "description": "Vojenský převrat, který svrhl autoritářský režim v Portugalsku.",
+    "category": "politics",
+    "region": "Portugalsko",
+    "importance": 3,
+    "tags": [
+      "revoluce",
+      "převrat"
+    ],
+    "people": [],
+    "places": [
+      "Portugalsko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1975,
+    "year_end": null,
+    "title": "Konec vietnamské války",
+    "description": "Pád Saigonu a sjednocení Vietnamu pod komunistickou vládou.",
+    "category": "war",
+    "region": "Vietnam",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "konec války",
+      "sjednocení"
+    ],
+    "people": [],
+    "places": [
+      "Vietnam"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1975,
+    "year_end": 1979,
+    "title": "Vláda Rudých Khmerů v Kambodži",
+    "description": "Genocidní režim Pol Pota a Rudých Khmerů.",
+    "category": "politics",
+    "region": "Kambodža",
+    "importance": 5,
+    "tags": [
+      "genocida",
+      "diktatura",
+      "komunismus"
+    ],
+    "people": [
+      "Pol Pot"
+    ],
+    "places": [
+      "Kambodža"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1978,
+    "year_end": null,
+    "title": "Saur revoluce v Afghánistánu",
+    "description": "Komunistický převrat v Afghánistánu.",
+    "category": "politics",
+    "region": "Afghánistán",
+    "importance": 2,
+    "tags": [
+      "revoluce",
+      "komunismus"
+    ],
+    "people": [],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1979,
+    "year_end": null,
+    "title": "Islámská revoluce v Íránu",
+    "description": "Svržení monarchie a nastolení islámské teokracie pod vedením ajatolláha Chomejního.",
+    "category": "politics",
+    "region": "Írán",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "islám",
+      "politika"
+    ],
+    "people": [
+      "Ajatolláh Chomejní"
+    ],
+    "places": [
+      "Írán"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1979,
+    "year_end": 1989,
+    "title": "Sovětská invaze do Afghánistánu",
+    "description": "Vojenská intervence Sovětského svazu na podporu prokomunistické vlády v Afghánistánu.",
+    "category": "war",
+    "region": "Afghánistán",
+    "importance": 4,
+    "tags": [
+      "invaze",
+      "válka",
+      "studená válka"
+    ],
+    "people": [],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1980,
+    "year_end": null,
+    "title": "Nezávislost Zimbabwe",
+    "description": "Zimbabwe získává nezávislost na Spojeném království.",
+    "category": "politics",
+    "region": "Zimbabwe",
+    "importance": 2,
+    "tags": [
+      "nezávislost",
+      "dekolonizace",
+      "Afrika"
+    ],
+    "people": [
+      "Robert Mugabe"
+    ],
+    "places": [
+      "Zimbabwe"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1985,
+    "year_end": 1991,
+    "title": "Prezident Michail Gorbačov (SSSR)",
+    "description": "Poslední vůdce Sovětského svazu, iniciátor reforem perestrojky a glasnosti.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "vládce",
+      "reforma",
+      "pád komunismu"
+    ],
+    "people": [
+      "Michail Gorbačov"
+    ],
+    "places": [
+      "SSSR"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1989,
+    "year_end": null,
+    "title": "Pád Berlínské zdi",
+    "description": "Symbolický konec studené války a rozdělení Evropy.",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "studená válka",
+      "pád komunismu",
+      "Berlín"
+    ],
+    "people": [],
+    "places": [
+      "Berlín"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1989,
+    "year_end": null,
+    "title": "Sametová revoluce v Československu",
+    "description": "Nenásilný pád komunistického režimu v Československu.",
+    "category": "politics",
+    "region": "Československo",
+    "importance": 4,
+    "tags": [
+      "revoluce",
+      "pád komunismu",
+      "politika"
+    ],
+    "people": [
+      "Václav Havel"
+    ],
+    "places": [
+      "Československo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1989,
+    "year_end": 1992,
+    "title": "Prezident Václav Havel (Československo)",
+    "description": "Poslední prezident Československa po Sametové revoluci.",
+    "category": "politics",
+    "region": "Československo",
+    "importance": 4,
+    "tags": [
+      "prezident",
+      "pád komunismu",
+      "disident"
+    ],
+    "people": [
+      "Václav Havel"
+    ],
+    "places": [
+      "Československo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1990,
+    "year_end": null,
+    "title": "Znovusjednocení Německa",
+    "description": "Sjednocení Spolkové republiky Německa a Německé demokratické republiky.",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 4,
+    "tags": [
+      "sjednocení",
+      "politika",
+      "studená válka"
+    ],
+    "people": [
+      "Helmut Kohl"
+    ],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1990,
+    "year_end": null,
+    "title": "Propuštění Nelsona Mandely",
+    "description": "Nelson Mandela propuštěn z vězení, začátek konce apartheidu v Jihoafrické republice.",
+    "category": "politics",
+    "region": "Jižní Afrika",
+    "importance": 4,
+    "tags": [
+      "apartheid",
+      "lidská práva",
+      "politika"
+    ],
+    "people": [
+      "Nelson Mandela"
+    ],
+    "places": [
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1991,
+    "year_end": null,
+    "title": "Rozpad SSSR",
+    "description": "Oficiální zánik Sovětského svazu a vznik nezávislých států.",
+    "category": "politics",
+    "region": "SSSR",
+    "importance": 5,
+    "tags": [
+      "rozpad",
+      "studená válka",
+      "pád komunismu"
+    ],
+    "people": [
+      "Michail Gorbačov"
+    ],
+    "places": [
+      "SSSR"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1993,
+    "year_end": null,
+    "title": "Rozdělení Československa",
+    "description": "Zánik Československa a vznik dvou nezávislých států: České republiky a Slovenska.",
+    "category": "politics",
+    "region": "Československo",
+    "importance": 4,
+    "tags": [
+      "rozdělení",
+      "státní zřízení",
+      "politika"
+    ],
+    "people": [
+      "Václav Havel"
+    ],
+    "places": [
+      "Česká republika",
+      "Slovensko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1994,
+    "year_end": null,
+    "title": "První svobodné volby v Jihoafrické republice",
+    "description": "Konec apartheidu, Nelson Mandela se stává prvním černošským prezidentem JAR.",
+    "category": "politics",
+    "region": "Jižní Afrika",
+    "importance": 5,
+    "tags": [
+      "volby",
+      "apartheid",
+      "demokracie"
+    ],
+    "people": [
+      "Nelson Mandela"
+    ],
+    "places": [
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1994,
+    "year_end": 1999,
+    "title": "Prezident Nelson Mandela (Jihoafrická republika)",
+    "description": "První černošský prezident Jihoafrické republiky po konci apartheidu.",
+    "category": "politics",
+    "region": "Jižní Afrika",
+    "importance": 5,
+    "tags": [
+      "prezident",
+      "apartheid",
+      "lidská práva"
+    ],
+    "people": [
+      "Nelson Mandela"
+    ],
+    "places": [
+      "Jižní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 1996,
+    "year_end": 2001,
+    "title": "Vláda Talibanu v Afghánistánu",
+    "description": "Islámský fundamentalistický režim Talibanu v Afghánistánu.",
+    "category": "politics",
+    "region": "Afghánistán",
+    "importance": 4,
+    "tags": [
+      "fundamentalismus",
+      "diktatura",
+      "náboženství"
+    ],
+    "people": [],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2001,
+    "year_end": null,
+    "title": "Teroristické útoky 11. září v USA",
+    "description": "Útok na Světové obchodní centrum v New Yorku a Pentagon islámskými teroristy.",
+    "category": "war",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "terorismus",
+      "útok",
+      "konflikt"
+    ],
+    "people": [],
+    "places": [
+      "New York",
+      "Pentagon"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2001,
+    "year_end": null,
+    "title": "Invaze USA do Afghánistánu",
+    "description": "USA se spojenci vnikají do Afghánistánu s cílem dopadnout pachatele útoků 11. září.",
+    "category": "war",
+    "region": "Afghánistán",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "invaze",
+      "terorismus"
+    ],
+    "people": [],
+    "places": [
+      "Afghánistán"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2002,
+    "year_end": null,
+    "title": "Zavedení eura v EU",
+    "description": "Euro vstupuje do oběhu jako nová měna v Evropské unii.",
+    "category": "economics",
+    "region": "Evropská unie",
+    "importance": 3,
+    "tags": [
+      "měna",
+      "integrace",
+      "EU"
+    ],
+    "people": [],
+    "places": [
+      "Evropská unie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2002,
+    "year_end": null,
+    "title": "Vznik Africké unie",
+    "description": "Organizace afrických států nahrazuje Organizaci africké jednoty.",
+    "category": "politics",
+    "region": "Afrika",
+    "importance": 2,
+    "tags": [
+      "organizace",
+      "integrace",
+      "Afrika"
+    ],
+    "people": [],
+    "places": [
+      "Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2003,
+    "year_end": null,
+    "title": "Invaze do Iráku a svržení Saddáma Husajna",
+    "description": "Vojenská invaze koalice vedené USA do Iráku, svrhuje režim Saddáma Husajna.",
+    "category": "war",
+    "region": "Irák",
+    "importance": 4,
+    "tags": [
+      "válka",
+      "invaze",
+      "politika"
+    ],
+    "people": [
+      "Saddám Husajn"
+    ],
+    "places": [
+      "Irák"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2003,
+    "year_end": null,
+    "title": "Dokončení rozkódování lidské DNA",
+    "description": "Mezinárodní projekt dokončuje mapování lidského genomu.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "věda",
+      "genetika",
+      "objev"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2004,
+    "year_end": null,
+    "title": "Vytvoření internetové platformy Facebook",
+    "description": "Spuštění sociální sítě Facebook.",
+    "category": "discovery",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "technologie",
+      "internet",
+      "sociální síť"
+    ],
+    "people": [
+      "Mark Zuckerberg"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2004,
+    "year_end": null,
+    "title": "Vznik Unie jihoamerických národů",
+    "description": "Založení politické a ekonomické unie 12 jihoamerických zemí.",
+    "category": "politics",
+    "region": "Jižní Amerika",
+    "importance": 2,
+    "tags": [
+      "organizace",
+      "integrace",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Jižní Amerika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2004,
+    "year_end": null,
+    "title": "Tsunami v Indickém oceánu",
+    "description": "Zemětřesení a následná vlna tsunami zabíjí přes 230 000 osob.",
+    "category": "science",
+    "region": "Indický oceán",
+    "importance": 5,
+    "tags": [
+      "katastrofa",
+      "přírodní pohroma",
+      "zemětřesení"
+    ],
+    "people": [],
+    "places": [
+      "Indický oceán",
+      "Asie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2005,
+    "year_end": null,
+    "title": "Vytvoření internetové platformy YouTube",
+    "description": "Spuštění platformy pro sdílení videí.",
+    "category": "discovery",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "technologie",
+      "internet",
+      "video"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2005,
+    "year_end": null,
+    "title": "Zemětřesení v Kašmíru",
+    "description": "Silné zemětřesení v oblasti Kašmíru si vyžádalo 80 000 obětí.",
+    "category": "science",
+    "region": "Kašmír",
+    "importance": 4,
+    "tags": [
+      "katastrofa",
+      "přírodní pohroma",
+      "zemětřesení"
+    ],
+    "people": [],
+    "places": [
+      "Kašmír"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2006,
+    "year_end": null,
+    "title": "Pluto formálně odebráno ze seznamu planet",
+    "description": "Mezinárodní astronomická unie rekvalifikuje Pluto jako trpasličí planetu.",
+    "category": "science",
+    "region": "Vesmír",
+    "importance": 2,
+    "tags": [
+      "astronomie",
+      "věda",
+      "objev"
+    ],
+    "people": [],
+    "places": [
+      "Sluneční soustava"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2006,
+    "year_end": null,
+    "title": "Vytvoření internetové platformy Twitter",
+    "description": "Spuštění sociální mikroblogovací sítě Twitter.",
+    "category": "discovery",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "technologie",
+      "internet",
+      "sociální síť"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2007,
+    "year_end": null,
+    "title": "Vznik Apple iPhone",
+    "description": "Představení prvního smartphonu iPhone společností Apple.",
+    "category": "discovery",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "technologie",
+      "mobilní telefony",
+      "inovace"
+    ],
+    "people": [
+      "Steve Jobs"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2008,
+    "year_end": null,
+    "title": "Krach akciového trhu a mezinárodní recese",
+    "description": "Globální finanční krize způsobená hypoteční krizí v USA.",
+    "category": "economics",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "ekonomika",
+      "krize",
+      "recese"
+    ],
+    "people": [],
+    "places": [
+      "Svět"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2009,
+    "year_end": null,
+    "title": "Vznik ekonomického bloku BRICS",
+    "description": "Založení skupiny pěti hlavních rozvíjejících se ekonomik: Brazílie, Rusko, Indie, Čína a Jižní Afrika.",
+    "category": "economics",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "ekonomika",
+      "organizace",
+      "mezinárodní vztahy"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2009,
+    "year_end": null,
+    "title": "Rozmach islámského extrémistického hnutí Boko Haram",
+    "description": "Hnutí Boko Haram v Nigérii se rozrůznilo do většiny západní Afriky.",
+    "category": "politics",
+    "region": "Afrika",
+    "importance": 3,
+    "tags": [
+      "terorismus",
+      "konflikt",
+      "náboženství"
+    ],
+    "people": [],
+    "places": [
+      "Nigérie",
+      "Západní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2009,
+    "year_end": null,
+    "title": "Pandemie prasečí chřipky",
+    "description": "Celosvětová pandemie způsobená virem H1N1.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "pandemie",
+      "nemoc",
+      "zdraví"
+    ],
+    "people": [],
+    "places": [
+      "Svět"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2010,
+    "year_end": null,
+    "title": "Zemětřesení na Haiti",
+    "description": "Zničující zemětřesení na Haiti zabilo více než 200 000 lidí.",
+    "category": "science",
+    "region": "Haiti",
+    "importance": 4,
+    "tags": [
+      "katastrofa",
+      "přírodní pohroma",
+      "zemětřesení"
+    ],
+    "people": [],
+    "places": [
+      "Haiti"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2010,
+    "year_end": null,
+    "title": "Největší ropná skvrna v Mexickém zálivu",
+    "description": "Havárie plošiny Deepwater Horizon, ekologická katastrofa.",
+    "category": "science",
+    "region": "Mexický záliv",
+    "importance": 3,
+    "tags": [
+      "ekologie",
+      "katastrofa",
+      "průmysl"
+    ],
+    "people": [],
+    "places": [
+      "Mexický záliv"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2010,
+    "year_end": null,
+    "title": "Počátek 'Arabského jara'",
+    "description": "Vlna protestů a revolucí na Blízkém východě a v severní Africe.",
+    "category": "politics",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "revoluce",
+      "protesty",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Blízký východ",
+      "Severní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2010,
+    "year_end": null,
+    "title": "Apple odstartoval tablet iPad",
+    "description": "Apple představil svůj první tablet iPad.",
+    "category": "discovery",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "technologie",
+      "tablet",
+      "inovace"
+    ],
+    "people": [
+      "Steve Jobs"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2011,
+    "year_end": null,
+    "title": "Světová populace dosahuje 7 miliard",
+    "description": "Populace Země dosahuje milníku 7 miliard obyvatel.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 2,
+    "tags": [
+      "demografie",
+      "populace",
+      "růst"
+    ],
+    "people": [],
+    "places": [
+      "Svět"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2011,
+    "year_end": null,
+    "title": "Zemětřesení a tsunami v Japonsku, havárie Fukušima",
+    "description": "Silné zemětřesení a tsunami vyvolaly havárii v jaderné elektrárně Fukušima.",
+    "category": "science",
+    "region": "Japonsko",
+    "importance": 4,
+    "tags": [
+      "katastrofa",
+      "přírodní pohroma",
+      "jaderná energie"
+    ],
+    "people": [],
+    "places": [
+      "Japonsko",
+      "Fukušima"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2011,
+    "year_end": null,
+    "title": "Zadržení a poprava Usámy bin Ládina",
+    "description": "Zabití vůdce Al-Káidy, údajného organizátora útoků 11. září.",
+    "category": "war",
+    "region": "Pákistán",
+    "importance": 4,
+    "tags": [
+      "terorismus",
+      "operace",
+      "spravedlnost"
+    ],
+    "people": [
+      "Usáma bin Ládin"
+    ],
+    "places": [
+      "Pákistán"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2011,
+    "year_end": null,
+    "title": "NASA končí lety raketoplánů",
+    "description": "Program Space Shuttle je ukončen posledním letem raketoplánu Atlantis.",
+    "category": "science",
+    "region": "USA",
+    "importance": 2,
+    "tags": [
+      "kosmonautika",
+      "věda",
+      "technologie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2012,
+    "year_end": null,
+    "title": "Klimatická konference OSN (Kjótské protokoly)",
+    "description": "Rozšíření platnosti Kjótských protokolů na klimatické konferenci OSN.",
+    "category": "politics",
+    "region": "Svět",
+    "importance": 2,
+    "tags": [
+      "ekologie",
+      "klima",
+      "mezinárodní vztahy"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2013,
+    "year_end": null,
+    "title": "Čínské vozítko přistává na Měsíci",
+    "description": "Čínská sonda Chang'e 3 s vozítkem Yutu úspěšně přistává na Měsíci.",
+    "category": "science",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "kosmonautika",
+      "věda",
+      "vesmír"
+    ],
+    "people": [],
+    "places": [
+      "Měsíc"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2013,
+    "year_end": null,
+    "title": "Objev částice Higgsův Boson",
+    "description": "CERN oznamuje objev nové elementární částice, která odpovídá Higgsovu bosonu.",
+    "category": "science",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "fyzika",
+      "věda",
+      "objev"
+    ],
+    "people": [],
+    "places": [
+      "CERN"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2014,
+    "year_end": null,
+    "title": "Vypuknutí epidemie Eboly v západní Africe",
+    "description": "Rozsáhlá epidemie viru Ebola v západoafrických zemích.",
+    "category": "science",
+    "region": "Západní Afrika",
+    "importance": 4,
+    "tags": [
+      "epidemic",
+      "zdraví",
+      "nemoc"
+    ],
+    "people": [],
+    "places": [
+      "Západní Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2014,
+    "year_end": null,
+    "title": "EU uvaluje první ekonomickou zónu",
+    "description": "Zavedení ekonomických sankcí a omezení.",
+    "category": "economics",
+    "region": "Evropská unie",
+    "importance": 2,
+    "tags": [
+      "ekonomika",
+      "EU",
+      "sankce"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2014,
+    "year_end": null,
+    "title": "Založení extrémistického 'Islámského státu'",
+    "description": "Vznik teroristické organizace Islámský stát v Iráku a Sýrii.",
+    "category": "war",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "terorismus",
+      "konflikt",
+      "náboženství"
+    ],
+    "people": [],
+    "places": [
+      "Irák",
+      "Sýrie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2015,
+    "year_end": null,
+    "title": "Pařížská klimatická konference",
+    "description": "195 národů se dohodlo na snížení emisí uhlíkových látek.",
+    "category": "politics",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "klima",
+      "ekologie",
+      "mezinárodní vztahy"
+    ],
+    "people": [],
+    "places": [
+      "Paříž"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2015,
+    "year_end": null,
+    "title": "Vypuknutí migrační krize",
+    "description": "Miliony uprchlíků z Blízkého východu a Afriky míří do Evropy.",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "migrace",
+      "krize",
+      "politika"
+    ],
+    "people": [],
+    "places": [
+      "Evropa",
+      "Blízký východ",
+      "Afrika"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2015,
+    "year_end": null,
+    "title": "Nalezena voda na Marsu",
+    "description": "NASA oznámila objev tekoucí vody na Marsu.",
+    "category": "science",
+    "region": "Vesmír",
+    "importance": 3,
+    "tags": [
+      "kosmonautika",
+      "věda",
+      "objev"
+    ],
+    "people": [],
+    "places": [
+      "Mars"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2015,
+    "year_end": null,
+    "title": "V Číně končí politika jednoho dítěte",
+    "description": "Čína ukončuje svou dlouholetou politiku jednoho dítěte.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "demografie",
+      "politika",
+      "práva"
+    ],
+    "people": [],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2017,
+    "year_end": null,
+    "title": "Celosvětové hnutí 'MeToo'",
+    "description": "Skandály sexuálního obtěžování v USA startují celosvětové hnutí 'MeToo'.",
+    "category": "culture",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "společnost",
+      "lidská práva",
+      "kultura"
+    ],
+    "people": [],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2018,
+    "year_end": null,
+    "title": "Demonstrace 'Žlutých vest' ve Francii",
+    "description": "Největší protesty ve Francii od roku 1968.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "protesty",
+      "politika",
+      "společnost"
+    ],
+    "people": [],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2018,
+    "year_end": null,
+    "title": "Saúdská Arábie povoluje ženám řídit",
+    "description": "Historické rozhodnutí v Saúdské Arábii, které dává ženám právo řídit automobil.",
+    "category": "culture",
+    "region": "Saúdská Arábie",
+    "importance": 2,
+    "tags": [
+      "ženská práva",
+      "společnost",
+      "reforma"
+    ],
+    "people": [],
+    "places": [
+      "Saúdská Arábie"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2019,
+    "year_end": null,
+    "title": "Požár katedrály Notre Dame v Paříži",
+    "description": "Velký požár poškozuje historickou katedrálu Notre Dame v Paříži.",
+    "category": "culture",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "kultura",
+      "architektura",
+      "katastrofa"
+    ],
+    "people": [],
+    "places": [
+      "Paříž",
+      "Notre Dame"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2020,
+    "year_end": null,
+    "title": "Pandemie COVID-19 začíná",
+    "description": "Počátek celosvětové pandemie koronaviru SARS-CoV-2 v Wu-Chanu v Číně.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "pandemie",
+      "zdraví",
+      "nemoc"
+    ],
+    "people": [],
+    "places": [
+      "Wu-Chan",
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2020,
+    "year_end": null,
+    "title": "Vznik Vetnamských a Spojených států válečných",
+    "description": "Doslovný překlad z infografiky. Znění je neobvyklé, pravděpodobně se týká eskalace napětí mezi USA a Čínou/Vietnamem.",
+    "category": "politics",
+    "region": "Svět",
+    "importance": 1,
+    "tags": [
+      "politika",
+      "konflikt",
+      "mezinárodní vztahy"
+    ],
+    "people": [],
+    "places": [
+      "Vietnam",
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2020,
+    "year_end": null,
+    "title": "Založena a poprava USA politiky Black Lives Matter",
+    "description": "Doslovný překlad z infografiky. Znění je velmi neobvyklé a pravděpodobně nesprávné; mohlo by se jednat o 'Založeno hnutí Black Lives Matter a debata o USA politice'.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "lidská práva",
+      "protesty",
+      "společnost"
+    ],
+    "people": [],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2020,
+    "year_end": null,
+    "title": "Celosvětová recese způsobená pandemií",
+    "description": "Ekonomická recese v důsledku pandemie COVID-19.",
+    "category": "economics",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "ekonomika",
+      "recese",
+      "pandemie"
+    ],
+    "people": [],
+    "places": [
+      "Svět"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "Útok na Kongres USA příznivci Donalda Trumpa",
+    "description": "Příznivci bývalého prezidenta Trumpa zaútočili na Kapitol USA.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "politika",
+      "protesty",
+      "demokracie"
+    ],
+    "people": [
+      "Donald Trump"
+    ],
+    "places": [
+      "Washington, D.C."
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "První pohyblivý let na Marsu (helikoptéra Ingenuity)",
+    "description": "První kontrolovaný let motorového letadla na jiné planetě.",
+    "category": "science",
+    "region": "Vesmír",
+    "importance": 3,
+    "tags": [
+      "kosmonautika",
+      "věda",
+      "objev"
+    ],
+    "people": [],
+    "places": [
+      "Mars"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "Čína startuje a udržuje svůj vlastní vesmírnou stanici",
+    "description": "Čína zahájila budování své modulární vesmírné stanice Tiangong.",
+    "category": "science",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "kosmonautika",
+      "věda",
+      "vesmír"
+    ],
+    "people": [],
+    "places": [
+      "Vesmír"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "Zadáno uzbrojaný migranti Běloruským prez. Alexandrem Lukašenkem",
+    "description": "Doslovný překlad z infografiky. Znění je neobvyklé, pravděpodobně se týká role Běloruska v podpoře migrační krize na hranicích EU.",
+    "category": "politics",
+    "region": "Bělorusko",
+    "importance": 3,
+    "tags": [
+      "migrace",
+      "politika",
+      "mezinárodní vztahy"
+    ],
+    "people": [
+      "Alexandr Lukašenko"
+    ],
+    "places": [
+      "Bělorusko"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "První evidence exoplanety (planety podobné naší) mimo galaxii",
+    "description": "Pravděpodobně se týká objevu exoplanet nebo exoplanetárních systémů mimo Mléčnou dráhu.",
+    "category": "science",
+    "region": "Vesmír",
+    "importance": 3,
+    "tags": [
+      "astronomie",
+      "věda",
+      "objev"
+    ],
+    "people": [],
+    "places": [
+      "Vesmír"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "Záplavy a požáry spojené s rekordními teplotami",
+    "description": "Přírodní katastrofy (záplavy a požáry) v Severní Americe a Evropě, spojované s klimatickými změnami.",
+    "category": "science",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "klima",
+      "katastrofa",
+      "přírodní pohroma"
+    ],
+    "people": [],
+    "places": [
+      "Severní Amerika",
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "Ohlášení turismu do vesmíru",
+    "description": "Zahájení komerčních letů s vesmírnými turisty.",
+    "category": "discovery",
+    "region": "Svět",
+    "importance": 2,
+    "tags": [
+      "turismus",
+      "vesmír",
+      "technologie"
+    ],
+    "people": [],
+    "places": [
+      "Vesmír"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "Klimatická konference v Glasgow slibuje snižování energie",
+    "description": "Závazky ke snižování emisí a přechodu na zelenou energii na konferenci COP26.",
+    "category": "politics",
+    "region": "Svět",
+    "importance": 3,
+    "tags": [
+      "klima",
+      "ekologie",
+      "mezinárodní vztahy"
+    ],
+    "people": [],
+    "places": [
+      "Glasgow"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  },
+  {
+    "year": 2021,
+    "year_end": null,
+    "title": "Britský anti-testní test - úspěšně testován již nepřetržitého satelitu ze země, spouští debatu o ozbrojování vesmíru",
+    "description": "Doslovný překlad z infografiky. Znění je velmi garbled; zřejmě se týká testování protisatelitních zbraní a související debaty o militarizaci vesmíru.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 2,
+    "tags": [
+      "vesmír",
+      "zbrojení",
+      "technologie"
+    ],
+    "people": [],
+    "places": [
+      "Vesmír"
+    ],
+    "bible_refs": [],
+    "source_page": "8L"
+  }
+]

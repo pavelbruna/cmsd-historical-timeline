@@ -1,1 +1,3487 @@
-[]
+[
+  {
+    "year": 1290,
+    "year_end": null,
+    "title": "Vynález kompasu",
+    "description": "Kompas přenesen Araby z Číny do Evropy.",
+    "category": "science/discovery",
+    "region": "Evropa/Asie",
+    "importance": 4,
+    "tags": [
+      "kompas",
+      "vynález",
+      "navigace",
+      "Čína",
+      "Arabové"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1320,
+    "year_end": null,
+    "title": "Vynález střelného prachu v Německu",
+    "description": "Vynalezen v Německu Schwartzem.",
+    "category": "science/war",
+    "region": "Německo",
+    "importance": 4,
+    "tags": [
+      "střelný prach",
+      "vynález",
+      "Schwarts",
+      "zbraň"
+    ],
+    "people": [],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1346,
+    "year_end": null,
+    "title": "První použití vzduchovek a mušket v bitvě u Crécy",
+    "description": "Poprvé použity v bitvě u Crécy.",
+    "category": "war/science",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "bitva",
+      "Crécy",
+      "zbraně",
+      "muškety"
+    ],
+    "people": [],
+    "places": [
+      "Crécy"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1400,
+    "year_end": null,
+    "title": "Vynalezení orloje",
+    "description": "Vynalezen orloj.",
+    "category": "science/culture",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "orloj",
+      "vynález",
+      "časomíra"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1422,
+    "year_end": null,
+    "title": "Humpy běžně používány v Anglii",
+    "description": "Humpy (malé přesýpací hodiny) běžně používány v Anglii.",
+    "category": "culture/science",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "humpy",
+      "hodiny"
+    ],
+    "people": [],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": -1115,
+    "year_end": null,
+    "title": "První plavba v Číně",
+    "description": "Předpokládá se první plavba na lodi v Číně.",
+    "category": "discovery",
+    "region": "Čína",
+    "importance": 2,
+    "tags": [
+      "plavba",
+      "Čína",
+      "historie"
+    ],
+    "people": [],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1302,
+    "year_end": null,
+    "title": "Flavio Gioia vynalezl kompas pro námořní použití",
+    "description": "Vynalezen kompas pro námořní použití Flaviem Gioiou.",
+    "category": "science/discovery",
+    "region": "Itálie",
+    "importance": 3,
+    "tags": [
+      "kompas",
+      "vynález",
+      "Flavio Gioia",
+      "námořnictví"
+    ],
+    "people": [
+      "Flavio Gioia"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1348,
+    "year_end": null,
+    "title": "Nejstarší známé hodiny",
+    "description": "Nejstarší známé hodiny vyrobeny 1348, nyní na hradě v Doveru.",
+    "category": "science/culture",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "hodiny",
+      "Dover",
+      "vynález"
+    ],
+    "people": [],
+    "places": [
+      "Dover Castle"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1392,
+    "year_end": null,
+    "title": "Vynález hracích karet",
+    "description": "Karty vynalezeny ve Francii.",
+    "category": "culture",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "karty",
+      "vynález",
+      "Francie"
+    ],
+    "people": [],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Kolumbus a jeho vejce",
+    "description": "Kryštof Kolumbus se svým objevem Ameriky.",
+    "category": "discovery",
+    "region": "Amerika",
+    "importance": 5,
+    "tags": [
+      "Kolumbus",
+      "Amerika",
+      "objev",
+      "plavba"
+    ],
+    "people": [
+      "Kryštof Kolumbus"
+    ],
+    "places": [
+      "Amerika"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1378,
+    "year_end": null,
+    "title": "První použití děla",
+    "description": "Dělo poprvé použito v Gibraltaru. Francouzi při dobývání Pzy 1338. Edward III. proti Filipu VI. u Crécy 1346, kde zbrojí, vrhají koule, používali Číňané i krabové. Byli jako děla.",
+    "category": "war/science",
+    "region": "Evropa/Asie",
+    "importance": 3,
+    "tags": [
+      "dělo",
+      "zbraň",
+      "Gibraltar",
+      "Crécy"
+    ],
+    "people": [
+      "Edward III.",
+      "Filip VI."
+    ],
+    "places": [
+      "Gibraltar",
+      "Crécy"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1431,
+    "year_end": null,
+    "title": "Upálení Johanky z Arku",
+    "description": "Johanka z Arku upálena 31. května 1431.",
+    "category": "religion/war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "Johanka z Arku",
+      "poprava",
+      "stoletá válka"
+    ],
+    "people": [
+      "Johanka z Arku"
+    ],
+    "places": [
+      "Rouen"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1440,
+    "year_end": null,
+    "title": "Vynález knihtisku Gutenbergem",
+    "description": "První knihtisk vynalezen Johannesem Gutenbergem.",
+    "category": "science/culture",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "Gutenberg",
+      "knihtisk",
+      "vynález",
+      "tiskařský lis"
+    ],
+    "people": [
+      "Johannes Gutenberg"
+    ],
+    "places": [
+      "Mohuč"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Objevení tabáku",
+    "description": "Tabák objeven v San Domingu.",
+    "category": "discovery/culture",
+    "region": "Karibik",
+    "importance": 3,
+    "tags": [
+      "tabák",
+      "San Domingo",
+      "objev"
+    ],
+    "people": [],
+    "places": [
+      "Santo Domingo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Objevení San Salvadoru",
+    "description": "San Salvador objeven v pátek 12. října 1492.",
+    "category": "discovery",
+    "region": "Karibik",
+    "importance": 5,
+    "tags": [
+      "Kolumbus",
+      "San Salvador",
+      "objev",
+      "Amerika"
+    ],
+    "people": [
+      "Kryštof Kolumbus"
+    ],
+    "places": [
+      "San Salvador"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1473,
+    "year_end": 1543,
+    "title": "Mikuláš Koperník",
+    "description": "Astronom, teorie o oběhu nebeských těles.",
+    "category": "science",
+    "region": "Polsko",
+    "importance": 4,
+    "tags": [
+      "Koperník",
+      "astronomie",
+      "heliocentrismus"
+    ],
+    "people": [
+      "Mikuláš Koperník"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1481,
+    "year_end": null,
+    "title": "První kořská pošta",
+    "description": "Zavedena první kořská pošta.",
+    "category": "economics/communication",
+    "region": "Evropa",
+    "importance": 2,
+    "tags": [
+      "pošta",
+      "komunikace"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1324,
+    "year_end": 1384,
+    "title": "Jan Viklif",
+    "description": "Anglický reformátor, přeložil Bibli 1380.",
+    "category": "religion",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Viklif",
+      "reformatice",
+      "Bible"
+    ],
+    "people": [
+      "Jan Viklif"
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1308,
+    "year_end": null,
+    "title": "Vilém Tell",
+    "description": "Švýcarský vlastenec, legendární postava.",
+    "category": "culture/politics",
+    "region": "Švýcarsko",
+    "importance": 3,
+    "tags": [
+      "Vilém Tell",
+      "legenda",
+      "vlastenec"
+    ],
+    "people": [
+      "Vilém Tell"
+    ],
+    "places": [
+      "Švýcarsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1480,
+    "year_end": null,
+    "title": "Královna Isabela",
+    "description": "Isabela I. Kastilská, patronka Kolumbovy výpravy.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "Isabela I.",
+      "monarch",
+      "Kolumbus"
+    ],
+    "people": [
+      "Isabela I. Kastilská"
+    ],
+    "places": [
+      "Kastilie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1417,
+    "year_end": 1431,
+    "title": "Papež Martin V.",
+    "description": "Konec západního schizmatu na koncilu v Kostnici.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 4,
+    "tags": [
+      "Martin V.",
+      "papež",
+      "západní schizma",
+      "Kostnický koncil"
+    ],
+    "people": [
+      "Martin V."
+    ],
+    "places": [
+      "Kostnice"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1467,
+    "year_end": 1536,
+    "title": "Erasmus Rotterdamský",
+    "description": "Nizozemský humanistický učenec.",
+    "category": "culture/religion",
+    "region": "Nizozemí",
+    "importance": 4,
+    "tags": [
+      "Erasmus",
+      "humanismus",
+      "filosof"
+    ],
+    "people": [
+      "Erasmus Rotterdamský"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1307,
+    "year_end": 1327,
+    "title": "Vláda Edwarda II.",
+    "description": "Král Anglie, syn Edwarda I.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Edward II.",
+      "král",
+      "Anglie"
+    ],
+    "people": [
+      "Edward II."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1327,
+    "year_end": 1377,
+    "title": "Vláda Edwarda III.",
+    "description": "Král Anglie, bojoval ve Francii, vítěz u Crécy.",
+    "category": "politics/war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Edward III.",
+      "král",
+      "Anglie",
+      "stoletá válka",
+      "Crécy"
+    ],
+    "people": [
+      "Edward III."
+    ],
+    "places": [
+      "Anglie",
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1377,
+    "year_end": 1399,
+    "title": "Vláda Richarda II.",
+    "description": "Král Anglie, sesazen, za jeho vlády Vzpoura Wata Tylera (1381).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Richard II.",
+      "král",
+      "Anglie",
+      "Wat Tyler"
+    ],
+    "people": [
+      "Richard II.",
+      "Wat Tyler"
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1399,
+    "year_end": 1413,
+    "title": "Vláda Jindřicha IV. (dynastie Lancaster)",
+    "description": "První král z dynastie Lancaster.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Jindřich IV.",
+      "král",
+      "Anglie",
+      "Lancaster"
+    ],
+    "people": [
+      "Jindřich IV."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1413,
+    "year_end": 1422,
+    "title": "Vláda Jindřicha V.",
+    "description": "Král Anglie, vítěz u Azincourtu 1415.",
+    "category": "politics/war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Jindřich V.",
+      "král",
+      "Anglie",
+      "Azincourt",
+      "stoletá válka"
+    ],
+    "people": [
+      "Jindřich V."
+    ],
+    "places": [
+      "Anglie",
+      "Azincourt"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1422,
+    "year_end": 1461,
+    "title": "Vláda Jindřicha VI.",
+    "description": "Král Anglie, vojensky slabý, sesazen během Války růží.",
+    "category": "politics/war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Jindřich VI.",
+      "král",
+      "Anglie",
+      "Válka růží"
+    ],
+    "people": [
+      "Jindřich VI."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1461,
+    "year_end": 1483,
+    "title": "Vláda Edwarda IV. (dynastie York)",
+    "description": "První král z dynastie York.",
+    "category": "politics/war",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Edward IV.",
+      "král",
+      "Anglie",
+      "York",
+      "Válka růží"
+    ],
+    "people": [
+      "Edward IV."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1483,
+    "year_end": 1485,
+    "title": "Vláda Richarda III.",
+    "description": "Král Anglie, poslední král z dynastie York, padl v bitvě u Bosworthu.",
+    "category": "politics/war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Richard III.",
+      "král",
+      "Anglie",
+      "Bosworth",
+      "Válka růží"
+    ],
+    "people": [
+      "Richard III."
+    ],
+    "places": [
+      "Anglie",
+      "Bosworth Field"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1485,
+    "year_end": 1509,
+    "title": "Vláda Jindřicha VII. (dynastie Tudor)",
+    "description": "První král z dynastie Tudor, ukončil Válku růží.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Jindřich VII.",
+      "král",
+      "Anglie",
+      "Tudor"
+    ],
+    "people": [
+      "Jindřich VII."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1285,
+    "year_end": 1314,
+    "title": "Vláda Filipa IV. Krásného",
+    "description": "Král Francie, bojoval s papežem Bonifácem VIII.",
+    "category": "politics/religion",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Filip IV.",
+      "král",
+      "Francie",
+      "Avignonské zajetí"
+    ],
+    "people": [
+      "Filip IV."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1314,
+    "year_end": 1316,
+    "title": "Vláda Ludvíka X.",
+    "description": "Král Francie, syn Filipa IV.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "Ludvík X.",
+      "král",
+      "Francie"
+    ],
+    "people": [
+      "Ludvík X."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1316,
+    "year_end": 1322,
+    "title": "Vláda Filipa V.",
+    "description": "Král Francie, bratr Ludvíka X.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "Filip V.",
+      "král",
+      "Francie"
+    ],
+    "people": [
+      "Filip V."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1322,
+    "year_end": 1328,
+    "title": "Vláda Karla IV. Krásného",
+    "description": "Král Francie, bratr Filipa V., poslední z hlavní linie Kapetovců.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Karel IV.",
+      "král",
+      "Francie",
+      "Kapetovci"
+    ],
+    "people": [
+      "Karel IV."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1328,
+    "year_end": 1350,
+    "title": "Vláda Filipa VI. (dynastie Valois)",
+    "description": "První král z dynastie Valois, zahájení Stoleté války.",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Filip VI.",
+      "král",
+      "Francie",
+      "Valois",
+      "stoletá válka"
+    ],
+    "people": [
+      "Filip VI."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1350,
+    "year_end": 1364,
+    "title": "Vláda Jana II. Dobrého",
+    "description": "Král Francie, zajat Angličany v bitvě u Poitiers 1356.",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "Jan II.",
+      "král",
+      "Francie",
+      "Poitiers",
+      "stoletá válka"
+    ],
+    "people": [
+      "Jan II."
+    ],
+    "places": [
+      "Francie",
+      "Poitiers"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1364,
+    "year_end": 1380,
+    "title": "Vláda Karla V. Moudrého",
+    "description": "Král Francie, navrátil ztracená území Angličanům.",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "Karel V.",
+      "král",
+      "Francie",
+      "stoletá válka"
+    ],
+    "people": [
+      "Karel V."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1380,
+    "year_end": 1422,
+    "title": "Vláda Karla VI. Šíleného",
+    "description": "Král Francie, porážka u Azincourtu 1415.",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "Karel VI.",
+      "král",
+      "Francie",
+      "Azincourt",
+      "stoletá válka"
+    ],
+    "people": [
+      "Karel VI."
+    ],
+    "places": [
+      "Francie",
+      "Azincourt"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1422,
+    "year_end": 1461,
+    "title": "Vláda Karla VII. Vítězného",
+    "description": "Král Francie, s podporou Johanky z Arku vyhnal Angličany z Francie.",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "Karel VII.",
+      "král",
+      "Francie",
+      "Johanka z Arku",
+      "stoletá válka"
+    ],
+    "people": [
+      "Karel VII.",
+      "Johanka z Arku"
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1461,
+    "year_end": 1483,
+    "title": "Vláda Ludvíka XI. Moudrého",
+    "description": "Král Francie, sjednotil Francii.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "Ludvík XI.",
+      "král",
+      "Francie",
+      "sjednocení"
+    ],
+    "people": [
+      "Ludvík XI."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1483,
+    "year_end": 1498,
+    "title": "Vláda Karla VIII.",
+    "description": "Král Francie, iniciátor Neapolských válek (1494-1498).",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Karel VIII.",
+      "král",
+      "Francie",
+      "Neapolské války"
+    ],
+    "people": [
+      "Karel VIII."
+    ],
+    "places": [
+      "Francie",
+      "Neapol"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1347,
+    "year_end": 1378,
+    "title": "Vláda Karla IV.",
+    "description": "Císař Svaté říše římské a král český, vydal Zlatou bulu 1356.",
+    "category": "politics",
+    "region": "Svatá říše římská/Čechy",
+    "importance": 5,
+    "tags": [
+      "Karel IV.",
+      "císař",
+      "král",
+      "Čechy",
+      "Zlatá bula"
+    ],
+    "people": [
+      "Karel IV."
+    ],
+    "places": [
+      "Praha",
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1378,
+    "year_end": 1419,
+    "title": "Vláda Václava IV.",
+    "description": "Král český a římský král (do 1400).",
+    "category": "politics",
+    "region": "Čechy/Svatá říše římská",
+    "importance": 3,
+    "tags": [
+      "Václav IV.",
+      "král",
+      "Čechy"
+    ],
+    "people": [
+      "Václav IV."
+    ],
+    "places": [
+      "Čechy"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1410,
+    "year_end": 1437,
+    "title": "Vláda Zikmunda Lucemburského",
+    "description": "Císař Svaté říše římské, král český, uherský, spoluzodpovědný za upálení Jana Husa.",
+    "category": "politics/religion",
+    "region": "Svatá říše římská/Čechy/Uhry",
+    "importance": 5,
+    "tags": [
+      "Zikmund Lucemburský",
+      "císař",
+      "král",
+      "Jan Hus",
+      "Husitské války"
+    ],
+    "people": [
+      "Zikmund Lucemburský",
+      "Jan Hus"
+    ],
+    "places": [
+      "Kostnice",
+      "Čechy"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1438,
+    "year_end": 1439,
+    "title": "Vláda Albrechta II. Habsburského",
+    "description": "Král římský, český, uherský, první Habsburk na císařském trůně.",
+    "category": "politics",
+    "region": "Svatá říše římská/Čechy/Uhry/Rakousko",
+    "importance": 3,
+    "tags": [
+      "Albrecht II.",
+      "Habsburk",
+      "král"
+    ],
+    "people": [
+      "Albrecht II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1440,
+    "year_end": 1493,
+    "title": "Vláda Fridricha III.",
+    "description": "Císař Svaté říše římské, poslední korunovaný císař Říma papežem.",
+    "category": "politics",
+    "region": "Svatá říše římská/Rakousko",
+    "importance": 3,
+    "tags": [
+      "Fridrich III.",
+      "císař",
+      "Habsburk"
+    ],
+    "people": [
+      "Fridrich III."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1493,
+    "year_end": 1519,
+    "title": "Vláda Maxmiliána I.",
+    "description": "Císař Svaté říše římské, posílil postavení Habsburků.",
+    "category": "politics",
+    "region": "Svatá říše římská/Rakousko",
+    "importance": 4,
+    "tags": [
+      "Maxmilián I.",
+      "císař",
+      "Habsburk"
+    ],
+    "people": [
+      "Maxmilián I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1312,
+    "year_end": 1350,
+    "title": "Vláda Alfonse XI. Kastilského",
+    "description": "Král Kastilie, úspěšný v boji proti Granadě.",
+    "category": "politics/war",
+    "region": "Kastilie",
+    "importance": 3,
+    "tags": [
+      "Alfons XI.",
+      "král",
+      "Kastilie"
+    ],
+    "people": [
+      "Alfons XI."
+    ],
+    "places": [
+      "Kastilie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1350,
+    "year_end": 1369,
+    "title": "Vláda Petra I. Ukrutného",
+    "description": "Král Kastilie, bojoval s polobratrem Jindřichem II.",
+    "category": "politics/war",
+    "region": "Kastilie",
+    "importance": 3,
+    "tags": [
+      "Petr I.",
+      "král",
+      "Kastilie"
+    ],
+    "people": [
+      "Petr I."
+    ],
+    "places": [
+      "Kastilie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1474,
+    "year_end": 1504,
+    "title": "Vláda Isabely I. Kastilské",
+    "description": "Královna Kastilie, s Ferdinandem II. Aragonským sjednotila Španělsko a podpořila Kolumbovy objevy.",
+    "category": "politics/discovery",
+    "region": "Kastilie/Španělsko",
+    "importance": 4,
+    "tags": [
+      "Isabela I.",
+      "královna",
+      "Kastilie",
+      "sjednocení Španělska",
+      "Kolumbus"
+    ],
+    "people": [
+      "Isabela I. Kastilská",
+      "Ferdinand II. Aragonský",
+      "Kryštof Kolumbus"
+    ],
+    "places": [
+      "Kastilie",
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1479,
+    "year_end": 1516,
+    "title": "Vláda Ferdinanda II. Aragonského",
+    "description": "Král Aragonu, s Isabelou I. Kastilskou sjednotil Španělsko.",
+    "category": "politics",
+    "region": "Aragon/Španělsko",
+    "importance": 4,
+    "tags": [
+      "Ferdinand II.",
+      "král",
+      "Aragon",
+      "sjednocení Španělska"
+    ],
+    "people": [
+      "Ferdinand II. Aragonský",
+      "Isabela I. Kastilská"
+    ],
+    "places": [
+      "Aragon",
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1294,
+    "year_end": 1303,
+    "title": "Papež Bonifác VIII.",
+    "description": "Papež, bojoval s Filipem IV. Francouzským.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 3,
+    "tags": [
+      "Bonifác VIII.",
+      "papež"
+    ],
+    "people": [
+      "Bonifác VIII."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1305,
+    "year_end": 1314,
+    "title": "Papež Klement V.",
+    "description": "Papež, přemístil papežský stolec do Avignonu.",
+    "category": "religion/politics",
+    "region": "Papežský stát/Francie",
+    "importance": 3,
+    "tags": [
+      "Klement V.",
+      "papež",
+      "Avignon"
+    ],
+    "people": [
+      "Klement V."
+    ],
+    "places": [
+      "Avignon"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1378,
+    "year_end": 1389,
+    "title": "Papež Urban VI.",
+    "description": "Papež, jeho volba vedla k západnímu schizmatu.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 3,
+    "tags": [
+      "Urban VI.",
+      "papež",
+      "západní schizma"
+    ],
+    "people": [
+      "Urban VI."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1417,
+    "year_end": 1431,
+    "title": "Papež Martin V. (konec schizmatu)",
+    "description": "Papež, zvolen na koncilu v Kostnici, čímž ukončil západní schizma.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 4,
+    "tags": [
+      "Martin V.",
+      "papež",
+      "západní schizma",
+      "Kostnický koncil"
+    ],
+    "people": [
+      "Martin V."
+    ],
+    "places": [
+      "Kostnice"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1492,
+    "year_end": 1503,
+    "title": "Papež Alexandr VI.",
+    "description": "Papež z rodu Borgiů, kontroverzní postava renesance.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 4,
+    "tags": [
+      "Alexandr VI.",
+      "papež",
+      "Borgia"
+    ],
+    "people": [
+      "Alexandr VI."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1359,
+    "year_end": 1389,
+    "title": "Vláda Dmitrije Donského",
+    "description": "Velkokníže moskevský, vítěz nad Tatary v bitvě u Kulikova pole 1380.",
+    "category": "politics/war",
+    "region": "Moskevské knížectví",
+    "importance": 4,
+    "tags": [
+      "Dmitrij Donský",
+      "velkokníže",
+      "Kulikovo pole",
+      "Tataři"
+    ],
+    "people": [
+      "Dmitrij Donský"
+    ],
+    "places": [
+      "Moskva",
+      "Kulikovo pole"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1462,
+    "year_end": 1505,
+    "title": "Vláda Ivana III. Velikého",
+    "description": "Velkokníže moskevský, zakladatel ruské mocnosti, dobyl Novgorodu.",
+    "category": "politics/war",
+    "region": "Moskevské knížectví/Rusko",
+    "importance": 5,
+    "tags": [
+      "Ivan III.",
+      "velkokníže",
+      "Rusko",
+      "expanze",
+      "Novgorod"
+    ],
+    "people": [
+      "Ivan III. Veliký"
+    ],
+    "places": [
+      "Moskva",
+      "Novgorod"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1448,
+    "year_end": 1453,
+    "title": "Vláda Konstantina XI. Palaiologa",
+    "description": "Poslední byzantský císař, padl při obraně Konstantinopole.",
+    "category": "politics/war",
+    "region": "Byzantská říše",
+    "importance": 5,
+    "tags": [
+      "Konstantin XI.",
+      "císař",
+      "Byzanc",
+      "Pád Konstantinopole"
+    ],
+    "people": [
+      "Konstantin XI. Palaiologos"
+    ],
+    "places": [
+      "Konstantinopol"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1453,
+    "year_end": null,
+    "title": "Pád Konstantinopole",
+    "description": "Konstantinopol dobyta osmanskými Turky, konec Byzantské říše.",
+    "category": "war/politics",
+    "region": "Byzantská říše",
+    "importance": 5,
+    "tags": [
+      "Konstantinopol",
+      "Osmanská říše",
+      "pád",
+      "Mehmed II."
+    ],
+    "people": [
+      "Mehmed II."
+    ],
+    "places": [
+      "Konstantinopol"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1451,
+    "year_end": 1481,
+    "title": "Vláda Mehmeda II. Dobyvatele",
+    "description": "Sultán Osmanské říše, dobyvatel Konstantinopole.",
+    "category": "politics/war",
+    "region": "Osmanská říše",
+    "importance": 5,
+    "tags": [
+      "Mehmed II.",
+      "sultán",
+      "Osmanská říše",
+      "Konstantinopol"
+    ],
+    "people": [
+      "Mehmed II."
+    ],
+    "places": [
+      "Osmanská říše"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1517,
+    "year_end": null,
+    "title": "Dobytí Egypta Turky",
+    "description": "Osmanská říše dobyla Egypt a mamlúcký sultanát.",
+    "category": "war/politics",
+    "region": "Egypt/Osmanská říše",
+    "importance": 4,
+    "tags": [
+      "Egypt",
+      "Osmanská říše",
+      "dobytí",
+      "Selim I."
+    ],
+    "people": [
+      "Selim I."
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1587,
+    "year_end": 1629,
+    "title": "Vláda Abbáse I. Velikého",
+    "description": "Šáh Persie (Safíovci), modernizoval říši.",
+    "category": "politics",
+    "region": "Persie",
+    "importance": 4,
+    "tags": [
+      "Abbás I.",
+      "šáh",
+      "Persie",
+      "Safíovci"
+    ],
+    "people": [
+      "Abbás I."
+    ],
+    "places": [
+      "Persie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1526,
+    "year_end": 1707,
+    "title": "Velcí Mongolové (Mughalové)",
+    "description": "Dynastie založená Báburou, vládla Indii.",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 4,
+    "tags": [
+      "Mughalové",
+      "Indie",
+      "dynastie",
+      "Bábura"
+    ],
+    "people": [
+      "Bábura"
+    ],
+    "places": [
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1368,
+    "year_end": 1398,
+    "title": "Vláda Ču Jüan-Čanga (Hongwu)",
+    "description": "Zakladatel a první císař dynastie Ming.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "Ču Jüan-Čang",
+      "císař",
+      "Ming",
+      "Čína"
+    ],
+    "people": [
+      "Ču Jüan-Čang"
+    ],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1405,
+    "year_end": 1433,
+    "title": "Čeng-Cheovy expedice",
+    "description": "Čínský admirál, vedl námořní expedice do Indického oceánu.",
+    "category": "discovery/politics",
+    "region": "Čína/Indický oceán",
+    "importance": 4,
+    "tags": [
+      "Čeng-Che",
+      "expedice",
+      "námořnictví",
+      "Čína"
+    ],
+    "people": [
+      "Čeng-Che"
+    ],
+    "places": [
+      "Indický oceán"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1368,
+    "year_end": 1644,
+    "title": "Dynastie Ming",
+    "description": "Čínská císařská dynastie.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 5,
+    "tags": [
+      "Ming",
+      "dynastie",
+      "Čína"
+    ],
+    "people": [],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1336,
+    "year_end": 1573,
+    "title": "Šógunát Ašikaga v Japonsku",
+    "description": "Vláda šógunátu Ašikaga v Japonsku.",
+    "category": "politics",
+    "region": "Japonsko",
+    "importance": 3,
+    "tags": [
+      "šógunát",
+      "Ašikaga",
+      "Japonsko"
+    ],
+    "people": [],
+    "places": [
+      "Japonsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 10"
+  },
+  {
+    "year": 1590,
+    "year_end": null,
+    "title": "Vynález mikroskopu",
+    "description": "Vynalezen mikroskop.",
+    "category": "science/discovery",
+    "region": "Nizozemí",
+    "importance": 3,
+    "tags": [
+      "mikroskop",
+      "vynález",
+      "optika"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1473,
+    "year_end": 1543,
+    "title": "Koperníkova heliocentrická teorie",
+    "description": "Mikuláš Koperník učí pravdivou teorii o 'oběhu těles nebeských'.",
+    "category": "science",
+    "region": "Polsko",
+    "importance": 5,
+    "tags": [
+      "Koperník",
+      "astronomie",
+      "heliocentrismus",
+      "věda"
+    ],
+    "people": [
+      "Mikuláš Koperník"
+    ],
+    "places": [
+      "Polsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1581,
+    "year_end": null,
+    "title": "První pošta v Anglii",
+    "description": "Založena první poštovní služba v Anglii.",
+    "category": "economics/communication",
+    "region": "Anglie",
+    "importance": 2,
+    "tags": [
+      "pošta",
+      "Anglie",
+      "komunikace"
+    ],
+    "people": [],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1564,
+    "year_end": 1616,
+    "title": "William Shakespeare",
+    "description": "Anglický dramatik, jeho hry předčítány královně Alžbětě I.",
+    "category": "culture",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "Shakespeare",
+      "drama",
+      "literatura",
+      "Alžběta I."
+    ],
+    "people": [
+      "William Shakespeare",
+      "Alžběta I."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1483,
+    "year_end": 1546,
+    "title": "Martin Luther",
+    "description": "Německý teolog a reformátor, zakladatel protestantismu.",
+    "category": "religion",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "Martin Luther",
+      "reformace",
+      "protestantismus",
+      "teologie"
+    ],
+    "people": [
+      "Martin Luther"
+    ],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1564,
+    "year_end": 1642,
+    "title": "Galileo Galilei",
+    "description": "Italský astronom a fyzik, dalekohled 1609, proces 1633.",
+    "category": "science",
+    "region": "Itálie",
+    "importance": 5,
+    "tags": [
+      "Galileo",
+      "astronomie",
+      "dalekohled",
+      "vědecká revoluce"
+    ],
+    "people": [
+      "Galileo Galilei"
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1665,
+    "year_end": null,
+    "title": "Isaac Newton objevil zákon gravitace",
+    "description": "Sir Isaac Newton objevil zákon gravitace.",
+    "category": "science",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "Newton",
+      "gravitace",
+      "fyzika",
+      "věda"
+    ],
+    "people": [
+      "Isaac Newton"
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1736,
+    "year_end": 1819,
+    "title": "James Watt a parní stroj",
+    "description": "James Watt objevil parní stroj, což spustilo průmyslovou revoluci.",
+    "category": "science/economics",
+    "region": "Skotsko",
+    "importance": 5,
+    "tags": [
+      "Watt",
+      "parní stroj",
+      "průmyslová revoluce",
+      "vynález"
+    ],
+    "people": [
+      "James Watt"
+    ],
+    "places": [
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1783,
+    "year_end": null,
+    "title": "Montgolfierův let balónem",
+    "description": "S. Montgolfier vzlétl jako první v balónu.",
+    "category": "science/discovery",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Montgolfier",
+      "balón",
+      "letectví",
+      "vynález"
+    ],
+    "people": [
+      "Joseph-Michel Montgolfier",
+      "Jacques-Étienne Montgolfier"
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1603,
+    "year_end": 1625,
+    "title": "Vláda Jakuba I.",
+    "description": "Král Anglie a Skotska, první Stuart na anglickém trůně.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Jakub I.",
+      "král",
+      "Stuartovci"
+    ],
+    "people": [
+      "Jakub I."
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1625,
+    "year_end": 1649,
+    "title": "Vláda Karla I. a poprava",
+    "description": "Král Anglie, sesazen a popraven během anglické občanské války.",
+    "category": "politics/war",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Karel I.",
+      "král",
+      "Anglická občanská válka",
+      "poprava"
+    ],
+    "people": [
+      "Karel I."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1660,
+    "year_end": 1685,
+    "title": "Vláda Karla II. (Restaurace)",
+    "description": "Král Anglie, obnovení monarchie (Restaurace).",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Karel II.",
+      "král",
+      "Restaurace"
+    ],
+    "people": [
+      "Karel II."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1685,
+    "year_end": 1688,
+    "title": "Vláda Jakuba II. a Slavná revoluce",
+    "description": "Král Anglie, sesazen v Glorious Revolution.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Jakub II.",
+      "král",
+      "Slavná revoluce"
+    ],
+    "people": [
+      "Jakub II."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1689,
+    "year_end": 1702,
+    "title": "Vláda Viléma III. a Marie II.",
+    "description": "Společná vláda, nastoupili po Slavné revoluci.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Vilém III.",
+      "Marie II.",
+      "král",
+      "královna",
+      "Slavná revoluce"
+    ],
+    "people": [
+      "Vilém III. Oranžský",
+      "Marie II."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1702,
+    "year_end": 1714,
+    "title": "Vláda Anny",
+    "description": "Královna Velké Británie, poslední panovnice z dynastie Stuartovců.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Anna",
+      "královna",
+      "Velká Británie",
+      "Stuartovci"
+    ],
+    "people": [
+      "Anna Stuartovna"
+    ],
+    "places": [
+      "Velká Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1714,
+    "year_end": 1727,
+    "title": "Vláda Jiřího I. (dynastie Hannover)",
+    "description": "První král Velké Británie z dynastie Hannover.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "Jiří I.",
+      "král",
+      "Hannover",
+      "Velká Británie"
+    ],
+    "people": [
+      "Jiří I."
+    ],
+    "places": [
+      "Velká Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1760,
+    "year_end": 1820,
+    "title": "Vláda Jiřího III.",
+    "description": "Král Velké Británie, za jeho vlády se odehrála Americká revoluce.",
+    "category": "politics/war",
+    "region": "Velká Británie/USA",
+    "importance": 4,
+    "tags": [
+      "Jiří III.",
+      "král",
+      "Americká revoluce"
+    ],
+    "people": [
+      "Jiří III."
+    ],
+    "places": [
+      "Velká Británie",
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1837,
+    "year_end": 1901,
+    "title": "Vláda královny Viktorie",
+    "description": "Britská královna, její dlouhá vláda je známá jako Viktoriánská éra, doba rozkvětu a expanze Britského impéria.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 5,
+    "tags": [
+      "Viktorie",
+      "královna",
+      "Viktoriánská éra",
+      "Britské impérium"
+    ],
+    "people": [
+      "Královna Viktorie"
+    ],
+    "places": [
+      "Velká Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1515,
+    "year_end": 1547,
+    "title": "Vláda Františka I.",
+    "description": "Král Francie, známý svými konflikty s Karlem V.",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "František I.",
+      "král",
+      "Francie",
+      "Italské války"
+    ],
+    "people": [
+      "František I."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1589,
+    "year_end": 1610,
+    "title": "Vláda Jindřicha IV. (dynastie Bourbonů)",
+    "description": "Král Francie, první Bourbon na trůně, vydal Edikt nantský (1598).",
+    "category": "politics/religion",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "Jindřich IV.",
+      "král",
+      "Francie",
+      "Bourboni",
+      "Edikt nantský"
+    ],
+    "people": [
+      "Jindřich IV."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1643,
+    "year_end": 1715,
+    "title": "Vláda Ludvíka XIV. Krále Slunce",
+    "description": "Král Francie, symbol absolutistické monarchie, „Král Slunce“.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "Ludvík XIV.",
+      "král",
+      "Francie",
+      "absolutismus",
+      "Král Slunce"
+    ],
+    "people": [
+      "Ludvík XIV."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1774,
+    "year_end": 1792,
+    "title": "Vláda Ludvíka XVI. a Velká francouzská revoluce",
+    "description": "Poslední král Francie před revolucí, popraven.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "Ludvík XVI.",
+      "král",
+      "Francie",
+      "Francouzská revoluce",
+      "poprava"
+    ],
+    "people": [
+      "Ludvík XVI."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1789,
+    "year_end": null,
+    "title": "Francouzská revoluce",
+    "description": "Počátek Velké francouzské revoluce, pád Bastily.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "Francouzská revoluce",
+      "revoluce",
+      "Bastila"
+    ],
+    "people": [],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1804,
+    "year_end": 1815,
+    "title": "Vláda císaře Napoleona Bonaparte",
+    "description": "Císař Francouzů, vedl napoleonské války, výrazně změnil mapu Evropy.",
+    "category": "politics/war",
+    "region": "Francie/Evropa",
+    "importance": 5,
+    "tags": [
+      "Napoleon Bonaparte",
+      "císař",
+      "Francie",
+      "napoleonské války"
+    ],
+    "people": [
+      "Napoleon Bonaparte"
+    ],
+    "places": [
+      "Francie",
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1830,
+    "year_end": 1848,
+    "title": "Vláda Ludvíka Filipa",
+    "description": "Král Francouzů, tzv. Červencová monarchie.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Ludvík Filip",
+      "král",
+      "Francie",
+      "Červencová monarchie"
+    ],
+    "people": [
+      "Ludvík Filip"
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1516,
+    "year_end": 1556,
+    "title": "Vláda Karla V.",
+    "description": "Král Španělska a císař Svaté říše římské, nejmocnější panovník své doby.",
+    "category": "politics",
+    "region": "Španělsko/Svatá říše římská",
+    "importance": 5,
+    "tags": [
+      "Karel V.",
+      "král",
+      "císař",
+      "Španělsko",
+      "Habsburkové"
+    ],
+    "people": [
+      "Karel V."
+    ],
+    "places": [
+      "Španělsko",
+      "Svatá říše římská"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1556,
+    "year_end": 1598,
+    "title": "Vláda Filipa II.",
+    "description": "Král Španělska, za jeho vlády Španělsko dosáhlo vrcholu moci.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 5,
+    "tags": [
+      "Filip II.",
+      "král",
+      "Španělsko",
+      "Habsburkové"
+    ],
+    "people": [
+      "Filip II."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1833,
+    "year_end": 1868,
+    "title": "Vláda Isabely II.",
+    "description": "Královna Španělska, její vláda byla poznamenána nestabilitou.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 3,
+    "tags": [
+      "Isabela II.",
+      "královna",
+      "Španělsko"
+    ],
+    "people": [
+      "Isabela II."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1503,
+    "year_end": 1513,
+    "title": "Papež Julius II.",
+    "description": "Papež, známý jako „Válečný papež“, podporoval umění.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 4,
+    "tags": [
+      "Julius II.",
+      "papež",
+      "renesance"
+    ],
+    "people": [
+      "Julius II."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1513,
+    "year_end": 1521,
+    "title": "Papež Lev X.",
+    "description": "Papež, jeho pontifikát byl poznamenán začátkem reformace.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 4,
+    "tags": [
+      "Lev X.",
+      "papež",
+      "reformace"
+    ],
+    "people": [
+      "Lev X."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1846,
+    "year_end": 1878,
+    "title": "Papež Pius IX.",
+    "description": "Papež, nejdéle vládnoucí papež po sv. Petrovi, definoval dogma o neposkvrněném početí.",
+    "category": "religion/politics",
+    "region": "Papežský stát",
+    "importance": 3,
+    "tags": [
+      "Pius IX.",
+      "papež",
+      "Neposkvrněné početí"
+    ],
+    "people": [
+      "Pius IX."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1521,
+    "year_end": 1564,
+    "title": "Vláda Ferdinanda I.",
+    "description": "Císař Svaté říše římské a král český, uherský a chorvatský, bratr Karla V.",
+    "category": "politics",
+    "region": "Svatá říše římská/Rakousko",
+    "importance": 4,
+    "tags": [
+      "Ferdinand I.",
+      "císař",
+      "Habsburkové"
+    ],
+    "people": [
+      "Ferdinand I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1576,
+    "year_end": 1612,
+    "title": "Vláda Rudolfa II.",
+    "description": "Císař Svaté říše římské, sídlil v Praze, podporoval umění a vědu.",
+    "category": "politics/culture/science",
+    "region": "Svatá říše římská/Čechy",
+    "importance": 4,
+    "tags": [
+      "Rudolf II.",
+      "císař",
+      "Praha",
+      "umění",
+      "věda"
+    ],
+    "people": [
+      "Rudolf II."
+    ],
+    "places": [
+      "Praha"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1619,
+    "year_end": 1637,
+    "title": "Vláda Ferdinanda II.",
+    "description": "Císař Svaté říše římské, hlavní postava třicetileté války.",
+    "category": "politics/war",
+    "region": "Svatá říše římská/Rakousko",
+    "importance": 4,
+    "tags": [
+      "Ferdinand II.",
+      "císař",
+      "Třicetiletá válka"
+    ],
+    "people": [
+      "Ferdinand II."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1657,
+    "year_end": 1705,
+    "title": "Vláda Leopolda I.",
+    "description": "Císař Svaté říše římské, bojoval s Osmany a Francií.",
+    "category": "politics/war",
+    "region": "Svatá říše římská/Rakousko",
+    "importance": 4,
+    "tags": [
+      "Leopold I.",
+      "císař",
+      "Osmanské války"
+    ],
+    "people": [
+      "Leopold I."
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1740,
+    "year_end": 1780,
+    "title": "Vláda Marie Terezie",
+    "description": "Arcivévodkyně rakouská, královna uherská a česká, vedla válku o rakouské dědictví.",
+    "category": "politics/war",
+    "region": "Rakousko",
+    "importance": 5,
+    "tags": [
+      "Marie Terezie",
+      "královna",
+      "Rakousko",
+      "Válka o rakouské dědictví",
+      "reformy"
+    ],
+    "people": [
+      "Marie Terezie"
+    ],
+    "places": [
+      "Rakousko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1780,
+    "year_end": 1790,
+    "title": "Vláda Josefa II.",
+    "description": "Císař Svaté říše římské, osvícenský reformátor.",
+    "category": "politics",
+    "region": "Svatá říše římská/Rakousko",
+    "importance": 4,
+    "tags": [
+      "Josef II.",
+      "císař",
+      "reformy",
+      "osvícenství"
+    ],
+    "people": [
+      "Josef II."
+    ],
+    "places": [
+      "Rakousko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1792,
+    "year_end": 1835,
+    "title": "Vláda Františka I.",
+    "description": "Císař rakouský a poslední císař Svaté říše římské, vedl války proti Napoleonovi.",
+    "category": "politics/war",
+    "region": "Rakousko/Rakouské císařství",
+    "importance": 4,
+    "tags": [
+      "František I.",
+      "císař",
+      "Rakousko",
+      "napoleonské války"
+    ],
+    "people": [
+      "František I."
+    ],
+    "places": [
+      "Rakousko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1848,
+    "year_end": 1916,
+    "title": "Vláda Františka Josefa I.",
+    "description": "Císař rakouský a král uherský, dlouhá vláda, která skončila během první světové války.",
+    "category": "politics",
+    "region": "Rakousko-Uhersko",
+    "importance": 5,
+    "tags": [
+      "František Josef I.",
+      "císař",
+      "Rakousko-Uhersko",
+      "První světová válka"
+    ],
+    "people": [
+      "František Josef I."
+    ],
+    "places": [
+      "Rakousko-Uhersko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1640,
+    "year_end": 1688,
+    "title": "Vláda Fridricha Viléma (Velký kurfiřt)",
+    "description": "Braniborský kurfiřt, položil základy pruské moci.",
+    "category": "politics",
+    "region": "Braniborsko-Prusko",
+    "importance": 4,
+    "tags": [
+      "Fridrich Vilém",
+      "Velký kurfiřt",
+      "Prusko"
+    ],
+    "people": [
+      "Fridrich Vilém"
+    ],
+    "places": [
+      "Braniborsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1740,
+    "year_end": 1786,
+    "title": "Vláda Fridricha II. Velikého",
+    "description": "Král Pruska, vojenský génius a osvícenský panovník, rozšířil území Pruska.",
+    "category": "politics/war",
+    "region": "Prusko",
+    "importance": 5,
+    "tags": [
+      "Fridrich II. Veliký",
+      "král",
+      "Prusko",
+      "osvícenství",
+      "slezské války"
+    ],
+    "people": [
+      "Fridrich II. Veliký"
+    ],
+    "places": [
+      "Prusko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1861,
+    "year_end": 1888,
+    "title": "Vláda Viléma I. a sjednocení Německa",
+    "description": "Král Pruska a první německý císař, sjednotitel Německa.",
+    "category": "politics",
+    "region": "Prusko/Německá říše",
+    "importance": 5,
+    "tags": [
+      "Vilém I.",
+      "císař",
+      "Prusko",
+      "Německá říše",
+      "sjednocení Německa"
+    ],
+    "people": [
+      "Vilém I."
+    ],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1533,
+    "year_end": 1584,
+    "title": "Vláda Ivana IV. Hrozného",
+    "description": "První ruský car, známý svou krutostí a expanzivní politikou.",
+    "category": "politics/war",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "Ivan IV. Hrozný",
+      "car",
+      "Rusko",
+      "expanze"
+    ],
+    "people": [
+      "Ivan IV. Hrozný"
+    ],
+    "places": [
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1613,
+    "year_end": 1645,
+    "title": "Vláda Michaila I. (dynastie Romanovců)",
+    "description": "První car z dynastie Romanovců, ukončil Období smuty.",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "Michail I.",
+      "car",
+      "Romanovci",
+      "Rusko"
+    ],
+    "people": [
+      "Michail I. Fjodorovič"
+    ],
+    "places": [
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1682,
+    "year_end": 1725,
+    "title": "Vláda Petra I. Velikého",
+    "description": "Car a později císař Ruska, modernizoval zemi a rozšířil ji na velmoc.",
+    "category": "politics/culture/science",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "Petr I. Veliký",
+      "car",
+      "Rusko",
+      "modernizace",
+      "expanze"
+    ],
+    "people": [
+      "Petr I. Veliký"
+    ],
+    "places": [
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1762,
+    "year_end": 1796,
+    "title": "Vláda Kateřiny II. Veliké",
+    "description": "Císařovna Ruska, osvícenská panovnice, výrazně rozšířila území Ruska.",
+    "category": "politics/culture",
+    "region": "Rusko",
+    "importance": 5,
+    "tags": [
+      "Kateřina II. Veliká",
+      "císařovna",
+      "Rusko",
+      "osvícenství",
+      "expanze"
+    ],
+    "people": [
+      "Kateřina II. Veliká"
+    ],
+    "places": [
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1801,
+    "year_end": 1825,
+    "title": "Vláda Alexandra I.",
+    "description": "Císař Ruska, hrál klíčovou roli v porážce Napoleona.",
+    "category": "politics/war",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "Alexandr I.",
+      "císař",
+      "Rusko",
+      "napoleonské války"
+    ],
+    "people": [
+      "Alexandr I."
+    ],
+    "places": [
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1855,
+    "year_end": 1881,
+    "title": "Vláda Alexandra II.",
+    "description": "Císař Ruska, zrušil nevolnictví a provedl řadu reforem.",
+    "category": "politics/economics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "Alexandr II.",
+      "císař",
+      "Rusko",
+      "reformy",
+      "nevolnictví"
+    ],
+    "people": [
+      "Alexandr II."
+    ],
+    "places": [
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1523,
+    "year_end": 1560,
+    "title": "Vláda Gustava Vasy",
+    "description": "Král Švédska, zakladatel moderního švédského státu.",
+    "category": "politics",
+    "region": "Švédsko",
+    "importance": 4,
+    "tags": [
+      "Gustav Vasa",
+      "král",
+      "Švédsko"
+    ],
+    "people": [
+      "Gustav Vasa"
+    ],
+    "places": [
+      "Švédsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1611,
+    "year_end": 1632,
+    "title": "Vláda Gustava II. Adolfa",
+    "description": "Král Švédska, velký vojevůdce, výrazně zasáhl do třicetileté války.",
+    "category": "politics/war",
+    "region": "Švédsko",
+    "importance": 5,
+    "tags": [
+      "Gustav II. Adolf",
+      "král",
+      "Švédsko",
+      "Třicetiletá válka"
+    ],
+    "people": [
+      "Gustav II. Adolf"
+    ],
+    "places": [
+      "Švédsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1697,
+    "year_end": 1718,
+    "title": "Vláda Karla XII.",
+    "description": "Král Švédska, vedl Velkou severní válku.",
+    "category": "politics/war",
+    "region": "Švédsko",
+    "importance": 4,
+    "tags": [
+      "Karel XII.",
+      "král",
+      "Švédsko",
+      "Velká severní válka"
+    ],
+    "people": [
+      "Karel XII."
+    ],
+    "places": [
+      "Švédsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1520,
+    "year_end": 1566,
+    "title": "Vláda Süleymana I. Nádherného",
+    "description": "Nejdéle vládnoucí sultán Osmanské říše, říše dosáhla vrcholu moci.",
+    "category": "politics/war",
+    "region": "Osmanská říše",
+    "importance": 5,
+    "tags": [
+      "Süleyman I.",
+      "sultán",
+      "Osmanská říše"
+    ],
+    "people": [
+      "Süleyman I. Nádherný"
+    ],
+    "places": [
+      "Osmanská říše"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1736,
+    "year_end": 1747,
+    "title": "Vláda Nádir Šáha",
+    "description": "Šáh Persie, obnovil perskou moc.",
+    "category": "politics/war",
+    "region": "Persie",
+    "importance": 4,
+    "tags": [
+      "Nádir Šáh",
+      "šáh",
+      "Persie"
+    ],
+    "people": [
+      "Nádir Šáh"
+    ],
+    "places": [
+      "Persie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1644,
+    "year_end": 1912,
+    "title": "Dynastie Čching (Manchu)",
+    "description": "Poslední císařská dynastie Číny.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "Čching",
+      "dynastie",
+      "Čína",
+      "Manchu"
+    ],
+    "people": [],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1661,
+    "year_end": 1722,
+    "title": "Vláda císaře Kchang-si",
+    "description": "Druhý císař Čching, nejdelší vláda v čínské historii, období stability a prosperity.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "Kchang-si",
+      "císař",
+      "Čching",
+      "Čína"
+    ],
+    "people": [
+      "Kchang-si"
+    ],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1735,
+    "year_end": 1796,
+    "title": "Vláda císaře Čchien-lunga",
+    "description": "Císař Čching, za jeho vlády Čína dosáhla největšího územního rozsahu.",
+    "category": "politics",
+    "region": "Čína",
+    "importance": 4,
+    "tags": [
+      "Čchien-lung",
+      "císař",
+      "Čching",
+      "Čína"
+    ],
+    "people": [
+      "Čchien-lung"
+    ],
+    "places": [
+      "Čína"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1789,
+    "year_end": 1797,
+    "title": "Prezident George Washington",
+    "description": "První prezident Spojených států amerických.",
+    "category": "politics",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "George Washington",
+      "prezident",
+      "USA",
+      "zakladatel"
+    ],
+    "people": [
+      "George Washington"
+    ],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1861,
+    "year_end": 1865,
+    "title": "Prezident Abraham Lincoln",
+    "description": "Prezident USA během Americké občanské války, zrušil otroctví.",
+    "category": "politics/war",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "Abraham Lincoln",
+      "prezident",
+      "USA",
+      "občanská válka",
+      "otroctví"
+    ],
+    "people": [
+      "Abraham Lincoln"
+    ],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1867,
+    "year_end": null,
+    "title": "Založení Dominia Kanada",
+    "description": "Kanada se stala britským dominiem.",
+    "category": "politics",
+    "region": "Kanada",
+    "importance": 3,
+    "tags": [
+      "Kanada",
+      "dominium",
+      "Britské impérium"
+    ],
+    "people": [],
+    "places": [
+      "Kanada"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1907,
+    "year_end": null,
+    "title": "Založení Dominia Nový Zéland",
+    "description": "Nový Zéland se stal britským dominiem.",
+    "category": "politics",
+    "region": "Nový Zéland",
+    "importance": 2,
+    "tags": [
+      "Nový Zéland",
+      "dominium",
+      "Britské impérium"
+    ],
+    "people": [],
+    "places": [
+      "Nový Zéland"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1704,
+    "year_end": 1900,
+    "title": "Gibraltar pod Velkou Británií",
+    "description": "Britská kolonie.",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 2,
+    "tags": [
+      "kolonie",
+      "Britské impérium",
+      "Gibraltar"
+    ],
+    "people": [],
+    "places": [
+      "Gibraltar"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1600,
+    "year_end": 1900,
+    "title": "Indie pod Velkou Británií",
+    "description": "Kolonie Velké Británie.",
+    "category": "politics/economics",
+    "region": "Asie",
+    "importance": 4,
+    "tags": [
+      "kolonie",
+      "Britské impérium",
+      "obchod"
+    ],
+    "people": [],
+    "places": [
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1830,
+    "year_end": null,
+    "title": "Alžírsko pod Francií",
+    "description": "Francouzská kolonie.",
+    "category": "politics",
+    "region": "Afrika",
+    "importance": 3,
+    "tags": [
+      "kolonie",
+      "Francouzské impérium",
+      "Alžírsko"
+    ],
+    "people": [],
+    "places": [
+      "Alžírsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1884,
+    "year_end": null,
+    "title": "Togo pod Německem",
+    "description": "Německá kolonie.",
+    "category": "politics",
+    "region": "Afrika",
+    "importance": 1,
+    "tags": [
+      "kolonie",
+      "Německé impérium",
+      "Togo"
+    ],
+    "people": [],
+    "places": [
+      "Togo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1898,
+    "year_end": null,
+    "title": "Portoriko pod USA",
+    "description": "Území USA.",
+    "category": "politics",
+    "region": "Karibik",
+    "importance": 1,
+    "tags": [
+      "území",
+      "USA",
+      "Portoriko"
+    ],
+    "people": [],
+    "places": [
+      "Portoriko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1822,
+    "year_end": 1889,
+    "title": "Brazilské císařství",
+    "description": "Období Brazilského císařství pod Pedro II.",
+    "category": "politics",
+    "region": "Jižní Amerika",
+    "importance": 3,
+    "tags": [
+      "Brazílie",
+      "císařství",
+      "Pedro II."
+    ],
+    "people": [
+      "Pedro II."
+    ],
+    "places": [
+      "Brazílie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1829,
+    "year_end": null,
+    "title": "Nezávislost Řecka",
+    "description": "Vznik novodobého řeckého státu.",
+    "category": "politics",
+    "region": "Řecko",
+    "importance": 3,
+    "tags": [
+      "Řecko",
+      "nezávislost"
+    ],
+    "people": [],
+    "places": [
+      "Řecko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1871,
+    "year_end": null,
+    "title": "Vznik Německé říše",
+    "description": "Sjednocení Německa a založení Německé říše pod Vilémem I.",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "Německá říše",
+      "sjednocení Německa",
+      "Vilém I.",
+      "Bismarck"
+    ],
+    "people": [
+      "Vilém I.",
+      "Otto von Bismarck"
+    ],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1774,
+    "year_end": 1783,
+    "title": "Válka o nezávislost Spojených států",
+    "description": "Třináct britských kolonií se vzbouřilo, založení USA a George Washington jako první prezident 1789.",
+    "category": "war/politics",
+    "region": "USA/Velká Británie",
+    "importance": 5,
+    "tags": [
+      "Americká revoluce",
+      "nezávislost",
+      "USA",
+      "George Washington"
+    ],
+    "people": [
+      "George Washington"
+    ],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1815,
+    "year_end": 1898,
+    "title": "Otto von Bismarck",
+    "description": "Německý Železný kancléř, klíčová postava sjednocení Německa.",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "Bismarck",
+      "Německo",
+      "sjednocení Německa",
+      "kancléř"
+    ],
+    "people": [
+      "Otto von Bismarck"
+    ],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1864,
+    "year_end": 1871,
+    "title": "Rakousko-Prusko-Německá říše (Sjednocení Německa Bismarckem)",
+    "description": "Sjednocení Německa Bismarckem prostřednictvím tří válek (dánská, rakousko-pruská, francouzsko-pruská).",
+    "category": "politics/war",
+    "region": "Německo/Rakousko/Prusko",
+    "importance": 5,
+    "tags": [
+      "sjednocení Německa",
+      "Bismarck",
+      "německé války"
+    ],
+    "people": [
+      "Otto von Bismarck"
+    ],
+    "places": [
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1789,
+    "year_end": null,
+    "title": "Pád Bastily",
+    "description": "Událost, která odstartovala Velkou francouzskou revoluci.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "Bastila",
+      "Francouzská revoluce",
+      "revoluce"
+    ],
+    "people": [],
+    "places": [
+      "Paříž"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1805,
+    "year_end": null,
+    "title": "Bitva u Trafalgaru",
+    "description": "Britské námořnictvo porazilo francouzsko-španělskou flotilu.",
+    "category": "war",
+    "region": "Atlantský oceán",
+    "importance": 4,
+    "tags": [
+      "Trafalgar",
+      "námořní bitva",
+      "napoleonské války"
+    ],
+    "people": [],
+    "places": [
+      "Atlantský oceán"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1805,
+    "year_end": null,
+    "title": "Bitva u Slavkova (Austerlitz)",
+    "description": "Napoleonovo vítězství nad rakouskými a ruskými armádami.",
+    "category": "war",
+    "region": "Česko (Morava)",
+    "importance": 4,
+    "tags": [
+      "Slavkov",
+      "Austerlitz",
+      "napoleonské války",
+      "Napoleon Bonaparte"
+    ],
+    "people": [
+      "Napoleon Bonaparte"
+    ],
+    "places": [
+      "Slavkov"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1815,
+    "year_end": null,
+    "title": "Vídeňský kongres",
+    "description": "Diplomatická konference, která přetvořila Evropu po napoleonských válkách.",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "Vídeňský kongres",
+      "diplomacie",
+      "napoleonské války"
+    ],
+    "people": [],
+    "places": [
+      "Vídeň"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1870,
+    "year_end": 1871,
+    "title": "Prusko-francouzská válka",
+    "description": "Válka mezi Pruskem a Francií, která vedla ke sjednocení Německa.",
+    "category": "war/politics",
+    "region": "Francie/Německo",
+    "importance": 4,
+    "tags": [
+      "prusko-francouzská válka",
+      "sjednocení Německa"
+    ],
+    "people": [],
+    "places": [
+      "Francie",
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1815,
+    "year_end": null,
+    "title": "Bitva u Waterloo",
+    "description": "Poslední a rozhodující porážka Napoleona Bonaparte.",
+    "category": "war",
+    "region": "Belgie",
+    "importance": 5,
+    "tags": [
+      "Waterloo",
+      "napoleonské války",
+      "Napoleon Bonaparte"
+    ],
+    "people": [
+      "Napoleon Bonaparte"
+    ],
+    "places": [
+      "Waterloo"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1848,
+    "year_end": 1870,
+    "title": "Vláda Napoleona III.",
+    "description": "Prezident druhé Francouzské republiky a císař Druhého francouzského císařství.",
+    "category": "politics/war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "Napoleon III.",
+      "císař",
+      "Druhé císařství",
+      "Krymská válka"
+    ],
+    "people": [
+      "Napoleon III."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1870,
+    "year_end": 1940,
+    "title": "Třetí Francouzská republika",
+    "description": "Období Třetí Francouzské republiky.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Třetí republika",
+      "Francie"
+    ],
+    "people": [],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1848,
+    "year_end": null,
+    "title": "Revoluce 1848 v Itálii",
+    "description": "Část celoevropských revolucí, usilující o sjednocení Itálie.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 3,
+    "tags": [
+      "revoluce 1848",
+      "Itálie",
+      "Risorgimento"
+    ],
+    "people": [],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1861,
+    "year_end": null,
+    "title": "Sjednocení Itálie",
+    "description": "Vyhlášení Italského království pod Viktorem Emanuelem II.",
+    "category": "politics",
+    "region": "Itálie",
+    "importance": 5,
+    "tags": [
+      "sjednocení Itálie",
+      "Risorgimento",
+      "Viktor Emanuel II."
+    ],
+    "people": [
+      "Viktor Emanuel II."
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1861,
+    "year_end": 1865,
+    "title": "Americká občanská válka (válka Severu proti Jihu)",
+    "description": "Konflikt mezi severními a jižními státy USA o otázku otroctví a státní svrchovanosti.",
+    "category": "war",
+    "region": "USA",
+    "importance": 5,
+    "tags": [
+      "americká občanská válka",
+      "otroctví",
+      "USA"
+    ],
+    "people": [],
+    "places": [
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1810,
+    "year_end": 1825,
+    "title": "Nezávislost Latinské Ameriky",
+    "description": "Období získávání nezávislosti většiny španělských a portugalských kolonií v Latinské Americe, klíčová role Simóna Bolívara.",
+    "category": "politics",
+    "region": "Jižní Amerika",
+    "importance": 5,
+    "tags": [
+      "nezávislost",
+      "Latinská Amerika",
+      "Simón Bolívar",
+      "dekolonizace"
+    ],
+    "people": [
+      "Simón Bolívar"
+    ],
+    "places": [
+      "Jižní Amerika"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1867,
+    "year_end": null,
+    "title": "Meidži restaurace v Japonsku",
+    "description": "Konec šógunátu a rychlá modernizace Japonska.",
+    "category": "politics/culture/science",
+    "region": "Japonsko",
+    "importance": 5,
+    "tags": [
+      "Meidži restaurace",
+      "Japonsko",
+      "modernizace"
+    ],
+    "people": [],
+    "places": [
+      "Japonsko"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1853,
+    "year_end": 1856,
+    "title": "Krymská válka",
+    "description": "Válka mezi Ruskem a koalicí Osmanské říše, Francie, Velké Británie a Sardinie.",
+    "category": "war",
+    "region": "Krym",
+    "importance": 4,
+    "tags": [
+      "Krymská válka",
+      "Rusko",
+      "Osmanská říše",
+      "Francie",
+      "Velká Británie"
+    ],
+    "people": [],
+    "places": [
+      "Krym"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1877,
+    "year_end": null,
+    "title": "Vznik Britského Indického císařství",
+    "description": "Královna Viktorie prohlášena císařovnou Indie, formální vznik Britského Rádže.",
+    "category": "politics",
+    "region": "Indie",
+    "importance": 4,
+    "tags": [
+      "Indie",
+      "Britské impérium",
+      "Viktorie",
+      "kolonialismus"
+    ],
+    "people": [
+      "Královna Viktorie"
+    ],
+    "places": [
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  },
+  {
+    "year": 1800,
+    "year_end": 1900,
+    "title": "Období imperialismu",
+    "description": "Evropské mocnosti expandovaly po celém světě, rozdělení Afriky, Británie získala Kanadu, Austrálii, Nový Zéland, Indii a mnoho dalších území. Francie si přisvojila většinu západní Afriky.",
+    "category": "politics/economics",
+    "region": "Globální",
+    "importance": 5,
+    "tags": [
+      "imperialismus",
+      "kolonialismus",
+      "Afrika",
+      "Asie",
+      "Britské impérium",
+      "Francouzské impérium"
+    ],
+    "people": [],
+    "places": [
+      "Afrika",
+      "Asie",
+      "Kanada",
+      "Austrálie",
+      "Nový Zéland",
+      "Indie"
+    ],
+    "bible_refs": [],
+    "source_page": "Page 11"
+  }
+]

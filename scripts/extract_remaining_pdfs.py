@@ -155,7 +155,7 @@ def extract_remaining_pdfs():
         return
 
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('models/gemini-1.5-flash')
+    model = genai.GenerativeModel('models/gemini-2.5-flash')
 
     all_events = []
     stats = {"processed": 0, "total_events": 0, "by_pdf": {}, "errors": []}

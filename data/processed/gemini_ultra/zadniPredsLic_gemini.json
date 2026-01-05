@@ -1,1 +1,925 @@
-[]
+[
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Desatero Božích přikázání (úvodní slova)",
+    "description": "I mluvil Bůh všecka tato slova, řka: Já jsem Hospodin, tvůj Bůh, kterýž jsem tě vyvedl z země Egyptské, z domu služby.",
+    "category": "religion",
+    "region": "Sinajská poušť, Egypt",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Mojžíšův zákon",
+      "Starý zákon",
+      "Exodus",
+      "Bůh",
+      "Smlouva"
+    ],
+    "people": [
+      "Bůh",
+      "Mojžíš"
+    ],
+    "places": [
+      "Hora Sinaj",
+      "Egypt"
+    ],
+    "bible_refs": [
+      "Exodus 20:1-2"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "První přikázání (Název)",
+    "description": "Nebudeš mít jiných bohů přede mnou",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "První přikázání",
+      "Monoteismus",
+      "Boží uctívání"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:3"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "První přikázání (Detailní text)",
+    "description": "Já jsem Hospodin, tvůj Bůh, kterýž jsem tě vyvedl z země Egyptské, z domu služby. Nebudeš mít jiných bohů přede mnou.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "První přikázání",
+      "Monoteismus",
+      "Boží uctívání",
+      "Exodus"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "bible_refs": [
+      "Exodus 20:2-3"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Druhé přikázání (Název)",
+    "description": "Neučiníš sobě žádný rytý obraz",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Druhé přikázání",
+      "Modloslužba",
+      "Uctívání"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:4-6"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Druhé přikázání (Detailní text)",
+    "description": "Neučiníš si tesanou modlu ani jakékoli podobizny toho, co je nahoře na nebi nebo dole na zemi či ve vodě pod zemí. Nebudeš se jim klanět a nebudeš jim otročit, neboť já Hospodin, tvůj Bůh, jsem Bůh žárlivý, který s trestem za vinu otců na synech i na třetí a na čtvrté generaci těch, kdo mě nenávidí, ale prokazuji milosrdenství tisícům těch, kdo mě milují a zachovávají má přikázání.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Druhé přikázání",
+      "Modloslužba",
+      "Uctívání",
+      "Boží žárlivost",
+      "Boží milosrdenství"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:4-6"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Třetí přikázání (Název)",
+    "description": "Nebudeš brát jméno Boží nadarmo",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Třetí přikázání",
+      "Boží jméno",
+      "Svatost"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:7"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Třetí přikázání (Detailní text)",
+    "description": "Nebudeš brát jméno Hospodina, svého Boha, nadarmo, neboť Hospodin nenechá bez trestu toho, kdo bere jeho jméno nadarmo.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Třetí přikázání",
+      "Boží jméno",
+      "Zneužití",
+      "Trest"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:7"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Čtvrté přikázání (Název)",
+    "description": "Pamatuj na den sobotní, aby ti byl svatý",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Čtvrté přikázání",
+      "Sobota",
+      "Den odpočinku",
+      "Posvěcení"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:8-11"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Čtvrté přikázání (Detailní text)",
+    "description": "Pamatuj na sobotní den, aby sis jej posvětil. Šest dní budeš pracovat a dělat všechny své práce, ale sedmý den je sobota patřící Hospodinu, tvému Bohu. Nebudeš dělat žádnou práci ani ty ani tvůj syn ani tvá dcera, ani tvůj služebník ani tvá služebnice, ani tvé zvíře ani tvůj příchozí, který bydlí v tvých branách, protože šest dní Hospodin tvořil nebesa a zemi, moře a všechno, co je v nich, a sedmý den odpočinul. Proto Hospodin požehnal sobotní den a posvětil ho.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Čtvrté přikázání",
+      "Sobota",
+      "Den odpočinku",
+      "Stvoření",
+      "Posvěcení"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:8-11"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Páté přikázání (Název)",
+    "description": "Cti otce svého i matku svou",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Páté přikázání",
+      "Úcta k rodičům",
+      "Rodina",
+      "Dlouhověkost"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:12"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Páté přikázání (Detailní text)",
+    "description": "Cti svého otce a svou matku, aby se prodloužily tvé dny na zemi, kterou ti dává Hospodin, tvůj Bůh.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Páté přikázání",
+      "Úcta k rodičům",
+      "Požehnání",
+      "Dlouhověkost"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:12"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Šesté přikázání (Název)",
+    "description": "Nebudeš zabíjet",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Šesté přikázání",
+      "Vražda",
+      "Život",
+      "Desatero"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:13"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Šesté přikázání (Detailní text)",
+    "description": "Nebudeš vraždit.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Šesté přikázání",
+      "Vražda",
+      "Život"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:13"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Sedmé přikázání (Název)",
+    "description": "Nebudeš cizoložit",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Sedmé přikázání",
+      "Cizoložství",
+      "Manželství",
+      "Věrnost"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:14"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Sedmé přikázání (Detailní text)",
+    "description": "Nebudeš cizoložit.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Sedmé přikázání",
+      "Cizoložství",
+      "Manželství"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:14"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Osmé přikázání (Název)",
+    "description": "Nebudeš krást",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Osmé přikázání",
+      "Krádež",
+      "Vlastnictví"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:15"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Osmé přikázání (Detailní text)",
+    "description": "Nebudeš krást.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Osmé přikázání",
+      "Krádež"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:15"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Deváté přikázání (Název)",
+    "description": "Nebudeš křivě svědčit proti svému bližnímu",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Deváté přikázání",
+      "Křivé svědectví",
+      "Pravda",
+      "Spravedlnost"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:16"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Deváté přikázání (Detailní text)",
+    "description": "Nebudeš křivě svědčit proti svému bližnímu.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Deváté přikázání",
+      "Křivé svědectví",
+      "Pravda"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:16"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Desáté přikázání (Název)",
+    "description": "Nebudeš závidět",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Desáté přikázání",
+      "Závist",
+      "Žádostivost",
+      "Vlastnictví"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:17"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Desáté přikázání (Detailní text)",
+    "description": "Nebudeš dychtit po domě svého bližního. Nebudeš dychtit po ženě svého bližního ani po jeho otroku ani po jeho otrokyni ani po jeho býku ani po jeho oslu, vůbec po ničem, co patří tvému bližnímu.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 5,
+    "tags": [
+      "Desatero",
+      "Desáté přikázání",
+      "Závist",
+      "Žádostivost",
+      "Vlastnictví",
+      "Bližní"
+    ],
+    "people": [
+      "Bůh"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Exodus 20:17"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Desky Zákona (ilustrace)",
+    "description": "Kamenné desky, na které Bůh vytesal Desatero Božích přikázání. Symbol Božího zákona a smlouvy s Izraelem.",
+    "category": "religion",
+    "region": "Sinajská poušť",
+    "importance": 4,
+    "tags": [
+      "Desatero",
+      "Boží zákon",
+      "Mojžíš",
+      "Smlouva",
+      "Bible"
+    ],
+    "people": [
+      "Mojžíš"
+    ],
+    "places": [
+      "Hora Sinaj"
+    ],
+    "bible_refs": [
+      "Exodus 31:18",
+      "Exodus 32:15-16"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Truhla Smlouvy (ilustrace)",
+    "description": "Posvátná schránka, v níž byly uchovávány Desky Zákona s Desaterem přikázání. Symbol Boží přítomnosti mezi Izraelity.",
+    "category": "religion",
+    "region": "Starověký Izrael",
+    "importance": 4,
+    "tags": [
+      "Truhla Smlouvy",
+      "Archa úmluvy",
+      "Desky Zákona",
+      "Mojžíš",
+      "Smlouva",
+      "Bible"
+    ],
+    "people": [
+      "Mojžíš"
+    ],
+    "places": [
+      "Poušť Sinaj",
+      "Izrael"
+    ],
+    "bible_refs": [
+      "Exodus 25:10-22"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": -1400,
+    "year_end": null,
+    "title": "Vznik a význam Desatera Božích přikázání",
+    "description": "Takto předal Bůh svůj věčný zákon svému lidu Izraelskému, jehož součástí se stává každý věřící skrze víru v Ježíše Krista. Desatero Božích přikázání je odrazem Božího charakteru a jeho spravedlnosti. Všechna byla vepsána Božím prstem do kamenných desek, jako znamení jejich nezměnitelnosti. Bůh je dal člověku, aby se mu dobře žilo na zemi, a věřícím do srdce, na která ten stejný Bůh vpisuje ta stejná přikázání. Původní znění Desatera je zaznamenáno ve 2. knize Mojžíšově, 20. kapitole.",
+    "category": "religion",
+    "region": "Sinajská poušť, Izrael",
+    "importance": 5,
+    "tags": [
+      "Mojžíšův zákon",
+      "Smlouva",
+      "Exodus",
+      "Křesťanství",
+      "Judaismus",
+      "Boží charakter",
+      "Spravedlnost",
+      "Víra"
+    ],
+    "people": [
+      "Bůh",
+      "Mojžíš",
+      "Ježíš Kristus"
+    ],
+    "places": [
+      "Hora Sinaj"
+    ],
+    "bible_refs": [
+      "Exodus 20"
+    ],
+    "source_page": "XXXVI"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (česky)",
+    "description": "Otče náš, který jsi v nebesích, posvěť se jméno Tvé. Přijď království Tvé. Buď vůle Tvá jako v nebi, tak i na zemi. Chléb náš vezdejší dej nám dnes. A odpusť nám viny naše, jako i my odpouštíme vinníkům našim. I neuvoď nás v pokušení, ale zbav nás od zlého. Neboť Tvé jest království, i moc, i sláva na věky, Amen.",
+    "category": "religion",
+    "region": "Česko",
+    "importance": 5,
+    "tags": [
+      "Modlitba Páně",
+      "Křesťanství",
+      "Nový zákon",
+      "Ježíš",
+      "Modlitba",
+      "Čeština"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [
+      "Galilee",
+      "Judea"
+    ],
+    "bible_refs": [
+      "Matouš 6:9-13",
+      "Lukáš 11:2-4"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (francouzsky)",
+    "description": "Notre Père qui es aux cieux, ton nom soit sanctifié; ton règne vienne; ta volonté soit faite sur la terre comme le ciel. donne-nous aujourd'hui notre pain quotidien; pardonne-nous nos péchés; comme aussi nous pardonnons à ceux qui nous ont offensés; et ne nous induis point dans la tentation; mais délivre-nous du malin; car a toi appartient là règne, là puissance, et là gloire à jamais. AMEN.",
+    "category": "religion",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Francouzština",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (hebrejsky)",
+    "description": "Avinu sh’bashamayim, yitkadash sh’mecha; Tavo malkutcha; Ye’aseh r’tzonecha ba’aretz k’mo ba’shamayim. Et lachem chukenu ten lanu hayom; U’s’lach lanu et chovotenu ka’asher salachnu lachayavenu. V’al tevi’enu lidai nisayon, ki im hatzilenu me’hara. Ki l’cha hamamlacha v’hagevurah v’hatiferet l’olemei olamim. AMEN.",
+    "category": "religion",
+    "region": "Izrael",
+    "importance": 4,
+    "tags": [
+      "Modlitba Páně",
+      "Hebrejština",
+      "Křesťanství",
+      "Judaismus",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (španělsky)",
+    "description": "Padre nuestro que estas en los cielos, santificado sea tu nombre. Venga tu reino; sea hecha tu voluntad, como en el cielo, asi tambien en la tierra. Danos hoy nuestro pan cotidiano. Y perdonanos nuestras deudas como tambien nosotros perdonamos á nuestros deudores. Y no nos dejes en tentacion, mas libranos de mal; porque tuyo es el reino y la potencia y la gloria por todos los siglos. AMEN.",
+    "category": "religion",
+    "region": "Španělsko, Latinská Amerika",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Španělština",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (německy)",
+    "description": "Unser Vater in dem Himmel, Dein Name werde geheiligt. Dein Reich komme. Dein Wille geschehe auf Erden wie im Himmel. Unser täglich Brot gib uns heute. Und vergib uns unsere Schulden, wie wir unsern Schuldigen vergeben. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Üebel. Denn dein ist das Reich, und die Kraft und die Herrlichkeit in Ewigkeit. AMEN.",
+    "category": "religion",
+    "region": "Německo, Rakousko",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Němčina",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (rusky)",
+    "description": "Отче наш, иже еси на небесех! Да святится имя Твое, да приидет Царствие Твое, да будет воля Твоя, яко на небеси и на земли. Хлеб наш насущный даждь нам днесь; и остави нам долги наша, якоже и мы оставляем должником нашим; и не введи нас во искушение, но избави нас от лукавого. Ибо Твое есть Царство и сила и слава во веки. Аминь.",
+    "category": "religion",
+    "region": "Rusko",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Ruština",
+      "Křesťanství",
+      "Modlitba",
+      "Pravoslaví"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (holandsky)",
+    "description": "Onze Vader die in de Hemelen zijt, uw naam worde geheiligd. Uw Koninkrijk kome. Uw Wil geschiede gelijk in den hemel zoo ook op de aarde. Geef ons heden ons dagelijksch brood, en vergeef ons onze schulden, gelijk ook wij vergeven onzen schuldenaren, en leid ons niet in verzoeking, maar verlos ons van den booze, want uw is het Koninkrijk, de Kracht en de Heerlijkheid in de Eeuwigheid. AMEN.",
+    "category": "religion",
+    "region": "Nizozemsko",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Holandština",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (čínsky – pinyin)",
+    "description": "Wùtáng tiān fù: yuàn nǐ de míng chēng shèng. Yuàn nǐ de guó lái lín. Yuàn nǐ de zhǐyì xíng zài dì shàng, rú tóng xíng zài tiān shàng. Wùtáng tiān shàng yào gěi wǒmen rìyòng de shíwù. Kuānshù wǒmen de zuì, rú tóng wǒmen kuānshù de rén. Bùyào ràng wǒmen xiànrù shìtàn, jiù wǒmen tuōlí xié'è. Yīnwèi guó dù, quán bǐng, róngyào, quándōu shì nǐ de, zhídào yǒngyuǎn. Āmén.",
+    "category": "religion",
+    "region": "Čína",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Čínština",
+      "Křesťanství",
+      "Modlitba",
+      "Pinyin"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (švédsky)",
+    "description": "Fader vår som är i Himmelen! Hellgat warde ditt Namn! Tillkomme ditt Rike! skee din wilja, så i jordenne, som i Himlen! Gif oss i dag wårt dagliga bröd, och förlåt oss wåra skulder såsom och wi förlåta dem som oss skyldige äro, och leed oss icke in i frestelse, utan fräls oss af ondt. Ty Rike är ditt och Kraft och Härlighet i ewighet. AMEN.",
+    "category": "religion",
+    "region": "Švédsko",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Švédština",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (italsky)",
+    "description": "Padre nostro che sei ne' cieli, sia santificato il tuo nome. Il tuo regno venga. La tua volontà sia fatta in terra come in cielo. Dacci oggi il nostro pane quotidiano. Rimettici i nostri debiti come noi ancora li rimettiamo a nostri debitori. E non indurci in tentazione, ma liberaci dal maligno. Perciocché tuo è il regno, e la potenza e la gloria, in sempiterno. AMEN.",
+    "category": "religion",
+    "region": "Itálie",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Italština",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (dánsky)",
+    "description": "Vor Fader, du som er i Himlene! Helliget vorde dit Navn; komme dit Rige; Skee din Villie som i Himmelene, saa og paa Jorden. Giv os i Dag vort daglige Brød; og forlad os vor Skyld; som og indled os ikke i Fristelse, men fri os fra det Onde; thi dit er Riget, og Kraften, og Herligheden i Evighed. AMEN.",
+    "category": "religion",
+    "region": "Dánsko",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Dánština",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (latinsky)",
+    "description": "Pater noster, qui es in caelis, sanctificetur nomen tuum. Adveniat regnum tuum; fiat voluntas tua, ut in caelo, sic etiam in terra. Panem nostrum quotidianum da nobis hodie. Et remitte nobis debita nostra, sicut et nos remittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos ab illo improbo, quia tuum est regnum, et potentia, et gloria, in saecula. Amen.",
+    "category": "religion",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "Modlitba Páně",
+      "Latina",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (anglicky)",
+    "description": "Our Father, which art in heaven. Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, as it is in heaven: Give us this day our daily bread: And forgive us our trespasses, as we forgive them that trespass against us: And lead us not into temptation. but deliver us from evil. For thine is the kingdom: the power, and the glory. For ever and ever. Amen.",
+    "category": "religion",
+    "region": "Anglie, USA",
+    "importance": 3,
+    "tags": [
+      "Modlitba Páně",
+      "Angličtina",
+      "Křesťanství",
+      "Modlitba"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Modlitba Otče náš (řecky)",
+    "description": "Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς, ἁγιασθήτω τὸ ὄνομά σου. Ἐλθέτω ἡ βασιλεία σου. Γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ, καὶ ἐπὶ τῆς γῆς. Τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον. Καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν. Καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ. Ὅτι σοῦ ἐστίν ἡ βασιλεία, καὶ ἡ δύναμις, καὶ ἡ δόξα, εἰς τοὺς αἰῶνας. Ἀμήν.",
+    "category": "religion",
+    "region": "Řecko, Byzantská říše",
+    "importance": 4,
+    "tags": [
+      "Modlitba Páně",
+      "Řečtina",
+      "Křesťanství",
+      "Modlitba",
+      "Nový zákon"
+    ],
+    "people": [
+      "Ježíš Kristus"
+    ],
+    "places": [],
+    "bible_refs": [
+      "Matouš 6:9-13"
+    ],
+    "source_page": "XXXVII"
+  }
+]

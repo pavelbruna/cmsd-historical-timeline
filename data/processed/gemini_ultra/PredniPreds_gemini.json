@@ -1,1 +1,1413 @@
-[]
+[
+  {
+    "year": 1890,
+    "year_end": null,
+    "title": "Původní publikace Chronologické mapy",
+    "description": "ČASOVÁ MAPA je založena na původní viktoriánské nástěnné mapě, publikované v roce 1890. Sleduje celou historii lidstva a ukazuje, co se dělo souběžně po celém světě s ilustracemi mnoha významných událostí, objevů a významných lidí. Při zachování viktoriánského designu byl graf aktualizován a rozšířen tak, aby časový tok pokračoval do jednadvacátého století, co nejvíce do současnosti. Na zadní straně časového diagramu je velké množství dalších informací o vládcích a dynastiích různých národů.",
+    "category": "culture",
+    "region": "Svět",
+    "importance": 4,
+    "tags": [
+      "infografika",
+      "viktoriánská éra",
+      "historie",
+      "mapa"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1829,
+    "year_end": 1917,
+    "title": "Život profesora Edwarda Hulla",
+    "description": "Profesor Edward Hull, MA, LLD, FRS, byl významný geolog, narozený v Antrimu v Severním Irsku. Studoval na Trinity College v Dublinu a poté se připojil k zaměstnancům Geologické služby. V Geologické službě v Irsku, Walesu a Anglii zůstal 40 let. Byl ředitelem od roku 1869 až do svého odchodu do důchodu a byl také profesorem geologie na Royal College of Science v Dublinu. Po odchodu do důchodu se profesor Hull pustil do reprodukce grafu. Vytišten v 12 barvách, poprvé vydán ve Velké Británii v roce 1890 a aktualizován po roce 1900.",
+    "category": "science",
+    "region": "Spojené království",
+    "importance": 4,
+    "tags": [
+      "geologie",
+      "vědec",
+      "Trinity College Dublin",
+      "Geologická služba",
+      "Royal College of Science"
+    ],
+    "people": [
+      "Edward Hull"
+    ],
+    "places": [
+      "Antrim",
+      "Severní Irsko",
+      "Dublin",
+      "Wales",
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1890,
+    "year_end": null,
+    "title": "Vydání reprodukce grafu Edwarda Hulla",
+    "description": "Reprodukce grafu profesora Edwarda Hulla, vytištěná ve 12 barvách, poprvé vydána ve Velké Británii. Později aktualizována po roce 1900.",
+    "category": "culture",
+    "region": "Velká Británie",
+    "importance": 3,
+    "tags": [
+      "publikace",
+      "mapa",
+      "historie",
+      "Edward Hull"
+    ],
+    "people": [
+      "Edward Hull"
+    ],
+    "places": [
+      "Velká Británie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": -4004,
+    "year_end": null,
+    "title": "Označení staletí od stvoření",
+    "description": "Velké černé číslice nad sloupky označují staletí od stvoření (podle arcibiskupa Usshera v roce 1650).",
+    "category": "religion",
+    "region": "Svět",
+    "importance": 2,
+    "tags": [
+      "datování",
+      "Ussher",
+      "křesťanství"
+    ],
+    "people": [
+      "Arcibiskup Ussher"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1096,
+    "year_end": 1270,
+    "title": "Křížové výpravy",
+    "description": "Menší červené kříže označují křížové výpravy, probíhající v letech 1096-1270.",
+    "category": "war",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "křížové výpravy",
+      "středověk",
+      "náboženství",
+      "konflikt"
+    ],
+    "people": [],
+    "places": [
+      "Svatá země"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Velké pronásledování křesťanů během Římské říše",
+    "description": "Velké červené kříže označují období intenzivního pronásledování křesťanů v Římské říši.",
+    "category": "religion",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "pronásledování",
+      "křesťanství",
+      "římská říše",
+      "náboženský útlak"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Ekumenické církevní koncily",
+    "description": "Červené kruhy označují ekumenické církevní koncily.",
+    "category": "religion",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "církev",
+      "koncil",
+      "křesťanství",
+      "teologie"
+    ],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1461,
+    "year_end": 1483,
+    "title": "Vláda Eduarda IV. v Anglii",
+    "description": "Eduard IV., král Anglie, z dynastie Yorků.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "dynastie Yorků"
+    ],
+    "people": [
+      "Eduard IV."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1461,
+    "year_end": 1483,
+    "title": "Vláda Ludvíka XI. ve Francii",
+    "description": "Ludvík XI. Francouzský, z dynastie Valois.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "dynastie Valois"
+    ],
+    "people": [
+      "Ludvík XI."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1464,
+    "year_end": null,
+    "title": "Španělsko se sjednocuje",
+    "description": "Španělsko se sjednocuje, první jednotný král. Označuje začátek sjednoceného Španělska pod Kastilií a Aragonem.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 4,
+    "tags": [
+      "sjednocení",
+      "monarchie",
+      "Kastilie",
+      "Aragon"
+    ],
+    "people": [
+      "Ferdinand II. Aragonský",
+      "Isabela I. Kastilská"
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1467,
+    "year_end": 1536,
+    "title": "Život Erasma Rotterdamského",
+    "description": "Erasmus, významný holandský humanista, teolog a filozof.",
+    "category": "culture",
+    "region": "Holandsko",
+    "importance": 4,
+    "tags": [
+      "humanismus",
+      "teologie",
+      "filozofie",
+      "reformace"
+    ],
+    "people": [
+      "Erasmus"
+    ],
+    "places": [
+      "Rotterdam"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1475,
+    "year_end": 1481,
+    "title": "Vláda Sixta IV. jako papeže",
+    "description": "Sixtus IV., papež, podporovatel umění a věd, založil Sixtinskou kapli.",
+    "category": "religion",
+    "region": "Papežský stát",
+    "importance": 3,
+    "tags": [
+      "papežství",
+      "renesance",
+      "umění"
+    ],
+    "people": [
+      "Sixtus IV."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1483,
+    "year_end": 1485,
+    "title": "Vláda Richarda III. v Anglii",
+    "description": "Richard III., král Anglie, poslední z dynastie Yorků, padl v bitvě u Bosworthu.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "válka růží",
+      "dynastie Yorků"
+    ],
+    "people": [
+      "Richard III."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1483,
+    "year_end": 1546,
+    "title": "Život Martina Luthera",
+    "description": "Martin Luther, německý teolog a reformátor, klíčová postava protestantské reformace.",
+    "category": "religion",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "reformace",
+      "protestantismus",
+      "teologie",
+      "Luther"
+    ],
+    "people": [
+      "Martin Luther"
+    ],
+    "places": [
+      "Německo",
+      "Wittenberg"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1485,
+    "year_end": 1509,
+    "title": "Vláda Jindřicha VII. v Anglii",
+    "description": "Jindřich VII., král Anglie, první z dynastie Tudorovců, sjednotil Anglii po Válkách růží.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "monarchie",
+      "Tudorovci",
+      "válka růží"
+    ],
+    "people": [
+      "Jindřich VII."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Objevení Ameriky Kryštofem Kolumbem",
+    "description": "Kryštof Kolumbus objevil Ameriku. Označeno jako 'Kolumbus' a 'První loď k Novému Světu'.",
+    "category": "discovery",
+    "region": "Atlantik",
+    "importance": 5,
+    "tags": [
+      "zámořské objevy",
+      "Amerika",
+      "Kolumbus",
+      "expanze"
+    ],
+    "people": [
+      "Kryštof Kolumbus"
+    ],
+    "places": [
+      "Amerika"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1494,
+    "year_end": 1498,
+    "title": "Vláda Karla VIII. ve Francii",
+    "description": "Karel VIII. Francouzský, z dynastie Valois.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "monarchie",
+      "dynastie Valois"
+    ],
+    "people": [
+      "Karel VIII."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1495,
+    "year_end": 1521,
+    "title": "Vláda Lva X. jako papeže",
+    "description": "Lev X., papež, jehož pontifikát poznamenala reformace.",
+    "category": "religion",
+    "region": "Papežský stát",
+    "importance": 3,
+    "tags": [
+      "papežství",
+      "renesance",
+      "reformace"
+    ],
+    "people": [
+      "Lev X."
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1498,
+    "year_end": 1515,
+    "title": "Vláda Ludvíka XII. ve Francii",
+    "description": "Ludvík XII. Francouzský, z dynastie Valois, známý jako 'Otec lidu'.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "monarchie",
+      "dynastie Valois"
+    ],
+    "people": [
+      "Ludvík XII."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1509,
+    "year_end": 1547,
+    "title": "Vláda Jindřicha VIII. v Anglii",
+    "description": "Jindřich VIII., král Anglie, z dynastie Tudorovců, provedl anglickou reformaci a založil anglikánskou církev.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "monarchie",
+      "Tudorovci",
+      "anglická reformace",
+      "anglikánská církev"
+    ],
+    "people": [
+      "Jindřich VIII."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1513,
+    "year_end": 1521,
+    "title": "Vláda Jakuba IV. ve Skotsku",
+    "description": "Jakub IV., král Skotska, padl v bitvě u Flodden Field.",
+    "category": "politics",
+    "region": "Skotsko",
+    "importance": 2,
+    "tags": [
+      "monarchie",
+      "Skotsko"
+    ],
+    "people": [
+      "Jakub IV."
+    ],
+    "places": [
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1515,
+    "year_end": 1547,
+    "title": "Vláda Františka I. ve Francii",
+    "description": "František I. Francouzský, z dynastie Valois, známý pro podporu umění a renesance.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "dynastie Valois",
+      "renesance"
+    ],
+    "people": [
+      "František I."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1521,
+    "year_end": 1530,
+    "title": "Vláda Karla V. jako císaře Svaté říše římské a krále Španělska",
+    "description": "Karel V., císař Svaté říše římské a král Španělska, za jehož vlády proběhla reformace a války proti Osmanům.",
+    "category": "politics",
+    "region": "Svatá říše římská",
+    "importance": 5,
+    "tags": [
+      "císař",
+      "španělské impérium",
+      "reformace",
+      "habsburkové"
+    ],
+    "people": [
+      "Karel V."
+    ],
+    "places": [
+      "Svatá říše římská",
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1531,
+    "year_end": 1542,
+    "title": "Vláda Jakuba V. ve Skotsku",
+    "description": "Jakub V., král Skotska, otec Marie Stuartovny.",
+    "category": "politics",
+    "region": "Skotsko",
+    "importance": 2,
+    "tags": [
+      "monarchie",
+      "Skotsko"
+    ],
+    "people": [
+      "Jakub V."
+    ],
+    "places": [
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1534,
+    "year_end": null,
+    "title": "Založení jezuitského řádu",
+    "description": "Založení jezuitského řádu, který hrál klíčovou roli v protireformaci.",
+    "category": "religion",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "katolická církev",
+      "jezuité",
+      "protireformace"
+    ],
+    "people": [
+      "Ignác z Loyoly"
+    ],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1540,
+    "year_end": 1561,
+    "title": "Život Marie I. Tudorové v Anglii",
+    "description": "Marie I. Tudorová (královna 1553-1558), zvaná 'Krvavá Marie'.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "Tudorovci",
+      "katolicismus",
+      "pronásledování"
+    ],
+    "people": [
+      "Marie I."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1542,
+    "year_end": 1587,
+    "title": "Život Marie Stuartovny",
+    "description": "Marie Stuartovna, královna Skotska, známá pro svůj nárokovaný nárok na anglický trůn a pozdější popravu.",
+    "category": "politics",
+    "region": "Skotsko",
+    "importance": 4,
+    "tags": [
+      "monarchie",
+      "Skotsko",
+      "Tudorovci",
+      "poprava"
+    ],
+    "people": [
+      "Marie Stuartovna"
+    ],
+    "places": [
+      "Skotsko",
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1546,
+    "year_end": 1572,
+    "title": "Život Johna Knoxe",
+    "description": "John Knox, skotský reformátor, zakladatel presbyterianismu.",
+    "category": "religion",
+    "region": "Skotsko",
+    "importance": 4,
+    "tags": [
+      "reformace",
+      "presbyterianismus",
+      "Skotsko",
+      "teologie"
+    ],
+    "people": [
+      "John Knox"
+    ],
+    "places": [
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1547,
+    "year_end": 1553,
+    "title": "Vláda Eduarda VI. v Anglii",
+    "description": "Eduard VI., král Anglie, syn Jindřicha VIII., posunul Anglii k protestantismu.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "Tudorovci",
+      "protestantismus"
+    ],
+    "people": [
+      "Eduard VI."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1547,
+    "year_end": 1559,
+    "title": "Vláda Jindřicha II. ve Francii",
+    "description": "Jindřich II. Francouzský, z dynastie Valois.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "monarchie",
+      "dynastie Valois"
+    ],
+    "people": [
+      "Jindřich II."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1553,
+    "year_end": 1558,
+    "title": "Vláda Marie I. v Anglii",
+    "description": "Marie I. Tudorová, katolická královna Anglie, pokusila se zvrátit protestantskou reformaci.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "monarchie",
+      "Tudorovci",
+      "katolicismus",
+      "pronásledování"
+    ],
+    "people": [
+      "Marie I."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1556,
+    "year_end": 1598,
+    "title": "Vláda Filipa II. ve Španělsku",
+    "description": "Filip II. Španělský, král Španělska, ovládal rozsáhlé impérium, vedl protireformaci.",
+    "category": "politics",
+    "region": "Španělsko",
+    "importance": 5,
+    "tags": [
+      "monarchie",
+      "španělské impérium",
+      "protireformace",
+      "náboženské války"
+    ],
+    "people": [
+      "Filip II."
+    ],
+    "places": [
+      "Španělsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1558,
+    "year_end": 1603,
+    "title": "Vláda Alžběty I. v Anglii",
+    "description": "Alžběta I., královna Anglie, poslední z Tudorovců, známá jako 'Panenská královna', zlatý věk Anglie.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "monarchie",
+      "Tudorovci",
+      "alžbětinská éra",
+      "protestantismus"
+    ],
+    "people": [
+      "Alžběta I."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1559,
+    "year_end": 1560,
+    "title": "Vláda Františka II. ve Francii",
+    "description": "František II. Francouzský, z dynastie Valois, manžel Marie Stuartovny.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "monarchie",
+      "dynastie Valois"
+    ],
+    "people": [
+      "František II."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1560,
+    "year_end": 1574,
+    "title": "Vláda Karla IX. ve Francii",
+    "description": "Karel IX. Francouzský, z dynastie Valois, za jehož vlády došlo k Bartolomějské noci.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "dynastie Valois",
+      "náboženské války"
+    ],
+    "people": [
+      "Karel IX."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1564,
+    "year_end": 1616,
+    "title": "Život Williama Shakespeara",
+    "description": "William Shakespeare, anglický dramatik a básník, často považován za největšího spisovatele anglického jazyka.",
+    "category": "culture",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "literatura",
+      "drama",
+      "poezie",
+      "alžbětinská éra"
+    ],
+    "people": [
+      "William Shakespeare"
+    ],
+    "places": [
+      "Anglie",
+      "Stratford-upon-Avon"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1564,
+    "year_end": 1642,
+    "title": "Život Galilea Galileiho",
+    "description": "Galileo Galilei, italský astronom, fyzik a inženýr, je považován za otce moderní astronomie. Objevil dalekohled kolem roku 1600 a teploměr.",
+    "category": "science",
+    "region": "Itálie",
+    "importance": 5,
+    "tags": [
+      "astronomie",
+      "fyzika",
+      "vědec",
+      "dalekohled",
+      "teploměr"
+    ],
+    "people": [
+      "Galileo Galilei"
+    ],
+    "places": [
+      "Itálie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1566,
+    "year_end": 1625,
+    "title": "Vláda Jakuba I. v Anglii a Skotsku",
+    "description": "Jakub I., král Skotska (od 1567 jako Jakub VI.) a Anglie (od 1603), první král Anglie a Skotska z dynastie Stuartovců.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "monarchie",
+      "Stuartovci",
+      "unie korun"
+    ],
+    "people": [
+      "Jakub I."
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1572,
+    "year_end": null,
+    "title": "Bartolomějská noc",
+    "description": "Masakr hugenotů v Paříži během Bartolomějské noci.",
+    "category": "war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "náboženské války",
+      "hugenoti",
+      "masakr",
+      "Paříž"
+    ],
+    "people": [
+      "Karel IX.",
+      "Kateřina Medicejská"
+    ],
+    "places": [
+      "Paříž"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1574,
+    "year_end": 1589,
+    "title": "Vláda Jindřicha III. ve Francii",
+    "description": "Jindřich III. Francouzský, z dynastie Valois, poslední král z této dynastie.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 2,
+    "tags": [
+      "monarchie",
+      "dynastie Valois",
+      "náboženské války"
+    ],
+    "people": [
+      "Jindřich III."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1584,
+    "year_end": 1642,
+    "title": "Život Františka Bacona",
+    "description": "František Bacon, anglický filozof, státník a esejista, průkopník vědecké metody.",
+    "category": "science",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "filozofie",
+      "vědecká metoda",
+      "státník"
+    ],
+    "people": [
+      "František Bacon"
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1588,
+    "year_end": null,
+    "title": "Porážka španělské Armady",
+    "description": "Porážka španělské Armady Anglií, klíčová událost v anglické historii a posílení anglické námořní moci.",
+    "category": "war",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "námořní bitva",
+      "anglická historie",
+      "španělské impérium",
+      "Alžběta I."
+    ],
+    "people": [
+      "Alžběta I.",
+      "Filip II."
+    ],
+    "places": [
+      "Lamanšský průliv"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1589,
+    "year_end": 1610,
+    "title": "Vláda Jindřicha IV. ve Francii",
+    "description": "Jindřich IV. Francouzský, první král z dynastie Bourbonů, ukončil náboženské války Ediktem nantským.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "monarchie",
+      "Bourboni",
+      "Edikt nantský",
+      "náboženské války"
+    ],
+    "people": [
+      "Jindřich IV."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1598,
+    "year_end": null,
+    "title": "Edikt nantský",
+    "description": "Vydání Ediktu nantského, který zaručoval náboženskou svobodu hugenotům ve Francii.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "náboženská svoboda",
+      "hugenoti",
+      "Jindřich IV."
+    ],
+    "people": [
+      "Jindřich IV."
+    ],
+    "places": [
+      "Nantes"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1600,
+    "year_end": 1689,
+    "title": "Život Viléma I. Oranžského v Holandsku",
+    "description": "Vilém I. Oranžský (Princ z Oranžska, Vilém III. Oranžský se narodil 1650, zemřel 1702), vůdčí osobnost nizozemské revoluce.",
+    "category": "politics",
+    "region": "Holandsko",
+    "importance": 4,
+    "tags": [
+      "nizozemská revoluce",
+      "stadtholder"
+    ],
+    "people": [
+      "Vilém I. Oranžský"
+    ],
+    "places": [
+      "Holandsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1603,
+    "year_end": 1649,
+    "title": "Vláda Karla I. v Anglii",
+    "description": "Karel I., král Anglie, Skotska a Irska, z dynastie Stuartovců, popraven během anglické občanské války.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "monarchie",
+      "Stuartovci",
+      "anglická občanská válka",
+      "poprava"
+    ],
+    "people": [
+      "Karel I."
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko",
+      "Irsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1610,
+    "year_end": 1643,
+    "title": "Vláda Ludvíka XIII. ve Francii",
+    "description": "Ludvík XIII. Francouzský, z dynastie Bourbonů, vládl s kardinálem Richelieu.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "Bourboni",
+      "absolutismus"
+    ],
+    "people": [
+      "Ludvík XIII.",
+      "Kardinál Richelieu"
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1625,
+    "year_end": null,
+    "title": "Vzpoura princů oranžských",
+    "description": "Vzpoura proti španělské nadvládě v Nizozemí vedená princem z Oranžska.",
+    "category": "war",
+    "region": "Holandsko",
+    "importance": 3,
+    "tags": [
+      "revoluce",
+      "válka za nezávislost",
+      "Holandsko"
+    ],
+    "people": [
+      "Vilém I. Oranžský"
+    ],
+    "places": [
+      "Holandsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1635,
+    "year_end": null,
+    "title": "Založení Francouzské akademie",
+    "description": "Založení Francouzské akademie kardinálem Richelieu.",
+    "category": "culture",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "akademie",
+      "literatura",
+      "jazyk",
+      "Richelieu"
+    ],
+    "people": [
+      "Kardinál Richelieu"
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1642,
+    "year_end": 1727,
+    "title": "Život Sira Isaaca Newtona",
+    "description": "Sir Isaac Newton, anglický fyzik, matematik a astronom, objevil zákony gravitace a pohybu v roce 1666.",
+    "category": "science",
+    "region": "Anglie",
+    "importance": 5,
+    "tags": [
+      "fyzika",
+      "matematika",
+      "astronomie",
+      "gravitace",
+      "vědec"
+    ],
+    "people": [
+      "Isaac Newton"
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1643,
+    "year_end": 1715,
+    "title": "Vláda Ludvíka XIV. ve Francii",
+    "description": "Ludvík XIV. Francouzský, 'Král Slunce', z dynastie Bourbonů, symbol absolutismu.",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "monarchie",
+      "Bourboni",
+      "absolutismus",
+      "Versailles"
+    ],
+    "people": [
+      "Ludvík XIV."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1649,
+    "year_end": 1660,
+    "title": "Anglická republika (Commonwealth)",
+    "description": "Anglická republika pod vedením Olivera Cromwella po popravě Karla I.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "republika",
+      "občanská válka",
+      "Commonwealth",
+      "Cromwell"
+    ],
+    "people": [
+      "Oliver Cromwell"
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1660,
+    "year_end": null,
+    "title": "Založení Royal Society",
+    "description": "Založení Královské společnosti (Royal Society) v Anglii pro podporu vědeckého poznání.",
+    "category": "science",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "věda",
+      "vědecká instituce",
+      "Anglie"
+    ],
+    "people": [],
+    "places": [
+      "Londýn"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1660,
+    "year_end": 1685,
+    "title": "Vláda Karla II. v Anglii",
+    "description": "Karel II., král Anglie, Skotska a Irska, z dynastie Stuartovců, navrácení monarchie.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "Stuartovci",
+      "restaurace monarchie"
+    ],
+    "people": [
+      "Karel II."
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko",
+      "Irsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1670,
+    "year_end": null,
+    "title": "Založení Hudson's Bay Company",
+    "description": "Založení Hudson's Bay Company pro obchod s kožešinami v Severní Americe.",
+    "category": "economics",
+    "region": "Severní Amerika",
+    "importance": 3,
+    "tags": [
+      "obchod",
+      "kolonizace",
+      "kožešiny"
+    ],
+    "people": [],
+    "places": [
+      "Kanada"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1685,
+    "year_end": 1688,
+    "title": "Vláda Jakuba II. v Anglii",
+    "description": "Jakub II., král Anglie, Skotska a Irska, z dynastie Stuartovců, sesazen Slavnou revolucí.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "Stuartovci",
+      "Slavná revoluce"
+    ],
+    "people": [
+      "Jakub II."
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko",
+      "Irsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1688,
+    "year_end": null,
+    "title": "Slavná revoluce",
+    "description": "Slavná revoluce v Anglii, kdy byl Jakub II. sesazen a nahrazen Vilémem III. a Marií II.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "revoluce",
+      "monarchie",
+      "parlament"
+    ],
+    "people": [
+      "Jakub II.",
+      "Vilém III.",
+      "Marie II."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1689,
+    "year_end": 1702,
+    "title": "Vláda Viléma III. a Marie II. v Anglii",
+    "description": "Vilém III. Oranžský a Marie II. Stuartovna, společná vláda po Slavné revoluci, podepsali Bill of Rights.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "monarchie",
+      "Bill of Rights",
+      "parlamentarismus"
+    ],
+    "people": [
+      "Vilém III.",
+      "Marie II."
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1690,
+    "year_end": null,
+    "title": "John Locke: Esej o lidském rozumu",
+    "description": "Vydání 'Eseje o lidském rozumu' od Johna Locka, vlivné dílo osvícenství.",
+    "category": "culture",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "filozofie",
+      "osvícenství",
+      "John Locke",
+      "epistemologie"
+    ],
+    "people": [
+      "John Locke"
+    ],
+    "places": [
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1692,
+    "year_end": null,
+    "title": "Pronásledování hugenotů",
+    "description": "Pronásledování hugenotů ve Francii po zrušení Ediktu nantského, 500 000 uprchlíků.",
+    "category": "religion",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "pronásledování",
+      "hugenoti",
+      "emigrace",
+      "náboženský útlak"
+    ],
+    "people": [
+      "Ludvík XIV."
+    ],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1702,
+    "year_end": 1714,
+    "title": "Vláda Anny Stuartovny v Anglii",
+    "description": "Anna Stuartovna, královna Anglie a Skotska, poslední z dynastie Stuartovců, za její vlády došlo k Unii Anglie a Skotska.",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "monarchie",
+      "Stuartovci",
+      "unie"
+    ],
+    "people": [
+      "Anna Stuartovna"
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1704,
+    "year_end": null,
+    "title": "První noviny v Americe",
+    "description": "Vydání 'Boston News Letter' v Bostonu, USA, první pravidelně vydávané noviny v britských koloniích v Americe.",
+    "category": "culture",
+    "region": "USA",
+    "importance": 3,
+    "tags": [
+      "žurnalistika",
+      "média",
+      "koloniální Amerika"
+    ],
+    "people": [],
+    "places": [
+      "Boston",
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  },
+  {
+    "year": 1707,
+    "year_end": null,
+    "title": "Unie Anglie a Skotska",
+    "description": "Spojení Anglie a Skotska do Velké Británie.",
+    "category": "politics",
+    "region": "Velká Británie",
+    "importance": 4,
+    "tags": [
+      "unie",
+      "Velká Británie",
+      "legislativa"
+    ],
+    "people": [
+      "Anna Stuartovna"
+    ],
+    "places": [
+      "Anglie",
+      "Skotsko"
+    ],
+    "bible_refs": [],
+    "source_page": "PredniPreds"
+  }
+]

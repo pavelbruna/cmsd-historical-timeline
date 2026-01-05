@@ -1,14 +1,14 @@
 {
   "processed": 7,
-  "total_events": 0,
+  "total_events": 534,
   "by_pdf": {
-    "7L.pdf": 0,
-    "7R.pdf": 0,
-    "8L.pdf": 0,
+    "7L.pdf": 156,
+    "7R.pdf": 96,
+    "8L.pdf": 138,
     "8R.pdf": 0,
-    "PredniPreds.pdf": 0,
-    "zadniPredsLic.pdf": 0,
-    "zadniPredsRub.pdf": 0
+    "PredniPreds.pdf": 63,
+    "zadniPredsLic.pdf": 38,
+    "zadniPredsRub.pdf": 43
   },
   "errors": []
 }

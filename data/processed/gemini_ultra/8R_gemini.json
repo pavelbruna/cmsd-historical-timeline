@@ -1,1 +1,1260 @@
-[]
+[
+  {
+    "year": -4000,
+    "year_end": null,
+    "title": "Adam",
+    "description": "Podle biblické tradice stvoření prvního člověka Adama",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 5,
+    "tags": [
+      "bible",
+      "stvoření",
+      "Adam"
+    ],
+    "people": [
+      "Adam"
+    ],
+    "places": [
+      "Eden"
+    ],
+    "bible_refs": [
+      "Genesis"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -3000,
+    "year_end": null,
+    "title": "Noe a potopa",
+    "description": "Biblická potopa světa a Noemova archa podle biblického vyprávění",
+    "category": "religion",
+    "region": "Blízký východ",
+    "importance": 5,
+    "tags": [
+      "bible",
+      "potopa",
+      "Noe",
+      "archa"
+    ],
+    "people": [
+      "Noe"
+    ],
+    "places": [
+      "Ararat"
+    ],
+    "bible_refs": [
+      "Genesis"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -2000,
+    "year_end": null,
+    "title": "Abraham",
+    "description": "Abrahám jako praotec vyvolených národů podle biblické tradice",
+    "category": "religion",
+    "region": "Mezopotámie",
+    "importance": 5,
+    "tags": [
+      "bible",
+      "Abraham",
+      "smlouva"
+    ],
+    "people": [
+      "Abraham"
+    ],
+    "places": [
+      "Ur",
+      "Kanaán"
+    ],
+    "bible_refs": [
+      "Genesis"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -1500,
+    "year_end": null,
+    "title": "Mojžíš a Exodus",
+    "description": "Vyvedení Izraelitů z Egypta pod vedením Mojžíše",
+    "category": "religion",
+    "region": "Egypt",
+    "importance": 5,
+    "tags": [
+      "bible",
+      "Mojžíš",
+      "exodus",
+      "desatero"
+    ],
+    "people": [
+      "Mojžíš"
+    ],
+    "places": [
+      "Egypt",
+      "Sinaj"
+    ],
+    "bible_refs": [
+      "Exodus"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -1000,
+    "year_end": null,
+    "title": "Král David",
+    "description": "Vláda krále Davida v Izraeli a založení jeruzalémské dynastie",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 4,
+    "tags": [
+      "bible",
+      "David",
+      "král",
+      "Jeruzalém"
+    ],
+    "people": [
+      "David"
+    ],
+    "places": [
+      "Jeruzalém",
+      "Izrael"
+    ],
+    "bible_refs": [
+      "1. Samuel",
+      "2. Samuel"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -970,
+    "year_end": null,
+    "title": "Král Šalomoun",
+    "description": "Vláda krále Šalomouna a stavba prvního chrámu v Jeruzalémě",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 4,
+    "tags": [
+      "bible",
+      "Šalomoun",
+      "chrám",
+      "moudrost"
+    ],
+    "people": [
+      "Šalomoun"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "1. Králové"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -722,
+    "year_end": null,
+    "title": "Pád severního království",
+    "description": "Pád Izraelského království pod náporem Asýrie",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 3,
+    "tags": [
+      "bible",
+      "Asýrie",
+      "zajetí",
+      "Izrael"
+    ],
+    "people": [],
+    "places": [
+      "Izrael",
+      "Asýrie"
+    ],
+    "bible_refs": [
+      "2. Králové"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -586,
+    "year_end": null,
+    "title": "Babylónské zajetí",
+    "description": "Zničení Jeruzaléma a babylónské zajetí Judejců",
+    "category": "religion",
+    "region": "Babylónie",
+    "importance": 4,
+    "tags": [
+      "bible",
+      "Babylón",
+      "zajetí",
+      "chrám"
+    ],
+    "people": [
+      "Nabukadnesar"
+    ],
+    "places": [
+      "Jeruzalém",
+      "Babylón"
+    ],
+    "bible_refs": [
+      "2. Králové"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -538,
+    "year_end": null,
+    "title": "Návrat z babylónského zajetí",
+    "description": "Návrat Židů z babylónského zajetí za vlády perského krále Kýra",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 4,
+    "tags": [
+      "bible",
+      "návrat",
+      "Kýros",
+      "obnova"
+    ],
+    "people": [
+      "Kýros"
+    ],
+    "places": [
+      "Jeruzalém",
+      "Babylón"
+    ],
+    "bible_refs": [
+      "Ezdráš"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": -4,
+    "year_end": null,
+    "title": "Narození Ježíše Krista",
+    "description": "Narození Ježíše Krista v Betlémě podle křesťanské tradice",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 5,
+    "tags": [
+      "Ježíš",
+      "narození",
+      "křesťanství",
+      "Betlém"
+    ],
+    "people": [
+      "Ježíš",
+      "Marie",
+      "Josef"
+    ],
+    "places": [
+      "Betlém"
+    ],
+    "bible_refs": [
+      "Matouš",
+      "Lukáš"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": 30,
+    "year_end": null,
+    "title": "Ukřižování a vzkříšení Ježíše",
+    "description": "Ukřižování Ježíše Krista a jeho vzkříšení podle křesťanské víry",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 5,
+    "tags": [
+      "ukřižování",
+      "vzkříšení",
+      "spasení",
+      "Golgota"
+    ],
+    "people": [
+      "Ježíš",
+      "Pilát"
+    ],
+    "places": [
+      "Jeruzalém",
+      "Golgota"
+    ],
+    "bible_refs": [
+      "Matouš",
+      "Marek",
+      "Lukáš",
+      "Jan"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": 33,
+    "year_end": null,
+    "title": "Letnice",
+    "description": "Seslání Ducha svatého na apoštoly a začátek křesťanské církve",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 5,
+    "tags": [
+      "letnice",
+      "duch svatý",
+      "apoštolové",
+      "církev"
+    ],
+    "people": [
+      "Petr",
+      "apoštolové"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [
+      "Skutky"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": 50,
+    "year_end": null,
+    "title": "Apoštol Pavel",
+    "description": "Misijní cesty apoštola Pavla a šíření křesťanství",
+    "category": "religion",
+    "region": "Středomoří",
+    "importance": 4,
+    "tags": [
+      "Pavel",
+      "misie",
+      "pohanství",
+      "církev"
+    ],
+    "people": [
+      "Pavel"
+    ],
+    "places": [
+      "Damašek",
+      "Řím",
+      "Korint"
+    ],
+    "bible_refs": [
+      "Skutky",
+      "Pavlovy listy"
+    ],
+    "source_page": "8R"
+  },
+  {
+    "year": 70,
+    "year_end": null,
+    "title": "Zničení druhého chrámu",
+    "description": "Zničení druhého jeruzalémského chrámu Římany",
+    "category": "religion",
+    "region": "Palestina",
+    "importance": 4,
+    "tags": [
+      "chrám",
+      "Řím",
+      "diaspora",
+      "Titus"
+    ],
+    "people": [
+      "Titus"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 313,
+    "year_end": null,
+    "title": "Milánský edikt",
+    "description": "Konstantinův edikt o náboženské toleranci vůči křesťanství",
+    "category": "religion",
+    "region": "Římská říše",
+    "importance": 4,
+    "tags": [
+      "Konstantin",
+      "edikt",
+      "tolerance",
+      "křesťanství"
+    ],
+    "people": [
+      "Konstantin"
+    ],
+    "places": [
+      "Milán",
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 325,
+    "year_end": null,
+    "title": "Nicejský koncil",
+    "description": "První ekumenický koncil v Niceji, formulace nicejského vyznání víry",
+    "category": "religion",
+    "region": "Malá Asie",
+    "importance": 4,
+    "tags": [
+      "koncil",
+      "vyznání",
+      "ariánství",
+      "trojice"
+    ],
+    "people": [
+      "Konstantin"
+    ],
+    "places": [
+      "Nicea"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 476,
+    "year_end": null,
+    "title": "Pád západořímské říše",
+    "description": "Pád západořímské říše a konec antiky",
+    "category": "politics",
+    "region": "Západní Evropa",
+    "importance": 5,
+    "tags": [
+      "Řím",
+      "pád",
+      "barbarové",
+      "středověk"
+    ],
+    "people": [
+      "Odoaker"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 622,
+    "year_end": null,
+    "title": "Hidžra",
+    "description": "Mohamedův odchod z Mekky do Mediny, začátek muslimského kalendáře",
+    "category": "religion",
+    "region": "Arabský poloostrov",
+    "importance": 4,
+    "tags": [
+      "Mohamed",
+      "islám",
+      "hidžra",
+      "Medina"
+    ],
+    "people": [
+      "Mohamed"
+    ],
+    "places": [
+      "Mekka",
+      "Medina"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 800,
+    "year_end": null,
+    "title": "Korunovace Karla Velikého",
+    "description": "Karel Veliký korunován císařem Svaté říše římské",
+    "category": "politics",
+    "region": "Západní Evropa",
+    "importance": 4,
+    "tags": [
+      "Karel Veliký",
+      "císař",
+      "korunovace",
+      "franská říše"
+    ],
+    "people": [
+      "Karel Veliký"
+    ],
+    "places": [
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 863,
+    "year_end": null,
+    "title": "Příchod Cyrila a Metoděje",
+    "description": "Příchod slovanských apoštolů Cyrila a Metoděje na Moravu",
+    "category": "religion",
+    "region": "Morava",
+    "importance": 4,
+    "tags": [
+      "Cyril",
+      "Metoděj",
+      "hlaholice",
+      "slovanská liturgie"
+    ],
+    "people": [
+      "Cyril",
+      "Metoděj",
+      "Rastislav"
+    ],
+    "places": [
+      "Morava",
+      "Byzanc"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1054,
+    "year_end": null,
+    "title": "Velké schizma",
+    "description": "Rozdělení křesťanství na západní a východní církev",
+    "category": "religion",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "schizma",
+      "katolictví",
+      "pravoslaví",
+      "papež"
+    ],
+    "people": [
+      "papež Lev IX."
+    ],
+    "places": [
+      "Řím",
+      "Konstantinopol"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1066,
+    "year_end": null,
+    "title": "Bitva u Hastingsu",
+    "description": "Normanské dobytí Anglie, bitva u Hastingsu",
+    "category": "war",
+    "region": "Anglie",
+    "importance": 3,
+    "tags": [
+      "Normané",
+      "Anglie",
+      "bitva",
+      "Hastings"
+    ],
+    "people": [
+      "Vilém Dobyvatel",
+      "Harold"
+    ],
+    "places": [
+      "Hastings",
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1095,
+    "year_end": null,
+    "title": "První křížová výprava",
+    "description": "Vyhlášení první křížové výpravy papežem Urbanem II.",
+    "category": "war",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "křížové výpravy",
+      "Jeruzalém",
+      "papež Urban II."
+    ],
+    "people": [
+      "Urban II."
+    ],
+    "places": [
+      "Jeruzalém",
+      "Svatá země"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1099,
+    "year_end": null,
+    "title": "Dobytí Jeruzaléma křižáky",
+    "description": "Křižáci dobývají Jeruzalém během první křížové výpravy",
+    "category": "war",
+    "region": "Palestina",
+    "importance": 3,
+    "tags": [
+      "křižáci",
+      "Jeruzalém",
+      "dobytí"
+    ],
+    "people": [],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1187,
+    "year_end": null,
+    "title": "Saládin dobývá Jeruzalém",
+    "description": "Saládin znovu dobývá Jeruzalém od křižáků",
+    "category": "war",
+    "region": "Palestina",
+    "importance": 3,
+    "tags": [
+      "Saládin",
+      "Jeruzalém",
+      "muslimové"
+    ],
+    "people": [
+      "Saládin"
+    ],
+    "places": [
+      "Jeruzalém"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1215,
+    "year_end": null,
+    "title": "Magna Charta",
+    "description": "Podpis Magna Charty v Anglii, omezení královské moci",
+    "category": "politics",
+    "region": "Anglie",
+    "importance": 4,
+    "tags": [
+      "Magna Charta",
+      "práva",
+      "král Jan",
+      "šlechta"
+    ],
+    "people": [
+      "Jan Bezzemek"
+    ],
+    "places": [
+      "Anglie",
+      "Runnymede"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1337,
+    "year_end": 1453,
+    "title": "Stoletá válka",
+    "description": "Dlouhý konflikt mezi Anglií a Francií o francouzský trůn",
+    "category": "war",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "stoletá válka",
+      "Anglie",
+      "Francie",
+      "trůn"
+    ],
+    "people": [],
+    "places": [
+      "Francie",
+      "Anglie"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1347,
+    "year_end": 1351,
+    "title": "Černá smrt",
+    "description": "Pandemie moru v Evropě, vymření třetiny obyvatelstva",
+    "category": "culture",
+    "region": "Evropa",
+    "importance": 5,
+    "tags": [
+      "mor",
+      "epidemie",
+      "smrt",
+      "pandemie"
+    ],
+    "people": [],
+    "places": [
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1378,
+    "year_end": 1417,
+    "title": "Západní schizma",
+    "description": "Papež v Avignonu a Římě současně, krize papežství",
+    "category": "religion",
+    "region": "Západní Evropa",
+    "importance": 3,
+    "tags": [
+      "schizma",
+      "papež",
+      "Avignon",
+      "konciliarismus"
+    ],
+    "people": [],
+    "places": [
+      "Avignon",
+      "Řím"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1415,
+    "year_end": null,
+    "title": "Upálení Jana Husa",
+    "description": "Upálení českého reformátora Jana Husa na koncilu v Kostnici",
+    "category": "religion",
+    "region": "Čechy",
+    "importance": 4,
+    "tags": [
+      "Jan Hus",
+      "reformace",
+      "koncil",
+      "upálení"
+    ],
+    "people": [
+      "Jan Hus"
+    ],
+    "places": [
+      "Kostnice"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1419,
+    "year_end": 1436,
+    "title": "Husitské války",
+    "description": "Náboženské války v Čechách po upálení Jana Husa",
+    "category": "war",
+    "region": "Čechy",
+    "importance": 3,
+    "tags": [
+      "husité",
+      "války",
+      "reformace",
+      "kalich"
+    ],
+    "people": [
+      "Jan Žižka"
+    ],
+    "places": [
+      "Čechy"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1453,
+    "year_end": null,
+    "title": "Pád Konstantinopole",
+    "description": "Dobytí Konstantinopole Turky, konec Byzantské říše",
+    "category": "war",
+    "region": "Byzanc",
+    "importance": 4,
+    "tags": [
+      "Konstantinopol",
+      "Turci",
+      "Byzanc",
+      "pád"
+    ],
+    "people": [
+      "Mehmed II."
+    ],
+    "places": [
+      "Konstantinopol"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1455,
+    "year_end": null,
+    "title": "Gutenbergova bible",
+    "description": "Vytištění první bible pomocí pohyblivých liter",
+    "category": "discovery",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "tisk",
+      "Gutenberg",
+      "bible",
+      "knihy"
+    ],
+    "people": [
+      "Johannes Gutenberg"
+    ],
+    "places": [
+      "Mainz"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1492,
+    "year_end": null,
+    "title": "Kolumbovo objevení Ameriky",
+    "description": "Kryštof Kolumbus dosahuje břehů Ameriky",
+    "category": "discovery",
+    "region": "Amerika",
+    "importance": 5,
+    "tags": [
+      "Kolumbus",
+      "Amerika",
+      "objevy",
+      "Nový svět"
+    ],
+    "people": [
+      "Kryštof Kolumbus"
+    ],
+    "places": [
+      "Amerika",
+      "Bahamy"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1517,
+    "year_end": null,
+    "title": "Lutherovy teze",
+    "description": "Martin Luther přibíjí 95 tezí na dveře kostela ve Wittenbergu",
+    "category": "religion",
+    "region": "Německo",
+    "importance": 5,
+    "tags": [
+      "Luther",
+      "reformace",
+      "teze",
+      "protestantismus"
+    ],
+    "people": [
+      "Martin Luther"
+    ],
+    "places": [
+      "Wittenberg"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1618,
+    "year_end": 1648,
+    "title": "Třicetiletá válka",
+    "description": "Náboženský konflikt v Evropě mezi katolíky a protestanty",
+    "category": "war",
+    "region": "Evropa",
+    "importance": 4,
+    "tags": [
+      "třicetiletá válka",
+      "náboženství",
+      "protestantismus",
+      "katolictví"
+    ],
+    "people": [],
+    "places": [
+      "Svatá říše římská",
+      "Evropa"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1648,
+    "year_end": null,
+    "title": "Vestfálský mír",
+    "description": "Ukončení třicetileté války vestfálským mírem",
+    "category": "politics",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "vestfálský mír",
+      "suverenita",
+      "mír"
+    ],
+    "people": [],
+    "places": [
+      "Westfálie"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1776,
+    "year_end": null,
+    "title": "Americká nezávislost",
+    "description": "Vyhlášení nezávislosti Spojených států amerických",
+    "category": "politics",
+    "region": "Amerika",
+    "importance": 4,
+    "tags": [
+      "nezávislost",
+      "USA",
+      "revoluce",
+      "demokracie"
+    ],
+    "people": [
+      "George Washington"
+    ],
+    "places": [
+      "Amerika",
+      "Philadelphia"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1789,
+    "year_end": null,
+    "title": "Francouzská revoluce",
+    "description": "Začátek Francouzské revoluce dobytím Bastily",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 5,
+    "tags": [
+      "revoluce",
+      "Bastila",
+      "lidská práva",
+      "republika"
+    ],
+    "people": [
+      "Robespierre"
+    ],
+    "places": [
+      "Paříž",
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1804,
+    "year_end": null,
+    "title": "Napoleon císařem",
+    "description": "Napoleon Bonaparte se stává francouzským císařem",
+    "category": "politics",
+    "region": "Francie",
+    "importance": 4,
+    "tags": [
+      "Napoleon",
+      "císař",
+      "koruna",
+      "empire"
+    ],
+    "people": [
+      "Napoleon Bonaparte"
+    ],
+    "places": [
+      "Paříž"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1815,
+    "year_end": null,
+    "title": "Bitva u Waterloo",
+    "description": "Napoleonova konečná porážka u Waterloo",
+    "category": "war",
+    "region": "Belgie",
+    "importance": 3,
+    "tags": [
+      "Waterloo",
+      "Napoleon",
+      "porážka",
+      "Wellington"
+    ],
+    "people": [
+      "Napoleon",
+      "Wellington"
+    ],
+    "places": [
+      "Waterloo"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1914,
+    "year_end": 1918,
+    "title": "První světová válka",
+    "description": "Globální konflikt mezi mocnostmi Evropy a světa",
+    "category": "war",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "světová válka",
+      "zákopy",
+      "plyn",
+      "miliony mrtvých"
+    ],
+    "people": [],
+    "places": [
+      "Evropa",
+      "svět"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1917,
+    "year_end": null,
+    "title": "Říjnová revoluce",
+    "description": "Bolševická revoluce v Rusku vedená Leninem",
+    "category": "politics",
+    "region": "Rusko",
+    "importance": 4,
+    "tags": [
+      "bolševici",
+      "Lenin",
+      "revoluce",
+      "komunismus"
+    ],
+    "people": [
+      "Vladimir Lenin"
+    ],
+    "places": [
+      "Petrohrad",
+      "Rusko"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1929,
+    "year_end": null,
+    "title": "Velká hospodářská krize",
+    "description": "Krach na Wall Street a začátek světové hospodářské krize",
+    "category": "economics",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "krize",
+      "Wall Street",
+      "nezaměstnanost",
+      "deprese"
+    ],
+    "people": [],
+    "places": [
+      "New York",
+      "USA"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1939,
+    "year_end": 1945,
+    "title": "Druhá světová válka",
+    "description": "Globální konflikt mezi osou a spojenci",
+    "category": "war",
+    "region": "Svět",
+    "importance": 5,
+    "tags": [
+      "světová válka",
+      "holocaust",
+      "atomová bomba",
+      "genocida"
+    ],
+    "people": [
+      "Adolf Hitler",
+      "Winston Churchill"
+    ],
+    "places": [
+      "Evropa",
+      "Pacifik"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1945,
+    "year_end": null,
+    "title": "Atomové bomby na Japonsko",
+    "description": "Svržení atomových bomb na Hirošimu a Nagasaki",
+    "category": "war",
+    "region": "Japonsko",
+    "importance": 4,
+    "tags": [
+      "atomová bomba",
+      "Hirošima",
+      "Nagasaki",
+      "kapitulace"
+    ],
+    "people": [
+      "Harry Truman"
+    ],
+    "places": [
+      "Hirošima",
+      "Nagasaki"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1948,
+    "year_end": null,
+    "title": "Vznik státu Izrael",
+    "description": "Vyhlášení nezávislosti státu Izrael",
+    "category": "politics",
+    "region": "Blízký východ",
+    "importance": 4,
+    "tags": [
+      "Izrael",
+      "nezávislost",
+      "sionismus",
+      "Palestine"
+    ],
+    "people": [
+      "David Ben Gurion"
+    ],
+    "places": [
+      "Izrael",
+      "Palestina"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1989,
+    "year_end": null,
+    "title": "Pád Berlínské zdi",
+    "description": "Pád Berlínské zdi a začátek konce studené války",
+    "category": "politics",
+    "region": "Německo",
+    "importance": 4,
+    "tags": [
+      "Berlínská zeď",
+      "studená válka",
+      "sjednocení",
+      "svoboda"
+    ],
+    "people": [],
+    "places": [
+      "Berlín",
+      "Německo"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1991,
+    "year_end": null,
+    "title": "Rozpad SSSR",
+    "description": "Rozpad Sovětského svazu a konec studené války",
+    "category": "politics",
+    "region": "Východní Evropa",
+    "importance": 4,
+    "tags": [
+      "SSSR",
+      "rozpad",
+      "Gorbačov",
+      "studená válka"
+    ],
+    "people": [
+      "Michail Gorbačov"
+    ],
+    "places": [
+      "Moskva",
+      "SSSR"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 2001,
+    "year_end": null,
+    "title": "Útok na WTC",
+    "description": "Teroristické útoky na Světové obchodní centrum v New Yorku",
+    "category": "war",
+    "region": "USA",
+    "importance": 4,
+    "tags": [
+      "terorismus",
+      "11. září",
+      "WTC",
+      "Al-Káida"
+    ],
+    "people": [],
+    "places": [
+      "New York",
+      "Washington"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1337,
+    "year_end": null,
+    "title": "Začátek stoleté války",
+    "description": "Počátek dlouhého konfliktu mezi Anglií a Francií",
+    "category": "war",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": [
+      "stoletá válka",
+      "počátek"
+    ],
+    "people": [
+      "Eduard III."
+    ],
+    "places": [
+      "Anglie",
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1453,
+    "year_end": null,
+    "title": "Konec stoleté války",
+    "description": "Ukončení stoleté války vítězstvím Francie",
+    "category": "war",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "stoletá válka",
+      "konec",
+      "vítězství"
+    ],
+    "people": [],
+    "places": [
+      "Francie"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  },
+  {
+    "year": 1429,
+    "year_end": null,
+    "title": "Johanka z Arku",
+    "description": "Johanka z Arku osvobozuje Orléans během stoleté války",
+    "category": "war",
+    "region": "Francie",
+    "importance": 3,
+    "tags": [
+      "Johanka z Arku",
+      "Orléans",
+      "osvobození"
+    ],
+    "people": [
+      "Johanka z Arku"
+    ],
+    "places": [
+      "Orléans"
+    ],
+    "bible_refs": [],
+    "source_page": "8R"
+  }
+]

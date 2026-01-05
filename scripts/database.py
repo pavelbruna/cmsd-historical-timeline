@@ -14,7 +14,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).parent.parent
 DB_PATH = PROJECT_ROOT / "data" / "database" / "cmsd.db"
 SCHEMA_PATH = PROJECT_ROOT / "data" / "database" / "schema.sql"
-EVENTS_JSON = PROJECT_ROOT / "data" / "processed" / "final_with_gemini_ultra.json"
+EVENTS_JSON = PROJECT_ROOT / "data" / "processed" / "final_complete_all_19_pdfs.json"
 CSV_OUTPUT = PROJECT_ROOT / "data" / "processed"
 
 

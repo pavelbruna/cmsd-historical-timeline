@@ -7,24 +7,9 @@
     "category": "culture",
     "region": "Británie",
     "importance": 3,
-    "tags": [
-      "Keltové",
-      "Galové",
-      "Britové",
-      "druidismus",
-      "pravěké kultury"
-    ],
-    "people": [
-      "Hérodotos",
-      "Plinius",
-      "Aristoteles"
-    ],
-    "places": [
-      "Británie",
-      "Irsko",
-      "Nový Zéland",
-      "Albion"
-    ],
+    "tags": ["Keltové", "Galové", "Britové", "druidismus", "pravěké kultury"],
+    "people": ["Hérodotos", "Plinius", "Aristoteles"],
+    "places": ["Británie", "Irsko", "Nový Zéland", "Albion"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -36,20 +21,37 @@
     "category": "politics",
     "region": "Británie",
     "importance": 4,
-    "tags": [
-      "Řím",
-      "Británie",
-      "Piktové",
-      "Skotové",
-      "Sasové",
-      "heptarchie"
-    ],
-    "people": [
-      "Egbert"
-    ],
-    "places": [
-      "Británie"
-    ],
+    "tags": ["Řím", "Británie", "Piktové", "Skotové", "Sasové", "heptarchie"],
+    "people": ["Egbert"],
+    "places": ["Británie"],
+    "bible_refs": [],
+    "source_page": "XII L top"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "KELTSRKÉ DOMY",
+    "description": "Ilustrace keltských obydlí.",
+    "category": "culture",
+    "region": "Británie",
+    "importance": 1,
+    "tags": ["Keltové", "architektura"],
+    "people": [],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XII L top"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "STAROVĚCÍ DIVOČÍ BRITOVÉ KOSMAS",
+    "description": "Ilustrace starověkých Britů a jejich vozu.",
+    "category": "culture",
+    "region": "Británie",
+    "importance": 1,
+    "tags": ["Britové", "válečný vůz"],
+    "people": [],
+    "places": [],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -61,18 +63,9 @@
     "category": "religion",
     "region": "Konstantinopol",
     "importance": 3,
-    "tags": [
-      "křesťanství",
-      "koncil",
-      "hereze",
-      "Nestoriánství"
-    ],
-    "people": [
-      "Nestorius"
-    ],
-    "places": [
-      "Efes"
-    ],
+    "tags": ["křesťanství", "koncil", "hereze", "Nestoriánství"],
+    "people": ["Nestorius"],
+    "places": ["Efes"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -84,13 +77,8 @@
     "category": "religion",
     "region": "Alexandrie",
     "importance": 2,
-    "tags": [
-      "křesťanství",
-      "teologie"
-    ],
-    "people": [
-      "Svatý Cyril z Alexandrie"
-    ],
+    "tags": ["křesťanství", "teologie"],
+    "people": ["Svatý Cyril z Alexandrie"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L top"
@@ -103,14 +91,9 @@
     "category": "religion",
     "region": "Efes",
     "importance": 3,
-    "tags": [
-      "křesťanství",
-      "koncil"
-    ],
+    "tags": ["křesťanství", "koncil"],
     "people": [],
-    "places": [
-      "Efes"
-    ],
+    "places": ["Efes"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -122,15 +105,9 @@
     "category": "religion",
     "region": "Chalcedon",
     "importance": 4,
-    "tags": [
-      "křesťanství",
-      "koncil",
-      "christologie"
-    ],
+    "tags": ["křesťanství", "koncil", "christologie"],
     "people": [],
-    "places": [
-      "Chalcedon"
-    ],
+    "places": ["Chalcedon"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -142,18 +119,9 @@
     "category": "war",
     "region": "Evropa",
     "importance": 4,
-    "tags": [
-      "Hunové",
-      "Attila",
-      "Řím",
-      "barbarské vpády"
-    ],
-    "people": [
-      "Attila"
-    ],
-    "places": [
-      "Katalánská pole"
-    ],
+    "tags": ["Hunové", "Attila", "Řím", "barbarské vpády"],
+    "people": ["Attila"],
+    "places": ["Katalánská pole"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -165,19 +133,9 @@
     "category": "religion",
     "region": "Irsko",
     "importance": 4,
-    "tags": [
-      "křesťanství",
-      "mise",
-      "Irsko",
-      "biskupství"
-    ],
-    "people": [
-      "Svatý Patrik"
-    ],
-    "places": [
-      "Irsko",
-      "Kildare"
-    ],
+    "tags": ["křesťanství", "mise", "Irsko", "biskupství"],
+    "people": ["Svatý Patrik"],
+    "places": ["Irsko", "Kildare"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -189,15 +147,22 @@
     "category": "science",
     "region": "Egypt",
     "importance": 2,
-    "tags": [
-      "geografie",
-      "křesťanství",
-      "kosmologie",
-      "Kosmas"
-    ],
-    "people": [
-      "Kosmas Indikopleustés"
-    ],
+    "tags": ["geografie", "křesťanství", "kosmologie", "Kosmas"],
+    "people": ["Kosmas Indikopleustés"],
+    "places": [],
+    "bible_refs": [],
+    "source_page": "XII L top"
+  },
+  {
+    "year": null,
+    "year_end": null,
+    "title": "Význam Církevních otců",
+    "description": "Od latinských a řeckých církevních otců záleží hodně pravdy. Mnoho starších starověkých spisů by bylo nedochovalo. Slouží nám jako nejlepší řešení do minulosti.",
+    "category": "religion",
+    "region": "Evropa",
+    "importance": 3,
+    "tags": ["křesťanství", "teologie", "dějiny"],
+    "people": [],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L top"
@@ -210,18 +175,9 @@
     "category": "religion",
     "region": "Anglie",
     "importance": 4,
-    "tags": [
-      "křesťanství",
-      "misie",
-      "Anglie"
-    ],
-    "people": [
-      "Svatý Augustin"
-    ],
-    "places": [
-      "Anglie",
-      "Řím"
-    ],
+    "tags": ["křesťanství", "misie", "Anglie"],
+    "people": ["Svatý Augustin"],
+    "places": ["Anglie", "Řím"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -233,15 +189,9 @@
     "category": "religion",
     "region": "Konstantinopol",
     "importance": 2,
-    "tags": [
-      "křesťanství"
-    ],
-    "people": [
-      "Svatý Klement"
-    ],
-    "places": [
-      "Konstantinopol"
-    ],
+    "tags": ["křesťanství"],
+    "people": ["Svatý Klement"],
+    "places": ["Konstantinopol"],
     "bible_refs": [],
     "source_page": "XII L top"
   },
@@ -253,11 +203,7 @@
     "category": "culture",
     "region": "Francia",
     "importance": 1,
-    "tags": [
-      "Merovejci",
-      "Francia",
-      "doprava"
-    ],
+    "tags": ["Merovejci", "Francia", "doprava"],
     "people": [],
     "places": [],
     "bible_refs": [],
@@ -272,10 +218,7 @@
     "region": "Skotsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Dongardus",
-      "Fergus"
-    ],
+    "people": ["Dongardus", "Fergus"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -289,12 +232,8 @@
     "region": "Skotsko",
     "importance": 3,
     "tags": [],
-    "people": [
-      "Fergus"
-    ],
-    "places": [
-      "Dal Riada"
-    ],
+    "people": ["Fergus"],
+    "places": ["Dal Riada"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -307,9 +246,7 @@
     "region": "Skotsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Eugenius II"
-    ],
+    "people": ["Eugenius II"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -323,9 +260,7 @@
     "region": "Skotsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Kenneth II"
-    ],
+    "people": ["Kenneth II"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -339,9 +274,7 @@
     "region": "Skotsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Congallus"
-    ],
+    "people": ["Congallus"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -355,9 +288,7 @@
     "region": "Skotsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Goranus"
-    ],
+    "people": ["Goranus"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -371,9 +302,7 @@
     "region": "Skotsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Eugenius"
-    ],
+    "people": ["Eugenius"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -387,9 +316,7 @@
     "region": "Skotsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Aidan"
-    ],
+    "people": ["Aidan"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -402,14 +329,8 @@
     "category": "politics",
     "region": "Británie",
     "importance": 3,
-    "tags": [
-      "Piktové",
-      "Skotové",
-      "Řím"
-    ],
-    "people": [
-      "Vortigern"
-    ],
+    "tags": ["Piktové", "Skotové", "Řím"],
+    "people": ["Vortigern"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -422,14 +343,9 @@
     "category": "war",
     "region": "Anglie",
     "importance": 4,
-    "tags": [
-      "Sasové",
-      "invaze"
-    ],
+    "tags": ["Sasové", "invaze"],
     "people": [],
-    "places": [
-      "Anglie"
-    ],
+    "places": ["Anglie"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -441,14 +357,9 @@
     "category": "politics",
     "region": "Kent",
     "importance": 3,
-    "tags": [
-      "království",
-      "Sasové"
-    ],
+    "tags": ["království", "Sasové"],
     "people": [],
-    "places": [
-      "Kent"
-    ],
+    "places": ["Kent"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -460,14 +371,9 @@
     "category": "politics",
     "region": "Sussex",
     "importance": 3,
-    "tags": [
-      "království",
-      "Sasové"
-    ],
+    "tags": ["království", "Sasové"],
     "people": [],
-    "places": [
-      "Sussex"
-    ],
+    "places": ["Sussex"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -479,14 +385,9 @@
     "category": "politics",
     "region": "Wessex",
     "importance": 3,
-    "tags": [
-      "království",
-      "Sasové"
-    ],
+    "tags": ["království", "Sasové"],
     "people": [],
-    "places": [
-      "Wessex"
-    ],
+    "places": ["Wessex"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -498,14 +399,9 @@
     "category": "politics",
     "region": "Essex",
     "importance": 3,
-    "tags": [
-      "království",
-      "Sasové"
-    ],
+    "tags": ["království", "Sasové"],
     "people": [],
-    "places": [
-      "Essex"
-    ],
+    "places": ["Essex"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -518,9 +414,7 @@
     "region": "Wessex",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Cerdic"
-    ],
+    "people": ["Cerdic"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -534,9 +428,7 @@
     "region": "Wessex",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Kenrik"
-    ],
+    "people": ["Kenrik"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -550,9 +442,7 @@
     "region": "Wessex",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Ceawlin"
-    ],
+    "people": ["Ceawlin"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -565,14 +455,9 @@
     "category": "politics",
     "region": "Anglie",
     "importance": 3,
-    "tags": [
-      "Anglosasové",
-      "království"
-    ],
+    "tags": ["Anglosasové", "království"],
     "people": [],
-    "places": [
-      "Anglie"
-    ],
+    "places": ["Anglie"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -585,9 +470,7 @@
     "region": "Británie",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Aurelius Ambrosius"
-    ],
+    "people": ["Aurelius Ambrosius"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -600,12 +483,8 @@
     "category": "culture",
     "region": "Británie",
     "importance": 4,
-    "tags": [
-      "legenda"
-    ],
-    "people": [
-      "Král Arthur"
-    ],
+    "tags": ["legenda"],
+    "people": ["Král Arthur"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -618,12 +497,8 @@
     "category": "culture",
     "region": "Británie",
     "importance": 2,
-    "tags": [
-      "legenda"
-    ],
-    "people": [
-      "Pendragon"
-    ],
+    "tags": ["legenda"],
+    "people": ["Pendragon"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -636,14 +511,9 @@
     "category": "politics",
     "region": "Deira",
     "importance": 3,
-    "tags": [
-      "království",
-      "Anglosasové"
-    ],
+    "tags": ["království", "Anglosasové"],
     "people": [],
-    "places": [
-      "Deira"
-    ],
+    "places": ["Deira"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -655,14 +525,9 @@
     "category": "politics",
     "region": "Northumbrie",
     "importance": 3,
-    "tags": [
-      "království",
-      "Anglosasové"
-    ],
+    "tags": ["království", "Anglosasové"],
     "people": [],
-    "places": [
-      "Northumbrie"
-    ],
+    "places": ["Northumbrie"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -674,14 +539,9 @@
     "category": "politics",
     "region": "Mercia",
     "importance": 3,
-    "tags": [
-      "království",
-      "Anglosasové"
-    ],
+    "tags": ["království", "Anglosasové"],
     "people": [],
-    "places": [
-      "Mercia"
-    ],
+    "places": ["Mercia"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -693,14 +553,9 @@
     "category": "politics",
     "region": "Eastanglie",
     "importance": 3,
-    "tags": [
-      "království",
-      "Anglosasové"
-    ],
+    "tags": ["království", "Anglosasové"],
     "people": [],
-    "places": [
-      "Eastanglie"
-    ],
+    "places": ["Eastanglie"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -712,15 +567,9 @@
     "category": "politics",
     "region": "Kent",
     "importance": 3,
-    "tags": [
-      "křesťanství"
-    ],
-    "people": [
-      "Ethelbert"
-    ],
-    "places": [
-      "Kent"
-    ],
+    "tags": ["křesťanství"],
+    "people": ["Ethelbert"],
+    "places": ["Kent"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -733,9 +582,7 @@
     "region": "Eastanglie",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Earpwald"
-    ],
+    "people": ["Earpwald"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -748,17 +595,9 @@
     "category": "politics",
     "region": "Anglie",
     "importance": 5,
-    "tags": [
-      "sjednocení",
-      "Anglie",
-      "Anglosasové"
-    ],
-    "people": [
-      "Egbert"
-    ],
-    "places": [
-      "Anglie"
-    ],
+    "tags": ["sjednocení", "Anglie", "Anglosasové"],
+    "people": ["Egbert"],
+    "places": ["Anglie"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -770,15 +609,9 @@
     "category": "politics",
     "region": "Wessex",
     "importance": 5,
-    "tags": [
-      "Vikingové"
-    ],
-    "people": [
-      "Alfréd Veliký"
-    ],
-    "places": [
-      "Anglie"
-    ],
+    "tags": ["Vikingové"],
+    "people": ["Alfréd Veliký"],
+    "places": ["Anglie"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -790,13 +623,9 @@
     "category": "politics",
     "region": "Anglie",
     "importance": 4,
-    "tags": [
-      "království"
-    ],
+    "tags": ["království"],
     "people": [],
-    "places": [
-      "Anglie"
-    ],
+    "places": ["Anglie"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -808,14 +637,9 @@
     "category": "war",
     "region": "Irsko",
     "importance": 3,
-    "tags": [
-      "Vikingové",
-      "invaze"
-    ],
+    "tags": ["Vikingové", "invaze"],
     "people": [],
-    "places": [
-      "Irsko"
-    ],
+    "places": ["Irsko"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -827,15 +651,9 @@
     "category": "politics",
     "region": "Francia",
     "importance": 4,
-    "tags": [
-      "Merovejci"
-    ],
-    "people": [
-      "Chlodvík I."
-    ],
-    "places": [
-      "Francia"
-    ],
+    "tags": ["Merovejci"],
+    "people": ["Chlodvík I."],
+    "places": ["Francia"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -847,12 +665,8 @@
     "category": "politics",
     "region": "Itálie",
     "importance": 3,
-    "tags": [
-      "Ostrogótové"
-    ],
-    "people": [
-      "Theodoric"
-    ],
+    "tags": ["Ostrogótové"],
+    "people": ["Theodoric"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -865,12 +679,8 @@
     "category": "politics",
     "region": "Francia",
     "importance": 2,
-    "tags": [
-      "Merovejci"
-    ],
-    "people": [
-      "Childebert I."
-    ],
+    "tags": ["Merovejci"],
+    "people": ["Childebert I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -883,12 +693,8 @@
     "category": "politics",
     "region": "Francia",
     "importance": 2,
-    "tags": [
-      "Merovejci"
-    ],
-    "people": [
-      "Chilperic I."
-    ],
+    "tags": ["Merovejci"],
+    "people": ["Chilperic I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -901,12 +707,8 @@
     "category": "politics",
     "region": "Francia",
     "importance": 3,
-    "tags": [
-      "Merovejci"
-    ],
-    "people": [
-      "Dagobert I."
-    ],
+    "tags": ["Merovejci"],
+    "people": ["Dagobert I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -919,13 +721,8 @@
     "category": "politics",
     "region": "Střední Evropa",
     "importance": 4,
-    "tags": [
-      "Slované",
-      "říše"
-    ],
-    "people": [
-      "Samo"
-    ],
+    "tags": ["Slované", "říše"],
+    "people": ["Samo"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -938,17 +735,9 @@
     "category": "politics",
     "region": "Francia",
     "importance": 4,
-    "tags": [
-      "Majordom",
-      "Karolínci",
-      "bitva u Poitiers"
-    ],
-    "people": [
-      "Karel Martel"
-    ],
-    "places": [
-      "Poitiers"
-    ],
+    "tags": ["Majordom", "Karolínci", "bitva u Poitiers"],
+    "people": ["Karel Martel"],
+    "places": ["Poitiers"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -960,12 +749,8 @@
     "category": "politics",
     "region": "Francia",
     "importance": 4,
-    "tags": [
-      "Karolínci"
-    ],
-    "people": [
-      "Pipin Krátký"
-    ],
+    "tags": ["Karolínci"],
+    "people": ["Pipin Krátký"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -978,13 +763,8 @@
     "category": "politics",
     "region": "Francia",
     "importance": 5,
-    "tags": [
-      "Karolínci",
-      "Svatá říše římská"
-    ],
-    "people": [
-      "Karel Veliký"
-    ],
+    "tags": ["Karolínci", "Svatá říše římská"],
+    "people": ["Karel Veliký"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -997,13 +777,8 @@
     "category": "politics",
     "region": "Francia",
     "importance": 4,
-    "tags": [
-      "Karolínci",
-      "císař"
-    ],
-    "people": [
-      "Ludvík I. Pobožný"
-    ],
+    "tags": ["Karolínci", "císař"],
+    "people": ["Ludvík I. Pobožný"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1016,15 +791,9 @@
     "category": "politics",
     "region": "Evropa",
     "importance": 5,
-    "tags": [
-      "Karolínci",
-      "rozdělení říše",
-      "smlouva"
-    ],
+    "tags": ["Karolínci", "rozdělení říše", "smlouva"],
     "people": [],
-    "places": [
-      "Verdun"
-    ],
+    "places": ["Verdun"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -1036,13 +805,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 5,
-    "tags": [
-      "Svatá říše římská",
-      "císař"
-    ],
-    "people": [
-      "Otto I."
-    ],
+    "tags": ["Svatá říše římská", "císař"],
+    "people": ["Otto I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1055,13 +819,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 3,
-    "tags": [
-      "Svatá říše římská",
-      "císař"
-    ],
-    "people": [
-      "Otto II."
-    ],
+    "tags": ["Svatá říše římská", "císař"],
+    "people": ["Otto II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1074,13 +833,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 3,
-    "tags": [
-      "Svatá říše římská",
-      "císař"
-    ],
-    "people": [
-      "Heinrich II."
-    ],
+    "tags": ["Svatá říše římská", "císař"],
+    "people": ["Heinrich II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1093,13 +847,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 3,
-    "tags": [
-      "Svatá říše římská",
-      "císař"
-    ],
-    "people": [
-      "Heinrich III."
-    ],
+    "tags": ["Svatá říše římská", "císař"],
+    "people": ["Heinrich III."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1112,13 +861,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 4,
-    "tags": [
-      "Svatá říše římská",
-      "boj o investituru"
-    ],
-    "people": [
-      "Heinrich IV."
-    ],
+    "tags": ["Svatá říše římská", "boj o investituru"],
+    "people": ["Heinrich IV."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1131,13 +875,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 3,
-    "tags": [
-      "Svatá říše římská",
-      "císař"
-    ],
-    "people": [
-      "Heinrich V."
-    ],
+    "tags": ["Svatá říše římská", "císař"],
+    "people": ["Heinrich V."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1150,13 +889,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 4,
-    "tags": [
-      "Štaufové",
-      "Svatá říše římská"
-    ],
-    "people": [
-      "Fridrich I. Barbarossa"
-    ],
+    "tags": ["Štaufové", "Svatá říše římská"],
+    "people": ["Fridrich I. Barbarossa"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1169,13 +903,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 4,
-    "tags": [
-      "Štaufové",
-      "Svatá říše římská"
-    ],
-    "people": [
-      "Fridrich II."
-    ],
+    "tags": ["Štaufové", "Svatá říše římská"],
+    "people": ["Fridrich II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1188,13 +917,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 4,
-    "tags": [
-      "Habsburkové",
-      "Svatá říše římská"
-    ],
-    "people": [
-      "Rudolf I. Habsburský"
-    ],
+    "tags": ["Habsburkové", "Svatá říše římská"],
+    "people": ["Rudolf I. Habsburský"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1207,13 +931,8 @@
     "category": "politics",
     "region": "Německo",
     "importance": 3,
-    "tags": [
-      "Habsburkové",
-      "Svatá říše římská"
-    ],
-    "people": [
-      "Albrecht I."
-    ],
+    "tags": ["Habsburkové", "Svatá říše římská"],
+    "people": ["Albrecht I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1226,16 +945,9 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 4,
-    "tags": [
-      "Piastovci",
-      "křesťanství"
-    ],
-    "people": [
-      "Mieško I."
-    ],
-    "places": [
-      "Polsko"
-    ],
+    "tags": ["Piastovci", "křesťanství"],
+    "people": ["Mieško I."],
+    "places": ["Polsko"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -1247,16 +959,9 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 5,
-    "tags": [
-      "Piastovci",
-      "království"
-    ],
-    "people": [
-      "Boleslav I. Chrabrý"
-    ],
-    "places": [
-      "Polsko"
-    ],
+    "tags": ["Piastovci", "království"],
+    "people": ["Boleslav I. Chrabrý"],
+    "places": ["Polsko"],
     "bible_refs": [],
     "source_page": "XII L timeline"
   },
@@ -1268,12 +973,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Kazimír I."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Kazimír I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1286,12 +987,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Boleslav II."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Boleslav II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1304,12 +1001,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Vladislav I. Herman"
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Vladislav I. Herman"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1322,12 +1015,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 4,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Boleslav III."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Boleslav III."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1340,12 +1029,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Vladislav II."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Vladislav II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1358,12 +1043,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Kazimír II."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Kazimír II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1376,12 +1057,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Lešek I."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Lešek I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1394,12 +1071,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Boleslav V."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Boleslav V."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1412,12 +1085,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Přemysl II."
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Přemysl II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1430,12 +1099,8 @@
     "category": "politics",
     "region": "Polsko",
     "importance": 3,
-    "tags": [
-      "Piastovci"
-    ],
-    "people": [
-      "Vladislav Lokietek"
-    ],
+    "tags": ["Piastovci"],
+    "people": ["Vladislav Lokietek"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1449,9 +1114,7 @@
     "region": "Střední Evropa",
     "importance": 3,
     "tags": [],
-    "people": [
-      "Samo"
-    ],
+    "people": ["Samo"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1464,12 +1127,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 4,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Bořivoj I."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Bořivoj I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1483,9 +1142,7 @@
     "region": "Čechy",
     "importance": 3,
     "tags": [],
-    "people": [
-      "Svatá Ludmila"
-    ],
+    "people": ["Svatá Ludmila"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1498,13 +1155,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 4,
-    "tags": [
-      "Přemyslovci",
-      "křesťanství"
-    ],
-    "people": [
-      "Svatý Václav"
-    ],
+    "tags": ["Přemyslovci", "křesťanství"],
+    "people": ["Svatý Václav"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1517,12 +1169,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 4,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Boleslav I."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Boleslav I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1535,12 +1183,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 3,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Boleslav II."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Boleslav II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1553,12 +1197,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 4,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Břetislav I."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Břetislav I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1571,13 +1211,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 4,
-    "tags": [
-      "Přemyslovci",
-      "království"
-    ],
-    "people": [
-      "Vratislav II."
-    ],
+    "tags": ["Přemyslovci", "království"],
+    "people": ["Vratislav II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1590,12 +1225,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 3,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Břetislav II."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Břetislav II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1608,12 +1239,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 3,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Soběslav I."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Soběslav I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1626,13 +1253,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 3,
-    "tags": [
-      "Přemyslovci",
-      "království"
-    ],
-    "people": [
-      "Vladislav II."
-    ],
+    "tags": ["Přemyslovci", "království"],
+    "people": ["Vladislav II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1645,13 +1267,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 4,
-    "tags": [
-      "Přemyslovci",
-      "království"
-    ],
-    "people": [
-      "Přemysl Otakar I."
-    ],
+    "tags": ["Přemyslovci", "království"],
+    "people": ["Přemysl Otakar I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1664,12 +1281,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 3,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Václav I."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Václav I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1682,13 +1295,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 5,
-    "tags": [
-      "Přemyslovci",
-      "království"
-    ],
-    "people": [
-      "Přemysl Otakar II."
-    ],
+    "tags": ["Přemyslovci", "království"],
+    "people": ["Přemysl Otakar II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1701,12 +1309,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 4,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Václav II."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Václav II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1719,12 +1323,8 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 3,
-    "tags": [
-      "Přemyslovci"
-    ],
-    "people": [
-      "Václav III."
-    ],
+    "tags": ["Přemyslovci"],
+    "people": ["Václav III."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1737,10 +1337,7 @@
     "category": "politics",
     "region": "Čechy",
     "importance": 5,
-    "tags": [
-      "dynastie",
-      "Čechy"
-    ],
+    "tags": ["dynastie", "Čechy"],
     "people": [],
     "places": [],
     "bible_refs": [],
@@ -1754,13 +1351,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 4,
-    "tags": [
-      "Maďaři",
-      "Arpádovci"
-    ],
-    "people": [
-      "Arpád"
-    ],
+    "tags": ["Maďaři", "Arpádovci"],
+    "people": ["Arpád"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1773,13 +1365,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 5,
-    "tags": [
-      "Arpádovci",
-      "křesťanství"
-    ],
-    "people": [
-      "Štěpán I."
-    ],
+    "tags": ["Arpádovci", "křesťanství"],
+    "people": ["Štěpán I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1792,12 +1379,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 4,
-    "tags": [
-      "Arpádovci"
-    ],
-    "people": [
-      "Ladislav I."
-    ],
+    "tags": ["Arpádovci"],
+    "people": ["Ladislav I."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1810,12 +1393,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 3,
-    "tags": [
-      "Arpádovci"
-    ],
-    "people": [
-      "Koloman"
-    ],
+    "tags": ["Arpádovci"],
+    "people": ["Koloman"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1828,12 +1407,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 3,
-    "tags": [
-      "Arpádovci"
-    ],
-    "people": [
-      "Béla III."
-    ],
+    "tags": ["Arpádovci"],
+    "people": ["Béla III."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1846,12 +1421,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 3,
-    "tags": [
-      "Arpádovci"
-    ],
-    "people": [
-      "Ondřej II."
-    ],
+    "tags": ["Arpádovci"],
+    "people": ["Ondřej II."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1864,12 +1435,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 4,
-    "tags": [
-      "Arpádovci"
-    ],
-    "people": [
-      "Béla IV."
-    ],
+    "tags": ["Arpádovci"],
+    "people": ["Béla IV."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1882,12 +1449,8 @@
     "category": "politics",
     "region": "Uhry",
     "importance": 3,
-    "tags": [
-      "Arpádovci"
-    ],
-    "people": [
-      "Ondřej III."
-    ],
+    "tags": ["Arpádovci"],
+    "people": ["Ondřej III."],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
@@ -1901,11 +1464,12 @@
     "region": "Švédsko",
     "importance": 2,
     "tags": [],
-    "people": [
-      "Björn"
-    ],
+    "people": ["Björn"],
     "places": [],
     "bible_refs": [],
     "source_page": "XII L timeline"
-  }
-]
+  },
+  {
+    "year": 970,
+    "year_end": null,
+    "title": "ERIK VI. VÍTĚ
